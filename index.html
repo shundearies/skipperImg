@@ -3,7 +3,7 @@
 <head>
 <meta charset="UTF-8">
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
-<title>Página con Acceso</title>
+<title>PÃ¡gina con Acceso</title>
 
 <style>
 * { margin:0; padding:0; box-sizing:border-box; }
@@ -43,7 +43,7 @@ html, body { height:100%; font-family: Arial, sans-serif; overflow:hidden; }
     background:rgba(0,0,0,0.4);
 }
 
-/* BOTÓN */
+/* BOTÃ“N */
 .search-container button {
     margin-top:15px;
     padding:12px 30px;
@@ -142,12 +142,12 @@ html, body { height:100%; font-family: Arial, sans-serif; overflow:hidden; }
 
 <!-- OFFLINE MESSAGE -->
 <div class="offline-box" id="offlineBox">
-    <h1>Sin conexión</h1>
-    <p>No se puede acceder al contenido.<br>Verifica tu conexión a Internet.</p>
+    <h1>Sin conexiÃ³n</h1>
+    <p>No se puede acceder al contenido.<br>Verifica tu conexiÃ³n a Internet.</p>
 </div>
 
 <script>
-/* ��� BLOQUEO GLOBAL DE ERRORES */
+/* Ÿ”’ BLOQUEO GLOBAL DE ERRORES */
 window.onerror = function () {
     return true; // evita mostrar errores en consola/navegador
 };
@@ -167,25 +167,25 @@ function mostrarError(msg){
     }, 2500);
 }
 
-/* VALIDACIÓN */
+/* VALIDACIÃ“N */
 function verificarClave(){
     const searchBox = document.getElementById('searchBox');
     let val = searchBox.value.trim().toUpperCase();
 
     if(val === 'SKIPPERTV.COM'){
-        // Validar conexión antes de redirigir
+        // Validar conexiÃ³n antes de redirigir
         if(navigator.onLine){
-            window.location.href = 'https://sosanovel.info';
+            window.location.href = 'https://sosanovel.info .page.dev';
         } else {
-            mostrarError('Sin conexión');
+            mostrarError('Sin conexiÃ³n');
         }
     } else {
         searchBox.value = '';
-        mostrarError('Palabra inválida');
+        mostrarError('Palabra invÃ¡lida');
     }
 }
 
-/* ENTER TAMBIÉN FUNCIONA */
+/* ENTER TAMBIÃ‰N FUNCIONA */
 const searchBox = document.getElementById('searchBox');
 searchBox.addEventListener('keydown', function(e){
     if(e.key === 'Enter'){
@@ -218,7 +218,7 @@ function initStars(){
     }
 }
 
-/* ANIMACIÓN */
+/* ANIMACIÃ“N */
 function animateStars(){
     ctx.clearRect(0,0,canvas.width,canvas.height);
     ctx.fillStyle = "white";
