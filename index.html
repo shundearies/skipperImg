@@ -1,0 +1,264 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Página con Acceso</title>
+
+<style>
+* { margin:0; padding:0; box-sizing:border-box; }
+html, body { height:100%; font-family: Arial, sans-serif; overflow:hidden; }
+
+/* VIDEO */
+.video-background {
+    position: fixed; top:0; left:0; width:100%; height:100%;
+    z-index:-1;
+}
+.video-background video {
+    width:100%; height:100%; object-fit:cover;
+}
+
+/* SEARCH */
+.search-container {
+    position:absolute; top:50%; left:50%;
+    transform:translate(-50%,-50%);
+    animation: fadeIn 2s ease;
+    text-align:center;
+}
+.search-container input {
+    padding:15px 25px;
+    width:320px;
+    border-radius:30px;
+    border:2px solid #fff;
+    background:rgba(255,255,255,0.1);
+    color:#fff;
+    font-size:18px;
+    text-align:center;
+    outline:none;
+    transition:0.3s;
+}
+.search-container input:focus {
+    width:360px;
+    border-color:#00ffe0;
+    background:rgba(0,0,0,0.4);
+}
+
+/* BOTÓN */
+.search-container button {
+    margin-top:15px;
+    padding:12px 30px;
+    border-radius:30px;
+    border:none;
+    background:#00ffe0;
+    color:#000;
+    font-size:16px;
+    cursor:pointer;
+    transition:0.3s;
+}
+.search-container button:hover {
+    background:#00cbb5;
+    transform:scale(1.05);
+}
+
+/* MENSAJE ERROR ANIMADO */
+#errorMsg {
+    margin-top:12px;
+    color:#ff4d4d;
+    font-size:14px;
+    opacity:0;
+    transition:opacity 0.5s ease;
+}
+
+#errorMsg.show {
+    opacity:1;
+}
+
+::placeholder { color:#ddd; }
+
+@keyframes fadeIn {
+    from {opacity:0;} to {opacity:1;}
+}
+
+/* OFFLINE CANVAS */
+#offlineCanvas {
+    display:none;
+    position:fixed;
+    top:0; left:0;
+    width:100%; height:100%;
+    background:black;
+    z-index:5;
+}
+
+/* OFFLINE PANEL */
+.offline-box {
+    display:none;
+    position:fixed;
+    top:50%; left:50%;
+    transform:translate(-50%,-50%);
+    background:#0a0a0a;
+    border:2px solid #00ffe0;
+    border-radius:20px;
+    padding:40px;
+    text-align:center;
+    color:white;
+    z-index:10;
+    box-shadow:0 0 25px rgba(0,255,224,0.7);
+    animation: popup 0.5s ease;
+}
+.offline-box h1 {
+    font-size:28px;
+    margin-bottom:15px;
+}
+.offline-box p {
+    color:#bbb;
+}
+
+@keyframes popup {
+    0% {transform:translate(-50%,-60%) scale(0.6); opacity:0;}
+    100% {transform:translate(-50%,-50%) scale(1); opacity:1;}
+}
+</style>
+</head>
+
+<body>
+
+<!-- VIDEO -->
+<div class="video-background">
+    <video autoplay muted loop playsinline>
+        <source src="https://moewalls.com/wp-content/uploads/preview/2023/batman-gotham-city-stormy-night-preview.webm" type="video/webm">
+    </video>
+</div>
+
+<!-- SEARCH -->
+<div class="search-container">
+    <input type="text" id="searchBox" placeholder="Escribe la clave de acceso">
+    <br>
+    <button type="button" onclick="verificarClave()">Aceptar</button>
+    <div id="errorMsg"></div>
+</div>
+
+<!-- OFFLINE ANIMATION -->
+<canvas id="offlineCanvas"></canvas>
+
+<!-- OFFLINE MESSAGE -->
+<div class="offline-box" id="offlineBox">
+    <h1>Sin conexión</h1>
+    <p>No se puede acceder al contenido.<br>Verifica tu conexión a Internet.</p>
+</div>
+
+<script>
+/* ��� BLOQUEO GLOBAL DE ERRORES */
+window.onerror = function () {
+    return true; // evita mostrar errores en consola/navegador
+};
+
+window.addEventListener("unhandledrejection", function (e) {
+    e.preventDefault();
+});
+
+/* MENSAJE CON FADE */
+function mostrarError(msg){
+    const error = document.getElementById('errorMsg');
+    error.textContent = msg;
+    error.classList.add('show');
+
+    setTimeout(()=>{
+        error.classList.remove('show');
+    }, 2500);
+}
+
+/* VALIDACIÓN */
+function verificarClave(){
+    const searchBox = document.getElementById('searchBox');
+    let val = searchBox.value.trim().toUpperCase();
+
+    if(val === 'SKIPPERTV.COM'){
+        // Validar conexión antes de redirigir
+        if(navigator.onLine){
+            window.location.href = 'https://sosanovel.info';
+        } else {
+            mostrarError('Sin conexión');
+        }
+    } else {
+        searchBox.value = '';
+        mostrarError('Palabra inválida');
+    }
+}
+
+/* ENTER TAMBIÉN FUNCIONA */
+const searchBox = document.getElementById('searchBox');
+searchBox.addEventListener('keydown', function(e){
+    if(e.key === 'Enter'){
+        verificarClave();
+    }
+});
+
+/* OFFLINE DETECTION */
+const canvas = document.getElementById('offlineCanvas');
+const ctx = canvas.getContext('2d');
+let stars = [];
+
+function resizeCanvas(){
+    canvas.width = window.innerWidth;
+    canvas.height = window.innerHeight;
+}
+resizeCanvas();
+window.addEventListener('resize', resizeCanvas);
+
+/* CREAR ESTRELLAS */
+function initStars(){
+    stars = [];
+    for(let i=0;i<100;i++){
+        stars.push({
+            x: Math.random()*canvas.width,
+            y: Math.random()*canvas.height,
+            size: Math.random()*2,
+            speed: Math.random()*0.5
+        });
+    }
+}
+
+/* ANIMACIÓN */
+function animateStars(){
+    ctx.clearRect(0,0,canvas.width,canvas.height);
+    ctx.fillStyle = "white";
+    stars.forEach(s=>{
+        ctx.beginPath();
+        ctx.arc(s.x, s.y, s.size, 0, Math.PI*2);
+        ctx.fill();
+
+        s.y += s.speed;
+        if(s.y > canvas.height) s.y = 0;
+    });
+    requestAnimationFrame(animateStars);
+}
+
+/* ESTADO ONLINE/OFFLINE */
+function updateStatus(){
+    const video = document.querySelector('.video-background');
+    const search = document.querySelector('.search-container');
+    const box = document.getElementById('offlineBox');
+
+    if(!navigator.onLine){
+        video.style.display = 'none';
+        search.style.display = 'none';
+        canvas.style.display = 'block';
+        box.style.display = 'block';
+
+        initStars();
+        animateStars();
+    } else {
+        video.style.display = 'block';
+        search.style.display = 'block';
+        canvas.style.display = 'none';
+        box.style.display = 'none';
+    }
+}
+
+window.addEventListener('load', updateStatus);
+window.addEventListener('online', updateStatus);
+window.addEventListener('offline', updateStatus);
+</script>
+
+</body>
+</html>
