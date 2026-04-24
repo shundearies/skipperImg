@@ -15,6 +15,62 @@
       "acceso": "gratis"
     },
     {
+      "id": "premium_gratis",
+      "titulo": "Premium 1",
+      "url": "https://corsproxy.io/?url=https://proxima-ci3.pages.dev/",
+      "icono": "https://raw.githubusercontent.com/shundearies/skipperImg/refs/heads/main/image_5bc06df5%7E2.png",
+      "acceso": "gratis"
+    },
+    {
+      "id": "premium_gratis",
+      "titulo": "Premium 2",
+      "url": "https://corsproxy.io/?url=https://shundearies.github.io/skipperImg/",
+      "icono": "https://raw.githubusercontent.com/shundearies/skipperImg/refs/heads/main/image_5bc06df5%7E2.png",
+      "acceso": "gratis"
+    },
+    {
+      "id": "premium_gratis",
+      "titulo": "Premium 3",
+      "url": "https://corsproxy.io/?url=https://premium3.pages.dev/",
+      "icono": "https://raw.githubusercontent.com/shundearies/skipperImg/refs/heads/main/image_5bc06df5%7E2.png",
+      "acceso": "gratis"
+    },
+    {
+      "id": "premium_gratis",
+      "titulo": "Premium 4",
+      "url": "https://corsproxy.io/?url=https://proxima-ci3.pages.dev/",
+      "icono": "https://raw.githubusercontent.com/shundearies/skipperImg/refs/heads/main/image_5bc06df5%7E2.png",
+      "acceso": "gratis"
+    },
+    {
+      "id": "premium_gratis",
+      "titulo": "Entretenimiento 1",
+      "url": "https://corsproxy.io/?url=https://3d3ddd65.movies1-54b.pages.dev/",
+      "icono": "https://raw.githubusercontent.com/shundearies/skipperImg/refs/heads/main/image_9e1d7cfd%7E2.png",
+      "acceso": "gratis"
+    },
+    {
+      "id": "premium_gratis",
+      "titulo": "Premium 5",
+      "url": "https://corsproxy.io/?url=https://premium5.pages.dev/",
+      "icono": "https://raw.githubusercontent.com/shundearies/skipperImg/refs/heads/main/image_5bc06df5%7E2.png",
+      "acceso": "gratis"
+    },
+    {
+      "id": "premium_gratis",
+      "titulo": "Premium 6",
+      "url": "https://corsproxy.io/?url=https://premium6.pages.dev/",
+      "icono": "https://raw.githubusercontent.com/shundearies/skipperImg/refs/heads/main/image_5bc06df5%7E2.png",
+      "acceso": "gratis"
+    },
+    {
+      "id": "premium_gratis",
+      "titulo": "Premium 7",
+      "url": "https://corsproxy.io/?url=https://proxima-ci3.pages.dev/",
+      "icono": "https://raw.githubusercontent.com/shundearies/skipperImg/refs/heads/main/image_5bc06df5%7E2.png",
+      "acceso": "gratis"
+    },
+    {
       "id": "juego_mosca",
       "titulo": "Juego de la mosca",
       "url": "nativa",
