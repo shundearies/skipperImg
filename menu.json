@@ -24,7 +24,7 @@
     {
       "id": "premium_gratis",
       "titulo": "Premium 2",
-      "url": "https://corsproxy.io/?url=http://astra.fibernetisp.com.co/playlist.m3u",
+      "url": "http://astra.fibernetisp.com.co/playlist.m3u",
       "icono": "https://raw.githubusercontent.com/shundearies/skipperImg/refs/heads/main/image_5bc06df5%7E2.png",
       "acceso": "gratis"
     },
