@@ -1,16 +1,7 @@
 #EXTM3U
 #EXTINF:-1 tvg-logo="https://lge-static.ottera.tv/prod/lge/linear_channel/logo/
 1600x400/lg1_800x200_white_0.png",100 LG 1
-https://stream.ads.ottera.tv/playlist.m3u8?
-network_id=10969&avod=1&coppa=0&td=6&is_lat=[LMT]&dnt=[DNS]&us_privacy=[US_PRIVACY]
-&did=[DEVICE_ID]&ip=[IP]&ua=[UA]&ifa_type=[IFA_TYPE]&app_bundle=[APP_BUNDLE]&app_st
-ore_url=[APP_STOREURL]&app_name=[APP_NAME]&custom_targeting=html5&custom_4=lg_chann
-els_de&player_height=720&player_width=1280&content_channel=lg_channels&content_dist
-_name=lg_channels&device_make=[DEVICE_MAKE]&device_model=[DEVICE_MODEL]&device_os=h
-tml5&consent=[GDPR_CONSENT]&gdpr=[GDPR]&gender=not_specified&yob=0&livestream=1&cus
-tom_param_0=[DEVICE_MODEL]&custom_param_1=tv&custom_param_2=[DEVICE_MAKE]&custom_pa
-ram_3=[DEVICE_ID]&custom_param_4=lg_channels&custom_param_5=html5&fck=[FCK]&viewsiz
-e=[VIEWSIZE]
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=10969&avod=1&coppa=0&td=6&is_lat=[LMT]&dnt=[DNS]&us_privacy=[US_PRIVACY]&did=[DEVICE_ID]&ip=[IP]&ua=[UA]&ifa_type=[IFA_TYPE]&app_bundle=[APP_BUNDLE]&app_store_url=[APP_STOREURL]&app_name=[APP_NAME]&custom_targeting=html5&custom_3=lg_channels_de&player_height=720&player_width=1280&content_channel=lg_channels&content_dist_name=lg_channels&device_make=[DEVICE_MAKE]&device_model=[DEVICE_MODEL]&device_os=html5&consent=[GDPR_CONSENT]&gdpr=[GDPR]&gender=not_specified&yob=0&livestream=1&custom_param_0=[DEVICE_MODEL]&custom_param_1=tv&custom_param_2=[DEVICE_MAKE]&custom_param_3=[DEVICE_ID]&custom_param_4=lg_channels&custom_param_5=html5&fck=[FCK]&viewsize=[VIEWSIZE]
 #EXTINF:-1 tvg-logo="https://lge-static.ottera.tv/prod/lge/linear_channel/logo/
 1600x400/lg1film_epg_white.png",101 LG 1: Film
 https://stream.ads.ottera.tv/playlist.m3u8?
@@ -1298,7 +1289,7 @@ evicemodel=[DEVICE_MODEL]&ads.country=[COUNTRY]&ads.livestream=0&ads.prodq=1&ads
 p_name=[APP_NAME]&ads.app_bundle=[APP_BUNDLE]&ads.app_storeurl=[APP_STOREURL]
 #EXTINF:-1
 tvg-logo="https://image.xumo.com/v1/channels/channel/99982014/600x200.png?
-type=white_cropped",968 GoldStar TV â€“ Alles Schlager
+type=white_cropped",968 GoldStar TV €“ Alles Schlager
 https://d29h829bjuxghm.cloudfront.net/hls/master.m3u8?
 ads.xumo_channelId=99982014&ads.xumo_streamId=99982014&ads.channelId=99982014&ads.c
 sid=lgchannels_DE_mainstreamgoldstargerman_ssai&ads.channelName=mainstreamgoldstarg
