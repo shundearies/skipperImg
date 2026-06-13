@@ -77,8 +77,7 @@ https://d29h829bjuxghm.cloudfront.net/hls/master.m3u8?ads.xumo_channelId=9999216
 https://d29h829bjuxghm.cloudfront.net/hls/master.m3u8?ads.xumo_channelId=99992167&ads.csid=lgchannels_[COUNTRY]_FilmRiseBingeWatchGermany_ssai&ads.content_language=en&ads.content_category=IAB17&ads.content_genre=television&ads.content_rating=&ads.xumo_contentName=FilmRiseBingeWatchGermany&ads.xumo_contentId=2070&ads.did=[IFA]&ads.is_lat=[LMT]&ads.us_privacy=[US_PRIVACY]&ads.coppa=0&ads.gdpr=[GDPR]&ads.gdpr_consent=[GDPR_CONSENT]&ads.devicemake=[DEVICE_MAKE]&ads.appName=[APP_NAME]&ads.app_bundle=[APP_BUNDLE]&ads.app_version=[APP_VERSION]&ads.fck=[FCK]&ads.viewsize=[VIEWSIZE]&ads.givn=[NONCE]&ads.app_storeurl=[APP_STOREURL]&ads.channelId=99992167
 #EXTINF:-1 tvg-logo="https://d2sycgyrdgf5bp.cloudfront.net/LG_Ch_Logo_320x200.png",320 Craction TV
 https://palatinmedia-cractiontv-lg.amagi.tv/hls/amagi_hls_data_palatinmecractiontv-lg/CDN/master.m3u8?ads.deviceid=[DEVICE_ID]&ads.ifa=[IFA]&ads.ifatype=[IFA_TYPE]&ads.lat=[LMT]&ads.donotsell=[DNS]&ads.ua=[UA]&ads.ip=[IP]&ads.gdpr=[GDPR]&ads.gdprconsent=[GDPR_CONSENT]&ads.country=[COUNTRY]&ads.usprivacy=[US_PRIVACY]&ads.appstoreurl=[APP_STOREURL]&ads.bundleid=[APP_BUNDLE]&ads.appname=[APP_NAME]&ads.appversion=[APP_VERSION]&ads.devicetype=[DEVICE_TYPE]&ads.devicemake=[DEVICE_MAKE]&ads.devicemodel=[DEVICE_MODEL]&ads.coppa=0&ads.targetad=[TARGETAD_ALLOWED]&fck=[FCK]&viewsize=[VIEWSIZE]&givn=[NONCE]
-#EXTINF:-1 tvg-logo="https://images-3.rakuten.tv/storage/global-live-channel/
-translation/logo-2-1/7036364c-1dce-4e50-8ff2-9c45fc562d7f-width400height200.png",325 Crime Serien - Rakuten TV
+#EXTINF:-1 tvg-logo="https://images-3.rakuten.tv/storage/global-live-channel/translation/logo-2-1/7036364c-1dce-4e50-8ff2-9c45fc562d7f-width400height200.png",325 Crime Serien - Rakuten TV
 https://b6244e915ee04a5aa758e863a55a6a3d.mediatailor.eu-west-1.amazonaws.com/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6217/master.m3u8
 #EXTINF:-1 tvg-logo="https://d2mxb63djushzm.cloudfront.net/images/Logo_Kultkrimi.jpg",326 KultKrimi
 https://amg01866-mmagfast-amg01866c5-lg-de-8633.playouts.now.amagi.tv/playlist/amg01866-mainstreammediaagfast-kultkrimi-lgde/playlist.m3u8?ads.deviceid=[DEVICE_ID]&ads.ifa=[IFA]&ads.ifatype=[IFA_TYPE]&ads.lat=[LMT]&ads.donotsell=[DNS]&ads.ua=[UA]&ads.ip=[IP]&ads.gdpr=[GDPR]&ads.gdprconsent=[GDPR_CONSENT]&ads.country=[COUNTRY]&ads.usprivacy=[US_PRIVACY]&ads.appstoreurl=[APP_STOREURL]&ads.bundleid=[APP_BUNDLE]&ads.appname=[APP_NAME]&ads.appversion=[APP_VERSION]&ads.devicetype=[DEVICE_TYPE]&ads.devicemake=[DEVICE_MAKE]&ads.devicemodel=[DEVICE_MODEL]&ads.targetad=[TARGETAD_ALLOWED]&ads.fck=[FCK]&ads.viewsize=[VIEWSIZE]&ads.givn=[NONCE]
@@ -86,248 +85,65 @@ https://amg01866-mmagfast-amg01866c5-lg-de-8633.playouts.now.amagi.tv/playlist/a
 https://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/64eddce19001910008df22b8/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=424e55da-1dda-11f0-ab45a30a4ae8334b&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=1626e761-a9fe-491b-a8fcb0150ac1b02e&userId=&serverSideAds=true
 #EXTINF:-1 tvg-logo="https://image.xumo.com/v1/channels/channel/99982002/600x200.png?type=white_cropped",330 Xena Warrior Princess
 https://d1bl6tskrpq9ze.cloudfront.net/hls/master.m3u8?ads.xumo_channelId=99982002&ads.xumo_streamId=99982002&ads.channelId=99982002&ads.ad_tag_id=40080&ads.csid=lgchannels_de_xenawarriorprincess_ssai&ads.channelName=xenawarriorprincess_de&ads.xumo_contentName=xenawarriorprincess&ads.xumo_contentId=3914&ads.xumo_providerName=xenawarriorprincess&ads.xumo_providerId=3914&ads.content_category=IAB17&ads.content_genre=entertainment&ads.content_language=en&ads.content_rating=fsk16&ads.coppa=0&ads.livestream=0&ads.prodq=1&ads.did=[IFA]&ads.lmt=[LMT]&ads.dnt=[DNS]&ads.us_privacy=[US_PRIVACY]&ads.gdpr=[GDPR]&ads.gdpr_consent=[GDPR_CONSENT]&ads.devicemake=[DEVICE_MAKE]&ads.devicemodel=[DEVICE_MODEL]&ads.country=[COUNTRY]&ads.fck=[FCK]&ads.viewsize=[VIEWSIZE]&ads.givn=[NONCE]&ads.app_name=[APP_NAME]&ads.app_bundle=[APP_BUNDLE]&ads.app_storeurl=[APP_STOREURL]
-#EXTINF:-1
-tvg-logo="https://image.xumo.com/v1/channels/channel/99982001/600x200.png?
-type=white_cropped",331 The Bionic Woman
-https://d1bl6tskrpq9ze.cloudfront.net/hls/master.m3u8?
-ads.xumo_channelId=99982001&ads.xumo_streamId=99982001&ads.channelId=99982001&ads.a
-d_tag_id=40081&ads.csid=lgchannels_de_bionicwoman_ssai&ads.channelName=bionicwoman_
-de&ads.xumo_contentName=bionicwoman&ads.xumo_contentId=3914&ads.xumo_providerName=b
-ionicwoman&ads.xumo_providerId=3914&ads.content_category=IAB17&ads.content_genre=entertainment&ads.content_language=en&ads.content_rating=fsk12&ads.coppa=0&ads.livestream=0&ads.prodq=1&ads.did=[IFA]&ads.lmt=[LMT]&ads.dnt=[DN
-S]&ads.us_privacy=[US_PRIVACY]&ads.gdpr=[GDPR]&ads.gdpr_consent=[GDPR_CONSENT]&ads.
-devicemake=[DEVICE_MAKE]&ads.devicemodel=[DEVICE_MODEL]&ads.country=[COUNTRY]&ads.f
-ck=[FCK]&ads.viewsize=[VIEWSIZE]&ads.givn=[NONCE]&ads.app_name=[APP_NAME]&ads.app_b
-undle=[APP_BUNDLE]&ads.app_storeurl=[APP_STOREURL]
-#EXTINF:-1 tvg-logo="https://dki01q1l7yn3y.cloudfront.net/thumbnails-platformprod/assets/cs::content::channels/0-2048/1886-LG-Logo-PNG-100x100_v2.png",332 ARD
-Plus LindenstraÃe
-https://efcb3aae.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/
-TEctZGVfQVJEUGx1c0xpbmRlbnN0cmHDn2VfSExT/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://dki01q1l7yn3y.cloudfront.net/thumbnails-platformprod/assets/cs::content::channels/0-2048/1902-LG-Logo-PNG-100x100_v2.png",333 ARD
-Plus Krimi
-https://5dc2cc89.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/
-TEctZGVfQVJEUGx1c0tyaW1pX0hMUw/playlist.m3u8
-#EXTINF:-1
-tvg-logo="https://image.xumo.com/v1/channels/channel/99982005/600x200.png?
-type=white_cropped",334 Ironside
-https://d1bl6tskrpq9ze.cloudfront.net/hls/master.m3u8?
-ads.xumo_channelId=99982005&ads.xumo_streamId=99982005&ads.channelId=99982005&ads.a
-d_tag_id=40083&ads.csid=lgchannels_de_ironside_ssai&ads.channelName=ironside_de&ads
-.xumo_contentName=ironside&ads.xumo_contentId=3914&ads.xumo_providerName=ironside&a
-ds.xumo_providerId=3914&ads.content_category=IAB17&ads.content_genre=entertainment&ads.content_language=en&ads.content_rating=fsk12&ads.coppa=0&ads.livestream=0&ads.prodq=1&ads.did=[IFA]&ads.lmt=[LMT]&ads.dnt=[DN
-S]&ads.us_privacy=[US_PRIVACY]&ads.gdpr=[GDPR]&ads.gdpr_consent=[GDPR_CONSENT]&ads.
-devicemake=[DEVICE_MAKE]&ads.devicemodel=[DEVICE_MODEL]&ads.country=[COUNTRY]&ads.f
-ck=[FCK]&ads.viewsize=[VIEWSIZE]&ads.givn=[NONCE]&ads.app_name=[APP_NAME]&ads.app_b
-undle=[APP_BUNDLE]&ads.app_storeurl=[APP_STOREURL]
-#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/66a244d5cd0d3100083b1e47/
-logo.png?w=380&h=110&trim=auto&trim-sd=10&trim-md=0&fit=clip&fm=png",335 Eine
-himmlische Familie
-https://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/
-66a244d5cd0d3100083b1e47/master.m3u8?
-advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersi
-on=&clientTime=0&deviceDNT=0&deviceId=424e55da-1dda-11f0-ab45a30a4ae8334b&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown
-&includeExtendedEvents=false&sid=1626e761-a9fe-491b-a8fcb0150ac1b02e&userId=&serverSideAds=true
-#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/6152ee71bf99590007893a11/
-logo.png?w=380&h=110&trim=auto&trim-sd=10&trim-md=0&fit=clip&fm=png",337 Pluto TV
-Star Trek
-https://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/
-6152ee71bf99590007893a11/master.m3u8?
-advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersi
-on=&clientTime=0&deviceDNT=0&deviceId=424e55da-1dda-11f0-ab45a30a4ae8334b&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown
-&includeExtendedEvents=false&sid=1626e761-a9fe-491b-a8fc-
-
-b0150ac1b02e&userId=&serverSideAds=true
+#EXTINF:-1 tvg-logo="https://image.xumo.com/v1/channels/channel/99982001/600x200.png?type=white_cropped",331 The Bionic Woman
+https://d1bl6tskrpq9ze.cloudfront.net/hls/master.m3u8?ads.xumo_channelId=99982001&ads.xumo_streamId=99982001&ads.channelId=99982001&ads.ad_tag_id=40081&ads.csid=lgchannels_de_bionicwoman_ssai&ads.channelName=bionicwoman_de&ads.xumo_contentName=bionicwoman&ads.xumo_contentId=3914&ads.xumo_providerName=bionicwoman&ads.xumo_providerId=3914&ads.content_category=IAB17&ads.content_genre=entertainment&ads.content_language=en&ads.content_rating=fsk12&ads.coppa=0&ads.livestream=0&ads.prodq=1&ads.did=[IFA]&ads.lmt=[LMT]&ads.dnt=[DNS]&ads.us_privacy=[US_PRIVACY]&ads.gdpr=[GDPR]&ads.gdpr_consent=[GDPR_CONSENT]&ads.devicemake=[DEVICE_MAKE]&ads.devicemodel=[DEVICE_MODEL]&ads.country=[COUNTRY]&ads.fck=[FCK]&ads.viewsize=[VIEWSIZE]&ads.givn=[NONCE]&ads.app_name=[APP_NAME]&ads.app_bundle=[APP_BUNDLE]&ads.app_storeurl=[APP_STOREURL]
+#EXTINF:-1 tvg-logo="https://dki01q1l7yn3y.cloudfront.net/thumbnails-platformprod/assets/cs::content::channels/0-2048/1886-LG-Logo-PNG-100x100_v2.png",332 ARD Plus LindenstraÃe
+https://efcb3aae.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/TEctZGVfQVJEUGx1c0xpbmRlbnN0cmHDn2VfSExT/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://dki01q1l7yn3y.cloudfront.net/thumbnails-platformprod/assets/cs::content::channels/0-2048/1902-LG-Logo-PNG-100x100_v2.png",333 ARD Plus Krimi
+https://5dc2cc89.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/TEctZGVfQVJEUGx1c0tyaW1pX0hMUw/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://image.xumo.com/v1/channels/channel/99982005/600x200.png?type=white_cropped",334 Ironside
+https://d1bl6tskrpq9ze.cloudfront.net/hls/master.m3u8?ads.xumo_channelId=99982005&ads.xumo_streamId=99982005&ads.channelId=99982005&ads.ad_tag_id=40083&ads.csid=lgchannels_de_ironside_ssai&ads.channelName=ironside_de&ads.xumo_contentName=ironside&ads.xumo_contentId=3914&ads.xumo_providerName=ironside&ads.xumo_providerId=3914&ads.content_category=IAB17&ads.content_genre=entertainment&ads.content_language=en&ads.content_rating=fsk12&ads.coppa=0&ads.livestream=0&ads.prodq=1&ads.did=[IFA]&ads.lmt=[LMT]&ads.dnt=[DNS]&ads.us_privacy=[US_PRIVACY]&ads.gdpr=[GDPR]&ads.gdpr_consent=[GDPR_CONSENT]&ads.devicemake=[DEVICE_MAKE]&ads.devicemodel=[DEVICE_MODEL]&ads.country=[COUNTRY]&ads.fck=[FCK]&ads.viewsize=[VIEWSIZE]&ads.givn=[NONCE]&ads.app_name=[APP_NAME]&ads.app_bundle=[APP_BUNDLE]&ads.app_storeurl=[APP_STOREURL]
+#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/66a244d5cd0d3100083b1e47/logo.png?w=380&h=110&trim=auto&trim-sd=10&trim-md=0&fit=clip&fm=png",335 Eine himmlische Familie
+https://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/66a244d5cd0d3100083b1e47/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=424e55da-1dda-11f0-ab45a30a4ae8334b&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=1626e761-a9fe-491b-a8fcb0150ac1b02e&userId=&serverSideAds=true
+#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/6152ee71bf99590007893a11/logo.png?w=380&h=110&trim=auto&trim-sd=10&trim-md=0&fit=clip&fm=png",337 Pluto TV Star Trek
+https://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/6152ee71bf99590007893a11/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=424e55da-1dda-11f0-ab45a30a4ae8334b&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=1626e761-a9fe-491b-a8fc-b0150ac1b02e&userId=&serverSideAds=true
 #EXTINF:-1 tvg-logo="https://d2yv6y0n3qsl5c.cloudfront.net/SPMI5/MI5LG_LOGO_800x200.png",340 Spooks (MI-5)
-https://amg00627-banijay-amg00627c46-lg-de-8033.playouts.now.amagi.tv/playlist/
-amg00627-banijayfast-spooksmi5ger-lgde/playlist.m3u8?
-ads.deviceid=[DEVICE_ID]&ads.ifa=[IFA]&ads.ifatype=[IFA_TYPE]&ads.lat=[LMT]&ads.don
-otsell=[DNS]&ads.ua=[UA]&ads.ip=[IP]&ads.gdpr=[GDPR]&ads.gdprconsent=[GDPR_CONSENT]
-&ads.country=[COUNTRY]&ads.usprivacy=[US_PRIVACY]&ads.appstoreurl=[APP_STOREURL]&ad
-s.bundleid=[APP_BUNDLE]&ads.appname=[APP_NAME]&ads.appversion=[APP_VERSION]&ads.dev
-icetype=[DEVICE_TYPE]&ads.devicemake=[DEVICE_MAKE]&ads.devicemodel=[DEVICE_MODEL]&a
+https://amg00627-banijay-amg00627c46-lg-de-8033.playouts.now.amagi.tv/playlist/amg00627-banijayfast-spooksmi5ger-lgde/playlist.m3u8?ads.deviceid=[DEVICE_ID]&ads.ifa=[IFA]&ads.ifatype=[IFA_TYPE]&ads.lat=[LMT]&ads.donotsell=[DNS]&ads.ua=[UA]&ads.ip=[IP]&ads.gdpr=[GDPR]&ads.gdprconsent=[GDPR_CONSENT]&ads.country=[COUNTRY]&ads.usprivacy=[US_PRIVACY]&ads.appstoreurl=[APP_STOREURL]&ads.bundleid=[APP_BUNDLE]&ads.appname=[APP_NAME]&ads.appversion=[APP_VERSION]&ads.devicetype=[DEVICE_TYPE]&ads.devicemake=[DEVICE_MAKE]&ads.devicemodel=[DEVICE_MODEL]&a
 ds.targetad=[TARGETAD_ALLOWED]]&fck=[FCK]&viewsize=[VIEWSIZE]
-#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/65dde626ec9fda0008b3dc89/
-logo.png?w=380&h=110&trim=auto&trim-sd=10&trim-md=0&fit=clip&fm=png",345 KultKrimi:
-Der Kommissar
-https://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/
-65dde626ec9fda0008b3dc89/master.m3u8?
-advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersi
-on=&clientTime=0&deviceDNT=0&deviceId=424e55da-1dda-11f0-ab45a30a4ae8334b&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown
-&includeExtendedEvents=false&sid=1626e761-a9fe-491b-a8fcb0150ac1b02e&userId=&serverSideAds=true
-#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/65dde5848145cb00083277f6/
-logo.png?w=380&h=110&trim=auto&trim-sd=10&trim-md=0&fit=clip&fm=png",346 KultKrimi:
-Derrick
-https://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/
-65dde5848145cb00083277f6/master.m3u8?
-advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersi
-on=&clientTime=0&deviceDNT=0&deviceId=424e55da-1dda-11f0-ab45a30a4ae8334b&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown
-&includeExtendedEvents=false&sid=1626e761-a9fe-491b-a8fcb0150ac1b02e&userId=&serverSideAds=true
-#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/622f6faf65be650007f57aab/
-logo.png?w=380&h=110&trim=auto&trim-sd=10&trim-md=0&fit=clip&fm=png",395
-Hausmeister Krause
-https://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/
-622f6faf65be650007f57aab/master.m3u8?
-advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersi
-on=&clientTime=0&deviceDNT=0&deviceId=424e55da-1dda-11f0-ab45a30a4ae8334b&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown
-&includeExtendedEvents=false&sid=1626e761-a9fe-491b-a8fcb0150ac1b02e&userId=&serverSideAds=true
-#EXTINF:-1
-tvg-logo="https://lge-static.ottera.tv/prod/ccm/linear_channel/thumbnails/poster/
-280x400/logo-new_cocoa.png",399 Merhaba TÃ¼rkische Serien
-https://stream.ads.ottera.tv/playlist.m3u8?
-network_id=12105&avod=1&coppa=0&td=6&is_lat=[LMT]&dnt=[DNS]&us_privacy=[US_PRIVACY]
-&did=[DEVICE_ID]&ip=[IP]&ua=[UA]&ifa_type=[IFA_TYPE]&app_bundle=[APP_BUNDLE]&app_st
-ore_url=[APP_STOREURL]&app_name=[APP_NAME]&custom_targeting=html5&custom_4=lg_chann
-els_de&player_height=720&player_width=1280&content_channel=lg_channels&content_dist
-_name=lg_channels&device_make=[DEVICE_MAKE]&device_model=[DEVICE_MODEL]&device_os=h
-tml5&consent=[GDPR_CONSENT]&gdpr=[GDPR]&gender=not_specified&yob=0&livestream=1&cus
-tom_param_0=[DEVICE_MODEL]&custom_param_1=tv&custom_param_2=[DEVICE_MAKE]&custom_pa
-ram_3=[DEVICE_ID]&custom_param_4=lg_channels&custom_param_5=html5&fck=[FCK]&viewsiz
-e=[VIEWSIZE]
-#EXTINF:-1
-tvg-logo="https://d2mxb63djushzm.cloudfront.net/images/LogoTelenovela_1.jpg",400
-Telenovela ZDF
-https://amg01866-mmagfast-amg01866c6-lg-de-8630.playouts.now.amagi.tv/playlist/
-amg01866-mainstreammediaagfast-telenovelazdf-lgde/playlist.m3u8?
-
-ads.deviceid=[DEVICE_ID]&ads.ifa=[IFA]&ads.ifatype=[IFA_TYPE]&ads.lat=[LMT]&ads.don
-otsell=[DNS]&ads.ua=[UA]&ads.ip=[IP]&ads.gdpr=[GDPR]&ads.gdprconsent=[GDPR_CONSENT]
-&ads.country=[COUNTRY]&ads.usprivacy=[US_PRIVACY]&ads.appstoreurl=[APP_STOREURL]&ad
-s.bundleid=[APP_BUNDLE]&ads.appname=[APP_NAME]&ads.appversion=[APP_VERSION]&ads.dev
-icetype=[DEVICE_TYPE]&ads.devicemake=[DEVICE_MAKE]&ads.devicemodel=[DEVICE_MODEL]&a
-ds.targetad=[TARGETAD_ALLOWED]&ads.fck=[FCK]&ads.viewsize=[VIEWSIZE]&ads.givn=[NONC
-E]
-#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/638f2983dcd9100008c2374d/
-logo.png?w=380&h=110&trim=auto&trim-sd=10&trim-md=0&fit=clip&fm=png",401 Rawhide Tausend Meilen Staub
-https://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/
-638f2983dcd9100008c2374d/master.m3u8?
-advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersi
-on=&clientTime=0&deviceDNT=0&deviceId=424e55da-1dda-11f0-ab45a30a4ae8334b&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown
-&includeExtendedEvents=false&sid=1626e761-a9fe-491b-a8fcb0150ac1b02e&userId=&serverSideAds=true
-#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/638f2bc7bc363100072f02dd/
-logo.png?w=380&h=110&trim=auto&trim-sd=10&trim-md=0&fit=clip&fm=png",402 Rauchende
-Colts
-https://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/
-638f2bc7bc363100072f02dd/master.m3u8?
-advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersi
-on=&clientTime=0&deviceDNT=0&deviceId=424e55da-1dda-11f0-ab45a30a4ae8334b&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown
-&includeExtendedEvents=false&sid=1626e761-a9fe-491b-a8fcb0150ac1b02e&userId=&serverSideAds=true
-#EXTINF:-1 tvg-logo="https://dki01q1l7yn3y.cloudfront.net/thumbnails-platformprod/assets/cs::content::channels/0-2048/2044-LG-Logo-PNG-100x100_v1.png",404
-Horror-Comedy
-https://a8b7506379d34db3bef7f6fab753a9a1.mediatailor.us-east-1.amazonaws.com/v1/
-master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/LG-de_HorrorComedy/playlist.m3u8
-#EXTINF:-1
-tvg-logo="https://d2mxb63djushzm.cloudfront.net/images/topgear_400x200.png",405 Top
-Gear
-https://amg00793-amg00793c44-lg-de-7735.playouts.now.amagi.tv/playlist/amg00793bbcstudios-topgeargermany-lgde/playlist.m3u8?
-ads.deviceid=[DEVICE_ID]&ads.ifa=[IFA]&ads.ifatype=[IFA_TYPE]&ads.lat=[LMT]&ads.don
-otsell=[DNS]&ads.ua=[UA]&ads.ip=[IP]&ads.gdpr=[GDPR]&ads.gdprconsent=[GDPR_CONSENT]
-&ads.country=[COUNTRY]&ads.usprivacy=[US_PRIVACY]&ads.appstoreurl=[APP_STOREURL]&ad
-s.bundleid=[APP_BUNDLE]&ads.appname=[APP_NAME]&ads.appversion=[APP_VERSION]&ads.dev
-icetype=[DEVICE_TYPE]&ads.devicemake=[DEVICE_MAKE]&ads.devicemodel=[DEVICE_MODEL]&a
-ds.targetad=[TARGETAD_ALLOWED]&ads.fck=[FCK]&ads.viewsize=[VIEWSIZE]
-#EXTINF:-1 tvg-logo="https://lge-static.ottera.tv/prod/mvg/linear_channel/logo/
-711x400/mv_logo_deutsch_1920x1080.png",406 Motorvision TV
-https://stream.ads.ottera.tv/playlist.m3u8?
-network_id=15500&avod=1&coppa=0&td=6&is_lat=[LMT]&dnt=[DNS]&us_privacy=[US_PRIVACY]
-&did=[DEVICE_ID]&ip=[IP]&ua=[UA]&ifa_type=[IFA_TYPE]&app_bundle=[APP_BUNDLE]&app_st
-ore_url=[APP_STOREURL]&app_name=[APP_NAME]&custom_targeting=html5&custom_4=lg_chann
-els_de&player_height=720&player_width=1280&content_channel=lg_channels&content_dist
-_name=lg_channels&device_make=[DEVICE_MAKE]&device_model=[DEVICE_MODEL]&device_os=h
-tml5&consent=[GDPR_CONSENT]&gdpr=[GDPR]&gender=not_specified&yob=0&livestream=1&cus
-tom_param_0=[DEVICE_MODEL]&custom_param_1=tv&custom_param_2=[DEVICE_MAKE]&custom_pa
-ram_3=[DEVICE_ID]&custom_param_4=lg_channels&custom_param_5=html5&fck=[FCK]&viewsiz
-e=[VIEWSIZE]
-#EXTINF:-1 tvg-logo="https://lge-static.ottera.tv/prod/mvg/linear_channel/logo/
-711x400/mv_logo_classic_1920x1080.png",407 Motorvision Classic
-https://stream.ads.ottera.tv/playlist.m3u8?
-network_id=15501&avod=1&coppa=0&td=6&is_lat=[LMT]&dnt=[DNS]&us_privacy=[US_PRIVACY]
-
-&did=[DEVICE_ID]&ip=[IP]&ua=[UA]&ifa_type=[IFA_TYPE]&app_bundle=[APP_BUNDLE]&app_st
-ore_url=[APP_STOREURL]&app_name=[APP_NAME]&custom_targeting=html5&custom_4=lg_chann
-els_de&player_height=720&player_width=1280&content_channel=lg_channels&content_dist
-_name=lg_channels&device_make=[DEVICE_MAKE]&device_model=[DEVICE_MODEL]&device_os=h
-tml5&consent=[GDPR_CONSENT]&gdpr=[GDPR]&gender=not_specified&yob=0&livestream=1&cus
-tom_param_0=[DEVICE_MODEL]&custom_param_1=tv&custom_param_2=[DEVICE_MAKE]&custom_pa
-ram_3=[DEVICE_ID]&custom_param_4=lg_channels&custom_param_5=html5&fck=[FCK]&viewsiz
-e=[VIEWSIZE]
-#EXTINF:-1
-tvg-logo="https://d2yv6y0n3qsl5c.cloudfront.net/COASH/ComedyShow_LOGO_100x100.png",
-410 Comedy and Shows
-https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00627-banijaygroup-comedyandshowslgde/playlist.m3u8?
-ads.deviceid=[DEVICE_ID]&ads.ifa=[IFA]&ads.ifatype=[IFA_TYPE]&ads.lat=[LMT]&ads.don
-otsell=[DNS]&ads.ua=[UA]&ads.ip=[IP]&ads.gdpr=[GDPR]&ads.gdprconsent=[GDPR_CONSENT]
-&ads.country=[COUNTRY]&ads.usprivacy=[US_PRIVACY]&ads.appstoreurl=[APP_STOREURL]&ad
-s.bundleid=[APP_BUNDLE]&ads.appname=[APP_NAME]&ads.appversion=[APP_VERSION]&ads.dev
-icetype=[DEVICE_TYPE]&ads.devicemake=[DEVICE_MAKE]&ads.devicemodel=[DEVICE_MODEL]&a
-ds.targetad=[TARGETAD_ALLOWED]
-#EXTINF:-1 tvg-logo="https://dki01q1l7yn3y.cloudfront.net/thumbnails-platformprod/assets/cs::content::channels/0-2048/2015-LG-Logo-PNG-100x100_v1.png",411
-Ladykracher powered by myspass
-https://da887dc8.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/
-TEctZGVfTGFkeWtyYWNoZXJfSExT/playlist.m3u8
-#EXTINF:-1
-tvg-logo="https://image.xumo.com/v1/channels/channel/99992164/600x200.png?
-type=white_cropped",412 Ist doch Nur Spass Gags
-https://d29h829bjuxghm.cloudfront.net/hls/master.m3u8?
-ads.xumo_channelId=99992164&ads.xumo_streamId=99992164&ads.channelId=99992164&ads.c
-sid=lgchannels_de_justforlaughsgagsgerman_ssai&ads.channelName=justforlaughsgagsger
-man_de&ads.xumo_contentName=JustForLaughsGagsGerman&ads.xumo_contentId=2058&ads.xum
-o_providerName=JustForLaughsGagsGerman&ads.xumo_providerId=2058&ads.content_categor
-y=IAB17&ads.content_genre=television&ads.content_language=en&ads.content_rating=TVPG&ads.coppa=0&ads.did=[IFA]&ads.is_lat=[LMT]&ads.us_privacy=[US_PRIVACY]&ads.gdpr=
-[GDPR]&ads.gdpr_consent=[GDPR_CONSENT]&ads.devicemake=[DEVICE_MAKE]&ads.appName=[AP
-P_NAME]&ads.app_bundle=[APP_BUNDLE]&ads.app_version=[APP_VERSION]&ads.fck=[FCK]&ads
-.viewsize=[VIEWSIZE]&ads.givn=[NONCE]&ads.app_storeurl=[APP_STOREURL]
-#EXTINF:-1 tvg-logo="https://images-2.rakuten.tv/storage/global-live-channel/
-translation/logo-2-1/0f3dbf2f-04db-4035-9ee3-1bfa886ec0fb-width400height200.png",414 Freitag Nacht News
-https://freitag-nacht-news-0765b77e-9244-47e4-8dcb-e8bc069b871dde.fast.rakuten.tv/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/productionLiveChannel-6434/master.m3u8?ads.app_bundle=[APP_BUNDLE]&ads.app_name=LG%20Channel
-%20Plus&ads.app_store_url=[APP_STOREURL]&ads.app_version=[APP_VERSION]&ads.brand_na
-me=[DEVICE_MAKE]&ads.device_lmt=[LMT]&ads.device_model=[DEVICE_MODEL]&ads.did=[IFA]
-&ads.fck=[FCK]&ads.gdpr_consent=[GDPR_CONSENT]&ads.ifa_type=[IFA_TYPE]&ads.market=d
-e&ads.platform=lg_channelplus&ads.pod_type=playerpage_midroll&ads.rtv_channel_name=
-freitag-nacht-news-0765b77e-9244-47e4-8dcbe8bc069b871d_de&ads.rtv_content_id=6434&ads.rtv_language=deu&ads.viewsize=[VIEWSIZE
-]&channel_id=6434&disable_subtitles=true&publishing_platform_id=2
-#EXTINF:-1 tvg-logo="https://dki01q1l7yn3y.cloudfront.net/thumbnails-platformprod/assets/cs::content::channels/0-2048/1547-LG-Logo-PNG-100x100_v1.png",419 Zee
-One
-https://47a9fca9f4184dcbb9fe826e8465a9b9.mediatailor.us-east-1.amazonaws.com/v1/
-master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/LG-de_ZeeOne/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/65dde626ec9fda0008b3dc89/logo.png?w=380&h=110&trim=auto&trim-sd=10&trim-md=0&fit=clip&fm=png",345 KultKrimi: Der Kommissar
+https://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/65dde626ec9fda0008b3dc89/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=424e55da-1dda-11f0-ab45a30a4ae8334b&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=1626e761-a9fe-491b-a8fcb0150ac1b02e&userId=&serverSideAds=true
+#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/65dde5848145cb00083277f6/logo.png?w=380&h=110&trim=auto&trim-sd=10&trim-md=0&fit=clip&fm=png",346 KultKrimi: Derrick
+https://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/65dde5848145cb00083277f6/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=424e55da-1dda-11f0-ab45a30a4ae8334b&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=1626e761-a9fe-491b-a8fcb0150ac1b02e&userId=&serverSideAds=true
+#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/622f6faf65be650007f57aab/logo.png?w=380&h=110&trim=auto&trim-sd=10&trim-md=0&fit=clip&fm=png",395 Hausmeister Krause
+https://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/622f6faf65be650007f57aab/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=424e55da-1dda-11f0-ab45a30a4ae8334b&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=1626e761-a9fe-491b-a8fcb0150ac1b02e&userId=&serverSideAds=true
+#EXTINF:-1 tvg-logo="https://lge-static.ottera.tv/prod/ccm/linear_channel/thumbnails/poster/280x400/logo-new_cocoa.png",399 Merhaba TÃ¼rkische Serien
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=12105&avod=1&coppa=0&td=6&is_lat=[LMT]&dnt=[DNS]&us_privacy=[US_PRIVACY]&did=[DEVICE_ID]&ip=[IP]&ua=[UA]&ifa_type=[IFA_TYPE]&app_bundle=[APP_BUNDLE]&app_store_url=[APP_STOREURL]&app_name=[APP_NAME]&custom_targeting=html5&custom_4=lg_channels_de&player_height=720&player_width=1280&content_channel=lg_channels&content_dist_name=lg_channels&device_make=[DEVICE_MAKE]&device_model=[DEVICE_MODEL]&device_os=html5&consent=[GDPR_CONSENT]&gdpr=[GDPR]&gender=not_specified&yob=0&livestream=1&custom_param_0=[DEVICE_MODEL]&custom_param_1=tv&custom_param_2=[DEVICE_MAKE]&custom_param_3=[DEVICE_ID]&custom_param_4=lg_channels&custom_param_5=html5&fck=[FCK]&viewsize=[VIEWSIZE]
+#EXTINF:-1 tvg-logo="https://d2mxb63djushzm.cloudfront.net/images/LogoTelenovela_1.jpg",400 Telenovela ZDF
+https://amg01866-mmagfast-amg01866c6-lg-de-8630.playouts.now.amagi.tv/playlist/amg01866-mainstreammediaagfast-telenovelazdf-lgde/playlist.m3u8?ads.deviceid=[DEVICE_ID]&ads.ifa=[IFA]&ads.ifatype=[IFA_TYPE]&ads.lat=[LMT]&ads.donotsell=[DNS]&ads.ua=[UA]&ads.ip=[IP]&ads.gdpr=[GDPR]&ads.gdprconsent=[GDPR_CONSENT]&ads.country=[COUNTRY]&ads.usprivacy=[US_PRIVACY]&ads.appstoreurl=[APP_STOREURL]&ads.bundleid=[APP_BUNDLE]&ads.appname=[APP_NAME]&ads.appversion=[APP_VERSION]&ads.devicetype=[DEVICE_TYPE]&ads.devicemake=[DEVICE_MAKE]&ads.devicemodel=[DEVICE_MODEL]&ads.targetad=[TARGETAD_ALLOWED]&ads.fck=[FCK]&ads.viewsize=[VIEWSIZE]&ads.givn=[NONCE]
+#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/638f2983dcd9100008c2374d/logo.png?w=380&h=110&trim=auto&trim-sd=10&trim-md=0&fit=clip&fm=png",401 Rawhide Tausend Meilen Staub
+https://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/638f2983dcd9100008c2374d/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=424e55da-1dda-11f0-ab45a30a4ae8334b&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=1626e761-a9fe-491b-a8fcb0150ac1b02e&userId=&serverSideAds=true
+#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/638f2bc7bc363100072f02dd/logo.png?w=380&h=110&trim=auto&trim-sd=10&trim-md=0&fit=clip&fm=png",402 Rauchende Colts
+https://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/638f2bc7bc363100072f02dd/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=424e55da-1dda-11f0-ab45a30a4ae8334b&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=1626e761-a9fe-491b-a8fcb0150ac1b02e&userId=&serverSideAds=true
+#EXTINF:-1 tvg-logo="https://dki01q1l7yn3y.cloudfront.net/thumbnails-platformprod/assets/cs::content::channels/0-2048/2044-LG-Logo-PNG-100x100_v1.png",404 Horror-Comedy
+https://a8b7506379d34db3bef7f6fab753a9a1.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/LG-de_HorrorComedy/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://d2mxb63djushzm.cloudfront.net/images/topgear_400x200.png",405 Top Gear
+https://amg00793-amg00793c44-lg-de-7735.playouts.now.amagi.tv/playlist/amg00793bbcstudios-topgeargermany-lgde/playlist.m3u8?ads.deviceid=[DEVICE_ID]&ads.ifa=[IFA]&ads.ifatype=[IFA_TYPE]&ads.lat=[LMT]&ads.donotsell=[DNS]&ads.ua=[UA]&ads.ip=[IP]&ads.gdpr=[GDPR]&ads.gdprconsent=[GDPR_CONSENT]&ads.country=[COUNTRY]&ads.usprivacy=[US_PRIVACY]&ads.appstoreurl=[APP_STOREURL]&ads.bundleid=[APP_BUNDLE]&ads.appname=[APP_NAME]&ads.appversion=[APP_VERSION]&ads.devicetype=[DEVICE_TYPE]&ads.devicemake=[DEVICE_MAKE]&ads.devicemodel=[DEVICE_MODEL]&ads.targetad=[TARGETAD_ALLOWED]&ads.fck=[FCK]&ads.viewsize=[VIEWSIZE]
+#EXTINF:-1 tvg-logo="https://lge-static.ottera.tv/prod/mvg/linear_channel/logo/711x400/mv_logo_deutsch_1920x1080.png",406 Motorvision TV
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=15500&avod=1&coppa=0&td=6&is_lat=[LMT]&dnt=[DNS]&us_privacy=[US_PRIVACY]&did=[DEVICE_ID]&ip=[IP]&ua=[UA]&ifa_type=[IFA_TYPE]&app_bundle=[APP_BUNDLE]&app_store_url=[APP_STOREURL]&app_name=[APP_NAME]&custom_targeting=html5&custom_4=lg_channels_de&player_height=720&player_width=1280&content_channel=lg_channels&content_dist_name=lg_channels&device_make=[DEVICE_MAKE]&device_model=[DEVICE_MODEL]&device_os=html5&consent=[GDPR_CONSENT]&gdpr=[GDPR]&gender=not_specified&yob=0&livestream=1&custom_param_0=[DEVICE_MODEL]&custom_param_1=tv&custom_param_2=[DEVICE_MAKE]&custom_param_3=[DEVICE_ID]&custom_param_4=lg_channels&custom_param_5=html5&fck=[FCK]&viewsize=[VIEWSIZE]
+#EXTINF:-1 tvg-logo="https://lge-static.ottera.tv/prod/mvg/linear_channel/logo/711x400/mv_logo_classic_1920x1080.png",407 Motorvision Classic
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=15501&avod=1&coppa=0&td=6&is_lat=[LMT]&dnt=[DNS]&us_privacy=[US_PRIVACY]&did=[DEVICE_ID]&ip=[IP]&ua=[UA]&ifa_type=[IFA_TYPE]&app_bundle=[APP_BUNDLE]&app_store_url=[APP_STOREURL]&app_name=[APP_NAME]&custom_targeting=html5&custom_4=lg_channels_de&player_height=720&player_width=1280&content_channel=lg_channels&content_dist_name=lg_channels&device_make=[DEVICE_MAKE]&device_model=[DEVICE_MODEL]&device_os=html5&consent=[GDPR_CONSENT]&gdpr=[GDPR]&gender=not_specified&yob=0&livestream=1&custom_param_0=[DEVICE_MODEL]&custom_param_1=tv&custom_param_2=[DEVICE_MAKE]&custom_param_3=[DEVICE_ID]&custom_param_4=lg_channels&custom_param_5=html5&fck=[FCK]&viewsize=[VIEWSIZE]
+#EXTINF:-1 tvg-logo="https://d2yv6y0n3qsl5c.cloudfront.net/COASH/ComedyShow_LOGO_100x100.png", 410 Comedy and Shows
+https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00627-banijaygroup-comedyandshowslgde/playlist.m3u8?ads.deviceid=[DEVICE_ID]&ads.ifa=[IFA]&ads.ifatype=[IFA_TYPE]&ads.lat=[LMT]&ads.donotsell=[DNS]&ads.ua=[UA]&ads.ip=[IP]&ads.gdpr=[GDPR]&ads.gdprconsent=[GDPR_CONSENT]&ads.country=[COUNTRY]&ads.usprivacy=[US_PRIVACY]&ads.appstoreurl=[APP_STOREURL]&ads.bundleid=[APP_BUNDLE]&ads.appname=[APP_NAME]&ads.appversion=[APP_VERSION]&ads.devicetype=[DEVICE_TYPE]&ads.devicemake=[DEVICE_MAKE]&ads.devicemodel=[DEVICE_MODEL]&ads.targetad=[TARGETAD_ALLOWED]
+#EXTINF:-1 tvg-logo="https://dki01q1l7yn3y.cloudfront.net/thumbnails-platformprod/assets/cs::content::channels/0-2048/2015-LG-Logo-PNG-100x100_v1.png",411 Ladykracher powered by myspass
+https://da887dc8.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/TEctZGVfTGFkeWtyYWNoZXJfSExT/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://image.xumo.com/v1/channels/channel/99992164/600x200.png?type=white_cropped",412 Ist doch Nur Spass Gags
+https://d29h829bjuxghm.cloudfront.net/hls/master.m3u8?ads.xumo_channelId=99992164&ads.xumo_streamId=99992164&ads.channelId=99992164&ads.csid=lgchannels_de_justforlaughsgagsgerman_ssai&ads.channelName=justforlaughsgagsgerman_de&ads.xumo_contentName=JustForLaughsGagsGerman&ads.xumo_contentId=2058&ads.xumo_providerName=JustForLaughsGagsGerman&ads.xumo_providerId=2058&ads.content_category=IAB17&ads.content_genre=television&ads.content_language=en&ads.content_rating=TVPG&ads.coppa=0&ads.did=[IFA]&ads.is_lat=[LMT]&ads.us_privacy=[US_PRIVACY]&ads.gdpr=[GDPR]&ads.gdpr_consent=[GDPR_CONSENT]&ads.devicemake=[DEVICE_MAKE]&ads.appName=[APP_NAME]&ads.app_bundle=[APP_BUNDLE]&ads.app_version=[APP_VERSION]&ads.fck=[FCK]&ads.viewsize=[VIEWSIZE]&ads.givn=[NONCE]&ads.app_storeurl=[APP_STOREURL]
+#EXTINF:-1 tvg-logo="https://images-2.rakuten.tv/storage/global-live-channel/translation/logo-2-1/0f3dbf2f-04db-4035-9ee3-1bfa886ec0fb-width400height200.png",414 Freitag Nacht News
+https://freitag-nacht-news-0765b77e-9244-47e4-8dcb-e8bc069b871dde.fast.rakuten.tv/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/productionLiveChannel-6434/master.m3u8?ads.app_bundle=[APP_BUNDLE]&ads.app_name=LG%20Channel%20Plus&ads.app_store_url=[APP_STOREURL]&ads.app_version=[APP_VERSION]&ads.brand_name=[DEVICE_MAKE]&ads.device_lmt=[LMT]&ads.device_model=[DEVICE_MODEL]&ads.did=[IFA]&ads.fck=[FCK]&ads.gdpr_consent=[GDPR_CONSENT]&ads.ifa_type=[IFA_TYPE]&ads.market=de&ads.platform=lg_channelplus&ads.pod_type=playerpage_midroll&ads.rtv_channel_name=freitag-nacht-news-0765b77e-9244-47e4-8dcbe8bc069b871d_de&ads.rtv_content_id=6434&ads.rtv_language=deu&ads.viewsize=[VIEWSIZE]&channel_id=6434&disable_subtitles=true&publishing_platform_id=2
+#EXTINF:-1 tvg-logo="https://dki01q1l7yn3y.cloudfront.net/thumbnails-platformprod/assets/cs::content::channels/0-2048/1547-LG-Logo-PNG-100x100_v1.png",419 Zee One
+https://47a9fca9f4184dcbb9fe826e8465a9b9.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/LG-de_ZeeOne/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://img.platform.wurl.dev/channel/1160/lg/847773/LG-LogoPNG-100x100_v1.png",425 FailArmy
-https://e894bd47.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/
-
-TEctZGVfRmFpbEFybXlfSExT/playlist.m3u8
+https://e894bd47.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/TEctZGVfRmFpbEFybXlfSExT/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://img.platform.wurl.dev/channel/1020/lg/d8531a/LG-LogoPNG-100x100_v2.png",427 The Pet Collective
-https://c35c5227.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/
-TEctZGVfVGhlUGV0Q29sbGVjdGl2ZV9ITFM/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://fdtvgunicornlogos.blob.core.windows.net/production/
-lg/Neue%20LG%20Channel%20Logos/Absinthe_LG_Channel_Logo_200-transparent.png",431
-Absinthe
-https://d46c0ebf9ef94053848fdd7b1f2f6b90.mediatailor.eu-central-1.amazonaws.com/
-v1/master/81bfcafb76f9c947b24574657a9ce7fe14ad75c0/live-prod/0056d367-4edd-11ed8aff-f91c9dc0ec5c/0/master.m3u8?country=de&vendor=lg
-#EXTINF:-1 tvg-logo="https://dki01q1l7yn3y.cloudfront.net/thumbnails-platformprod/assets/cs::content::channels/0-2048/1109-LG-Logo-PNG-100x100_v1.png",490
-WatchMojo
-https://18c06e878a9944edaab2459cf119c6be.mediatailor.us-east-1.amazonaws.com/v1/
-master/f4e8c53a8367a5b58e20ce054ea3ce25a3e904d3/LG-de_WatchMojo/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://eic-ngfts.lge.com/fts/gftsDownload.lge?
-biz_code=CDP&func_code=METADATA_FILE&file_path=/cdp/resize_image/20250618/
-channel_600x200_e90b13ca-7ea3-4d92-a824-517f3d32e08a.png",510 Top True Crime
-https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00609-palatinmediafil-toptruecrimelgde/playlist.m3u8?
-ads.deviceid=[DEVICE_ID]&ads.ifa=[IFA]&ads.ifatype=[IFA_TYPE]&ads.lat=[LMT]&ads.don
-otsell=[DNS]&ads.ua=[UA]&ads.ip=[IP]&ads.gdpr=[GDPR]&ads.gdprconsent=[GDPR_CONSENT]
-&ads.country=[COUNTRY]&ads.usprivacy=[US_PRIVACY]&ads.appstoreurl=[APP_STOREURL]&ad
-s.bundleid=[APP_BUNDLE]&ads.appname=[APP_NAME]&ads.appversion=[APP_VERSION]&ads.dev
-icetype=[DEVICE_TYPE]&ads.devicemake=[DEVICE_MAKE]&ads.devicemodel=[DEVICE_MODEL]&a
-ds.coppa=0&ads.targetad=[TARGETAD_ALLOWED]&fck=[FCK]&viewsize=[VIEWSIZE]&givn=[NONC
-E]
-#EXTINF:-1
-tvg-logo="https://image.xumo.com/v1/channels/channel/99993052/600x200.png?
-type=white_cropped",511 Crime Scene TV
-https://d1bl6tskrpq9ze.cloudfront.net/hls/master.m3u8?
-ads.xumo_channelId=99993052&ads.xumo_streamId=99993052&ads.channelId=99993052&ads.a
-d_tag_id=16793&ads.csid=lgchannels_de_indigeniuscrimescenetv_ssai&ads.channelName=i
-ndigeniuscrimescenetv_de&ads.xumo_contentName=IndigeniusGerman&ads.xumo_contentId=3
-907&ads.xumo_providerName=IndigeniusGerman&ads.xumo_providerId=3907&ads.content_cat
-egory=IAB17&ads.content_genre=television&ads.content_language=de&ads.content_rating=tv14&ads.coppa=0&ads.livestream=0&ads.prodq=1&ads.did=[IFA]&ads.lmt=[LMT]&ads.dnt=[DN
-S]&ads.us_privacy=[US_PRIVACY]&ads.gdpr=[GDPR]&ads.gdpr_consent=[GDPR_CONSENT]&ads.
-devicemake=[DEVICE_MAKE]&ads.devicemodel=[DEVICE_MODEL]&ads.country=[COUNTRY]&ads.f
-ck=[FCK]&ads.viewsize=[VIEWSIZE]&ads.givn=[NONCE]&ads.app_name=[APP_NAME]&ads.app_b
-undle=[APP_BUNDLE]&ads.app_storeurl=[APP_STOREURL]
+https://c35c5227.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/TEctZGVfVGhlUGV0Q29sbGVjdGl2ZV9ITFM/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://fdtvgunicornlogos.blob.core.windows.net/production/lg/Neue%20LG%20Channel%20Logos/Absinthe_LG_Channel_Logo_200-transparent.png",431 Absinthe
+https://d46c0ebf9ef94053848fdd7b1f2f6b90.mediatailor.eu-central-1.amazonaws.com/v1/master/81bfcafb76f9c947b24574657a9ce7fe14ad75c0/live-prod/0056d367-4edd-11ed8aff-f91c9dc0ec5c/0/master.m3u8?country=de&vendor=lg
+#EXTINF:-1 tvg-logo="https://dki01q1l7yn3y.cloudfront.net/thumbnails-platformprod/assets/cs::content::channels/0-2048/1109-LG-Logo-PNG-100x100_v1.png",490 WatchMojo
+https://18c06e878a9944edaab2459cf119c6be.mediatailor.us-east-1.amazonaws.com/v1/master/f4e8c53a8367a5b58e20ce054ea3ce25a3e904d3/LG-de_WatchMojo/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://eic-ngfts.lge.com/fts/gftsDownload.lge?biz_code=CDP&func_code=METADATA_FILE&file_path=/cdp/resize_image/20250618/channel_600x200_e90b13ca-7ea3-4d92-a824-517f3d32e08a.png",510 Top True Crime
+https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00609-palatinmediafil-toptruecrimelgde/playlist.m3u8?ads.deviceid=[DEVICE_ID]&ads.ifa=[IFA]&ads.ifatype=[IFA_TYPE]&ads.lat=[LMT]&ads.donotsell=[DNS]&ads.ua=[UA]&ads.ip=[IP]&ads.gdpr=[GDPR]&ads.gdprconsent=[GDPR_CONSENT]&ads.country=[COUNTRY]&ads.usprivacy=[US_PRIVACY]&ads.appstoreurl=[APP_STOREURL]&ads.bundleid=[APP_BUNDLE]&ads.appname=[APP_NAME]&ads.appversion=[APP_VERSION]&ads.devicetype=[DEVICE_TYPE]&ads.devicemake=[DEVICE_MAKE]&ads.devicemodel=[DEVICE_MODEL]&ads.coppa=0&ads.targetad=[TARGETAD_ALLOWED]&fck=[FCK]&viewsize=[VIEWSIZE]&givn=[NONCE]
+#EXTINF:-1 tvg-logo="https://image.xumo.com/v1/channels/channel/99993052/600x200.png?type=white_cropped",511 Crime Scene TV
+https://d1bl6tskrpq9ze.cloudfront.net/hls/master.m3u8?ads.xumo_channelId=99993052&ads.xumo_streamId=99993052&ads.channelId=99993052&ads.ad_tag_id=16793&ads.csid=lgchannels_de_indigeniuscrimescenetv_ssai&ads.channelName=indigeniuscrimescenetv_de&ads.xumo_contentName=IndigeniusGerman&ads.xumo_contentId=3907&ads.xumo_providerName=IndigeniusGerman&ads.xumo_providerId=3907&ads.content_category=IAB17&ads.content_genre=television&ads.content_language=de&ads.content_rating=tv14&ads.coppa=0&ads.livestream=0&ads.prodq=1&ads.did=[IFA]&ads.lmt=[LMT]&ads.dnt=[DNS]&ads.us_privacy=[US_PRIVACY]&ads.gdpr=[GDPR]&ads.gdpr_consent=[GDPR_CONSENT]&ads.devicemake=[DEVICE_MAKE]&ads.devicemodel=[DEVICE_MODEL]&ads.country=[COUNTRY]&ads.fck=[FCK]&ads.viewsize=[VIEWSIZE]&ads.givn=[NONCE]&ads.app_name=[APP_NAME]&ads.app_bundle=[APP_BUNDLE]&ads.app_storeurl=[APP_STOREURL]
 #EXTINF:-1
 tvg-logo="https://image.xumo.com/v1/channels/channel/99982008/600x200.png?
 type=white_cropped",512 FilmRise True Crime
