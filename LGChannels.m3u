@@ -17,8 +17,7 @@ https://amg00353-amg00353c42-lg-de-5243.playouts.now.amagi.tv/playlist/amg00353l
 https://af230031eeac45f3b78d4f8a13265105.mediatailor.eu-west-1.amazonaws.com/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6209/master.m3u8
 #EXTINF:-1 tvg-logo="https://dnhhigda1s5yb.cloudfront.net/MDOME/LG_Ch_Logo_100x100.png",210 Moviedome DE
 https://kochmedia-moviedome-lg.amagi.tv/hls/amagi_hls_data_kochmedia-moviedome-lg/CDN/master.m3u8?ads.deviceid=[DEVICE_ID]&ads.ifa=[IFA]&ads.ifatype=[IFA_TYPE]&ads.lat=[LMT]&ads.donotsell=[DNS]&ads.ua=[UA]&ads.ip=[IP]&ads.gdpr=[GDPR]&ads.gdprconsent=[GDPR_CONSENT]&ads.country=[COUNTRY]&ads.usprivacy=[US_PRIVACY]&ads.appstoreurl=[APP_STOREURL]&ads.bundleid=[APP_BUNDLE]&ads.appname=[APP_NAME]&ads.appversion=[APP_VERSION]&ads.devicetype=[DEVICE_TYPE]&ads.devicemake=[DEVICE_MAKE]&ads.devicemodel=[DEVICE_MODEL]&ads.coppa=0&ads.targetad=[TARGETAD_ALLOWED]&fck=[FCK]&viewsize=[VIEWSIZE]&givn=[NONCE]
-#EXTINF:-1
-tvg-logo="https://dnhhigda1s5yb.cloudfront.net/MDFAM/LG_Ch_Logo_100x100.png",211 Moviedome Family DE
+#EXTINF:-1 tvg-logo="https://dnhhigda1s5yb.cloudfront.net/MDFAM/LG_Ch_Logo_100x100.png",211 Moviedome Family DE
 https://kochmedia-moviedomefamily-lg.amagi.tv/hls/amagi_hls_data_kochmediamoviedomefamily-lg/CDN/master.m3u8?ads.deviceid=[DEVICE_ID]&ads.ifa=[IFA]&ads.ifatype=[IFA_TYPE]&ads.lat=[LMT]&ads.donotsell=[DNS]&ads.ua=[UA]&ads.ip=[IP]&ads.gdpr=[GDPR]&ads.gdprconsent=[GDPR_CONSENT]&ads.country=[COUNTRY]&ads.usprivacy=[US_PRIVACY]&ads.appstoreurl=[APP_STOREURL]&ads.bundleid=[APP_BUNDLE]&ads.appname=[APP_NAME]&ads.appversion=[APP_VERSION]&ads.devicetype=[DEVICE_TYPE]&ads.devicemake=[DEVICE_MAKE]&ads.devicemodel=[DEVICE_MODEL]&ads.coppa=0&ads.targetad=[TARGETAD_ALLOWED]&fck=[FCK]&viewsize=[VIEWSIZE]&givn=[NONCE]
 #EXTINF:-1 tvg-logo="https://dki01q1l7yn3y.cloudfront.net/thumbnails-platformprod/assets/cs::content::channels/0-2048/1609-LG-Logo-PNG-100x100_v3.png",214 DEFA TV
 https://9253855332814233adf2d4f9347aae0d.mediatailor.us-east-1.amazonaws.com/v1/
@@ -60,10 +59,8 @@ https://thriller-rakuten-tv-de.fast.rakuten.tv/v1/master/0547f18649bd788bec7b67b
 #EXTINF:-1 tvg-logo="https://images-0.rakuten.tv/storage/global-live-channel/translation/logo-2-1/d0bf471a-c9f9-4189-9231-1600ba2b160c-width400height200.png",237 Drama Filme - Rakuten TV
 https://968754c2483045c1a9a7f677caec35b6.mediatailor.eu-west-1.amazonaws.com/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6096/master.m3u8
 #EXTINF:-1 tvg-logo="https://images-1.rakuten.tv/storage/global-live-channel/translation/logo-2-1/ff903421-9c40-467a-b5a7-f38144c4e0f2-width400height200.png",238 Deutsches Kino - Rakuten TV
-https://a5dc66582aa040269fd99d7d7a6ac23b.mediatailor.eu-west-1.amazonaws.com/v1/
-master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6200/master.m3u8
-#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/5dde47b63585b500099f74ec/logo.png?w=380&h=110&trim=auto&trim-sd=10&trim-md=0&fit=clip&fm=png",244 Pluto TV
- Kultfilme
+https://a5dc66582aa040269fd99d7d7a6ac23b.mediatailor.eu-west-1.amazonaws.com/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6200/master.m3u8
+#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/5dde47b63585b500099f74ec/logo.png?w=380&h=110&trim=auto&trim-sd=10&trim-md=0&fit=clip&fm=png",244 Pluto TV Kultfilme
 https://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5dde47b63585b500099f74ec/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=424e55da-1dda-11f0-ab45a30a4ae8334b&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=1626e761-a9fe-491b-a8fcb0150ac1b02e&userId=&serverSideAds=true
 #EXTINF:-1 tvg-logo="https://dki01q1l7yn3y.cloudfront.net/thumbnails-platformprod/assets/cs::content::channels/0-2048/1248-LG-Logo-PNG-100x100_v2.png",250 ARTFLIX - Filmklassiker
 https://4c527f7c7c0b439d8cf598da353bbd90.mediatailor.us-east-1.amazonaws.com/v1/master/f4e8c53a8367a5b58e20ce054ea3ce25a3e904d3/LG-de_ARTFLIXFilmklassiker/playlist.m3u8
