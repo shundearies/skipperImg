@@ -1,0 +1,93 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="" tvg-logo="https://www.atv.hn/wp-content/uploads/2026/02/cropped-logo-512x512-1.png" group-title="-",ALSACIAS TV
+http://38.188.186.47:4000/play/a06v/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/eb/Aztecadeporteslogo.png" group-title="-",Azteca Deportes
+http://38.188.186.47:4000/play/a012/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://static.wixstatic.com/media/799a49_432eb427717f4a9f81bdd0f7cd0f59bb~mv2.png/v1/fill/w_420,h_420,al_c,q_85,usm_0.66_1.00_0.01,enc_avif,quality_auto/11.png" group-title="-",BANDAMAX (DISTRITO)
+http://38.188.186.47:4000/play/a00f/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://static.wikia.nocookie.net/doblaje/images/e/ed/Cinefamiliar.png/revision/latest?cb=20251112055042&path-prefix=es" group-title="-",CINE FAMILIAR
+http://38.188.186.47:4000/play/a005/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://www.thedailytelevision.com/sites/default/files/notas/imagenes/interior/foxsports2_big.jpg" group-title="-",CINE PREMIUM(FOX SPORT 2)
+http://38.188.186.47:4000/play/a006/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://uspto.report/TM/88519024/mark" group-title="-",CLARO CINEMA HD
+http://38.188.186.47:4000/play/a016/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://cdn.mediacat.com/uploads/2025/12/cnbc.jpg" group-title="-",CNBC
+http://38.188.186.47:4000/play/a017/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b6/Logo_de_CNN_en_Espa%C3%B1ol_%282010-2015%29.svg/250px-Logo_de_CNN_en_Espa%C3%B1ol_%282010-2015%29.svg.png" group-title="-",CNN ESPANOL (CANAL 6)
+http://38.188.186.47:4000/play/a00j/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://www.tvcopan.com/wp-content/uploads/2024/11/cropped-logo-transparente-1536x1536.png" group-title="-",COPAN TV
+http://38.188.186.47:4000/play/a01i/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/17/CTV_logo_2018.svg/500px-CTV_logo_2018.svg.png" group-title="-",CTV INTERNACIONAL
+http://38.188.186.47:4000/play/a065/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://cdn.mitvstatic.com/channels/mx_de-pelicula_m.png" group-title="-",DE PELICULA HD (TELEHIT)
+http://38.188.186.47:4000/play/a1j6/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/6/6f/TVCdeportes2002.png/revision/latest?cb=20210513161944&path-prefix=es" group-title="-",DEPORTES TVC (BANDA MAX)
+http://38.188.186.47:4000/play/a00d/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://m.media-amazon.com/images/I/41LhbFwgpjL.png" group-title="-",EBENEZER
+http://38.188.186.47:4000/play/a061/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Canal_2_%28Las_Estrellas_2017%29.svg/330px-Canal_2_%28Las_Estrellas_2017%29.svg.png" group-title="-",ESTRELLAS HD
+http://38.188.186.47:4000/play/a014/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Canal_2_%28Las_Estrellas_2017%29.svg/330px-Canal_2_%28Las_Estrellas_2017%29.svg.png" group-title="-",ESTRELLAS HD
+http://38.188.186.47:4000/play/a00p/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/06/Food_Network_logo.svg/330px-Food_Network_logo.svg.png" group-title="-",FOOD NETWORK
+http://38.188.186.47:4000/play/a004/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/b/bc/FoxSportsPremium2017Ar.png/revision/latest?cb=20190602030021&path-prefix=es" group-title="-",FOX PREMIUM
+http://38.188.186.47:4000/play/a00c/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0c/FOX_Sports_logo.svg/330px-FOX_Sports_logo.svg.png" group-title="-",FOX SPORT
+http://38.188.186.47:4000/play/a00h/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://cdn.mitvstatic.com/channels/ar_el-gourmet_m.png" group-title="-",GOURMETHD(UNIMAS)
+http://38.188.186.47:4000/play/a00i/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://m.media-amazon.com/images/I/513zmwgnFJL.png" group-title="-",GUIA DE PROGRAMACION
+http://38.188.186.47:4000/play/a01e/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9e/HBO_Signature.svg/330px-HBO_Signature.svg.png" group-title="-",HBO SIGNATURE(Q HUBO TV)
+http://38.188.186.47:4000/play/a00g/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.blogs.es/fdad4c/vix-toda-liga-mx/650_1200.jpeg" group-title="-",LA LIGA VIX (PX SPORT)
+http://38.188.186.47:4000/play/a015/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://www.adslzone.net/app/uploads-adslzone.net/2019/06/movistar-laliga.jpg?x=500&y=295&quality=80" group-title="-",LIGA MOVISTAR
+http://38.188.186.47:4000/play/Ji198/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0d/Love_Nature_logo_%282025%29.svg/1920px-Love_Nature_logo_%282025%29.svg.png" group-title="-",LOVE NATURE
+http://38.188.186.47:4000/play/a009/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://media.licdn.com/dms/image/v2/C4E0BAQFki21iChMvNA/company-logo_200_200/company-logo_200_200/0/1677711143235?e=2147483647&v=beta&t=HuG2RBubIktj1YVrNHE2r2w1oqEvYQdrLNBQtKdIfEQ" group-title="-",LTV HONDURAS
+http://38.188.186.47:4000/play/a06s/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://static.wikia.nocookie.net/rarter/images/d/d7/Sksjksksksjsmsmmsmsm.png/revision/latest?cb=20240430152412" group-title="-",MI MUSICA HITS
+http://38.188.186.47:4000/play/a04n/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTBj0i5vJVMgy9oi6SW9njG709kGmmtzJP0Q9olt-cG6AHEIc1PoXIsDfPN&s=10" group-title="-",MOVIES PREMIUM (PICOSA)
+http://38.188.186.47:4000/play/a007/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://multicanaltvcali.com/wp-content/uploads/2018/07/logo400.png" group-title="-",MULTICANAL
+http://38.188.186.47:4000/play/a03r/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/Logo_px_horizontal_negro.png/500px-Logo_px_horizontal_negro.png" group-title="-",PX SPORT TV
+http://38.188.186.47:4000/play/a01g/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://cdn.mitvstatic.com/channels/mx_fox_m.png" group-title="-",STAR PREMIUM
+http://38.188.186.47:4000/play/a00b/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://directostv.teleame.com/wp-content/uploads/2018/03/suyapa-tv.png" group-title="-",SUYAPA TV
+http://38.188.186.47:4000/play/a008/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://static.wikia.nocookie.net/tvcable/images/6/69/OM04E.jpg/revision/latest?cb=20110531221305&path-prefix=es" group-title="-",Sextream
+http://38.188.186.47:4000/play/a00n/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://m.media-amazon.com/images/I/41aUpPEMHqL.png" group-title="-",TELEMAS
+http://38.188.186.47:4000/play/a08t/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/Telemundo_logo_2018.svg/330px-Telemundo_logo_2018.svg.png" group-title="-",TELEMUNDO NEW YORK
+http://38.188.186.47:4000/play/a00o/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://cdn.mitvstatic.com/channels/mx_tlnovelas_m.png" group-title="-",TELENOVELAS HD
+http://38.188.186.47:4000/play/a01c/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://play-lh.googleusercontent.com/r_ifVvwIE6-WB9zFYk4a3H5ek0dtC5Qdq-txbeZNI_KVuQzGviPcjPICVlR2nqUlzg" group-title="-",TIGO SPORTS HONDURAS
+http://38.188.186.47:4000/play/a018/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://yt3.googleusercontent.com/OuKve41J-tBfaAWWfruNhofwhO3xCqMwwCHDSGWfPJasAeuLh7UoZweSMU57BsrHcnMumUbVEw=s900-c-k-c0x00ffffff-no-rj" group-title="-",TUDN(MUSICA REGUETON)
+http://38.188.186.47:4000/play/fj01/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.scdn.co/image/ab67616d00001e02066a5d20968869334d6c4e17" group-title="-",TV COFRADIA
+http://38.188.186.47:4000/play/a073/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://play-lh.googleusercontent.com/N03RFEr4iBOdT3Utt_7kaUMMe2pcirqNZb-XECWiWPjMEl4X-z6hZ9ZXhUF3B9FeKnh5" group-title="-",TV COPAN 9
+http://38.188.186.47:4000/play/a00u/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTHmH_O6Vqlkd6uOP7QFpKncDEHMBPUGKrDRM9hTlAORT5LjiB03-_kcW8N&s=10" group-title="-",TV SAN MARCOS
+http://38.188.186.47:4000/play/a05v/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/79/Flag_of_Honduras_%281949%E2%80%932022%2C_2026%E2%80%93present%29.svg/330px-Flag_of_Honduras_%281949%E2%80%932022%2C_2026%E2%80%93present%29.svg.png" group-title="-",UNIVERSAL TV (TEN 10) (DW)
+http://38.188.186.47:4000/play/a003/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9d/Univision_logo.svg/960px-Univision_logo.svg.png" group-title="-",UNIVISION NEW YORK (DE PELICULAS)
+http://38.188.186.47:4000/play/a001/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://dcassetcdn.com/design_img/64652/77352/77352_1138938_64652_image.jpg" group-title="-",XXX VENUS
+http://38.188.186.47:4000/play/a06a/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://iptvmate.net/blog/wp-content/uploads/2024/04/mycam.png" group-title="-",XXX BLAZZERS
+http://38.188.186.47:4000/play/a06b/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://iptvmate.net/blog/wp-content/uploads/2024/04/mycam.png" group-title="-",XXX HUSTLER
+http://38.188.186.47:4000/play/a06c/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://iptvmate.net/blog/wp-content/uploads/2024/04/mycam.png" group-title="-",XXX LATINA
+http://38.188.186.47:4000/play/a06d/index.m3u8
