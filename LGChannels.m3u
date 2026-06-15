@@ -277,8 +277,7 @@ https://amg01796-fastmedia-amg01796c15-lg-de-7454.playouts.now.amagi.tv/playlist
 https://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/600adbdf8c554e00072125c9/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=424e55da-1dda-11f0-ab45a30a4ae8334b&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=1626e761-a9fe-491b-a8fcb0150ac1b02e&userId=&serverSideAds=true
 #EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/608181d420fc8500075f612a/logo_1747395462433.png?w=380&h=110&trim=auto&trim-sd=10&trimmd=0&fit=clip&fm=png",945 Pluto TV Anime
 https://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/608181d420fc8500075f612a/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=424e55da-1dda-11f0-ab45a30a4ae8334b&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=1626e761-a9fe-491b-a8fcb0150ac1b02e&userId=&serverSideAds=true
-#EXTINF:-1 tvg-logo="https://eic-ngfts.lge.com/fts/gftsDownload.lge?biz_code=CDP&func_code=METADATA_FILE&file_path=/cdp/resize_image/20250618/
-channel_600x200_592fa1ca-0d80-433d-a5bc-12fbe2a0d77f.png",948 Naruto
+#EXTINF:-1 tvg-logo="https://eic-ngfts.lge.com/fts/gftsDownload.lge?biz_code=CDP&func_code=METADATA_FILE&file_path=/cdp/resize_image/20250618/channel_600x200_592fa1ca-0d80-433d-a5bc-12fbe2a0d77f.png",948 Naruto
 https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00609-palatinmediafil-naruto-lgde/playlist.m3u8?ads.deviceid=[DEVICE_ID]&ads.ifa=[IFA]&ads.ifatype=[IFA_TYPE]&ads.lat=[LMT]&ads.donotsell=[DNS]&ads.ua=[UA]&ads.ip=[IP]&ads.gdpr=[GDPR]&ads.gdprconsent=[GDPR_CONSENT]&ads.country=[COUNTRY]&ads.usprivacy=[US_PRIVACY]&ads.appstoreurl=[APP_STOREURL]&ads.bundleid=[APP_BUNDLE]&ads.appname=[APP_NAME]&ads.appversion=[APP_VERSION]&ads.devicetype=[DEVICE_TYPE]&ads.devicemake=[DEVICE_MAKE]&ads.devicemodel=[DEVICE_MODEL]&ads.coppa=0&ads.targetad=[TARGETAD_ALLOWED]&fck=[FCK]&viewsize=[VIEWSIZE]&givn=[NONCE]
 #EXTINF:-1 tvg-logo="https://image.xumo.com/v1/channels/channel/99992468/600x200.png?type=white_cropped",955 Stingray Hit List
 https://d1bl6tskrpq9ze.cloudfront.net/hls/master.m3u8?ads.xumo_channelId=99992468&ads.csid=lgchannels_[COUNTRY]_StingrayHitlist_ssai&ads.ad_tag_id=15712&ads.xumo_contentName=StingrayHitlist&ads.xumo_contentId=1858&ads.content_language=en&ads.content_category=IAB16&ads.content_genre=music&ads.content_rating=tvg&ads.did=[IFA]&ads.coppa=0&ads.lmt=[LMT]&ads.dnt=[DNS]&ads.us_privacy=[US_PRIVACY]&ads.gdpr=[GDPR]&ads.gdpr_consent=[GDPR_CONSENT]&ads.devicemake=[DEVICE_MAKE]&ads.devicemodel=[DEVICE_MODEL]&ads.country=[COUNTRY]&ads.livestream=0&ads.prodq=1&ads.fck=[FCK]&ads.viewsize=[VIEWSIZE]&ads.givn=[NONCE]&ads.app_name=[APP_NAME]&ads.app_bundle=[APP_BUNDLE]&ads.app_storeurl=[APP_STOREURL]
@@ -292,266 +291,61 @@ https://d1bl6tskrpq9ze.cloudfront.net/hls/master.m3u8?ads.xumo_channelId=9999247
 https://d1bl6tskrpq9ze.cloudfront.net/hls/master.m3u8?ads.xumo_channelId=99992465&ads.csid=lgchannels_[COUNTRY]_StingrayPopAdult_ssai&ads.ad_tag_id=15716&ads.xumo_contentName=StingrayPopAdult&ads.xumo_contentId=3197&ads.content_language=en&ads.content_category=IAB16&ads.content_genre=music&ads.content_rating=tvg&ads.did=[IFA]&ads.coppa=0&ads.lmt=[LMT]&ads.dnt=[DNS]&ads.us_privacy=[US_PRIVACY]&ads.gdpr=[GDPR]&ads.gdpr_consent=[GDPR_CONSENT]&ads.devicemake=[DEVICE_MAKE]&ads.devicemodel=[DEVICE_MODEL]&ads.country=[COUNTRY]&ads.livestream=0&ads.prodq=1&ads.fck=[FCK]&ads.viewsize=[VIEWSIZE]&ads.givn=[NONCE]&ads.app_name=[APP_NAME]&ads.app_bundle=[APP_BUNDLE]&ads.app_storeurl=[APP_STOREURL]
 #EXTINF:-1 tvg-logo="https://image.xumo.com/v1/channels/channel/99992466/600x200.png?type=white_cropped",960 Stingray Hip Hop
 https://d1bl6tskrpq9ze.cloudfront.net/hls/master.m3u8?ads.xumo_channelId=99992466&ads.csid=lgchannels_[COUNTRY]_StingrayHipHop_ssai&ads.ad_tag_id=15715&ads.xumo_contentName=StingrayHipHop&ads.xumo_contentId=3195&ads.content_language=en&ads.content_category=IAB16&ads.content_genre=music&ads.content_rating=tvg&ads.did=[IFA]&ads.coppa=0&ads.lmt=[LMT]&ads.dnt=[DNS]&ads.us_privacy=[US_PRIVACY]&ads.gdpr=[GDPR]&ads.gdpr_consent=[GDPR_CONSENT]&ads.devicemake=[DEVICE_MAKE]&ads.devicemodel=[DEVICE_MODEL]&ads.country=[COUNTRY]&ads.livestream=0&ads.prodq=1&ads.fck=[FCK]&ads.viewsize=[VIEWSIZE]&ads.givn=[NONCE]&ads.app_name=[APP_NAME]&ads.app_bundle=[APP_BUNDLE]&ads.app_storeurl=[APP_STOREURL]
-#EXTINF:-1
-tvg-logo="https://image.xumo.com/v1/channels/channel/99992077/600x200.png?
-type=white_cropped",961 Stingray Karaoke
-https://d1bl6tskrpq9ze.cloudfront.net/hls/master.m3u8?
-ads.xumo_channelId=99992077&ads.xumo_streamId=99992077&ads.channelId=99992077&ads.a
-d_tag_id=15718&ads.csid=lgchannels_de_stingraykaraokeeu_ssai&ads.channelName=stingr
-aykaraoke_de&ads.xumo_contentName=StingrayKaraokeEU&ads.xumo_contentId=3199&ads.xum
-o_providerName=StingrayKaraokeEU&ads.xumo_providerId=3199&ads.content_category=IAB1
--6&ads.content_genre=music&ads.content_language=en&ads.content_rating=tvg&ads.coppa=0&ads.livestream=0&ads.prodq=1&ads.did=[IFA]&ads.lmt=[LMT]&ads.dnt=[DNS
-]&ads.us_privacy=[US_PRIVACY]&ads.gdpr=[GDPR]&ads.gdpr_consent=[GDPR_CONSENT]&ads.d
-evicemake=[DEVICE_MAKE]&ads.devicemodel=[DEVICE_MODEL]&ads.country=[COUNTRY]&ads.fc
-k=[FCK]&ads.viewsize=[VIEWSIZE]&ads.givn=[NONCE]&ads.app_name=[APP_NAME]&ads.app_bu
-ndle=[APP_BUNDLE]&ads.app_storeurl=[APP_STOREURL]
-#EXTINF:-1
-tvg-logo="https://image.xumo.com/v1/channels/channel/99992472/600x200.png?
-type=white_cropped",962 Stingray Soul Storm
-https://d1bl6tskrpq9ze.cloudfront.net/hls/master.m3u8?
-ads.xumo_channelId=99992472&ads.csid=lgchannels_[COUNTRY]_StingraySoulStorm_ssai&ad
-s.ad_tag_id=15710&ads.xumo_contentName=StingraySoulStorm&ads.xumo_contentId=1860&ad
-s.content_language=en&ads.content_category=IAB16&ads.content_genre=music&ads.content_rating=tvg&ads.did=[IFA]&ads.coppa=0&ads.lmt=[LMT]&ads.dnt=[DNS]&ads.us_privacy=[US_PRIVACY]
-&ads.gdpr=[GDPR]&ads.gdpr_consent=[GDPR_CONSENT]&ads.devicemake=[DEVICE_MAKE]&ads.d
-evicemodel=[DEVICE_MODEL]&ads.country=[COUNTRY]&ads.livestream=0&ads.prodq=1&ads.fc
-k=[FCK]&ads.viewsize=[VIEWSIZE]&ads.givn=[NONCE]&ads.app_name=[APP_NAME]&ads.app_bu
-ndle=[APP_BUNDLE]&ads.app_storeurl=[APP_STOREURL]
-#EXTINF:-1
-tvg-logo="https://image.xumo.com/v1/channels/channel/99992470/600x200.png?
-type=white_cropped",963 Stingray Hot Country
-https://d1bl6tskrpq9ze.cloudfront.net/hls/master.m3u8?
-
-ads.xumo_channelId=99992470&ads.csid=lgchannels_[COUNTRY]_StingrayHotCountry_ssai&a
-ds.ad_tag_id=15711&ads.xumo_contentName=StingrayHotCountry&ads.xumo_contentId=1859&
-ads.content_language=en&ads.content_category=IAB16&ads.content_genre=music&ads.content_rating=tvg&ads.did=[IFA]&ads.coppa=0&ads.lmt=[LMT]&ads.dnt=[DNS]&ads.us_privacy=[US_PRIVACY]
-&ads.gdpr=[GDPR]&ads.gdpr_consent=[GDPR_CONSENT]&ads.devicemake=[DEVICE_MAKE]&ads.d
-evicemodel=[DEVICE_MODEL]&ads.country=[COUNTRY]&ads.livestream=0&ads.prodq=1&ads.fc
-k=[FCK]&ads.viewsize=[VIEWSIZE]&ads.givn=[NONCE]&ads.app_name=[APP_NAME]&ads.app_bu
-ndle=[APP_BUNDLE]&ads.app_storeurl=[APP_STOREURL]
-#EXTINF:-1
-tvg-logo="https://image.xumo.com/v1/channels/channel/99992073/600x200.png?
-type=white_cropped",964 Qello Concerts by Stingray
-https://d1bl6tskrpq9ze.cloudfront.net/hls/master.m3u8?
-ads.xumo_channelId=99992073&ads.xumo_streamId=99992073&ads.channelId=99992073&ads.a
-d_tag_id=15708&ads.csid=lgchannels_de_stingrayqelloeu_ssai&ads.channelName=stingray
-qelloeu_de&ads.xumo_contentName=StingrayQelloEU&ads.xumo_contentId=3478&ads.xumo_pr
-oviderName=StingrayQelloEU&ads.xumo_providerId=3478&ads.content_category=IAB16&ads.content_genre=music&ads.content_language=en&ads.content_rating=tvg&ads.coppa=0&ads.livestream=0&ads.prodq=1&ads.did=[IFA]&ads.lmt=[LMT]&ads.dnt=[DNS
-]&ads.us_privacy=[US_PRIVACY]&ads.gdpr=[GDPR]&ads.gdpr_consent=[GDPR_CONSENT]&ads.d
-evicemake=[DEVICE_MAKE]&ads.devicemodel=[DEVICE_MODEL]&ads.country=[COUNTRY]&ads.fc
-k=[FCK]&ads.viewsize=[VIEWSIZE]&ads.givn=[NONCE]&ads.app_name=[APP_NAME]&ads.app_bu
-ndle=[APP_BUNDLE]&ads.app_storeurl=[APP_STOREURL]
-#EXTINF:-1
-tvg-logo="https://image.xumo.com/v1/channels/channel/99992467/600x200.png?
-type=white_cropped",966 Stingray Today\'s Latin Pop
-https://d1bl6tskrpq9ze.cloudfront.net/hls/master.m3u8?
-ads.xumo_channelId=99992467&ads.csid=lgchannels_[COUNTRY]_stingraylatinpop_ssai&ads
-.ad_tag_id=15714&ads.xumo_contentName=StingrayExitosdelMomento&ads.xumo_contentId=3
-196&ads.content_language=es&ads.content_category=IAB16&ads.content_genre=music&ads.content_rating=tvg&ads.did=[IFA]&ads.coppa=0&ads.lmt=[LMT]&ads.dnt=[DNS]&ads.us_privacy=[US_PRIVACY]
-&ads.gdpr=[GDPR]&ads.gdpr_consent=[GDPR_CONSENT]&ads.devicemake=[DEVICE_MAKE]&ads.d
-evicemodel=[DEVICE_MODEL]&ads.country=[COUNTRY]&ads.livestream=0&ads.prodq=1&ads.ap
-p_name=[APP_NAME]&ads.app_bundle=[APP_BUNDLE]&ads.app_storeurl=[APP_STOREURL]
-#EXTINF:-1
-tvg-logo="https://image.xumo.com/v1/channels/channel/99982014/600x200.png?
-type=white_cropped",968 GoldStar TV  Alles Schlager
-https://d29h829bjuxghm.cloudfront.net/hls/master.m3u8?
-ads.xumo_channelId=99982014&ads.xumo_streamId=99982014&ads.channelId=99982014&ads.c
-sid=lgchannels_DE_mainstreamgoldstargerman_ssai&ads.channelName=mainstreamgoldstarg
-erman_de&ads.xumo_contentName=mainstreamgoldstargerman&ads.xumo_contentId=2591&ads.
-xumo_providerName=mainstreamgoldstargerman&ads.xumo_providerId=2591&ads.content_cat
-egory=IAB17&ads.content_genre=television&ads.content_language=de&ads.content_rating=tvg&ads.coppa=0&ads.did=[IFA]&ads.is_lat=[LMT]&ads.us_privacy=[US_PRIVACY]&ads.gdpr=[
-GDPR]&ads.gdpr_consent=[GDPR_CONSENT]&ads.devicemake=[DEVICE_MAKE]&ads.appName=[APP
-_NAME]&ads.app_bundle=[APP_BUNDLE]&ads.app_version=[APP_VERSION]&ads.fck=[FCK]&ads.
-viewsize=[VIEWSIZE]&ads.givn=[NONCE]&ads.app_storeurl=[APP_STOREURL]
-#EXTINF:-1
-tvg-logo="https://d3dj3gmzxw0r4q.cloudfront.net/Trace_Latina/LG_LOGO_TRACELATINA.pn
-g",970 TRACE LATINA
-https://trace-latina-lg-de.amagi.tv/hls/amagi_hls_data_tracetvAA-trace-latina-lgde/CDN/master.m3u8?
-ads.deviceid=[DEVICE_ID]&ads.ifa=[IFA]&ads.ifatype=[IFA_TYPE]&ads.lat=[LMT]&ads.don
-otsell=[DNS]&ads.ua=[UA]&ads.ip=[IP]&ads.gdpr=[GDPR]&ads.gdprconsent=[GDPR_CONSENT]
-&ads.country=[COUNTRY]&ads.usprivacy=[US_PRIVACY]&ads.appstoreurl=[APP_STOREURL]&ad
-s.bundleid=[APP_BUNDLE]&ads.appname=[APP_NAME]&ads.appversion=[APP_VERSION]&ads.dev
-icetype=[DEVICE_TYPE]&ads.devicemake=[DEVICE_MAKE]&ads.devicemodel=[DEVICE_MODEL]&a
-
-ds.coppa=0&ads.targetad=[TARGETAD_ALLOWED]&fck=[FCK]&viewsize=[VIEWSIZE]&givn=[NONC
-E]
-#EXTINF:-1
-tvg-logo="https://d3dj3gmzxw0r4q.cloudfront.net/Trace_Urban/LG_Ch_Logo_510x200.png"
-,971 Trace Urban
-https://trace-urban-lg-de.amagi.tv/hls/amagi_hls_data_tracetvAA-trace-urban-lg-de/
-CDN/master.m3u8?
-ads.deviceid=[DEVICE_ID]&ads.ifa=[IFA]&ads.ifatype=[IFA_TYPE]&ads.lat=[LMT]&ads.don
-otsell=[DNS]&ads.ua=[UA]&ads.ip=[IP]&ads.gdpr=[GDPR]&ads.gdprconsent=[GDPR_CONSENT]
-&ads.country=[COUNTRY]&ads.usprivacy=[US_PRIVACY]&ads.appstoreurl=[APP_STOREURL]&ad
-s.bundleid=[APP_BUNDLE]&ads.appname=[APP_NAME]&ads.appversion=[APP_VERSION]&ads.dev
-icetype=[DEVICE_TYPE]&ads.devicemake=[DEVICE_MAKE]&ads.devicemodel=[DEVICE_MODEL]&a
-ds.coppa=0&ads.targetad=[TARGETAD_ALLOWED]&fck=[FCK]&viewsize=[VIEWSIZE]&givn=[NONC
-E]
-#EXTINF:-1
-tvg-logo="https://d13rrbz4t88obi.cloudfront.net/qjazz/NewQwestTV_200x200.png",975
-Qwest TV
-https://qwest-jazz-lg.amagi.tv/hls/amagi_hls_data_qwestAAAA-qwest-jazz-lg/CDN/
-master.m3u8?
-ads.deviceid=[DEVICE_ID]&ads.ifa=[IFA]&ads.ifatype=[IFA_TYPE]&ads.lat=[LMT]&ads.don
-otsell=[DNS]&ads.ua=[UA]&ads.ip=[IP]&ads.gdpr=[GDPR]&ads.gdprconsent=[GDPR_CONSENT]
-&ads.country=[COUNTRY]&ads.usprivacy=[US_PRIVACY]&ads.appstoreurl=[APP_STOREURL]&ad
-s.bundleid=[APP_BUNDLE]&ads.appname=[APP_NAME]&ads.appversion=[APP_VERSION]&ads.dev
-icetype=[DEVICE_TYPE]&ads.devicemake=[DEVICE_MAKE]&ads.devicemodel=[DEVICE_MODEL]&a
-ds.coppa=0&ads.targetad=[TARGETAD_ALLOWED]&fck=[FCK]&viewsize=[VIEWSIZE]&givn=[NONC
-E]
-#EXTINF:-1 tvg-logo="https://fdtvgunicornlogos.blob.core.windows.net/production/
-lg/HV%20LG%20Channel%20Logos/DLX%20Lounge%20Logo%20und%20Mood%20Images/DLX
-%20Lounge_Logo%20200.png",978 Deluxe Lounge HD
-https://d46c0ebf9ef94053848fdd7b1f2f6b90.mediatailor.eu-central-1.amazonaws.com/
-v1/master/81bfcafb76f9c947b24574657a9ce7fe14ad75c0/live-prod/c37623ff-4ee1-11ed8aff-f91c9dc0ec5c/0/master.m3u8?country=de&vendor=lg
-#EXTINF:-1 tvg-logo="https://fdtvgunicornlogos.blob.core.windows.net/production/
-lg/HV%20LG%20Channel%20Logos/DLX%20Deutschpop%20Logo%20und%20Mood%20Images/DLX
-%20Deutschpop_Logo_200px.png",979 Deluxe Deutschpop
-https://d46c0ebf9ef94053848fdd7b1f2f6b90.mediatailor.eu-central-1.amazonaws.com/
-v1/master/81bfcafb76f9c947b24574657a9ce7fe14ad75c0/live-prod/4c9f9be1-f574-11eea7cb-71f3705559c1/0/master.m3u8?country=de&vendor=lg
-#EXTINF:-1
-tvg-logo="https://d3bd0tgyk368z1.cloudfront.net/feeds/Images/WHITELOGO_NOW70s.png",
-981 Now 70s
-https://amg01076-lightning-amg01076c1-lg-de-3970.playouts.now.amagi.tv/playlist/
-amg01076-lightning-now70s-lgde/playlist.m3u8?
-ads.deviceid=[DEVICE_ID]&ads.ifa=[IFA]&ads.ifatype=[IFA_TYPE]&ads.lat=[LMT]&ads.don
-otsell=[DNS]&ads.ua=[UA]&ads.ip=[IP]&ads.gdpr=[GDPR]&ads.gdprconsent=[GDPR_CONSENT]
-&ads.country=[COUNTRY]&ads.usprivacy=[US_PRIVACY]&ads.appstoreurl=[APP_STOREURL]&ad
-s.bundleid=[APP_BUNDLE]&ads.appname=[APP_NAME]&ads.appversion=[APP_VERSION]&ads.dev
-icetype=[DEVICE_TYPE]&ads.devicemake=[DEVICE_MAKE]&ads.devicemodel=[DEVICE_MODEL]&a
-ds.targetad=[TARGETAD_ALLOWED]&fck=[FCK]&viewsize=[VIEWSIZE]&givn=[NONCE]
-#EXTINF:-1
-tvg-logo="https://d3bd0tgyk368z1.cloudfront.net/feeds/Images/WHITELOGO_NOW80s.png",
-982 Now 80s
-https://amg01076-lightning-amg01076c2-lg-de-4080.playouts.now.amagi.tv/playlist/
-amg01076-lightning-now80s-lgde/playlist.m3u8?
-ads.deviceid=[DEVICE_ID]&ads.ifa=[IFA]&ads.ifatype=[IFA_TYPE]&ads.lat=[LMT]&ads.don
-otsell=[DNS]&ads.ua=[UA]&ads.ip=[IP]&ads.gdpr=[GDPR]&ads.gdprconsent=[GDPR_CONSENT]
-&ads.country=[COUNTRY]&ads.usprivacy=[US_PRIVACY]&ads.appstoreurl=[APP_STOREURL]&ad
-s.bundleid=[APP_BUNDLE]&ads.appname=[APP_NAME]&ads.appversion=[APP_VERSION]&ads.dev
-icetype=[DEVICE_TYPE]&ads.devicemake=[DEVICE_MAKE]&ads.devicemodel=[DEVICE_MODEL]&a
-
-ds.targetad=[TARGETAD_ALLOWED]&fck=[FCK]&viewsize=[VIEWSIZE]&givn=[NONCE]
-#EXTINF:-1
-tvg-logo="https://d3ia204y3aqvyv.cloudfront.net/HITUK/XITE_Hits_LG_Rebrand/
-Logo_XITE_Hits.png",984 XITE Hits
-https://xite-germany-lg.amagi.tv/hls/amagi_hls_data_xiteAAAAA-xite-lg-de/CDN/
-master.m3u8?
-ads.deviceid=[DEVICE_ID]&ads.ifa=[IFA]&ads.ifatype=[IFA_TYPE]&ads.lat=[LMT]&ads.don
-otsell=[DNS]&ads.ua=[UA]&ads.ip=[IP]&ads.gdpr=[GDPR]&ads.gdprconsent=[GDPR_CONSENT]
-&ads.country=[COUNTRY]&ads.usprivacy=[US_PRIVACY]&ads.appstoreurl=[APP_STOREURL]&ad
-s.bundleid=[APP_BUNDLE]&ads.appname=[APP_NAME]&ads.appversion=[APP_VERSION]&ads.dev
-icetype=[DEVICE_TYPE]&ads.devicemake=[DEVICE_MAKE]&ads.devicemodel=[DEVICE_MODEL]&a
-ds.coppa=0&ads.targetad=[TARGETAD_ALLOWED]&fck=[FCK]&viewsize=[VIEWSIZE]&givn=[NONC
-E]
-#EXTINF:-1 tvg-logo="https://d3bd0tgyk368z1.cloudfront.net/feeds/images/cnnus/
-CNNHeadlines_White_400x200.png",986 CNN Headlines
-https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00405-rakutentv-cnnfastlg-rakutenlgde/playlist.m3u8?
-ads.deviceid=[DEVICE_ID]&ads.ifa=[IFA]&ads.ifatype=[IFA_TYPE]&ads.lat=[LMT]&ads.don
-otsell=[DNS]&ads.ua=[UA]&ads.ip=[IP]&ads.gdpr=[GDPR]&ads.gdprconsent=[GDPR_CONSENT]
-&ads.country=[COUNTRY]&ads.usprivacy=[US_PRIVACY]&ads.appstoreurl=[APP_STOREURL]&ad
-s.bundleid=[APP_BUNDLE]&ads.appname=[APP_NAME]&ads.appversion=[APP_VERSION]&ads.dev
-icetype=[DEVICE_TYPE]&ads.devicemake=[DEVICE_MAKE]&ads.devicemodel=[DEVICE_MODEL]&a
-ds.coppa=0&ads.targetad=[TARGETAD_ALLOWED]&fck=[FCK]&viewsize=[VIEWSIZE]&givn=[NONC
-E]
-#EXTINF:-1 tvg-logo="https://fdtvgunicornlogos.blob.core.windows.net/production/
-lg/Neue%20LG%20Channel%20Logos/TemporaTV_LG_Channel_Logo_200-transparent.png",987
-Tempora TV
-https://d46c0ebf9ef94053848fdd7b1f2f6b90.mediatailor.eu-central-1.amazonaws.com/
-v1/master/81bfcafb76f9c947b24574657a9ce7fe14ad75c0/live-prod/2d4d5099-b10f-11edb23e-212e82058ebd/0/master.m3u8?country=de&vendor=lg
-#EXTINF:-1 tvg-logo="https://fdtvgunicornlogos.blob.core.windows.net/production/
-lg/Neue%20LG%20Channel%20Logos/ChannelLogo_LG_focusTV.png",988 Focus TV
-https://d46c0ebf9ef94053848fdd7b1f2f6b90.mediatailor.eu-central-1.amazonaws.com/
-v1/master/81bfcafb76f9c947b24574657a9ce7fe14ad75c0/live-prod/de24c3e7-4ee1-11ed8aff-f91c9dc0ec5c/0/master.m3u8?country=de&vendor=lg
-#EXTINF:-1 tvg-logo="https://images-2.rakuten.tv/storage/global-live-channel/
-translation/logo-2-1/a187515e-a326-4e08-a259-f538915c9405-width400height200.png",989 The Guardian
-https://the-guardian-3d0e32e7-aa40-49e5-b9d9-c433151fa61a-de.fast.rakuten.tv/v1/
-master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6437/
-master.m3u8?ads.app_bundle=[APP_BUNDLE]&ads.app_name=LG%20Channel
-%20Plus&ads.app_store_url=[APP_STOREURL]&ads.app_version=[APP_VERSION]&ads.brand_na
-me=[DEVICE_MAKE]&ads.device_lmt=[LMT]&ads.device_model=[DEVICE_MODEL]&ads.did=[IFA]
-&ads.fck=[FCK]&ads.gdpr_consent=[GDPR_CONSENT]&ads.ifa_type=[IFA_TYPE]&ads.market=d
-e&ads.platform=lg_channelplus&ads.pod_type=playerpage_midroll&ads.rtv_channel_name=
-the-guardian-3d0e32e7-aa40-49e5-b9d9c433151fa61a_de&ads.rtv_content_id=6450&ads.rtv_language=eng&ads.viewsize=[VIEWSIZE
-]&channel_id=6450&disable_subtitles=true&publishing_platform_id=2
-#EXTINF:-1 tvg-logo="https://cdn88-accio.its-newid.net/rt_channel/newid_rt032/
-lg_channels/img/channel_logo/default/channel_logo.png",990 YTN
-https://ads.its-newid.net/api/manifest.m3u8?
-tp=lg_channels&channel_name=ytn&channel_id=newid_rt032&apikey=48230e6b-1cea009715975f93-39af1962&auth=fb7bc49a-a2090aa9-850d4824b061f466&live_type=retransmission&ads.live=[CONTENT_LIVE]&ads.deviceid=[DEVICE_ID]&
-ads.ifa=[IFA]&ads.ifatype=[IFA_TYPE]&ads.lat=[LMT]&ads.donotsell=[DNS]&ads.ua=[UA]&
-ads.ip=[IP]&ads.gdpr=[GDPR]&ads.gdpr_consent=[GDPR_CONSENT]&ads.country=[COUNTRY]&a
-ds.us_privacy=[US_PRIVACY]&ads.appstoreurl=[APP_STOREURL]&ads.bundleid=[APP_BUNDLE]
-&ads.appname=[APP_NAME]&ads.appversion=[APP_VERSION]&ads.devicetype=[DEVICE_TYPE]&a
-ds.devicemake=[DEVICE_MAKE]&ads.devicemodel=[DEVICE_MODEL]&ads.targetad=[TARGETAD_A
-
-LLOWED]&ads.fck=[FCK]&ads.viewsize=[VIEWSIZE]
-#EXTINF:-1 tvg-logo="https://images-2.rakuten.tv/storage/global-live-channel/
-translation/logo-2-1/58346729-6cb5-458f-9d72-b337404a4a86-width400height200.png",991 Africanews
-https://c3c275b999764df8a2dd55ffe2996818.mediatailor.eu-west-1.amazonaws.com/v1/
-master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6576/bitok/
-eyJzdGlkIjoiNjAxY2QwZjQtMzRiOC00YWUyLThkNDAtM2FlOGU5MTUwMmJiIiwibWt0IjoiZGUiLCJjaCI
-6NjU4NCwicHRmIjoyfQ==/26036/africanews-en.m3u8
-#EXTINF:-1 tvg-logo="https://dki01q1l7yn3y.cloudfront.net/thumbnails-platformprod/assets/cs::content::channels/0-2048/1253-LG-Logo-PNG-100x100_v2.png",992
-Moconomy - Wirtschaft und Finanzen Infotainment
-https://ec3e52e117054e1a8dba8f893fd85fe9.mediatailor.us-east-1.amazonaws.com/v1/
-master/f4e8c53a8367a5b58e20ce054ea3ce25a3e904d3/LG-de_Moconomy/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://image.xumo.com/v1/channels/channel/99992077/600x200.png?type=white_cropped",961 Stingray Karaoke
+https://d1bl6tskrpq9ze.cloudfront.net/hls/master.m3u8?ads.xumo_channelId=99992077&ads.xumo_streamId=99992077&ads.channelId=99992077&ads.ad_tag_id=15718&ads.csid=lgchannels_de_stingraykaraokeeu_ssai&ads.channelName=stingraykaraoke_de&ads.xumo_contentName=StingrayKaraokeEU&ads.xumo_contentId=3199&ads.xumo_providerName=StingrayKaraokeEU&ads.xumo_providerId=3199&ads.content_category=IAB1-6&ads.content_genre=music&ads.content_language=en&ads.content_rating=tvg&ads.coppa=0&ads.livestream=0&ads.prodq=1&ads.did=[IFA]&ads.lmt=[LMT]&ads.dnt=[DNS]&ads.us_privacy=[US_PRIVACY]&ads.gdpr=[GDPR]&ads.gdpr_consent=[GDPR_CONSENT]&ads.devicemake=[DEVICE_MAKE]&ads.devicemodel=[DEVICE_MODEL]&ads.country=[COUNTRY]&ads.fck=[FCK]&ads.viewsize=[VIEWSIZE]&ads.givn=[NONCE]&ads.app_name=[APP_NAME]&ads.app_bundle=[APP_BUNDLE]&ads.app_storeurl=[APP_STOREURL]
+#EXTINF:-1 tvg-logo="https://image.xumo.com/v1/channels/channel/99992472/600x200.png?type=white_cropped",962 Stingray Soul Storm
+https://d1bl6tskrpq9ze.cloudfront.net/hls/master.m3u8?ads.xumo_channelId=99992472&ads.csid=lgchannels_[COUNTRY]_StingraySoulStorm_ssai&ads.ad_tag_id=15710&ads.xumo_contentName=StingraySoulStorm&ads.xumo_contentId=1860&ads.content_language=en&ads.content_category=IAB16&ads.content_genre=music&ads.content_rating=tvg&ads.did=[IFA]&ads.coppa=0&ads.lmt=[LMT]&ads.dnt=[DNS]&ads.us_privacy=[US_PRIVACY]&ads.gdpr=[GDPR]&ads.gdpr_consent=[GDPR_CONSENT]&ads.devicemake=[DEVICE_MAKE]&ads.devicemodel=[DEVICE_MODEL]&ads.country=[COUNTRY]&ads.livestream=0&ads.prodq=1&ads.fck=[FCK]&ads.viewsize=[VIEWSIZE]&ads.givn=[NONCE]&ads.app_name=[APP_NAME]&ads.app_bundle=[APP_BUNDLE]&ads.app_storeurl=[APP_STOREURL]
+#EXTINF:-1 tvg-logo="https://image.xumo.com/v1/channels/channel/99992470/600x200.png?type=white_cropped",963 Stingray Hot Country
+https://d1bl6tskrpq9ze.cloudfront.net/hls/master.m3u8?ads.xumo_channelId=99992470&ads.csid=lgchannels_[COUNTRY]_StingrayHotCountry_ssai&ads.ad_tag_id=15711&ads.xumo_contentName=StingrayHotCountry&ads.xumo_contentId=1859&ads.content_language=en&ads.content_category=IAB16&ads.content_genre=music&ads.content_rating=tvg&ads.did=[IFA]&ads.coppa=0&ads.lmt=[LMT]&ads.dnt=[DNS]&ads.us_privacy=[US_PRIVACY]&ads.gdpr=[GDPR]&ads.gdpr_consent=[GDPR_CONSENT]&ads.devicemake=[DEVICE_MAKE]&ads.devicemodel=[DEVICE_MODEL]&ads.country=[COUNTRY]&ads.livestream=0&ads.prodq=1&ads.fck=[FCK]&ads.viewsize=[VIEWSIZE]&ads.givn=[NONCE]&ads.app_name=[APP_NAME]&ads.app_bundle=[APP_BUNDLE]&ads.app_storeurl=[APP_STOREURL]
+#EXTINF:-1 tvg-logo="https://image.xumo.com/v1/channels/channel/99992073/600x200.png?type=white_cropped",964 Qello Concerts by Stingray
+https://d1bl6tskrpq9ze.cloudfront.net/hls/master.m3u8?ads.xumo_channelId=99992073&ads.xumo_streamId=99992073&ads.channelId=99992073&ads.ad_tag_id=15708&ads.csid=lgchannels_de_stingrayqelloeu_ssai&ads.channelName=stingrayqelloeu_de&ads.xumo_contentName=StingrayQelloEU&ads.xumo_contentId=3478&ads.xumo_providerName=StingrayQelloEU&ads.xumo_providerId=3478&ads.content_category=IAB16&ads.content_genre=music&ads.content_language=en&ads.content_rating=tvg&ads.coppa=0&ads.livestream=0&ads.prodq=1&ads.did=[IFA]&ads.lmt=[LMT]&ads.dnt=[DNS]&ads.us_privacy=[US_PRIVACY]&ads.gdpr=[GDPR]&ads.gdpr_consent=[GDPR_CONSENT]&ads.devicemake=[DEVICE_MAKE]&ads.devicemodel=[DEVICE_MODEL]&ads.country=[COUNTRY]&ads.fck=[FCK]&ads.viewsize=[VIEWSIZE]&ads.givn=[NONCE]&ads.app_name=[APP_NAME]&ads.app_bundle=[APP_BUNDLE]&ads.app_storeurl=[APP_STOREURL]
+#EXTINF:-1 tvg-logo="https://image.xumo.com/v1/channels/channel/99992467/600x200.png?type=white_cropped",966 Stingray Today\'s Latin Pop
+https://d1bl6tskrpq9ze.cloudfront.net/hls/master.m3u8?ads.xumo_channelId=99992467&ads.csid=lgchannels_[COUNTRY]_stingraylatinpop_ssai&ads.ad_tag_id=15714&ads.xumo_contentName=StingrayExitosdelMomento&ads.xumo_contentId=3196&ads.content_language=es&ads.content_category=IAB16&ads.content_genre=music&ads.content_rating=tvg&ads.did=[IFA]&ads.coppa=0&ads.lmt=[LMT]&ads.dnt=[DNS]&ads.us_privacy=[US_PRIVACY]&ads.gdpr=[GDPR]&ads.gdpr_consent=[GDPR_CONSENT]&ads.devicemake=[DEVICE_MAKE]&ads.devicemodel=[DEVICE_MODEL]&ads.country=[COUNTRY]&ads.livestream=0&ads.prodq=1&ads.app_name=[APP_NAME]&ads.app_bundle=[APP_BUNDLE]&ads.app_storeurl=[APP_STOREURL]
+#EXTINF:-1 tvg-logo="https://image.xumo.com/v1/channels/channel/99982014/600x200.png?type=white_cropped",968 GoldStar TV  Alles Schlager
+https://d29h829bjuxghm.cloudfront.net/hls/master.m3u8?ads.xumo_channelId=99982014&ads.xumo_streamId=99982014&ads.channelId=99982014&ads.csid=lgchannels_DE_mainstreamgoldstargerman_ssai&ads.channelName=mainstreamgoldstargerman_de&ads.xumo_contentName=mainstreamgoldstargerman&ads.xumo_contentId=2591&ads.xumo_providerName=mainstreamgoldstargerman&ads.xumo_providerId=2591&ads.content_category=IAB17&ads.content_genre=television&ads.content_language=de&ads.content_rating=tvg&ads.coppa=0&ads.did=[IFA]&ads.is_lat=[LMT]&ads.us_privacy=[US_PRIVACY]&ads.gdpr=[GDPR]&ads.gdpr_consent=[GDPR_CONSENT]&ads.devicemake=[DEVICE_MAKE]&ads.appName=[APP_NAME]&ads.app_bundle=[APP_BUNDLE]&ads.app_version=[APP_VERSION]&ads.fck=[FCK]&ads.viewsize=[VIEWSIZE]&ads.givn=[NONCE]&ads.app_storeurl=[APP_STOREURL]
+#EXTINF:-1 tvg-logo="https://d3dj3gmzxw0r4q.cloudfront.net/Trace_Latina/LG_LOGO_TRACELATINA.png",970 TRACE LATINA
+https://trace-latina-lg-de.amagi.tv/hls/amagi_hls_data_tracetvAA-trace-latina-lgde/CDN/master.m3u8?ads.deviceid=[DEVICE_ID]&ads.ifa=[IFA]&ads.ifatype=[IFA_TYPE]&ads.lat=[LMT]&ads.donotsell=[DNS]&ads.ua=[UA]&ads.ip=[IP]&ads.gdpr=[GDPR]&ads.gdprconsent=[GDPR_CONSENT]&ads.country=[COUNTRY]&ads.usprivacy=[US_PRIVACY]&ads.appstoreurl=[APP_STOREURL]&ads.bundleid=[APP_BUNDLE]&ads.appname=[APP_NAME]&ads.appversion=[APP_VERSION]&ads.devicetype=[DEVICE_TYPE]&ads.devicemake=[DEVICE_MAKE]&ads.devicemodel=[DEVICE_MODEL]&ads.coppa=0&ads.targetad=[TARGETAD_ALLOWED]&fck=[FCK]&viewsize=[VIEWSIZE]&givn=[NONCE]
+#EXTINF:-1 tvg-logo="https://d3dj3gmzxw0r4q.cloudfront.net/Trace_Urban/LG_Ch_Logo_510x200.png",971 Trace Urban
+https://trace-urban-lg-de.amagi.tv/hls/amagi_hls_data_tracetvAA-trace-urban-lg-de/CDN/master.m3u8?ads.deviceid=[DEVICE_ID]&ads.ifa=[IFA]&ads.ifatype=[IFA_TYPE]&ads.lat=[LMT]&ads.donotsell=[DNS]&ads.ua=[UA]&ads.ip=[IP]&ads.gdpr=[GDPR]&ads.gdprconsent=[GDPR_CONSENT]&ads.country=[COUNTRY]&ads.usprivacy=[US_PRIVACY]&ads.appstoreurl=[APP_STOREURL]&ads.bundleid=[APP_BUNDLE]&ads.appname=[APP_NAME]&ads.appversion=[APP_VERSION]&ads.devicetype=[DEVICE_TYPE]&ads.devicemake=[DEVICE_MAKE]&ads.devicemodel=[DEVICE_MODEL]&ads.coppa=0&ads.targetad=[TARGETAD_ALLOWED]&fck=[FCK]&viewsize=[VIEWSIZE]&givn=[NONCE]
+#EXTINF:-1 tvg-logo="https://d13rrbz4t88obi.cloudfront.net/qjazz/NewQwestTV_200x200.png",975Qwest TV
+https://qwest-jazz-lg.amagi.tv/hls/amagi_hls_data_qwestAAAA-qwest-jazz-lg/CDN/master.m3u8?ads.deviceid=[DEVICE_ID]&ads.ifa=[IFA]&ads.ifatype=[IFA_TYPE]&ads.lat=[LMT]&ads.donotsell=[DNS]&ads.ua=[UA]&ads.ip=[IP]&ads.gdpr=[GDPR]&ads.gdprconsent=[GDPR_CONSENT]&ads.country=[COUNTRY]&ads.usprivacy=[US_PRIVACY]&ads.appstoreurl=[APP_STOREURL]&ads.bundleid=[APP_BUNDLE]&ads.appname=[APP_NAME]&ads.appversion=[APP_VERSION]&ads.devicetype=[DEVICE_TYPE]&ads.devicemake=[DEVICE_MAKE]&ads.devicemodel=[DEVICE_MODEL]&ads.coppa=0&ads.targetad=[TARGETAD_ALLOWED]&fck=[FCK]&viewsize=[VIEWSIZE]&givn=[NONCE]
+#EXTINF:-1 tvg-logo="https://fdtvgunicornlogos.blob.core.windows.net/production/lg/HV%20LG%20Channel%20Logos/DLX%20Lounge%20Logo%20und%20Mood%20Images/DLX%20Lounge_Logo%20200.png",978 Deluxe Lounge HD
+https://d46c0ebf9ef94053848fdd7b1f2f6b90.mediatailor.eu-central-1.amazonaws.com/v1/master/81bfcafb76f9c947b24574657a9ce7fe14ad75c0/live-prod/c37623ff-4ee1-11ed8aff-f91c9dc0ec5c/0/master.m3u8?country=de&vendor=lg
+#EXTINF:-1 tvg-logo="https://fdtvgunicornlogos.blob.core.windows.net/production/lg/HV%20LG%20Channel%20Logos/DLX%20Deutschpop%20Logo%20und%20Mood%20Images/DLX%20Deutschpop_Logo_200px.png",979 Deluxe Deutschpop
+https://d46c0ebf9ef94053848fdd7b1f2f6b90.mediatailor.eu-central-1.amazonaws.com/v1/master/81bfcafb76f9c947b24574657a9ce7fe14ad75c0/live-prod/4c9f9be1-f574-11eea7cb-71f3705559c1/0/master.m3u8?country=de&vendor=lg
+#EXTINF:-1 tvg-logo="https://d3bd0tgyk368z1.cloudfront.net/feeds/Images/WHITELOGO_NOW70s.png", 981 Now 70s
+https://amg01076-lightning-amg01076c1-lg-de-3970.playouts.now.amagi.tv/playlist/amg01076-lightning-now70s-lgde/playlist.m3u8?ads.deviceid=[DEVICE_ID]&ads.ifa=[IFA]&ads.ifatype=[IFA_TYPE]&ads.lat=[LMT]&ads.donotsell=[DNS]&ads.ua=[UA]&ads.ip=[IP]&ads.gdpr=[GDPR]&ads.gdprconsent=[GDPR_CONSENT]&ads.country=[COUNTRY]&ads.usprivacy=[US_PRIVACY]&ads.appstoreurl=[APP_STOREURL]&ads.bundleid=[APP_BUNDLE]&ads.appname=[APP_NAME]&ads.appversion=[APP_VERSION]&ads.devicetype=[DEVICE_TYPE]&ads.devicemake=[DEVICE_MAKE]&ads.devicemodel=[DEVICE_MODEL]&ads.targetad=[TARGETAD_ALLOWED]&fck=[FCK]&viewsize=[VIEWSIZE]&givn=[NONCE]
+#EXTINF:-1 tvg-logo="https://d3bd0tgyk368z1.cloudfront.net/feeds/Images/WHITELOGO_NOW80s.png", 982 Now 80s
+https://amg01076-lightning-amg01076c2-lg-de-4080.playouts.now.amagi.tv/playlist/amg01076-lightning-now80s-lgde/playlist.m3u8?ads.deviceid=[DEVICE_ID]&ads.ifa=[IFA]&ads.ifatype=[IFA_TYPE]&ads.lat=[LMT]&ads.donotsell=[DNS]&ads.ua=[UA]&ads.ip=[IP]&ads.gdpr=[GDPR]&ads.gdprconsent=[GDPR_CONSENT]&ads.country=[COUNTRY]&ads.usprivacy=[US_PRIVACY]&ads.appstoreurl=[APP_STOREURL]&ads.bundleid=[APP_BUNDLE]&ads.appname=[APP_NAME]&ads.appversion=[APP_VERSION]&ads.devicetype=[DEVICE_TYPE]&ads.devicemake=[DEVICE_MAKE]&ads.devicemodel=[DEVICE_MODEL]&ads.targetad=[TARGETAD_ALLOWED]&fck=[FCK]&viewsize=[VIEWSIZE]&givn=[NONCE]
+#EXTINF:-1 tvg-logo="https://d3ia204y3aqvyv.cloudfront.net/HITUK/XITE_Hits_LG_Rebrand/Logo_XITE_Hits.png",984 XITE Hits
+https://xite-germany-lg.amagi.tv/hls/amagi_hls_data_xiteAAAAA-xite-lg-de/CDN/master.m3u8?ads.deviceid=[DEVICE_ID]&ads.ifa=[IFA]&ads.ifatype=[IFA_TYPE]&ads.lat=[LMT]&ads.donotsell=[DNS]&ads.ua=[UA]&ads.ip=[IP]&ads.gdpr=[GDPR]&ads.gdprconsent=[GDPR_CONSENT]&ads.country=[COUNTRY]&ads.usprivacy=[US_PRIVACY]&ads.appstoreurl=[APP_STOREURL]&ads.bundleid=[APP_BUNDLE]&ads.appname=[APP_NAME]&ads.appversion=[APP_VERSION]&ads.devicetype=[DEVICE_TYPE]&ads.devicemake=[DEVICE_MAKE]&ads.devicemodel=[DEVICE_MODEL]&ads.coppa=0&ads.targetad=[TARGETAD_ALLOWED]&fck=[FCK]&viewsize=[VIEWSIZE]&givn=[NONCE]
+#EXTINF:-1 tvg-logo="https://d3bd0tgyk368z1.cloudfront.net/feeds/images/cnnus/CNNHeadlines_White_400x200.png",986 CNN Headlines
+https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00405-rakutentv-cnnfastlg-rakutenlgde/playlist.m3u8?ads.deviceid=[DEVICE_ID]&ads.ifa=[IFA]&ads.ifatype=[IFA_TYPE]&ads.lat=[LMT]&ads.donotsell=[DNS]&ads.ua=[UA]&ads.ip=[IP]&ads.gdpr=[GDPR]&ads.gdprconsent=[GDPR_CONSENT]&ads.country=[COUNTRY]&ads.usprivacy=[US_PRIVACY]&ads.appstoreurl=[APP_STOREURL]&ads.bundleid=[APP_BUNDLE]&ads.appname=[APP_NAME]&ads.appversion=[APP_VERSION]&ads.devicetype=[DEVICE_TYPE]&ads.devicemake=[DEVICE_MAKE]&ads.devicemodel=[DEVICE_MODEL]&ads.coppa=0&ads.targetad=[TARGETAD_ALLOWED]&fck=[FCK]&viewsize=[VIEWSIZE]&givn=[NONCE]
+#EXTINF:-1 tvg-logo="https://fdtvgunicornlogos.blob.core.windows.net/production/lg/Neue%20LG%20Channel%20Logos/TemporaTV_LG_Channel_Logo_200-transparent.png",987 Tempora TV
+https://d46c0ebf9ef94053848fdd7b1f2f6b90.mediatailor.eu-central-1.amazonaws.com/v1/master/81bfcafb76f9c947b24574657a9ce7fe14ad75c0/live-prod/2d4d5099-b10f-11edb23e-212e82058ebd/0/master.m3u8?country=de&vendor=lg
+#EXTINF:-1 tvg-logo="https://fdtvgunicornlogos.blob.core.windows.net/production/lg/Neue%20LG%20Channel%20Logos/ChannelLogo_LG_focusTV.png",988 Focus TV
+https://d46c0ebf9ef94053848fdd7b1f2f6b90.mediatailor.eu-central-1.amazonaws.com/v1/master/81bfcafb76f9c947b24574657a9ce7fe14ad75c0/live-prod/de24c3e7-4ee1-11ed8aff-f91c9dc0ec5c/0/master.m3u8?country=de&vendor=lg
+#EXTINF:-1 tvg-logo="https://images-2.rakuten.tv/storage/global-live-channel/translation/logo-2-1/a187515e-a326-4e08-a259-f538915c9405-width400height200.png",989 The Guardian
+https://the-guardian-3d0e32e7-aa40-49e5-b9d9-c433151fa61a-de.fast.rakuten.tv/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6437/master.m3u8?ads.app_bundle=[APP_BUNDLE]&ads.app_name=LG%20Channel%20Plus&ads.app_store_url=[APP_STOREURL]&ads.app_version=[APP_VERSION]&ads.brand_name=[DEVICE_MAKE]&ads.device_lmt=[LMT]&ads.device_model=[DEVICE_MODEL]&ads.did=[IFA]&ads.fck=[FCK]&ads.gdpr_consent=[GDPR_CONSENT]&ads.ifa_type=[IFA_TYPE]&ads.market=de&ads.platform=lg_channelplus&ads.pod_type=playerpage_midroll&ads.rtv_channel_name=the-guardian-3d0e32e7-aa40-49e5-b9d9c433151fa61a_de&ads.rtv_content_id=6450&ads.rtv_language=eng&ads.viewsize=[VIEWSIZE]&channel_id=6450&disable_subtitles=true&publishing_platform_id=2
+#EXTINF:-1 tvg-logo="https://cdn88-accio.its-newid.net/rt_channel/newid_rt032/lg_channels/img/channel_logo/default/channel_logo.png",990 YTN
+https://ads.its-newid.net/api/manifest.m3u8?tp=lg_channels&channel_name=ytn&channel_id=newid_rt032&apikey=48230e6b-1cea009715975f93-39af1962&auth=fb7bc49a-a2090aa9-850d4824b061f466&live_type=retransmission&ads.live=[CONTENT_LIVE]&ads.deviceid=[DEVICE_ID]&ads.ifa=[IFA]&ads.ifatype=[IFA_TYPE]&ads.lat=[LMT]&ads.donotsell=[DNS]&ads.ua=[UA]&ads.ip=[IP]&ads.gdpr=[GDPR]&ads.gdpr_consent=[GDPR_CONSENT]&ads.country=[COUNTRY]&ads.us_privacy=[US_PRIVACY]&ads.appstoreurl=[APP_STOREURL]&ads.bundleid=[APP_BUNDLE]&ads.appname=[APP_NAME]&ads.appversion=[APP_VERSION]&ads.devicetype=[DEVICE_TYPE]&ads.devicemake=[DEVICE_MAKE]&ads.devicemodel=[DEVICE_MODEL]&ads.targetad=[TARGETAD_ALLOWED]&ads.fck=[FCK]&ads.viewsize=[VIEWSIZE]
+#EXTINF:-1 tvg-logo="https://images-2.rakuten.tv/storage/global-live-channel/translation/logo-2-1/58346729-6cb5-458f-9d72-b337404a4a86-width400height200.png",991 Africanews
+https://c3c275b999764df8a2dd55ffe2996818.mediatailor.eu-west-1.amazonaws.com/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6576/bitok/eyJzdGlkIjoiNjAxY2QwZjQtMzRiOC00YWUyLThkNDAtM2FlOGU5MTUwMmJiIiwibWt0IjoiZGUiLCJjaCI6NjU4NCwicHRmIjoyfQ==/26036/africanews-en.m3u8
+#EXTINF:-1 tvg-logo="https://dki01q1l7yn3y.cloudfront.net/thumbnails-platformprod/assets/cs::content::channels/0-2048/1253-LG-Logo-PNG-100x100_v2.png",992 Moconomy - Wirtschaft und Finanzen Infotainment
+https://ec3e52e117054e1a8dba8f893fd85fe9.mediatailor.us-east-1.amazonaws.com/v1/master/f4e8c53a8367a5b58e20ce054ea3ce25a3e904d3/LG-de_Moconomy/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://img.platform.wurl.dev/channel/1179/lg/816767/LG-LogoPNG-100x100_v1.png",993 Bloomberg Originals
-https://ac45d582.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/
-TEctZGVfQmxvb21iZXJnT3JpZ2luYWxzX0hMUw/playlist.m3u8
+https://ac45d582.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/TEctZGVfQmxvb21iZXJnT3JpZ2luYWxzX0hMUw/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://img.platform.wurl.dev/channel/389/lg/6f2a84/LG-LogoPNG-100x100_v3.png",994 Bloomberg TV+
-https://d3493935.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/
-TEctZGVfQmxvb21iZXJnVFZQbHVzX0hMUw/playlist.m3u8
-#EXTINF:-1
-tvg-logo="https://image.xumo.com/v1/channels/channel/99982000/600x200.png?
-type=white_cropped",995 NBC News NOW
-https://d1bl6tskrpq9ze.cloudfront.net/hls/master.m3u8?
-ads.xumo_channelId=99982000&ads.xumo_streamId=99982000&ads.channelId=99982000&ads.a
-d_tag_id=51857&ads.csid=lgchannels_de_nbcnewsnow_ssai&ads.channelName=nbcnewsnow_de
-&ads.xumo_contentName=NBCNewsNOW&ads.xumo_contentId=1828&ads.xumo_providerName=NBCN
-ewsNOW&ads.xumo_providerId=1828&ads.content_category=IAB17&ads.content_genre=news&ads.content_language=en&ads.content_rating=tvg&ads.coppa=0&ads.livestream=0&ads.prodq=1&ads.did=[IFA]&ads.lmt=[LMT]&ads.dnt=[DNS
-]&ads.us_privacy=[US_PRIVACY]&ads.gdpr=[GDPR]&ads.gdpr_consent=[GDPR_CONSENT]&ads.d
-evicemake=[DEVICE_MAKE]&ads.devicemodel=[DEVICE_MODEL]&ads.country=[COUNTRY]&ads.fc
-k=[FCK]&ads.viewsize=[VIEWSIZE]&ads.givn=[NONCE]&ads.app_name=[APP_NAME]&ads.app_bu
-ndle=[APP_BUNDLE]&ads.app_storeurl=[APP_STOREURL]
-#EXTINF:-1
-tvg-logo="https://d3bd0tgyk368z1.cloudfront.net/feeds/Images/CNBCLOGOLG.png",996
-CNBC
-https://amg01079-nbcuuk-amg01079c1-lg-de-2031.playouts.now.amagi.tv/playlist/
-amg01079-nbcuukfast-cnbcpe-lgde/playlist.m3u8?
-ads.deviceid=[DEVICE_ID]&ads.ifa=[IFA]&ads.ifatype=[IFA_TYPE]&ads.lat=[LMT]&ads.don
-otsell=[DNS]&ads.ua=[UA]&ads.ip=[IP]&ads.gdpr=[GDPR]&ads.gdprconsent=[GDPR_CONSENT]
-&ads.country=[COUNTRY]&ads.usprivacy=[US_PRIVACY]&ads.appstoreurl=[APP_STOREURL]&ad
-s.bundleid=[APP_BUNDLE]&ads.appname=[APP_NAME]&ads.appversion=[APP_VERSION]&ads.dev
-icetype=[DEVICE_TYPE]&ads.devicemake=[DEVICE_MAKE]&ads.devicemodel=[DEVICE_MODEL]&a
-ds.targetad=[TARGETAD_ALLOWED]&fck=[FCK]&viewsize=[VIEWSIZE]&givn=[NONCE]
-#EXTINF:-1 tvg-logo="https://images-1.rakuten.tv/storage/global-live-channel/
-translation/logo-2-1/fe6968d7-37a0-44b2-9948-cb8845e3cf58-width400height200.png",997 Euronews LIVE
-https://8b101736cc2a42d0a08944e8a3b28059.mediatailor.eu-west-1.amazonaws.com/v1/
-master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6567/bitok/
-eyJzdGlkIjoiNDI2Y2I2OTctODY5My00ZmNhLWFlYWUtZThkMDhkYzRiMjk0IiwibWt0IjoiZGUiLCJjaCI
-6NjU2NywicHRmIjoyfQ==/26033/euronews-de.m3u8
-#EXTINF:-1
-tvg-logo="https://d2mxb63djushzm.cloudfront.net/images/CNNi_Logo_200x200.png",998
-CNNi
-https://amg00803-cnnfast-amg00803c6-lg-de-5356.playouts.now.amagi.tv/playlist/
-amg00803-cnnfastinternational-cnniall-lgde/playlist.m3u8?
-ads.deviceid=[DEVICE_ID]&ads.ifa=[IFA]&ads.ifatype=[IFA_TYPE]&ads.lat=[LMT]&ads.don
-
-otsell=[DNS]&ads.ua=[UA]&ads.ip=[IP]&ads.gdpr=[GDPR]&ads.gdprconsent=[GDPR_CONSENT]
-&ads.country=[COUNTRY]&ads.usprivacy=[US_PRIVACY]&ads.appstoreurl=[APP_STOREURL]&ad
-s.bundleid=[APP_BUNDLE]&ads.appname=[APP_NAME]&ads.appversion=[APP_VERSION]&ads.dev
-icetype=[DEVICE_TYPE]&ads.devicemake=[DEVICE_MAKE]&ads.devicemodel=[DEVICE_MODEL]&a
-ds.targetad=[TARGETAD_ALLOWED]&fck=[FCK]&viewsize=[VIEWSIZE]&givn=[NONCE]
-#EXTINF:-1 tvg-logo="https://lge-static.ottera.tv/prod/lge/linear_channel/logo/
-1600x400/lg1_800x200_white_2.png",999 LG 1 +1
-https://stream.ads.ottera.tv/playlist.m3u8?
-network_id=11875&avod=1&coppa=0&td=6&is_lat=[LMT]&dnt=[DNS]&us_privacy=[US_PRIVACY]
-&did=[DEVICE_ID]&ip=[IP]&ua=[UA]&ifa_type=[IFA_TYPE]&app_bundle=[APP_BUNDLE]&app_st
-ore_url=[APP_STOREURL]&app_name=[APP_NAME]&custom_targeting=html5&custom_4=lg_chann
-els_de&player_height=720&player_width=1280&content_channel=lg_channels&content_dist
-_name=lg_channels&device_make=[DEVICE_MAKE]&device_model=[DEVICE_MODEL]&device_os=h
-tml5&consent=[GDPR_CONSENT]&gdpr=[GDPR]&gender=not_specified&yob=0&livestream=1&cus
-tom_param_0=[DEVICE_MODEL]&custom_param_1=tv&custom_param_2=[DEVICE_MAKE]&custom_pa
-ram_3=[DEVICE_ID]&custom_param_4=lg_channels&custom_param_5=html5&fck=[FCK]&viewsiz
-e=[VIEWSIZE]
+https://d3493935.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/TEctZGVfQmxvb21iZXJnVFZQbHVzX0hMUw/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://image.xumo.com/v1/channels/channel/99982000/600x200.png?type=white_cropped",995 NBC News NOW
+https://d1bl6tskrpq9ze.cloudfront.net/hls/master.m3u8?ads.xumo_channelId=99982000&ads.xumo_streamId=99982000&ads.channelId=99982000&ads.ad_tag_id=51857&ads.csid=lgchannels_de_nbcnewsnow_ssai&ads.channelName=nbcnewsnow_de&ads.xumo_contentName=NBCNewsNOW&ads.xumo_contentId=1828&ads.xumo_providerName=NBCNewsNOW&ads.xumo_providerId=1828&ads.content_category=IAB17&ads.content_genre=news&ads.content_language=en&ads.content_rating=tvg&ads.coppa=0&ads.livestream=0&ads.prodq=1&ads.did=[IFA]&ads.lmt=[LMT]&ads.dnt=[DNS]&ads.us_privacy=[US_PRIVACY]&ads.gdpr=[GDPR]&ads.gdpr_consent=[GDPR_CONSENT]&ads.devicemake=[DEVICE_MAKE]&ads.devicemodel=[DEVICE_MODEL]&ads.country=[COUNTRY]&ads.fck=[FCK]&ads.viewsize=[VIEWSIZE]&ads.givn=[NONCE]&ads.app_name=[APP_NAME]&ads.app_bundle=[APP_BUNDLE]&ads.app_storeurl=[APP_STOREURL]
+#EXTINF:-1 tvg-logo="https://d3bd0tgyk368z1.cloudfront.net/feeds/Images/CNBCLOGOLG.png",996 CNBC
+https://amg01079-nbcuuk-amg01079c1-lg-de-2031.playouts.now.amagi.tv/playlist/amg01079-nbcuukfast-cnbcpe-lgde/playlist.m3u8?ads.deviceid=[DEVICE_ID]&ads.ifa=[IFA]&ads.ifatype=[IFA_TYPE]&ads.lat=[LMT]&ads.donotsell=[DNS]&ads.ua=[UA]&ads.ip=[IP]&ads.gdpr=[GDPR]&ads.gdprconsent=[GDPR_CONSENT]&ads.country=[COUNTRY]&ads.usprivacy=[US_PRIVACY]&ads.appstoreurl=[APP_STOREURL]&ads.bundleid=[APP_BUNDLE]&ads.appname=[APP_NAME]&ads.appversion=[APP_VERSION]&ads.devicetype=[DEVICE_TYPE]&ads.devicemake=[DEVICE_MAKE]&ads.devicemodel=[DEVICE_MODEL]&ads.targetad=[TARGETAD_ALLOWED]&fck=[FCK]&viewsize=[VIEWSIZE]&givn=[NONCE]
+#EXTINF:-1 tvg-logo="https://images-1.rakuten.tv/storage/global-live-channel/translation/logo-2-1/fe6968d7-37a0-44b2-9948-cb8845e3cf58-width400height200.png",997 Euronews LIVE
+https://8b101736cc2a42d0a08944e8a3b28059.mediatailor.eu-west-1.amazonaws.com/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6567/bitok/eyJzdGlkIjoiNDI2Y2I2OTctODY5My00ZmNhLWFlYWUtZThkMDhkYzRiMjk0IiwibWt0IjoiZGUiLCJjaCI6NjU2NywicHRmIjoyfQ==/26033/euronews-de.m3u8
+#EXTINF:-1 tvg-logo="https://d2mxb63djushzm.cloudfront.net/images/CNNi_Logo_200x200.png",998 CNNi
+https://amg00803-cnnfast-amg00803c6-lg-de-5356.playouts.now.amagi.tv/playlist/amg00803-cnnfastinternational-cnniall-lgde/playlist.m3u8?ads.deviceid=[DEVICE_ID]&ads.ifa=[IFA]&ads.ifatype=[IFA_TYPE]&ads.lat=[LMT]&ads.donotsell=[DNS]&ads.ua=[UA]&ads.ip=[IP]&ads.gdpr=[GDPR]&ads.gdprconsent=[GDPR_CONSENT]&ads.country=[COUNTRY]&ads.usprivacy=[US_PRIVACY]&ads.appstoreurl=[APP_STOREURL]&ads.bundleid=[APP_BUNDLE]&ads.appname=[APP_NAME]&ads.appversion=[APP_VERSION]&ads.devicetype=[DEVICE_TYPE]&ads.devicemake=[DEVICE_MAKE]&ads.devicemodel=[DEVICE_MODEL]&ads.targetad=[TARGETAD_ALLOWED]&fck=[FCK]&viewsize=[VIEWSIZE]&givn=[NONCE]
+#EXTINF:-1 tvg-logo="https://lge-static.ottera.tv/prod/lge/linear_channel/logo/1600x400/lg1_800x200_white_2.png",999 LG 1 +1
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=11875&avod=1&coppa=0&td=6&is_lat=[LMT]&dnt=[DNS]&us_privacy=[US_PRIVACY]&did=[DEVICE_ID]&ip=[IP]&ua=[UA]&ifa_type=[IFA_TYPE]&app_bundle=[APP_BUNDLE]&app_store_url=[APP_STOREURL]&app_name=[APP_NAME]&custom_targeting=html5&custom_4=lg_channels_de&player_height=720&player_width=1280&content_channel=lg_channels&content_dist_name=lg_channels&device_make=[DEVICE_MAKE]&device_model=[DEVICE_MODEL]&device_os=html5&consent=[GDPR_CONSENT]&gdpr=[GDPR]&gender=not_specified&yob=0&livestream=1&custom_param_0=[DEVICE_MODEL]&custom_param_1=tv&custom_param_2=[DEVICE_MAKE]&custom_param_3=[DEVICE_ID]&custom_param_4=lg_channels&custom_param_5=html5&fck=[FCK]&viewsize=[VIEWSIZE]
 
 
