@@ -245,81 +245,55 @@ http://m3u.tvcluboficial.com/m/m/183.m3u8
 http://m3u.tvcluboficial.com/m/m/184.m3u8
 #EXTINF:-1 tvg-logo="https://www.pngall.com/wp-content/uploads/8/The-Simpsons-Logo-PNG.png" group-title="bozz",Los Simpsons
 https://lbgo.bozztv.com/ssh101/ssh101/simplat/playlist.m3u8
-
 #EXTINF:-1 tvg-logo="https://www.pngall.com/wp-content/uploads/8/The-Simpsons-Logo-PNG.png" group-title="bozz",Los Simpsons Opc 2
 https://lbgo.bozztv.com/ssh101/ssh101/simptestnews/playlist.m3u8
-
 #EXTINF:-1 tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ESBD130000205_20241022T050609SQUARE.png" group-title="bozz",Los pitufos
 https://jmp2.uk/stvp-ESBD130000205
-
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/2/25/Mr._Bean_Animated_Series_stacked_logo.png" group-title="bozz",Mrs. Beans
 https://amg00627-amg00627c30-rakuten-es-3990.playouts.now.amagi.tv/playlist/amg00627-banijayfast-mrbeanescc-rakutenes/playlist.m3u8
-
 #EXTINF:-1 tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ESBD5100001G0_20250729T045047SQUARE.png" group-title="bozz",Super toons tv
 https://jmp2.uk/stvp-ESBD5100001G0
-
 #EXTINF:-1 tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ESBD2300003S5_20251013T053506SQUARE.png" group-title="bozz",Rabbids: La invasión
 https://jmp2.uk/stvp-ESBD2300003S5
-
 #EXTINF:-1 tvg-logo="https://i.ibb.co/yc2r75Tg/OIP.jpg" group-title="bozz",Laika Channels
 https://live20.bozztv.com/giatvplayout7/giatv-209474/tracks-v1a1/index.m3u8
-
 #EXTINF:-1 tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ES2600008NX_20241210T052643SQUARE.png" group-title="bozz",Rantaró, El Ninja Boy (ES)
 https://jmp2.uk/stvp-ES2600008NX
-
 #EXTINF:-1 tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ES4400001N3_20260120T031327SQUARE.png" group-title="bozz",Las tres mellizas
 https://jmp2.uk/stvp-ES4400001N3
-
 #EXTINF:-1 tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ES17000065P_20251013T053431SQUARE.png" group-title="bozz",Baby Shark
 https://jmp2.uk/stvp-ES17000065P
-
 #EXTINF:-1 tvg-logo="https://i.ibb.co/Xx2Cndb0/Cine53.png" group-title="bozz",Cine53
 https://live20.bozztv.com/akamaissh101/ssh101/codificador8/playlist.m3u8
-
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Tf0vweF.png" group-title="bozz",Kpop tv play
 https://183.bozztv.com/giatv/giatv-kpoptvplay/kpoptvplay/playlist.m3u8
-
 #EXTINF:-1 tvg-logo="https://mejoresradioytv.com/wp-content/uploads/2025/01/Canal-69.jpg" group-title="bozz",Canal 69 tv
 https://live20.bozztv.com/akamaissh101/ssh101/canal69tv/playlist.m3u8
-
 #EXTINF:-1 tvg-logo="https://i.imgur.com/4IjhXKm.png" group-title="bozz",Opinion sur cine
 https://183.bozztv.com/giatv/giatv-opinionsurc/opinionsurc/playlist.m3u8
-
 #EXTINF:-1 tvg-logo="https://i.ibb.co/0Rsy8QbM/El-Mago-TV-2.png" group-title="bozz",El mago tv 2
 https://lbgo.bozztv.com/ssh101/ssh101/elmagotv2/playlist.m3u8
-
 #EXTINF:-1 tvg-logo="https://onzatv.com/wp-content/uploads/2025/02/cropped-fav.Onza-tv-2.png" group-title="bozz",Canal onza tv venezuela
 https://live20.bozztv.com/giatv/giatv-onzatv1234/onzatv1234/chunks.m3u8
-
 #EXTINF:-1 tvg-logo="https://i.ibb.co/wF1rzvyB/GO-TV.png" group-title="bozz",Go tv
 https://lbgo.bozztv.com/ssh101/ssh101/gotvclick/playlist.m3u8
-
 #EXTINF:-1 tvg-logo="https://i.ibb.co/B5Fzf0gk/Mittos-TV.png" group-title="bozz",Mittos tv
 https://lbgo.bozztv.com/ssh101/ssh101/tv777lv/playlist.m3u8
-
 #EXTINF:-1 tvg-logo="https://i.ibb.co/DPt0yF8q/MCU-TV.png" group-title="bozz",MCU tv
 https://lbgo.bozztv.com/ssh101/ssh101/imcu/playlist.m3u8
-
 #EXTINF:-1 tvg-logo="https://i.ibb.co/5XGNHpRF/Ipersonica.png" group-title="bozz",Ipersonica
 https://lbgo.bozztv.com/ssh101/ssh101/ipersonica/playlist.m3u8
-
 #EXTINF:-1 tvg-logo="https://i.ibb.co/7txS72SM/Play-Cine-TV.png" group-title="bozz",Play cine tv
 https://lbgo.bozztv.com/ssh101/ssh101/plaaytv/playlist.m3u8
-
 #EXTINF:-1 tvg-logo="https://i.ibb.co/C5w6XFk4/Alternativa-TV.png" group-title="bozz",Alternativa Tv
 https://lbgo.bozztv.com/ssh101/ssh101/alternativatvpe/playlist.m3u8
-
 #EXTINF:-1 tvg-logo="https://i.ibb.co/WvksP6FB/Fabian-Vision.png" group-title="bozz",Fabian vision
 https://lbgo.bozztv.com/ssh101/ssh101/fabiantv182/playlist.m3u8
-
 #EXTINF:-1 tvg-logo="https://i.ibb.co/cSzWbj75/Grande-TV.png" group-title="bozz",Grande Tv
 https://lbgo.bozztv.com/ssh101/ssh101/grandetv2240/playlist.m3u8
-
 #EXTINF:-1 tvg-logo="https://i.ibb.co/Q30mq4cv/PRITV.png" group-title="bozz",Pritv
 https://lbgo.bozztv.com/ssh101/ssh101/tv1251master/playlist.m3u8
-
 #EXTINF:-1 tvg-logo="https://i.ibb.co/Q3bPH59x/Contact-TV.png" group-title="bozz",ContacTv
 https://lbgo.bozztv.com/ssh101/ssh101/contactv/playlist.m3u8
-
 #EXTINF:-1 tvg-logo="https://i.ibb.co/RpK6HF2Q/Planeta-Radio-TV.png" group-title="bozz",Planeta Radio Tv
 https://lbgo.bozztv.com/ssh101/ssh101/planeta55tv/playlist.m3u8
