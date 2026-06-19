@@ -31,8 +31,6 @@ http://205.235.6.29:8000/play/a0wz/index.m3u8
 http://205.235.6.29:8000/play/a0xe/index.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e4/Tlnovelas_logo.svg/512px-Tlnovelas_logo.svg.png" group-title="-",386 - 20.1 televisa novelas
 http://205.235.6.29:8000/play/a0xm/index.m3u8
-#EXTINF:-1 group-title="-",388 Eventos
-http://205.235.6.29:8000/play/a0y3/index.m3u8
 #EXTINF:-1 group-title="-",4025 canal mundial
 http://205.235.6.29:8000/play/a10f/index.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/90/Distrito_Comedia_logo_2020.svg/512px-Distrito_Comedia_logo_2020.svg.png" group-title="-",416 DISTRITO COMEDIA
