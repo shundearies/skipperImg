@@ -1,159 +1,159 @@
 #EXTM3U
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/jdemorais/EPG/master/logos/LasEstrellas.png" group-title="-",20.5 ESTRELLAS HD
+#EXTINF:-1 tvg-logo="https://iptv-org.github.io/providers/logos/las-estrellas.png" group-title="-",20.5 ESTRELLAS HD
 http://205.235.6.29:8000/play/13/index.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/jdemorais/EPG/master/logos/TNTSports.png" group-title="-",30.1 TNT SPORTS
+#EXTINF:-1 tvg-logo="https://iptv-org.github.io/providers/logos/tnt-sports.png" group-title="-",30.1 TNT SPORTS
 http://205.235.6.29:8000/play/a0xa/index.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/jdemorais/EPG/master/logos/TUDN.png" group-title="-",31.1 DEPORTES - TUDN 2075
+#EXTINF:-1 tvg-logo="https://iptv-org.github.io/providers/logos/tudn.png" group-title="-",31.1 DEPORTES - TUDN 2075
 http://205.235.6.29:8000/play/a0mh/index.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/LaAlianza/la-alianza-logos/master/logos/telerama.png" group-title="-",310 Telerama XUI
+#EXTINF:-1 tvg-logo="https://iptv-org.github.io/providers/logos/telerama.png" group-title="-",310 Telerama XUI
 http://205.235.6.29:8000/play/a0va/index.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/jdemorais/EPG/master/logos/TNTSportsPremium.png" group-title="-",3110 TNT Sports Premium HD
+#EXTINF:-1 tvg-logo="https://iptv-org.github.io/providers/logos/tnt-sports.png" group-title="-",3110 TNT Sports Premium HD
 http://205.235.6.29:8000/play/a104/index.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/jdemorais/EPG/master/logos/WinSports.png" group-title="-",31110 - 31.1 WIN SPORT
+#EXTINF:-1 tvg-logo="https://iptv-org.github.io/providers/logos/win-sports.png" group-title="-",31110 - 31.1 WIN SPORT
 http://205.235.6.29:8000/play/a10e/index.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/jdemorais/EPG/master/logos/France24.png" group-title="-",351 - France 24
+#EXTINF:-1 tvg-logo="https://iptv-org.github.io/providers/logos/france-24.png" group-title="-",351 - France 24
 http://205.235.6.29:8000/play/a0vd/index.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/LaAlianza/la-alianza-logos/master/logos/rtu.png" group-title="-",36 - ECU RTU
+#EXTINF:-1 tvg-logo="https://iptv-org.github.io/providers/logos/rtu.png" group-title="-",36 - ECU RTU
 http://205.235.6.29:8000/play/a0ma/index.m3u8
 #EXTINF:-1 group-title="-",363-MAKRODIGITAL
 http://205.235.6.29:8000/play/a0wp/index.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/jdemorais/EPG/master/logos/Pasiones.png" group-title="-",365 -Pasiones HD
+#EXTINF:-1 tvg-logo="https://iptv-org.github.io/providers/logos/pasiones.png" group-title="-",365 -Pasiones HD
 http://205.235.6.29:8000/play/a0pl/index.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/jdemorais/EPG/master/logos/beINSports.png" group-title="-",367 - 40.1 BEIN SPORT
+#EXTINF:-1 tvg-logo="https://iptv-org.github.io/providers/logos/bein-sports.png" group-title="-",367 - 40.1 BEIN SPORT
 http://205.235.6.29:8000/play/a0ws/index.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/LaAlianza/la-alianza-logos/master/logos/hogartv.png" group-title="-",368 - hogar tv
+#EXTINF:-1 tvg-logo="https://iptv-org.github.io/providers/logos/hogar-tv.png" group-title="-",368 - hogar tv
 http://205.235.6.29:8000/play/a0wu/index.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/LaAlianza/la-alianza-logos/master/logos/telenostalgia.png" group-title="-",369 - TELENOSTALGIA
+#EXTINF:-1 tvg-logo="https://iptv-org.github.io/providers/logos/telenostalgia.png" group-title="-",369 - TELENOSTALGIA
 http://205.235.6.29:8000/play/a0yy/index.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/LaAlianza/la-alianza-logos/master/logos/hogartv.png" group-title="-",372 - hogartv
+#EXTINF:-1 tvg-logo="https://iptv-org.github.io/providers/logos/hogar-tv.png" group-title="-",372 - hogartv
 http://205.235.6.29:8000/play/a0wz/index.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/LaAlianza/la-alianza-logos/master/logos/agrotv.png" group-title="-",375 - 23.3 - AGRO TV
+#EXTINF:-1 tvg-logo="https://iptv-org.github.io/providers/logos/agro-tv.png" group-title="-",375 - 23.3 - AGRO TV
 http://205.235.6.29:8000/play/a0xe/index.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/jdemorais/EPG/master/logos/tlnovelas.png" group-title="-",386 - 20.1 televisa novelas
+#EXTINF:-1 tvg-logo="https://iptv-org.github.io/providers/logos/tlnovelas.png" group-title="-",386 - 20.1 televisa novelas
 http://205.235.6.29:8000/play/a0xm/index.m3u8
 #EXTINF:-1 group-title="-",388 Eventos
 http://205.235.6.29:8000/play/a0y3/index.m3u8
 #EXTINF:-1 group-title="-",4025 canal mundial
 http://205.235.6.29:8000/play/a10f/index.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/jdemorais/EPG/master/logos/DistritoComedia.png" group-title="-",416 DISTRITO COMEDIA
+#EXTINF:-1 tvg-logo="https://iptv-org.github.io/providers/logos/distrito-comedia.png" group-title="-",416 DISTRITO COMEDIA
 http://205.235.6.29:8000/play/a0z3/index.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/jdemorais/EPG/master/logos/TNT.png" group-title="-",500 TNT HD LIKE TV 
+#EXTINF:-1 tvg-logo="https://iptv-org.github.io/providers/logos/tnt.png" group-title="-",500 TNT HD LIKE TV 
 http://205.235.6.29:8000/play/a0yn/index.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/jdemorais/EPG/master/logos/Telemundo.png" group-title="-",5020 Telemundo
+#EXTINF:-1 tvg-logo="https://iptv-org.github.io/providers/logos/telemundo.png" group-title="-",5020 Telemundo
 http://205.235.6.29:8000/play/a106/index.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/LaAlianza/la-alianza-logos/master/logos/elcanaldelfutbol.png" group-title="-",520 EL CANAL DEL FUTBOL
+#EXTINF:-1 tvg-logo="https://iptv-org.github.io/providers/logos/el-canal-del-futbol.png" group-title="-",520 EL CANAL DEL FUTBOL
 http://205.235.6.29:8000/play/a105/index.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/LaAlianza/la-alianza-logos/master/logos/ecuavisa.png" group-title="-",600 - ECUAVISA ULTRA
+#EXTINF:-1 tvg-logo="https://iptv-org.github.io/providers/logos/ecuavisa.png" group-title="-",600 - ECUAVISA ULTRA
 http://205.235.6.29:8000/play/a0zw/index.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/LaAlianza/la-alianza-logos/master/logos/tctelevision.png" group-title="-",601 TC ULTRA
+#EXTINF:-1 tvg-logo="https://iptv-org.github.io/providers/logos/tc-television.png" group-title="-",601 TC ULTRA
 http://205.235.6.29:8000/play/a0zx/index.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/LaAlianza/la-alianza-logos/master/logos/telerama.png" group-title="-",603 - TELERAMA ULTRA
+#EXTINF:-1 tvg-logo="https://iptv-org.github.io/providers/logos/telerama.png" group-title="-",603 - TELERAMA ULTRA
 http://205.235.6.29:8000/play/a0zy/index.m3u8
 #EXTINF:-1 group-title="-",AMANTE TV 
 http://205.235.6.29:8000/play/a102/index.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/jdemorais/EPG/master/logos/AmericaTV.png" group-title="-",America TV HD
+#EXTINF:-1 tvg-logo="https://iptv-org.github.io/providers/logos/america-tv.png" group-title="-",America TV HD
 http://205.235.6.29:8000/play/a0ut/index.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/jdemorais/EPG/master/logos/AnimalPlanet.png" group-title="-",Animal Planet
+#EXTINF:-1 tvg-logo="https://iptv-org.github.io/providers/logos/animal-planet.png" group-title="-",Animal Planet
 http://205.235.6.29:8000/play/a0yp/index.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/jdemorais/EPG/master/logos/Antena3.png" group-title="-",Antena 3
+#EXTINF:-1 tvg-logo="https://iptv-org.github.io/providers/logos/antena-3.png" group-title="-",Antena 3
 http://205.235.6.29:8000/play/a0xq/index.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/jdemorais/EPG/master/logos/BabyTV.png" group-title="-",Baby TV
+#EXTINF:-1 tvg-logo="https://iptv-org.github.io/providers/logos/baby-tv.png" group-title="-",Baby TV
 http://205.235.6.29:8000/play/a0yj/index.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/jdemorais/EPG/master/logos/CNNEspanol.png" group-title="-",CNN Español
+#EXTINF:-1 tvg-logo="https://iptv-org.github.io/providers/logos/cnn-espanol.png" group-title="-",CNN Español
 http://205.235.6.29:8000/play/a0yl/index.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/jdemorais/EPG/master/logos/ComedyCentral.png" group-title="-",Comedy Central HD
+#EXTINF:-1 tvg-logo="https://iptv-org.github.io/providers/logos/comedy-central.png" group-title="-",Comedy Central HD
 http://205.235.6.29:8000/play/a0y7/index.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/jdemorais/EPG/master/logos/DHE.png" group-title="-",DHE 
+#EXTINF:-1 tvg-logo="https://iptv-org.github.io/providers/logos/dhe.png" group-title="-",DHE 
 http://205.235.6.29:8000/play/a0py/index.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/LaAlianza/la-alianza-logos/master/logos/diblu.png" group-title="-",DIBLU
+#EXTINF:-1 tvg-logo="https://iptv-org.github.io/providers/logos/radio-diblu.png" group-title="-",DIBLU
 http://205.235.6.29:8000/play/a0x6/index.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/jdemorais/EPG/master/logos/DWEspanol.png" group-title="-",DW Español
+#EXTINF:-1 tvg-logo="https://iptv-org.github.io/providers/logos/dw-espanol.png" group-title="-",DW Español
 http://205.235.6.29:8000/play/a0s2/index.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/jdemorais/EPG/master/logos/DePelicula.png" group-title="-",De Pelicula
+#EXTINF:-1 tvg-logo="https://iptv-org.github.io/providers/logos/de-pelicula.png" group-title="-",De Pelicula
 http://205.235.6.29:8000/play/a0z7/index.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/jdemorais/EPG/master/logos/DiscoveryChannel.png" group-title="-",Discovery Channel  HD
+#EXTINF:-1 tvg-logo="https://iptv-org.github.io/providers/logos/discovery-channel.png" group-title="-",Discovery Channel  HD
 http://205.235.6.29:8000/play/a0yq/index.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/jdemorais/EPG/master/logos/DiscoveryHomeHealth.png" group-title="-",Discovery H&H
+#EXTINF:-1 tvg-logo="https://iptv-org.github.io/providers/logos/discovery-home-health.png" group-title="-",Discovery H&H
 http://205.235.6.29:8000/play/a0y6/index.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/jdemorais/EPG/master/logos/DiscoveryTheater.png" group-title="-",Discovery Theater HD
+#EXTINF:-1 tvg-logo="https://iptv-org.github.io/providers/logos/discovery-theater.png" group-title="-",Discovery Theater HD
 http://205.235.6.29:8000/play/a0pj/index.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/jdemorais/EPG/master/logos/DisneyChannel.png" group-title="-",Disney Channel
+#EXTINF:-1 tvg-logo="https://iptv-org.github.io/providers/logos/disney-channel.png" group-title="-",Disney Channel
 http://205.235.6.29:8000/play/a0zp/index.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/jdemorais/EPG/master/logos/DisneyJunior.png" group-title="-",Disney Jr.
+#EXTINF:-1 tvg-logo="https://iptv-org.github.io/providers/logos/disney-junior.png" group-title="-",Disney Jr.
 http://205.235.6.29:8000/play/a0zj/index.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/jdemorais/EPG/master/logos/DistritoComedia.png" group-title="-",Distrito Comedia
+#EXTINF:-1 tvg-logo="https://iptv-org.github.io/providers/logos/distrito-comedia.png" group-title="-",Distrito Comedia
 http://205.235.6.29:8000/play/a0z5/index.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/jdemorais/EPG/master/logos/ESPN.png" group-title="-",ESPN 7
+#EXTINF:-1 tvg-logo="https://iptv-org.github.io/providers/logos/espn.png" group-title="-",ESPN 7
 http://205.235.6.29:8000/play/a0zv/index.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/jdemorais/EPG/master/logos/ESPN.png" group-title="-",ESPN HD
+#EXTINF:-1 tvg-logo="https://iptv-org.github.io/providers/logos/espn.png" group-title="-",ESPN HD
 http://205.235.6.29:8000/play/a0zf/index.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/jdemorais/EPG/master/logos/ESPNPremium.png" group-title="-",ESPN Premium HD
+#EXTINF:-1 tvg-logo="https://iptv-org.github.io/providers/logos/espn-premium.png" group-title="-",ESPN Premium HD
 http://205.235.6.29:8000/play/a0pz/index.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/jdemorais/EPG/master/logos/ESPNPremium.png" group-title="-",ESPN Premium HD 1
+#EXTINF:-1 tvg-logo="https://iptv-org.github.io/providers/logos/espn-premium.png" group-title="-",ESPN Premium HD 1
 http://205.235.6.29:8000/play/a0wl/index.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/LaAlianza/la-alianza-logos/master/logos/ecuadortv.png" group-title="-",Ecuador TV
+#EXTINF:-1 tvg-logo="https://iptv-org.github.io/providers/logos/ecuador-tv.png" group-title="-",Ecuador TV
 http://205.235.6.29:8000/play/a0ye/index.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/LaAlianza/la-alianza-logos/master/logos/ecuavisa.png" group-title="-",Ecuavisa
+#EXTINF:-1 tvg-logo="https://iptv-org.github.io/providers/logos/ecuavisa.png" group-title="-",Ecuavisa
 http://205.235.6.29:8000/play/a0yc/index.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/jdemorais/EPG/master/logos/Enlace.png" group-title="-",Enlace
+#EXTINF:-1 tvg-logo="https://iptv-org.github.io/providers/logos/enlace.png" group-title="-",Enlace
 http://205.235.6.29:8000/play/a0yk/index.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/LaAlianza/la-alianza-logos/master/logos/gamavision.png" group-title="-",Gamavisión
+#EXTINF:-1 tvg-logo="https://iptv-org.github.io/providers/logos/gamavision.png" group-title="-",Gamavisión
 http://205.235.6.29:8000/play/a0yf/index.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/jdemorais/EPG/master/logos/HGTV.png" group-title="-",HGTV
+#EXTINF:-1 tvg-logo="https://iptv-org.github.io/providers/logos/hgtv.png" group-title="-",HGTV
 http://205.235.6.29:8000/play/a0ym/index.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/jdemorais/EPG/master/logos/HTV.png" group-title="-",HTV
+#EXTINF:-1 tvg-logo="https://iptv-org.github.io/providers/logos/htv.png" group-title="-",HTV
 http://205.235.6.29:8000/play/a10p/index.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/jdemorais/EPG/master/logos/InvestigationDiscovery.png" group-title="-",ID HD
+#EXTINF:-1 tvg-logo="https://iptv-org.github.io/providers/logos/investigation-discovery.png" group-title="-",ID HD
 http://205.235.6.29:8000/play/a0yt/index.m3u8
 #EXTINF:-1 group-title="-",KCH
 http://205.235.6.29:8000/play/a0yz/index.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/jdemorais/EPG/master/logos/LasEstrellas.png" group-title="-",Las Estrellas HD
+#EXTINF:-1 tvg-logo="https://iptv-org.github.io/providers/logos/las-estrellas.png" group-title="-",Las Estrellas HD
 http://205.235.6.29:8000/play/a0xj/index.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/jdemorais/EPG/master/logos/LasEstrellas.png" group-title="-",Las Estrellas HD
+#EXTINF:-1 tvg-logo="https://iptv-org.github.io/providers/logos/las-estrellas.png" group-title="-",Las Estrellas HD
 http://205.235.6.29:8000/play/a0z0/index.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/jdemorais/EPG/master/logos/Latina.png" group-title="-",Latina HD
+#EXTINF:-1 tvg-logo="https://iptv-org.github.io/providers/logos/latina.png" group-title="-",Latina HD
 http://205.235.6.29:8000/play/a0uw/index.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/jdemorais/EPG/master/logos/MovistarDeportes.png" group-title="-",Movistar Deportes
+#EXTINF:-1 tvg-logo="https://iptv-org.github.io/providers/logos/movistar-deportes.png" group-title="-",Movistar Deportes
 http://205.235.6.29:8000/play/a0zd/index.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/LaAlianza/la-alianza-logos/master/logos/oromartv.png" group-title="-",ORO MAR WEB
+#EXTINF:-1 tvg-logo="https://iptv-org.github.io/providers/logos/oromar-tv.png" group-title="-",ORO MAR WEB
 http://205.235.6.29:8000/play/a0nw/index.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/LaAlianza/la-alianza-logos/master/logos/oromartv.png" group-title="-",OROMAR TV
+#EXTINF:-1 tvg-logo="https://iptv-org.github.io/providers/logos/oromar-tv.png" group-title="-",OROMAR TV
 http://205.235.6.29:8000/play/a0z6/index.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/jdemorais/EPG/master/logos/Panamericana.png" group-title="-",Panamericana
+#EXTINF:-1 tvg-logo="https://iptv-org.github.io/providers/logos/panamericana-television.png" group-title="-",Panamericana
 http://205.235.6.29:8000/play/a10h/index.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/LaAlianza/la-alianza-logos/master/logos/plimplim.png" group-title="-",Plim Plim TV
+#EXTINF:-1 tvg-logo="https://iptv-org.github.io/providers/logos/plim-plim.png" group-title="-",Plim Plim TV
 http://205.235.6.29:8000/play/a0xo/index.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/LaAlianza/la-alianza-logos/master/logos/rts.png" group-title="-",RTS
+#EXTINF:-1 tvg-logo="https://iptv-org.github.io/providers/logos/rts.png" group-title="-",RTS
 http://205.235.6.29:8000/play/a0yi/index.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/jdemorais/EPG/master/logos/StarChannel.png" group-title="-",STAR CHANNEL
+#EXTINF:-1 tvg-logo="https://iptv-org.github.io/providers/logos/star-channel.png" group-title="-",STAR CHANNEL
 http://205.235.6.29:8000/play/a108/index.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/jdemorais/EPG/master/logos/StarChannel.png" group-title="-",STAR CHANNEL
+#EXTINF:-1 tvg-logo="https://iptv-org.github.io/providers/logos/star-channel.png" group-title="-",STAR CHANNEL
 http://205.235.6.29:8000/play/a0x7/index.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/jdemorais/EPG/master/logos/Space.png" group-title="-",Space HD
+#EXTINF:-1 tvg-logo="https://iptv-org.github.io/providers/logos/space.png" group-title="-",Space HD
 http://205.235.6.29:8000/play/a0yu/index.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/LaAlianza/la-alianza-logos/master/logos/tctelevision.png" group-title="-",TC Televisión.
+#EXTINF:-1 tvg-logo="https://iptv-org.github.io/providers/logos/tc-television.png" group-title="-",TC Televisión.
 http://205.235.6.29:8000/play/a0yg/index.m3u8
 #EXTINF:-1 group-title="-",TELEPREMIER
 http://205.235.6.29:8000/play/a0z1/index.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/jdemorais/EPG/master/logos/TNT.png" group-title="-",TNT HD
+#EXTINF:-1 tvg-logo="https://iptv-org.github.io/providers/logos/tnt.png" group-title="-",TNT HD
 http://205.235.6.29:8000/play/a0yr/index.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/LaAlianza/la-alianza-logos/master/logos/teleamazonas.png" group-title="-",Teleamazonas
+#EXTINF:-1 tvg-logo="https://iptv-org.github.io/providers/logos/teleamazonas.png" group-title="-",Teleamazonas
 http://205.235.6.29:8000/play/a10d/index.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/LaAlianza/la-alianza-logos/master/logos/teleamazonas.png" group-title="-",Teleamazonas
+#EXTINF:-1 tvg-logo="https://iptv-org.github.io/providers/logos/teleamazonas.png" group-title="-",Teleamazonas
 http://205.235.6.29:8000/play/a0yd/index.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/LaAlianza/la-alianza-logos/master/logos/televicentro.png" group-title="-",Televicentro
+#EXTINF:-1 tvg-logo="https://iptv-org.github.io/providers/logos/televicentro.png" group-title="-",Televicentro
 http://205.235.6.29:8000/play/a0yh/index.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/jdemorais/EPG/master/logos/tlnovelas.png" group-title="-",Tlnovelas 
+#EXTINF:-1 tvg-logo="https://iptv-org.github.io/providers/logos/tlnovelas.png" group-title="-",Tlnovelas 
 http://205.235.6.29:8000/play/a0wi/index.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/jdemorais/EPG/master/logos/tlnovelas.png" group-title="-",Tlnovelas 
+#EXTINF:-1 tvg-logo="https://iptv-org.github.io/providers/logos/tlnovelas.png" group-title="-",Tlnovelas 
 http://205.235.6.29:8000/play/a0wg/index.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/LaAlianza/la-alianza-logos/master/logos/unsiontv.png" group-title="-",UNSION NUEVO
+#EXTINF:-1 tvg-logo="https://iptv-org.github.io/providers/logos/unsion-tv.png" group-title="-",UNSION NUEVO
 http://205.235.6.29:8000/play/a0yx/index.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/LaAlianza/la-alianza-logos/master/logos/vitotv.png" group-title="-",VITO TV
+#EXTINF:-1 tvg-logo="https://iptv-org.github.io/providers/logos/vito-tvo.png" group-title="-",VITO TV
 http://205.235.6.29:8000/play/a0z2/index.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/jdemorais/EPG/master/logos/WarnerChannel.png" group-title="-",Warner TV HD
+#EXTINF:-1 tvg-logo="https://iptv-org.github.io/providers/logos/warner-channel.png" group-title="-",Warner TV HD
 http://205.235.6.29:8000/play/a0ys/index.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/jdemorais/EPG/master/logos/BabyTV.png" group-title="-",baby tv - 25.2 - 3830
+#EXTINF:-1 tvg-logo="https://iptv-org.github.io/providers/logos/baby-tv.png" group-title="-",baby tv - 25.2 - 3830
 http://205.235.6.29:8000/play/a0ze/index.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/jdemorais/EPG/master/logos/Nitro.png" group-title="-",canal nitro udp 500
+#EXTINF:-1 tvg-logo="https://iptv-org.github.io/providers/logos/nitro.png" group-title="-",canal nitro udp 500
 http://205.235.6.29:8000/play/a0xw/index.m3u8
