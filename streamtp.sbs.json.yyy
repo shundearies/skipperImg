@@ -1,0 +1,292 @@
+[
+  {
+    "nombre": "ESPN",
+    "logo": "https://peticion.com/logo.png",
+    "url": "https://streamtp.sbs//global1.php?stream=espn"
+  },
+    {
+    "nombre": "Win sports",
+    "logo": "https://peticion.com/logo.png",
+    "url": "https://streamtp.sbs/global1.php?stream=winplus2"
+  },
+  {
+    "nombre": "Win sports",
+    "logo": "https://peticion.com/logo.png",
+    "url": "https://streamtp.sbs/global1.php?stream=winsports"
+  },
+    {
+    "nombre": "Fix Sports Argentina",
+    "logo": "https://peticion.com/logo.png",
+    "url": "https://streamtp.sbs/global1.php?stream=fox1ar"
+  },
+  {
+    "nombre": "Fox Sports 2",
+    "logo": "https://peticion.com/logo.png",
+    "url": "https://streamtp.sbs/global1.php?stream=fox2ar"
+  },
+    {
+    "nombre": "Fox Sports 3 Argentina",
+    "logo": "https://peticion.com/logo.png",
+    "url": "https://streamtp.sbs/global1.php?stream=fox3ar"
+  },
+  {
+    "nombre": "Dsports",
+    "logo": "https://peticion.com/logo.png",
+    "url": "https://streamtp.sbs/global1.php?stream=dsports"
+  },
+    {
+    "nombre": "Dsports 2",
+    "logo": "https://peticion.com/logo.png",
+    "url": "https://streamtp.sbs/global1.php?stream=dsports2"
+  },
+  {
+    "nombre": "DSports 4",
+    "logo": "https://peticion.com/logo.png",
+    "url": "https://streamtp.sbs/global1.php?stream=dsportsplus"
+  },
+    {
+    "nombre": "TNT Sports Chile",
+    "logo": "https://peticion.com/logo.png",
+    "url": "https://streamtp.sbs/global1.php?stream=tntsportschile"
+  },
+  {
+    "nombre": "TNT Sports Argentina",
+    "logo": "https://peticion.com/logo.png",
+    "url": "https://streamtp.sbs/global1.php?stream=tntsports"
+  },
+    {
+    "nombre": "ESPN PREMIUM Argentina",
+    "logo": "https://peticion.com/logo.png",
+    "url": "https://streamtp.sbs/global1.php?stream=espnpremium"
+  },
+  {
+    "nombre": "TyC Sports",
+    "logo": "https://peticion.com/logo.png",
+    "url": "https://streamtp.sbs/global1.php?stream=tycsports"
+  },
+    {
+    "nombre": "Telefe",
+    "logo": "https://peticion.com/logo.png",
+    "url": "https://streamtp.sbs/global1.php?stream=telefe"
+  },
+  {
+    "nombre": "TV Publica",
+    "logo": "https://peticion.com/logo.png",
+    "url": "https://streamtp.sbs/global1.php?stream=tv_publica"
+  },
+    {
+    "nombre": "Liga 1 max",
+    "logo": "https://peticion.com/logo.png",
+    "url": "https://streamtp.sbs/global1.php?stream=liga1max"
+  },
+  {
+    "nombre": "ESPN deportes USA",
+    "logo": "https://peticion.com/logo.png",
+    "url": "https://streamtp.sbs/global1.php?stream=espndeportes"
+  },
+    {
+    "nombre": "TUDN USA",
+    "logo": "https://peticion.com/logo.png",
+    "url": "https://streamtp.sbs/global1.php?stream=tudn_usa"
+  },
+  {
+    "nombre": "Fox Sports USA",
+    "logo": "https://peticion.com/logo.png",
+    "url": "https://streamtp.sbs/global1.php?stream=fox_1_usa"
+  },
+    {
+    "nombre": "Fox Sports 2 USA",
+    "logo": "https://peticion.com/logo.png",
+    "url": "https://streamtp.sbs/global1.php?stream=fox_2_usa"
+  },
+  {
+    "nombre": "Universo USA",
+    "logo": "https://peticion.com/logo.png",
+    "url": "https://streamtp.sbs/global1.php?stream=universo_usa"
+  },
+    {
+    "nombre": "Univision USA",
+    "logo": "https://peticion.com/logo.png",
+    "url": "https://streamtp.sbs/global1.php?stream=univision_usa"
+  },
+  {
+    "nombre": "Fox Deportes USA",
+    "logo": "https://peticion.com/logo.png",
+    "url": "https://streamtp.sbs/global1.php?stream=fox_deportes_usa"
+  },
+    {
+    "nombre": "azteca 7 Mx",
+    "logo": "https://peticion.com/logo.png",
+    "url": "https://streamtp.sbs/global1.php?stream=azteca7"
+  },
+  {
+    "nombre": "Fox Sports Mx",
+    "logo": "https://peticion.com/logo.png",
+    "url": "https://streamtp.sbs/global1.php?stream=foxsportsmx"
+  },
+    {
+    "nombre": "Fox Sports 2 MX",
+    "logo": "https://peticion.com/logo.png",
+    "url": "https://streamtp.sbs/global1.php?stream=foxsports2mx"
+  },
+  {
+    "nombre": "Fox Sport 3 Mx",
+    "logo": "https://peticion.com/logo.png",
+    "url": "https://streamtp.sbs/global1.php?stream=foxsports3mx"
+  },
+    {
+    "nombre": "Fox Sports Premium",
+    "logo": "https://peticion.com/logo.png",
+    "url": "https://streamtp.sbs/global1.php?stream=foxsportspremium"
+  },
+  {
+    "nombre": "ESPN Mx",
+    "logo": "https://peticion.com/logo.png",
+    "url": "https://streamtp.sbs/global1.php?stream=espnmx"
+  },
+    {
+    "nombre": "ESPN 2 Mx",
+    "logo": "https://peticion.com/logo.png",
+    "url": "https://streamtp.sbs/global1.php?stream=espn2mx"
+  },
+  {
+    "nombre": "ESPN 3 Mx",
+    "logo": "https://peticion.com/logo.png",
+    "url": "https://streamtp.sbs/global1.php?stream=espn3mx"
+  },
+    {
+    "nombre": "TNT 1 GB",
+    "logo": "https://peticion.com/logo.png",
+    "url": "https://streamtp.sbs/global1.php?stream=tnt_1_gb"
+  },
+  {
+    "nombre": "TNT 2 GB",
+    "logo": "https://peticion.com/logo.png",
+    "url": "https://streamtp.sbs/global1.php?stream=tnt_2_gb"
+  },
+    {
+    "nombre": "TNT 3 GB",
+    "logo": "https://peticion.com/logo.png",
+    "url": "https://streamtp.sbs/global1.php?stream=tnt_3_gb"
+  },
+  {
+    "nombre": "TNT 4",
+    "logo": "https://peticion.com/logo.png",
+    "url": "https://streamtp.sbs/global1.php?stream=tnt_4_gb"
+  },
+    {
+    "nombre": "Sports Tv BR 1",
+    "logo": "https://peticion.com/logo.png",
+    "url": "https://streamtp.sbs/global1.php?stream=sporttvbr1"
+  },
+  {
+    "nombre": "Sport Tv BR 2",
+    "logo": "https://peticion.com/logo.png",
+    "url": "https://streamtp.sbs//global1.php?stream=espn"
+  },
+    {
+    "nombre": "Sports tv BR 3",
+    "logo": "https://peticion.com/logo.png",
+    "url": "https://streamtp.sbs/global1.php?stream=sporttvbr3"
+  },
+  {
+    "nombre": "Premier 1 BR",
+    "logo": "https://peticion.com/logo.png",
+    "url": "https://streamtp.sbs/global1.php?stream=premiere1"
+  },
+    {
+    "nombre": "Premier 2 BR",
+    "logo": "https://peticion.com/logo.png",
+    "url": "https://streamtp.sbs/global1.php?stream=premiere2"
+  },
+  {
+    "nombre": "Premier 3 BR",
+    "logo": "https://peticion.com/logo.png",
+    "url": "https://streamtp.sbs/global1.php?stream=premiere3"
+  },
+    {
+    "nombre": "Fox One Mx",
+    "logo": "https://peticion.com/logo.png",
+    "url": "https://streamtp.sbs/global1.php?stream=foxone"
+  },
+  {
+    "nombre": "Fox One",
+    "logo": "https://peticion.com/logo.png",
+    "url": "https://streamtp.sbs/global1.php?stream=foxone1"
+  },
+    {
+    "nombre": "Fox One 2 Mx",
+    "logo": "https://peticion.com/logo.png",
+    "url": "https://streamtp.sbs/global1.php?stream=foxone2"
+  },
+  {
+    "nombre": "Fox One 3 mx",
+    "logo": "https://peticion.com/logo.png",
+    "url": "https://streamtp.sbs/global1.php?stream=foxone3"
+  },
+    {
+    "nombre": "TyC Sports internacional",
+    "logo": "https://peticion.com/logo.png",
+    "url": "https://streamtp.sbs/global1.php?stream=tycinternacional"
+  },
+  {
+    "nombre": "Canal 5",
+    "logo": "https://peticion.com/logo.png",
+    "url": "https://streamtp.sbs/global1.php?stream=canal5mx"
+  },
+    {
+    "nombre": "TUDN Mc",
+    "logo": "https://peticion.com/logo.png",
+    "url": "https://streamtp.sbs/global1.php?stream=tudnmx"
+  },
+  {
+    "nombre": "Futv",
+    "logo": "https://peticion.com/logo.png",
+    "url": "https://streamtp.sbs/global1.php?stream=futv"
+  },
+    {
+    "nombre": "La liga hypermotion",
+    "logo": "https://peticion.com/logo.png",
+    "url": "https://streamtp.sbs/global1.php?stream=laligahypermotion"
+  },
+  {
+    "nombre": "ESPN",
+    "logo": "https://peticion.com/logo.png",
+    "url": "https://streamtp.sbs//global1.php?stream=espn"
+  },
+    {
+    "nombre": "azteca 7",
+    "logo": "https://peticion.com/logo.png",
+    "url": "https://regionales.saohgdasregions.fun/tvporinternet3.php?stream=1_"
+  },
+  {
+    "nombre": "ESPN",
+    "logo": "https://peticion.com/logo.png",
+    "url": "https://streamtp.sbs//global1.php?stream=espn"
+  },
+    {
+    "nombre": "azteca 7",
+    "logo": "https://peticion.com/logo.png",
+    "url": "https://regionales.saohgdasregions.fun/tvporinternet3.php?stream=1_"
+  },
+  {
+    "nombre": "ESPN",
+    "logo": "https://peticion.com/logo.png",
+    "url": "https://streamtp.sbs//global1.php?stream=espn"
+  },
+    {
+    "nombre": "azteca 7",
+    "logo": "https://peticion.com/logo.png",
+    "url": "https://regionales.saohgdasregions.fun/tvporinternet3.php?stream=1_"
+  },
+  {
+    "nombre": "ESPN",
+    "logo": "https://peticion.com/logo.png",
+    "url": "https://streamtp.sbs//global1.php?stream=espn"
+  },
+    {
+    "nombre": "azteca 7",
+    "logo": "https://peticion.com/logo.png",
+    "url": "https://regionales.saohgdasregions.fun/tvporinternet3.php?stream=1_"
+  }
+]
