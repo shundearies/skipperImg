@@ -1,0 +1,1502 @@
+[
+  {
+    "nombre": "Canal 6 cdmx",
+    "logo": "https://images.plex.tv/photo?size=small-120&scale=2&url=https%3A%2F%2Fprovider-static.plex.tv%2Fepg%2Fcms%2Fproduction%2Ff9027051-ccd0-49ce-a246-5e4f89cdfcc8%2FLogotipo_C6_1500x1000_for_dark_backgrounds_-_James_Stowe.png",
+    "url": "https://watch.plex.tv/es/live-tv/channel/canal-6-cdmx"
+  },
+    {
+    "nombre": "COPS En Español",
+    "logo": "https://images.plex.tv/photo?size=small-120&scale=2&url=https%3A%2F%2Fprovider-static.plex.tv%2Fepg%2Fcms%2Fproduction%2F59b63843-4b98-42fd-bf78-c269ce56cdb5%2FCOPS_en_espanol_-_channel_logo_colour_-_1500x1000.png_James_Roebuck.png",
+    "url": "https://watch.plex.tv/es/live-tv/channel/cops-en-espanol"
+  },
+  {
+    "nombre": "Azteca Internacional",
+    "logo": "https://images.plex.tv/photo?size=small-120&scale=2&url=https%3A%2F%2Fprovider-static.plex.tv%2Fepg%2Fcms%2Fproduction%2F1088747e-b11d-466c-b652-ca6b291ceae5%2Fazteca_internacional_white_1500x1000.png",
+    "url": "https://watch.plex.tv/es/live-tv/channel/azteca-internacional"
+  },
+    {
+    "nombre": "Pelimex",
+    "logo": "https://images.plex.tv/photo?size=small-120&scale=2&url=https%3A%2F%2Fprovider-static.plex.tv%2Fepg%2Fcms%2Fproduction%2Ffc750061-c748-4016-83e0-9f56a40a493c%2FPelimex_red_logo_RDXC2.png",
+    "url": "https://watch.plex.tv/es/live-tv/channel/pelimex"
+  },
+  {
+    "nombre": "Movie Sphere",
+    "logo": "https://images.plex.tv/photo?size=small-120&scale=2&url=https%3A%2F%2Fprovider-static.plex.tv%2Fepg%2Fcms%2Fproduction%2Fc6b80c25-1b63-4500-8374-058d5b6abeae%2FMovieSphere_Intl_Logo_Color_STACKRDX.png",
+    "url": "https://watch.plex.tv/es/live-tv/channel/moviesphere-5"
+  },
+    {
+    "nombre": "Mounstrous del rio",
+    "logo": "https://images.plex.tv/photo?size=small-120&scale=2&url=https%3A%2F%2Fprovider-static.plex.tv%2Fepg%2Fcms%2Fproduction%2F3e935eb3-3c68-41ee-8e2e-5b8c37a1fbf1%2F023_FAST-RM-latam_LOGO_1500x100-DARK-Plex.png",
+    "url": "https://watch.plex.tv/es/live-tv/channel/monstruos-de-rio"
+  },
+  {
+    "nombre": "Filmrise Pista al cielo",
+    "logo": "https://images.plex.tv/photo?size=small-120&scale=2&url=https%3A%2F%2Fprovider-static.plex.tv%2Fepg%2Fcms%2Fproduction%2F68950c80-d981-457f-89f9-d51fc2bcab02%2FPlex_FilmRise_AutopistaAlCielo_Color_Logo.png",
+    "url": "https://watch.plex.tv/es/live-tv/channel/autopista-al-cielo"
+  },
+    {
+    "nombre": "Znation",
+    "logo": "https://images.plex.tv/photo?size=small-120&scale=2&url=https%3A%2F%2Fprovider-static.plex.tv%2Fepg%2Fcms%2Fstaging%2F9943864d-84bf-45b3-84cb-12a5d1e04190%2FZNation_Channel_Logo_White__1_.png",
+    "url": "https://watch.plex.tv/es/live-tv/channel/z-nation-6"
+  },
+  {
+    "nombre": "Master chef Mexico junior",
+    "logo": "https://images.plex.tv/photo?size=small-120&scale=2&url=https%3A%2F%2Fprovider-static.plex.tv%2Fepg%2Fcms%2Fproduction%2F007599ee-1005-478f-8da1-e1bf0c9998c6%2FMasterchefMexico_Logo_Light_1500x1000_-_Harry_Marshall.png",
+    "url": "https://watch.plex.tv/es/live-tv/channel/masterchef-mexico"
+  },
+    {
+    "nombre": "Canaela Tv Narco Drama",
+    "logo": "https://images.plex.tv/photo?size=small-120&scale=2&url=https%3A%2F%2Fprovider-static.plex.tv%2Fepg%2Fcms%2Fproduction%2F1a0bf145-a80f-4dd5-8134-ecb3975c389f%2FCM-Plex-dark_logo-CanelaTV-narco_drama_-_Natalia_Rodriguez.png",
+    "url": "https://watch.plex.tv/es/live-tv/channel/canela-tv-narco-drama"
+  },
+  {
+    "nombre": "Milenio Televisión",
+    "logo": "https://images.plex.tv/photo?size=small-120&scale=2&url=https%3A%2F%2Fprovider-static.plex.tv%2Fepg%2Fcms%2Fproduction%2F1e99eb82-f642-4f2f-86e3-16df76547494%2FLogotipo_MILENIO_1500x1000_for_dark_backgrounds_-_James_Stowe.png",
+    "url": "https://watch.plex.tv/es/live-tv/channel/milenio-television"
+  },
+    {
+    "nombre": "Homeful",
+    "logo": "https://images.plex.tv/photo?size=small-120&scale=2&url=https%3A%2F%2Fprovider-static.plex.tv%2Fepg%2Fcms%2Fproduction%2Fdd243471-e956-4dec-a099-2f3351e1bf3a%2FPlex_Homeful_Logo-white_1500x1000_-_Nerissa_Jones__1_.png",
+    "url": "https://watch.plex.tv/es/live-tv/channel/homeful-5"
+  },
+  {
+    "nombre": "Lucha Plus",
+    "logo": "https://images.plex.tv/photo?size=small-120&scale=2&url=https%3A%2F%2Fprovider-static.plex.tv%2Fepg%2Fcms%2Fproduction%2Fe8b87f4f-ebc1-4996-b732-b70118521f61%2FPlex_Channel_Logo_Color_-_Juan_Miguel_Bassalik_WHT_TEXT.png",
+    "url": "https://watch.plex.tv/es/live-tv/channel/lucha-plus"
+  },
+    {
+    "nombre": "Filmrise misterios sin resolver",
+    "logo": "https://images.plex.tv/photo?size=small-120&scale=2&url=https%3A%2F%2Fprovider-static.plex.tv%2Fepg%2Fcms%2Fproduction%2Ff6a0825c-3f05-421a-a733-f5eb53c37f2a%2FPlex_FilmRise_MisteriosSinResolver_White_Logo.png",
+    "url": "https://watch.plex.tv/es/live-tv/channel/misterios-sin-resolver"
+  },
+  {
+    "nombre": "Las aventuras de midsomer",
+    "logo": "https://images.plex.tv/photo?size=small-120&scale=2&url=https%3A%2F%2Fprovider-static.plex.tv%2Fepg%2Fcms%2Fproduction%2F09eae207-0184-4fc6-b1f7-65f5568b9b11%2FFilmRise_LosAsesinatoesDeMidsomer_Channel_Logo_WhiteRDX.png",
+    "url": "https://watch.plex.tv/es/live-tv/channel/los-asesinatos-de-midsomer"
+  },
+    {
+    "nombre": "Mexico Survivor",
+    "logo": "https://images.plex.tv/photo?size=small-120&scale=2&url=https%3A%2F%2Fprovider-static.plex.tv%2Fepg%2Fcms%2Fproduction%2F06b112af-4009-4830-9313-6e393ee8e579%2FSurvivorMexico_Logo_Light_1500x1000_-_Harry_Marshall.png",
+    "url": "https://watch.plex.tv/es/live-tv/channel/survivor-mexico"
+  },
+  {
+    "nombre": "Delito",
+    "logo": "https://images.plex.tv/photo?size=small-120&scale=2&url=https%3A%2F%2Fprovider-static.plex.tv%2Fepg%2Fcms%2Fproduction%2Fb2a18d55-c1c1-47d9-8bfc-50f002b4c030%2FDelitoLight_Logo__4__RED_RDX.png",
+    "url": "https://watch.plex.tv/es/live-tv/channel/delito"
+  },
+    {
+    "nombre": "C4 Alerta",
+    "logo": "https://images.plex.tv/photo?size=small-120&scale=2&url=https%3A%2F%2Fprovider-static.plex.tv%2Fepg%2Fcms%2Fproduction%2F51402fbd-48ad-4307-a1be-a60c692684f6%2FLogotipo_C4_En_Alerta_1500x1000_for_dark_backgrounds_-_James_Stowe.png",
+    "url": "https://watch.plex.tv/es/live-tv/channel/c4-en-alerta"
+  },
+  {
+    "nombre": "Historias del corazon",
+    "logo": "https://images.plex.tv/photo?size=small-120&scale=2&url=https%3A%2F%2Fprovider-static.plex.tv%2Fepg%2Fcms%2Fproduction%2F2e606d88-2546-475c-a410-962c4143fc36%2FHDC_logo_light_-_Jordan_Warkol.png",
+    "url": "https://watch.plex.tv/es/live-tv/channel/historias-de-corazon"
+  },
+    {
+    "nombre": "Todo cine",
+    "logo": "https://images.plex.tv/photo?size=small-120&scale=2&url=https%3A%2F%2Fprovider-static.plex.tv%2Fepg%2Fcms%2Fproduction%2Fafe5cd54-0d6d-4b60-a4df-91a8d7ac7960%2FTodoCine_-_White_Fernando_Fraderdx.png",
+    "url": "https://watch.plex.tv/es/live-tv/channel/todo-cine"
+  },
+  {
+    "nombre": "Azteca Uno -hr",
+    "logo": "https://images.plex.tv/photo?size=small-120&scale=2&url=https%3A%2F%2Fprovider-static.plex.tv%2Fepg%2Fcms%2Fproduction%2Fa11b1ba3-d109-45ec-a87e-4312bad0682c%2Funo-hora_color_logodrx.png",
+    "url": "https://watch.plex.tv/es/live-tv/channel/azteca-uno-1-hora"
+  },
+    {
+    "nombre": "Canal 6",
+    "logo": "https://images.plex.tv/photo?size=large-480&scale=2&url=https%3A%2F%2Fprovider-static.plex.tv%2Fepg%2Fcms%2Fproduction%2Ff9027051-ccd0-49ce-a246-5e4f89cdfcc8%2FLogotipo_C6_1500x1000_for_dark_backgrounds_-_James_Stowe.png",
+    "url": "https://watch.plex.tv/es/live-tv/channel/canal-6-cdmx"
+  },
+  {
+    "nombre": "Master chef Mexico junior",
+    "logo": "https://images.plex.tv/photo?size=small-120&scale=2&url=https%3A%2F%2Fprovider-static.plex.tv%2Fepg%2Fcms%2Fproduction%2F007599ee-1005-478f-8da1-e1bf0c9998c6%2FMasterchefMexico_Logo_Light_1500x1000_-_Harry_Marshall.png",
+    "url": "https://watch.plex.tv/es/live-tv/channel/masterchef-mexico"
+  },
+    {
+    "nombre": "Survivor Mexico",
+    "logo": "https://images.plex.tv/photo?size=small-120&scale=2&url=https%3A%2F%2Fprovider-static.plex.tv%2Fepg%2Fcms%2Fproduction%2F06b112af-4009-4830-9313-6e393ee8e579%2FSurvivorMexico_Logo_Light_1500x1000_-_Harry_Marshall.png",
+    "url": "https://watch.plex.tv/es/live-tv/channel/survivor-mexico"
+  },
+  {
+    "nombre": "Spark tv luz y amor",
+    "logo": "https://images.plex.tv/photo?size=small-120&scale=2&url=https%3A%2F%2Fprovider-static.plex.tv%2Fepg%2Fcms%2Fproduction%2F46beb261-d92b-4f86-965f-3ec3bd222f7a%2FPlex_SparkTV_key-art_Spanish-RDX.png",
+    "url": "https://watch.plex.tv/es/live-tv/channel/spark-tv-luz-y-amor-3"
+  },
+    {
+    "nombre": "Znation",
+    "logo": "https://images.plex.tv/photo?size=small-120&scale=2&url=https%3A%2F%2Fprovider-static.plex.tv%2Fepg%2Fcms%2Fstaging%2F9943864d-84bf-45b3-84cb-12a5d1e04190%2FZNation_Channel_Logo_White__1_.png",
+    "url": "https://watch.plex.tv/es/live-tv/channel/z-nation-6"
+  },
+  {
+    "nombre": "Western bound",
+    "logo": "https://images.plex.tv/photo?size=small-120&scale=2&url=https%3A%2F%2Fprovider-static.plex.tv%2Fepg%2Fcms%2Fproduction%2Fdeea1692-2870-46fa-b1e8-818573e94645%2FWB_Plex_LogoPackage_1500x1000_Light_LAS_-_Megan_Jones.png",
+    "url": "https://watch.plex.tv/es/live-tv/channel/western-bound-espanol"
+  },
+    {
+    "nombre": "NCR Mas +",
+    "logo": "https://images.plex.tv/photo?size=small-120&scale=2&url=https%3A%2F%2Fprovider-static.plex.tv%2Fepg%2Fcms%2Fproduction%2F3536c2ea-de74-421a-8942-642d472cc7c8%2Frcn-mas.png",
+    "url": "https://watch.plex.tv/es/live-tv/channel/rcn-mas-2"
+  },
+  {
+    "nombre": "Midsomer murders",
+    "logo": "https://images.plex.tv/photo?size=small-120&scale=2&url=https%3A%2F%2Fprovider-static.plex.tv%2Fepg%2Fcms%2Fproduction%2F09eae207-0184-4fc6-b1f7-65f5568b9b11%2FFilmRise_LosAsesinatoesDeMidsomer_Channel_Logo_WhiteRDX.png",
+    "url": "https://watch.plex.tv/es/live-tv/channel/los-asesinatos-de-midsomer"
+  },
+    {
+    "nombre": "Filmrise series gratis",
+    "logo": "https://images.plex.tv/photo?size=small-120&scale=2&url=https%3A%2F%2Fprovider-static.plex.tv%2Fepg%2Fcms%2Fproduction%2Fbe76f2ee-2a7a-4020-9072-cfb4b8539906%2FFilmRise_SeriesGratis_1500x1000_logo_light.png",
+    "url": "https://watch.plex.tv/es/live-tv/channel/filmrise-series-gratis-2"
+  },
+  {
+    "nombre": "Caracol mix",
+    "logo": "https://images.plex.tv/photo?size=small-120&scale=2&url=https%3A%2F%2Fprovider-static.plex.tv%2Fepg%2Fcms%2Fproduction%2F7cf438f7-5c5e-4140-987b-d93264d02247%2FCaracol_Mix_WHT_log.png",
+    "url": "https://watch.plex.tv/es/live-tv/channel/caracol-mix-2"
+  },
+    {
+    "nombre": "Todo novelas",
+    "logo": "https://images.plex.tv/photo?size=small-120&scale=2&url=https%3A%2F%2Fprovider-static.plex.tv%2Fepg%2Fcms%2Fproduction%2F0e0759ed-8180-46e7-8fe9-cbc7fa4afbf3%2FTODO_NOVELAS_-_Logo_1500x1000.png",
+    "url": "https://watch.plex.tv/es/live-tv/channel/todo-novelas"
+  },
+  {
+    "nombre": "Novelas de siempre",
+    "logo": "https://images.plex.tv/photo?size=small-120&scale=2&url=https%3A%2F%2Fprovider-static.plex.tv%2Fepg%2Fcms%2Fproduction%2F7d35cdb3-b793-47d0-8c2f-cbe2dc1037da%2FNovelas_de_Siempre_Channel-Icon_ColorRDX2.png",
+    "url": "https://watch.plex.tv/es/live-tv/channel/novelas-de-siempre-2"
+  },
+    {
+    "nombre": "Wedo amor tv",
+    "logo": "https://images.plex.tv/photo?size=small-120&scale=2&url=https%3A%2F%2Fprovider-static.plex.tv%2Fepg%2Fcms%2Fproduction%2Fa4765ad1-345e-4cb7-b6c5-3dc970e4d78e%2FLight_LogoWEDDO_AMOR_WHITE.png",
+    "url": "https://watch.plex.tv/es/live-tv/channel/wedo-amor"
+  },
+  {
+    "nombre": "Mutante x",
+    "logo": "https://images.plex.tv/photo?size=small-120&scale=2&url=https%3A%2F%2Fprovider-static.plex.tv%2Fepg%2Fcms%2Fproduction%2Fe7c42702-89d4-42c0-a093-4c604ab39a34%2FFilmRise_MutantX_Color_Logo.png",
+    "url": "https://watch.plex.tv/es/live-tv/channel/mutant-x"
+  },
+    {
+    "nombre": "Free tv estelar",
+    "logo": "https://images.plex.tv/photo?size=small-120&scale=2&url=https%3A%2F%2Fprovider-static.plex.tv%2Fepg%2Fcms%2Fproduction%2F339acd9f-efde-4536-b6c9-1efb2e72dab8%2FFreeTVEstelar_Circle_1500x1000_-_Ralph_Campillo.png",
+    "url": "https://watch.plex.tv/es/live-tv/channel/freetv-estelar"
+  },
+  {
+    "nombre": "Gata salvaje en plex",
+    "logo": "https://images.plex.tv/photo?size=small-120&scale=2&url=https%3A%2F%2Fprovider-static.plex.tv%2Fepg%2Fcms%2Fproduction%2Fc4604da1-d6b6-4043-95fb-9a90f4f0273c%2FPlex_GataSalvaje_750x500_ChannelLogo_Light_RDX.png",
+    "url": "https://watch.plex.tv/es/live-tv/channel/gata-salvaje"
+  },
+    {
+    "nombre": "Historias de corazon",
+    "logo": "https://images.plex.tv/photo?size=small-120&scale=2&url=https%3A%2F%2Fprovider-static.plex.tv%2Fepg%2Fcms%2Fproduction%2F2e606d88-2546-475c-a410-962c4143fc36%2FHDC_logo_light_-_Jordan_Warkol.png",
+    "url": "https://watch.plex.tv/es/live-tv/channel/historias-de-corazon"
+  },
+  {
+    "nombre": "Wedo piel salvaje",
+    "logo": "https://images.plex.tv/photo?size=small-120&scale=2&url=https%3A%2F%2Fprovider-static.plex.tv%2Fepg%2Fcms%2Fproduction%2F7aa34d17-de26-4b64-b4cc-628d572de91f%2FPielLight_Logo__1_.png",
+    "url": "https://watch.plex.tv/es/live-tv/channel/wedotv-amor-piel-salvaje-3"
+  },
+    {
+    "nombre": "Emocion",
+    "logo": "https://images.plex.tv/photo?size=small-120&scale=2&url=https%3A%2F%2Fprovider-static.plex.tv%2Fepg%2Fcms%2Fproduction%2Ff8a056a0-536e-4cb9-9a60-f7bd242819d7%2FEMOCIONATRES_COLORRDX.png",
+    "url": "https://watch.plex.tv/es/live-tv/channel/emocion-atres"
+  },
+  {
+    "nombre": "Cops",
+    "logo": "https://images.plex.tv/photo?size=small-120&scale=2&url=https%3A%2F%2Fprovider-static.plex.tv%2Fepg%2Fcms%2Fproduction%2F41babb58-eb00-4a0d-8a5f-094950a5d8f2%2FJames_Roebuck_-_COPDS-PLEX_CH_LOGO_07.png",
+    "url": "https://watch.plex.tv/es/live-tv/channel/cops"
+  },
+    {
+    "nombre": "Movie sphere",
+    "logo": "https://images.plex.tv/photo?size=small-120&scale=2&url=https%3A%2F%2Fprovider-static.plex.tv%2Fepg%2Fcms%2Fproduction%2Fc6b80c25-1b63-4500-8374-058d5b6abeae%2FMovieSphere_Intl_Logo_Color_STACKRDX.png",
+    "url": "https://watch.plex.tv/es/live-tv/channel/moviesphere-5"
+  },
+  {
+    "nombre": "Runtime accion",
+    "logo": "https://images.plex.tv/photo?size=small-120&scale=2&url=https%3A%2F%2Fprovider-static.plex.tv%2Fepg%2Fcms%2Fproduction%2F9da5683e-30e8-4b78-99b5-a30c8f665f63%2FRuntime_ES_Accion_Dark_Mode_Logordx.png",
+    "url": "https://watch.plex.tv/es/live-tv/channel/runtime-accion-2"
+  },
+    {
+    "nombre": "Runtime crimen",
+    "logo": "https://images.plex.tv/photo?size=small-120&scale=2&url=https%3A%2F%2Fprovider-static.plex.tv%2Fepg%2Fcms%2Fproduction%2F25b2f15f-469f-474d-806a-c53581cc8ab7%2FRuntime_ES_Crimen_Dark_Mode_Logordx.png",
+    "url": "https://watch.plex.tv/es/live-tv/channel/runtime-crimen-2"
+  },
+  {
+    "nombre": "Runtime tv y peliculas",
+    "logo": "https://images.plex.tv/photo?size=small-120&scale=2&url=https%3A%2F%2Fprovider-static.plex.tv%2Fepg%2Fcms%2Fproduction%2F2bb53c0b-9893-4531-8609-e4c811441126%2FRuntime_LATAM_Dark_Mode_Logordx.png",
+    "url": "https://watch.plex.tv/es/live-tv/channel/runtime-4"
+  },
+    {
+    "nombre": "Free tv sureño",
+    "logo": "https://images.plex.tv/photo?size=small-120&scale=2&url=https%3A%2F%2Fprovider-static.plex.tv%2Fepg%2Fcms%2Fproduction%2F6caa6f16-4648-435d-a15c-e03b036452b1%2FFreeTVSureno_Circle_1500x1000_-_Ralph_Campillo.png",
+    "url": "https://watch.plex.tv/es/live-tv/channel/freetv-sureno-2"
+  },
+  {
+    "nombre": "Cine friki latino",
+    "logo": "https://images.plex.tv/photo?size=small-120&scale=2&url=https%3A%2F%2Fprovider-static.plex.tv%2Fepg%2Fcms%2Fproduction%2F72b4d5ba-f30d-4ed1-8414-92f8f47dbe7d%2FLfrikiight_Logo_RDX.png",
+    "url": "https://watch.plex.tv/es/live-tv/channel/cine-friki-latino"
+  },
+    {
+    "nombre": "Runtime Romanc ",
+    "logo": "https://images.plex.tv/photo?size=small-120&scale=2&url=https%3A%2F%2Fprovider-static.plex.tv%2Fepg%2Fcms%2Fproduction%2F854d9834-236a-40f6-9239-a9e6f0ab285c%2FRuntime_BR_Romance_Dark_Mode_Logordx.png",
+    "url": "https://watch.plex.tv/es/live-tv/channel/runtime-romance-3"
+  },
+  {
+    "nombre": "Runtime familia",
+    "logo": "https://images.plex.tv/photo?size=small-120&scale=2&url=https%3A%2F%2Fprovider-static.plex.tv%2Fepg%2Fcms%2Fproduction%2Fd1688b0a-fa63-4b15-8f80-634dd473cf23%2FRuntime_ES_Familia_Dark_Mode_Logordx.png",
+    "url": "https://watch.plex.tv/es/live-tv/channel/runtime-familia-3"
+  },
+    {
+    "nombre": "Cindie tv",
+    "logo": "https://images.plex.tv/photo?size=small-120&scale=2&url=https%3A%2F%2Fprovider-static.plex.tv%2Fepg%2Fcms%2Fproduction%2F5620421b-a237-4877-8e66-fab487246259%2FCindie_TV_Horizontal_3840x2160-DarkRDX.png",
+    "url": "https://watch.plex.tv/es/live-tv/channel/cindie-tv"
+  },
+  {
+    "nombre": "Free tv clasicos",
+    "logo": "https://images.plex.tv/photo?size=small-120&scale=2&url=https%3A%2F%2Fprovider-static.plex.tv%2Fepg%2Fcms%2Fproduction%2F48a7973c-64ac-46af-9e9d-6d93b06fbeba%2FFree-TV_Clasico_1500X1000_dark_and_light.png",
+    "url": "https://watch.plex.tv/es/live-tv/channel/freetv-clasico"
+  },
+    {
+    "nombre": "Macerick balck cinema",
+    "logo": "https://images.plex.tv/photo?size=small-120&scale=2&url=https%3A%2F%2Fprovider-static.plex.tv%2Fepg%2Fimages%2Fott_channels%2Flogos%2Fmaverick_maverick_black_cinema_2.png",
+    "url": "https://watch.plex.tv/es/live-tv/channel/maverick-black-cinema"
+  },
+  {
+    "nombre": "RCM",
+    "logo": "https://images.plex.tv/photo?size=small-120&scale=2&url=https%3A%2F%2Fprovider-static.plex.tv%2Fepg%2Fcms%2Fproduction%2Ff2c732af-553a-4ec1-b8ab-14277415e5b0%2FRCM_logo_white_-_Angela_Chan.png",
+    "url": "https://watch.plex.tv/es/live-tv/channel/rcm"
+  },
+    {
+    "nombre": "Documentary plus",
+    "logo": "https://images.plex.tv/photo?size=small-120&scale=2&url=https%3A%2F%2Fprovider-static.plex.tv%2Fepg%2Fcms%2Fproduction%2F24df67bc-967c-4662-a975-6f54c9c0657a%2Fdocumentaryplus_logo_dark_1_WHT.png",
+    "url": "https://watch.plex.tv/es/live-tv/channel/documentary"
+  },
+  {
+    "nombre": "Filmrise crimenes verdaderos",
+    "logo": "https://images.plex.tv/photo?size=small-120&scale=2&url=https%3A%2F%2Fprovider-static.plex.tv%2Fepg%2Fcms%2Fproduction%2F80f31fb0-3481-4e89-877a-3d2f0bb80215%2FFilmRise_CrimenesVerdaderos_1500x1000_Light_Logo.png",
+    "url": "https://watch.plex.tv/es/live-tv/channel/filmrise-crimenes-verdaderos-2"
+  },
+    {
+    "nombre": "Sangré Fria",
+    "logo": "https://images.plex.tv/photo?size=small-120&scale=2&url=https%3A%2F%2Fprovider-static.plex.tv%2Fepg%2Fcms%2Fproduction%2F2a8afd09-cee5-42af-aa6f-ddb9918abd19%2FSangre_Fria_Dark_Mode_Logordx.png",
+    "url": "https://watch.plex.tv/es/live-tv/channel/sangre-fria"
+  },
+  {
+    "nombre": "ZI Tv",
+    "logo": "https://images.plex.tv/photo?size=small-120&scale=2&url=https%3A%2F%2Fprovider-static.plex.tv%2Fepg%2Fcms%2Fproduction%2F6f05b595-1f43-4399-896a-789ab42dce75%2FZone_Investigacion_-_1500X1000_PNG_w_transparent_background_Logo_for_dark___white_backgrounds_-_JuanMa_Velasquez.png",
+    "url": "https://watch.plex.tv/es/live-tv/channel/zona-investigacion-2"
+  },
+    {
+    "nombre": "JAIL",
+    "logo": "https://images.plex.tv/photo?size=small-120&scale=2&url=https%3A%2F%2Fprovider-static.plex.tv%2Fepg%2Fcms%2Fproduction%2F08872b9b-a4a7-4533-a19b-d2c24a7bf2f1%2FJAIL_-_channel_logo_-_light_-_dark_-_1500x1000.png_James_Roebuck.png",
+    "url": "https://watch.plex.tv/es/live-tv/channel/jail"
+  },
+  {
+    "nombre": "Milenio televisión",
+    "logo": "https://images.plex.tv/photo?size=small-120&scale=2&url=https%3A%2F%2Fprovider-static.plex.tv%2Fepg%2Fcms%2Fproduction%2F1e99eb82-f642-4f2f-86e3-16df76547494%2FLogotipo_MILENIO_1500x1000_for_dark_backgrounds_-_James_Stowe.png",
+    "url": "https://watch.plex.tv/es/live-tv/channel/milenio-television"
+  },
+    {
+    "nombre": "Bloomberg televisión",
+    "logo": "https://images.plex.tv/photo?size=small-120&scale=2&url=https%3A%2F%2Fprovider-static.plex.tv%2F6%2Fepg%2Fchannels%2Flogos%2Fgracenote%2F66a30548bffdf5f5e158e3baf755afad.png",
+    "url": "https://watch.plex.tv/es/live-tv/channel/bloomberg-tv-2"
+  },
+  {
+    "nombre": "Newsmax en español",
+    "logo": "https://images.plex.tv/photo?size=small-120&scale=2&url=https%3A%2F%2Fprovider-static.plex.tv%2Fepg%2Fcms%2Fproduction%2F25db4f88-c689-4bf8-811b-603fb762d4fb%2F003_WHITE_NEWSMAX_EN_ESPANOL.png",
+    "url": "https://watch.plex.tv/es/live-tv/channel/newsmax-en-espanol"
+  },
+    {
+    "nombre": "Comercio",
+    "logo": "https://images.plex.tv/photo?size=small-120&scale=2&url=https%3A%2F%2Fprovider-static.plex.tv%2Fepg%2Fcms%2Fproduction%2Ff13dd872-9888-4a98-953b-2d2cf306d69a%2FcomercioDark_Logo__1_.png",
+    "url": "https://watch.plex.tv/es/live-tv/channel/comercio-tv"
+  },
+  {
+    "nombre": "Bloomberg originals",
+    "logo": "https://images.plex.tv/photo?size=small-120&scale=2&url=https%3A%2F%2Fprovider-static.plex.tv%2Fepg%2Fcms%2Fproduction%2Fa69341a2-fce3-4a05-af2e-469540b25d73%2FBBOriginals_2023_Plex_Stacked_WHTrdx.png",
+    "url": "https://watch.plex.tv/es/live-tv/channel/bloomberg-originals"
+  },
+    {
+    "nombre": "RCN Noticias",
+    "logo": "https://images.plex.tv/photo?size=small-120&scale=2&url=https%3A%2F%2Fprovider-static.plex.tv%2Fepg%2Fcms%2Fproduction%2F078ace21-2c9e-4b63-b222-1dd0a525ad3e%2FRCN_NOTICIAS_BG_COLOR_n_-_JuanMa_VelasquezRDX.png",
+    "url": "https://watch.plex.tv/es/live-tv/channel/rcn-noticias"
+  },
+  {
+    "nombre": "Euronews español",
+    "logo": "https://images.plex.tv/photo?size=small-120&scale=2&url=https%3A%2F%2Fprovider-static.plex.tv%2Fepg%2Fcms%2Fproduction%2Feea28bcc-26ea-4266-81b4-2945f334c3d9%2FPlex-WURL_Euronews-Logos_ES_-_astrid_collomb.png",
+    "url": "https://watch.plex.tv/es/live-tv/channel/euronews-espanol"
+  },
+    {
+    "nombre": "Usa today",
+    "logo": "https://images.plex.tv/photo?size=small-120&scale=2&url=https%3A%2F%2Fprovider-static.plex.tv%2Fepg%2Fcms%2Fproduction%2Fae42c76a-809f-465b-aed8-cfdc8e33a04b%2Fusatoday_logo_light.png",
+    "url": "https://watch.plex.tv/es/live-tv/channel/usa-today-news"
+  },
+  {
+    "nombre": "Euronews ingles",
+    "logo": "https://images.plex.tv/photo?size=small-120&scale=2&url=https%3A%2F%2Fprovider-static.plex.tv%2Fepg%2Fcms%2Fproduction%2F4d63af64-c260-4f5f-aac1-240aeaa36e90%2FPlex-WURL_Euronews-Logos_EN_-_astrid_collomb.png",
+    "url": "https://watch.plex.tv/es/live-tv/channel/euronews"
+  },
+    {
+    "nombre": "Reuters",
+    "logo": "https://images.plex.tv/photo?size=small-120&scale=2&url=https%3A%2F%2Fprovider-static.plex.tv%2Fepg%2Fcms%2Fproduction%2F8cf9c131-2d92-4d91-86b1-22ef458d703f%2Freuters_reutersnow_1RDX.png",
+    "url": "https://watch.plex.tv/es/live-tv/channel/the-reuters-60"
+  },
+  {
+    "nombre": "Newsmax2",
+    "logo": "https://images.plex.tv/photo?size=small-120&scale=2&url=https%3A%2F%2Fprovider-static.plex.tv%2Fepg%2Fcms%2Fproduction%2Ff3f74374-7cf6-4fdc-8056-7ef9e8eb989b%2FN2_logo_color.png",
+    "url": "https://watch.plex.tv/es/live-tv/channel/newsmax2"
+  },
+    {
+    "nombre": "Yahoo finance",
+    "logo": "https://images.plex.tv/photo?size=small-120&scale=2&url=https%3A%2F%2Fprovider-static.plex.tv%2Fepg%2Fimages%2Fott_channels%2Flogos%2Fyahoo-finance.png",
+    "url": "https://watch.plex.tv/es/live-tv/channel/yahoo-finance"
+  },
+  {
+    "nombre": "News world",
+    "logo": "https://images.plex.tv/photo?size=small-120&scale=2&url=https%3A%2F%2Fprovider-static.plex.tv%2Fepg%2Fcms%2Fproduction%2F2e3bf0d9-3ca6-4f65-b1d4-f180ef725d96%2FNewsWorld_logo_dark_-_Angela_Chan.png",
+    "url": "https://watch.plex.tv/es/live-tv/channel/newsworld"
+  },
+    {
+    "nombre": "France 24",
+    "logo": "https://images.plex.tv/photo?size=large-1920&scale=1&url=https%3A%2F%2Fprovider-static.plex.tv%2Fepg%2Fcms%2Fproduction%2Fd5065d4c-eb84-4fd6-862f-655ff5ca01cd%2Ffrance24fastenglish_logo_dark_-_David_COURET.png",
+    "url": "https://watch.plex.tv/es/live-tv/channel/france-24"
+  },
+  {
+    "nombre": "Euronewsfrancia",
+    "logo": "https://images.plex.tv/photo?size=small-120&scale=2&url=https%3A%2F%2Fprovider-static.plex.tv%2Fepg%2Fcms%2Fproduction%2F2be15415-4f0d-4d23-a4d4-3ec22445740a%2FPlex-WURL_Euronews-Logos_FR_-_astrid_collomb.png",
+    "url": "https://watch.plex.tv/es/live-tv/channel/euronews-francais"
+  },
+    {
+    "nombre": "Euronews portugues",
+    "logo": "https://images.plex.tv/photo?size=small-120&scale=2&url=https%3A%2F%2Fprovider-static.plex.tv%2Fepg%2Fcms%2Fproduction%2F76a8ddca-38be-4d5b-b8db-be69fcaa6231%2FPlex-WURL_Euronews-Logos_PT_-_astrid_collomb.png",
+    "url": "https://watch.plex.tv/es/live-tv/channel/euronews-portuguese"
+  },
+  {
+    "nombre": "Euronews aleman",
+    "logo": "https://images.plex.tv/photo?size=small-120&scale=2&url=https%3A%2F%2Fprovider-static.plex.tv%2Fepg%2Fcms%2Fproduction%2Ff4d271ea-6f09-46e0-910c-c052a63c3287%2FPlex-WURL_Euronews-Logos_DE_-_astrid_collomb.png",
+    "url": "https://watch.plex.tv/es/live-tv/channel/euronews-deutsch"
+  },
+    {
+    "nombre": "Euronews italiano",
+    "logo": "https://images.plex.tv/photo?size=small-120&scale=2&url=https%3A%2F%2Fprovider-static.plex.tv%2Fepg%2Fcms%2Fproduction%2Fc3f285d3-0411-496b-9cee-9244c21e106c%2FPlex-WURL_Euronews-Logos_IT_-_astrid_collomb.png",
+    "url": "https://watch.plex.tv/es/live-tv/channel/euronews-italiano"
+  },
+  {
+    "nombre": "Fifa +",
+    "logo": "https://images.plex.tv/photo?size=small-120&scale=2&url=https%3A%2F%2Fprovider-static.plex.tv%2Fepg%2Fcms%2Fproduction%2F754b914b-60f2-4349-89c6-9e744f91bf9f%2FFIFA__Logo_Rectangle_1500x1000_WHT.png",
+    "url": "https://watch.plex.tv/es/live-tv/channel/fifa-31"
+  },
+    {
+    "nombre": "azteca 7",
+    "logo": "https://peticion.com/logo.png",
+    "url": "https://regionales.saohgdasregions.fun/tvporinternet3.php?stream=1_"
+  },
+  {
+    "nombre": "azteca 7",
+    "logo": "https://peticion.com/logo.png",
+    "url": "https://regionales.saohgdasregions.fun/tvporinternet3.php?stream=1_"
+  },
+    {
+    "nombre": "azteca 7",
+    "logo": "https://peticion.com/logo.png",
+    "url": "https://regionales.saohgdasregions.fun/tvporinternet3.php?stream=1_"
+  },
+  {
+    "nombre": "azteca 7",
+    "logo": "https://peticion.com/logo.png",
+    "url": "https://regionales.saohgdasregions.fun/tvporinternet3.php?stream=1_"
+  },
+    {
+    "nombre": "azteca 7",
+    "logo": "https://peticion.com/logo.png",
+    "url": "https://regionales.saohgdasregions.fun/tvporinternet3.php?stream=1_"
+  },
+  {
+    "nombre": "azteca 7",
+    "logo": "https://peticion.com/logo.png",
+    "url": "https://regionales.saohgdasregions.fun/tvporinternet3.php?stream=1_"
+  },
+    {
+    "nombre": "azteca 7",
+    "logo": "https://peticion.com/logo.png",
+    "url": "https://regionales.saohgdasregions.fun/tvporinternet3.php?stream=1_"
+  },
+  {
+    "nombre": "azteca 7",
+    "logo": "https://peticion.com/logo.png",
+    "url": "https://regionales.saohgdasregions.fun/tvporinternet3.php?stream=1_"
+  },
+    {
+    "nombre": "azteca 7",
+    "logo": "https://peticion.com/logo.png",
+    "url": "https://regionales.saohgdasregions.fun/tvporinternet3.php?stream=1_"
+  },
+  {
+    "nombre": "azteca 7",
+    "logo": "https://peticion.com/logo.png",
+    "url": "https://regionales.saohgdasregions.fun/tvporinternet3.php?stream=1_"
+  },
+    {
+    "nombre": "azteca 7",
+    "logo": "https://peticion.com/logo.png",
+    "url": "https://regionales.saohgdasregions.fun/tvporinternet3.php?stream=1_"
+  },
+  {
+    "nombre": "azteca 7",
+    "logo": "https://peticion.com/logo.png",
+    "url": "https://regionales.saohgdasregions.fun/tvporinternet3.php?stream=1_"
+  },
+    {
+    "nombre": "azteca 7",
+    "logo": "https://peticion.com/logo.png",
+    "url": "https://regionales.saohgdasregions.fun/tvporinternet3.php?stream=1_"
+  },
+  {
+    "nombre": "azteca 7",
+    "logo": "https://peticion.com/logo.png",
+    "url": "https://regionales.saohgdasregions.fun/tvporinternet3.php?stream=1_"
+  },
+    {
+    "nombre": "azteca 7",
+    "logo": "https://peticion.com/logo.png",
+    "url": "https://regionales.saohgdasregions.fun/tvporinternet3.php?stream=1_"
+  },
+  {
+    "nombre": "azteca 7",
+    "logo": "https://peticion.com/logo.png",
+    "url": "https://regionales.saohgdasregions.fun/tvporinternet3.php?stream=1_"
+  },
+    {
+    "nombre": "azteca 7",
+    "logo": "https://peticion.com/logo.png",
+    "url": "https://regionales.saohgdasregions.fun/tvporinternet3.php?stream=1_"
+  },
+  {
+    "nombre": "azteca 7",
+    "logo": "https://peticion.com/logo.png",
+    "url": "https://regionales.saohgdasregions.fun/tvporinternet3.php?stream=1_"
+  },
+    {
+    "nombre": "azteca 7",
+    "logo": "https://peticion.com/logo.png",
+    "url": "https://regionales.saohgdasregions.fun/tvporinternet3.php?stream=1_"
+  },
+  {
+    "nombre": "azteca 7",
+    "logo": "https://peticion.com/logo.png",
+    "url": "https://regionales.saohgdasregions.fun/tvporinternet3.php?stream=1_"
+  },
+    {
+    "nombre": "azteca 7",
+    "logo": "https://peticion.com/logo.png",
+    "url": "https://regionales.saohgdasregions.fun/tvporinternet3.php?stream=1_"
+  },
+  {
+    "nombre": "azteca 7",
+    "logo": "https://peticion.com/logo.png",
+    "url": "https://regionales.saohgdasregions.fun/tvporinternet3.php?stream=1_"
+  },
+    {
+    "nombre": "azteca 7",
+    "logo": "https://peticion.com/logo.png",
+    "url": "https://regionales.saohgdasregions.fun/tvporinternet3.php?stream=1_"
+  },
+  {
+    "nombre": "azteca 7",
+    "logo": "https://peticion.com/logo.png",
+    "url": "https://regionales.saohgdasregions.fun/tvporinternet3.php?stream=1_"
+  },
+    {
+    "nombre": "azteca 7",
+    "logo": "https://peticion.com/logo.png",
+    "url": "https://regionales.saohgdasregions.fun/tvporinternet3.php?stream=1_"
+  },
+  {
+    "nombre": "azteca 7",
+    "logo": "https://peticion.com/logo.png",
+    "url": "https://regionales.saohgdasregions.fun/tvporinternet3.php?stream=1_"
+  },
+    {
+    "nombre": "azteca 7",
+    "logo": "https://peticion.com/logo.png",
+    "url": "https://regionales.saohgdasregions.fun/tvporinternet3.php?stream=1_"
+  },
+  {
+    "nombre": "azteca 7",
+    "logo": "https://peticion.com/logo.png",
+    "url": "https://regionales.saohgdasregions.fun/tvporinternet3.php?stream=1_"
+  },
+    {
+    "nombre": "azteca 7",
+    "logo": "https://peticion.com/logo.png",
+    "url": "https://regionales.saohgdasregions.fun/tvporinternet3.php?stream=1_"
+  },
+  {
+    "nombre": "azteca 7",
+    "logo": "https://peticion.com/logo.png",
+    "url": "https://regionales.saohgdasregions.fun/tvporinternet3.php?stream=1_"
+  },
+    {
+    "nombre": "azteca 7",
+    "logo": "https://peticion.com/logo.png",
+    "url": "https://regionales.saohgdasregions.fun/tvporinternet3.php?stream=1_"
+  },
+  {
+    "nombre": "azteca 7",
+    "logo": "https://peticion.com/logo.png",
+    "url": "https://regionales.saohgdasregions.fun/tvporinternet3.php?stream=1_"
+  },
+    {
+    "nombre": "azteca 7",
+    "logo": "https://peticion.com/logo.png",
+    "url": "https://regionales.saohgdasregions.fun/tvporinternet3.php?stream=1_"
+  },
+  {
+    "nombre": "azteca 7",
+    "logo": "https://peticion.com/logo.png",
+    "url": "https://regionales.saohgdasregions.fun/tvporinternet3.php?stream=1_"
+  },
+    {
+    "nombre": "azteca 7",
+    "logo": "https://peticion.com/logo.png",
+    "url": "https://regionales.saohgdasregions.fun/tvporinternet3.php?stream=1_"
+  },
+  {
+    "nombre": "azteca 7",
+    "logo": "https://peticion.com/logo.png",
+    "url": "https://regionales.saohgdasregions.fun/tvporinternet3.php?stream=1_"
+  },
+    {
+    "nombre": "azteca 7",
+    "logo": "https://peticion.com/logo.png",
+    "url": "https://regionales.saohgdasregions.fun/tvporinternet3.php?stream=1_"
+  },
+  {
+    "nombre": "azteca 7",
+    "logo": "https://peticion.com/logo.png",
+    "url": "https://regionales.saohgdasregions.fun/tvporinternet3.php?stream=1_"
+  },
+    {
+    "nombre": "azteca 7",
+    "logo": "https://peticion.com/logo.png",
+    "url": "https://regionales.saohgdasregions.fun/tvporinternet3.php?stream=1_"
+  },
+  {
+    "nombre": "azteca 7",
+    "logo": "https://peticion.com/logo.png",
+    "url": "https://regionales.saohgdasregions.fun/tvporinternet3.php?stream=1_"
+  },
+    {
+    "nombre": "azteca 7",
+    "logo": "https://peticion.com/logo.png",
+    "url": "https://regionales.saohgdasregions.fun/tvporinternet3.php?stream=1_"
+  },
+  {
+    "nombre": "azteca 7",
+    "logo": "https://peticion.com/logo.png",
+    "url": "https://regionales.saohgdasregions.fun/tvporinternet3.php?stream=1_"
+  },
+    {
+    "nombre": "azteca 7",
+    "logo": "https://peticion.com/logo.png",
+    "url": "https://regionales.saohgdasregions.fun/tvporinternet3.php?stream=1_"
+  },
+  {
+    "nombre": "azteca 7",
+    "logo": "https://peticion.com/logo.png",
+    "url": "https://regionales.saohgdasregions.fun/tvporinternet3.php?stream=1_"
+  },
+    {
+    "nombre": "azteca 7",
+    "logo": "https://peticion.com/logo.png",
+    "url": "https://regionales.saohgdasregions.fun/tvporinternet3.php?stream=1_"
+  },
+  {
+    "nombre": "azteca 7",
+    "logo": "https://peticion.com/logo.png",
+    "url": "https://regionales.saohgdasregions.fun/tvporinternet3.php?stream=1_"
+  },
+    {
+    "nombre": "azteca 7",
+    "logo": "https://peticion.com/logo.png",
+    "url": "https://regionales.saohgdasregions.fun/tvporinternet3.php?stream=1_"
+  },
+  {
+    "nombre": "azteca 7",
+    "logo": "https://peticion.com/logo.png",
+    "url": "https://regionales.saohgdasregions.fun/tvporinternet3.php?stream=1_"
+  },
+    {
+    "nombre": "azteca 7",
+    "logo": "https://peticion.com/logo.png",
+    "url": "https://regionales.saohgdasregions.fun/tvporinternet3.php?stream=1_"
+  },
+  {
+    "nombre": "azteca 7",
+    "logo": "https://peticion.com/logo.png",
+    "url": "https://regionales.saohgdasregions.fun/tvporinternet3.php?stream=1_"
+  },
+    {
+    "nombre": "azteca 7",
+    "logo": "https://peticion.com/logo.png",
+    "url": "https://regionales.saohgdasregions.fun/tvporinternet3.php?stream=1_"
+  },
+  {
+    "nombre": "azteca 7",
+    "logo": "https://peticion.com/logo.png",
+    "url": "https://regionales.saohgdasregions.fun/tvporinternet3.php?stream=1_"
+  },
+    {
+    "nombre": "azteca 7",
+    "logo": "https://peticion.com/logo.png",
+    "url": "https://regionales.saohgdasregions.fun/tvporinternet3.php?stream=1_"
+  },
+  {
+    "nombre": "azteca 7",
+    "logo": "https://peticion.com/logo.png",
+    "url": "https://regionales.saohgdasregions.fun/tvporinternet3.php?stream=1_"
+  },
+    {
+    "nombre": "azteca 7",
+    "logo": "https://peticion.com/logo.png",
+    "url": "https://regionales.saohgdasregions.fun/tvporinternet3.php?stream=1_"
+  },
+  {
+    "nombre": "azteca 7",
+    "logo": "https://peticion.com/logo.png",
+    "url": "https://regionales.saohgdasregions.fun/tvporinternet3.php?stream=1_"
+  },
+    {
+    "nombre": "azteca 7",
+    "logo": "https://peticion.com/logo.png",
+    "url": "https://regionales.saohgdasregions.fun/tvporinternet3.php?stream=1_"
+  },
+  {
+    "nombre": "azteca 7",
+    "logo": "https://peticion.com/logo.png",
+    "url": "https://regionales.saohgdasregions.fun/tvporinternet3.php?stream=1_"
+  },
+    {
+    "nombre": "azteca 7",
+    "logo": "https://peticion.com/logo.png",
+    "url": "https://regionales.saohgdasregions.fun/tvporinternet3.php?stream=1_"
+  },
+  {
+    "nombre": "azteca 7",
+    "logo": "https://peticion.com/logo.png",
+    "url": "https://regionales.saohgdasregions.fun/tvporinternet3.php?stream=1_"
+  },
+    {
+    "nombre": "azteca 7",
+    "logo": "https://peticion.com/logo.png",
+    "url": "https://regionales.saohgdasregions.fun/tvporinternet3.php?stream=1_"
+  },
+  {
+    "nombre": "azteca 7",
+    "logo": "https://peticion.com/logo.png",
+    "url": "https://regionales.saohgdasregions.fun/tvporinternet3.php?stream=1_"
+  },
+    {
+    "nombre": "azteca 7",
+    "logo": "https://peticion.com/logo.png",
+    "url": "https://regionales.saohgdasregions.fun/tvporinternet3.php?stream=1_"
+  },
+  {
+    "nombre": "azteca 7",
+    "logo": "https://peticion.com/logo.png",
+    "url": "https://regionales.saohgdasregions.fun/tvporinternet3.php?stream=1_"
+  },
+    {
+    "nombre": "azteca 7",
+    "logo": "https://peticion.com/logo.png",
+    "url": "https://regionales.saohgdasregions.fun/tvporinternet3.php?stream=1_"
+  },
+  {
+    "nombre": "azteca 7",
+    "logo": "https://peticion.com/logo.png",
+    "url": "https://regionales.saohgdasregions.fun/tvporinternet3.php?stream=1_"
+  },
+    {
+    "nombre": "azteca 7",
+    "logo": "https://peticion.com/logo.png",
+    "url": "https://regionales.saohgdasregions.fun/tvporinternet3.php?stream=1_"
+  },
+  {
+    "nombre": "azteca 7",
+    "logo": "https://peticion.com/logo.png",
+    "url": "https://regionales.saohgdasregions.fun/tvporinternet3.php?stream=1_"
+  },
+    {
+    "nombre": "azteca 7",
+    "logo": "https://peticion.com/logo.png",
+    "url": "https://regionales.saohgdasregions.fun/tvporinternet3.php?stream=1_"
+  },
+  {
+    "nombre": "azteca 7",
+    "logo": "https://peticion.com/logo.png",
+    "url": "https://regionales.saohgdasregions.fun/tvporinternet3.php?stream=1_"
+  },
+    {
+    "nombre": "azteca 7",
+    "logo": "https://peticion.com/logo.png",
+    "url": "https://regionales.saohgdasregions.fun/tvporinternet3.php?stream=1_"
+  },
+  {
+    "nombre": "azteca 7",
+    "logo": "https://peticion.com/logo.png",
+    "url": "https://regionales.saohgdasregions.fun/tvporinternet3.php?stream=1_"
+  },
+    {
+    "nombre": "azteca 7",
+    "logo": "https://peticion.com/logo.png",
+    "url": "https://regionales.saohgdasregions.fun/tvporinternet3.php?stream=1_"
+  },
+  {
+    "nombre": "azteca 7",
+    "logo": "https://peticion.com/logo.png",
+    "url": "https://regionales.saohgdasregions.fun/tvporinternet3.php?stream=1_"
+  },
+    {
+    "nombre": "azteca 7",
+    "logo": "https://peticion.com/logo.png",
+    "url": "https://regionales.saohgdasregions.fun/tvporinternet3.php?stream=1_"
+  },
+  {
+    "nombre": "azteca 7",
+    "logo": "https://peticion.com/logo.png",
+    "url": "https://regionales.saohgdasregions.fun/tvporinternet3.php?stream=1_"
+  },
+    {
+    "nombre": "azteca 7",
+    "logo": "https://peticion.com/logo.png",
+    "url": "https://regionales.saohgdasregions.fun/tvporinternet3.php?stream=1_"
+  },
+  {
+    "nombre": "azteca 7",
+    "logo": "https://peticion.com/logo.png",
+    "url": "https://regionales.saohgdasregions.fun/tvporinternet3.php?stream=1_"
+  },
+    {
+    "nombre": "azteca 7",
+    "logo": "https://peticion.com/logo.png",
+    "url": "https://regionales.saohgdasregions.fun/tvporinternet3.php?stream=1_"
+  },
+  {
+    "nombre": "azteca 7",
+    "logo": "https://peticion.com/logo.png",
+    "url": "https://regionales.saohgdasregions.fun/tvporinternet3.php?stream=1_"
+  },
+    {
+    "nombre": "azteca 7",
+    "logo": "https://peticion.com/logo.png",
+    "url": "https://regionales.saohgdasregions.fun/tvporinternet3.php?stream=1_"
+  },
+  {
+    "nombre": "azteca 7",
+    "logo": "https://peticion.com/logo.png",
+    "url": "https://regionales.saohgdasregions.fun/tvporinternet3.php?stream=1_"
+  },
+    {
+    "nombre": "azteca 7",
+    "logo": "https://peticion.com/logo.png",
+    "url": "https://regionales.saohgdasregions.fun/tvporinternet3.php?stream=1_"
+  },
+  {
+    "nombre": "azteca 7",
+    "logo": "https://peticion.com/logo.png",
+    "url": "https://regionales.saohgdasregions.fun/tvporinternet3.php?stream=1_"
+  },
+    {
+    "nombre": "azteca 7",
+    "logo": "https://peticion.com/logo.png",
+    "url": "https://regionales.saohgdasregions.fun/tvporinternet3.php?stream=1_"
+  },
+  {
+    "nombre": "azteca 7",
+    "logo": "https://peticion.com/logo.png",
+    "url": "https://regionales.saohgdasregions.fun/tvporinternet3.php?stream=1_"
+  },
+    {
+    "nombre": "azteca 7",
+    "logo": "https://peticion.com/logo.png",
+    "url": "https://regionales.saohgdasregions.fun/tvporinternet3.php?stream=1_"
+  },
+  {
+    "nombre": "azteca 7",
+    "logo": "https://peticion.com/logo.png",
+    "url": "https://regionales.saohgdasregions.fun/tvporinternet3.php?stream=1_"
+  },
+    {
+    "nombre": "azteca 7",
+    "logo": "https://peticion.com/logo.png",
+    "url": "https://regionales.saohgdasregions.fun/tvporinternet3.php?stream=1_"
+  },
+  {
+    "nombre": "azteca 7",
+    "logo": "https://peticion.com/logo.png",
+    "url": "https://regionales.saohgdasregions.fun/tvporinternet3.php?stream=1_"
+  },
+    {
+    "nombre": "azteca 7",
+    "logo": "https://peticion.com/logo.png",
+    "url": "https://regionales.saohgdasregions.fun/tvporinternet3.php?stream=1_"
+  },
+  {
+    "nombre": "azteca 7",
+    "logo": "https://peticion.com/logo.png",
+    "url": "https://regionales.saohgdasregions.fun/tvporinternet3.php?stream=1_"
+  },
+    {
+    "nombre": "azteca 7",
+    "logo": "https://peticion.com/logo.png",
+    "url": "https://regionales.saohgdasregions.fun/tvporinternet3.php?stream=1_"
+  },
+  {
+    "nombre": "azteca 7",
+    "logo": "https://peticion.com/logo.png",
+    "url": "https://regionales.saohgdasregions.fun/tvporinternet3.php?stream=1_"
+  },
+    {
+    "nombre": "azteca 7",
+    "logo": "https://peticion.com/logo.png",
+    "url": "https://regionales.saohgdasregions.fun/tvporinternet3.php?stream=1_"
+  },
+  {
+    "nombre": "azteca 7",
+    "logo": "https://peticion.com/logo.png",
+    "url": "https://regionales.saohgdasregions.fun/tvporinternet3.php?stream=1_"
+  },
+    {
+    "nombre": "azteca 7",
+    "logo": "https://peticion.com/logo.png",
+    "url": "https://regionales.saohgdasregions.fun/tvporinternet3.php?stream=1_"
+  },
+  {
+    "nombre": "azteca 7",
+    "logo": "https://peticion.com/logo.png",
+    "url": "https://regionales.saohgdasregions.fun/tvporinternet3.php?stream=1_"
+  },
+    {
+    "nombre": "azteca 7",
+    "logo": "https://peticion.com/logo.png",
+    "url": "https://regionales.saohgdasregions.fun/tvporinternet3.php?stream=1_"
+  },
+  {
+    "nombre": "azteca 7",
+    "logo": "https://peticion.com/logo.png",
+    "url": "https://regionales.saohgdasregions.fun/tvporinternet3.php?stream=1_"
+  },
+    {
+    "nombre": "azteca 7",
+    "logo": "https://peticion.com/logo.png",
+    "url": "https://regionales.saohgdasregions.fun/tvporinternet3.php?stream=1_"
+  },
+  {
+    "nombre": "azteca 7",
+    "logo": "https://peticion.com/logo.png",
+    "url": "https://regionales.saohgdasregions.fun/tvporinternet3.php?stream=1_"
+  },
+    {
+    "nombre": "azteca 7",
+    "logo": "https://peticion.com/logo.png",
+    "url": "https://regionales.saohgdasregions.fun/tvporinternet3.php?stream=1_"
+  },
+  {
+    "nombre": "azteca 7",
+    "logo": "https://peticion.com/logo.png",
+    "url": "https://regionales.saohgdasregions.fun/tvporinternet3.php?stream=1_"
+  },
+    {
+    "nombre": "azteca 7",
+    "logo": "https://peticion.com/logo.png",
+    "url": "https://regionales.saohgdasregions.fun/tvporinternet3.php?stream=1_"
+  },
+  {
+    "nombre": "azteca 7",
+    "logo": "https://peticion.com/logo.png",
+    "url": "https://regionales.saohgdasregions.fun/tvporinternet3.php?stream=1_"
+  },
+    {
+    "nombre": "azteca 7",
+    "logo": "https://peticion.com/logo.png",
+    "url": "https://regionales.saohgdasregions.fun/tvporinternet3.php?stream=1_"
+  },
+  {
+    "nombre": "azteca 7",
+    "logo": "https://peticion.com/logo.png",
+    "url": "https://regionales.saohgdasregions.fun/tvporinternet3.php?stream=1_"
+  },
+    {
+    "nombre": "azteca 7",
+    "logo": "https://peticion.com/logo.png",
+    "url": "https://regionales.saohgdasregions.fun/tvporinternet3.php?stream=1_"
+  },
+  {
+    "nombre": "azteca 7",
+    "logo": "https://peticion.com/logo.png",
+    "url": "https://regionales.saohgdasregions.fun/tvporinternet3.php?stream=1_"
+  },
+    {
+    "nombre": "azteca 7",
+    "logo": "https://peticion.com/logo.png",
+    "url": "https://regionales.saohgdasregions.fun/tvporinternet3.php?stream=1_"
+  },
+  {
+    "nombre": "azteca 7",
+    "logo": "https://peticion.com/logo.png",
+    "url": "https://regionales.saohgdasregions.fun/tvporinternet3.php?stream=1_"
+  },
+    {
+    "nombre": "azteca 7",
+    "logo": "https://peticion.com/logo.png",
+    "url": "https://regionales.saohgdasregions.fun/tvporinternet3.php?stream=1_"
+  },
+  {
+    "nombre": "azteca 7",
+    "logo": "https://peticion.com/logo.png",
+    "url": "https://regionales.saohgdasregions.fun/tvporinternet3.php?stream=1_"
+  },
+    {
+    "nombre": "azteca 7",
+    "logo": "https://peticion.com/logo.png",
+    "url": "https://regionales.saohgdasregions.fun/tvporinternet3.php?stream=1_"
+  },
+  {
+    "nombre": "azteca 7",
+    "logo": "https://peticion.com/logo.png",
+    "url": "https://regionales.saohgdasregions.fun/tvporinternet3.php?stream=1_"
+  },
+    {
+    "nombre": "azteca 7",
+    "logo": "https://peticion.com/logo.png",
+    "url": "https://regionales.saohgdasregions.fun/tvporinternet3.php?stream=1_"
+  },
+  {
+    "nombre": "azteca 7",
+    "logo": "https://peticion.com/logo.png",
+    "url": "https://regionales.saohgdasregions.fun/tvporinternet3.php?stream=1_"
+  },
+    {
+    "nombre": "azteca 7",
+    "logo": "https://peticion.com/logo.png",
+    "url": "https://regionales.saohgdasregions.fun/tvporinternet3.php?stream=1_"
+  },
+  {
+    "nombre": "azteca 7",
+    "logo": "https://peticion.com/logo.png",
+    "url": "https://regionales.saohgdasregions.fun/tvporinternet3.php?stream=1_"
+  },
+    {
+    "nombre": "azteca 7",
+    "logo": "https://peticion.com/logo.png",
+    "url": "https://regionales.saohgdasregions.fun/tvporinternet3.php?stream=1_"
+  },
+  {
+    "nombre": "azteca 7",
+    "logo": "https://peticion.com/logo.png",
+    "url": "https://regionales.saohgdasregions.fun/tvporinternet3.php?stream=1_"
+  },
+    {
+    "nombre": "azteca 7",
+    "logo": "https://peticion.com/logo.png",
+    "url": "https://regionales.saohgdasregions.fun/tvporinternet3.php?stream=1_"
+  },
+  {
+    "nombre": "azteca 7",
+    "logo": "https://peticion.com/logo.png",
+    "url": "https://regionales.saohgdasregions.fun/tvporinternet3.php?stream=1_"
+  },
+    {
+    "nombre": "azteca 7",
+    "logo": "https://peticion.com/logo.png",
+    "url": "https://regionales.saohgdasregions.fun/tvporinternet3.php?stream=1_"
+  },
+  {
+    "nombre": "azteca 7",
+    "logo": "https://peticion.com/logo.png",
+    "url": "https://regionales.saohgdasregions.fun/tvporinternet3.php?stream=1_"
+  },
+    {
+    "nombre": "azteca 7",
+    "logo": "https://peticion.com/logo.png",
+    "url": "https://regionales.saohgdasregions.fun/tvporinternet3.php?stream=1_"
+  },
+  {
+    "nombre": "azteca 7",
+    "logo": "https://peticion.com/logo.png",
+    "url": "https://regionales.saohgdasregions.fun/tvporinternet3.php?stream=1_"
+  },
+    {
+    "nombre": "azteca 7",
+    "logo": "https://peticion.com/logo.png",
+    "url": "https://regionales.saohgdasregions.fun/tvporinternet3.php?stream=1_"
+  },
+  {
+    "nombre": "azteca 7",
+    "logo": "https://peticion.com/logo.png",
+    "url": "https://regionales.saohgdasregions.fun/tvporinternet3.php?stream=1_"
+  },
+    {
+    "nombre": "azteca 7",
+    "logo": "https://peticion.com/logo.png",
+    "url": "https://regionales.saohgdasregions.fun/tvporinternet3.php?stream=1_"
+  },
+  {
+    "nombre": "azteca 7",
+    "logo": "https://peticion.com/logo.png",
+    "url": "https://regionales.saohgdasregions.fun/tvporinternet3.php?stream=1_"
+  },
+    {
+    "nombre": "azteca 7",
+    "logo": "https://peticion.com/logo.png",
+    "url": "https://regionales.saohgdasregions.fun/tvporinternet3.php?stream=1_"
+  },
+  {
+    "nombre": "azteca 7",
+    "logo": "https://peticion.com/logo.png",
+    "url": "https://regionales.saohgdasregions.fun/tvporinternet3.php?stream=1_"
+  },
+    {
+    "nombre": "azteca 7",
+    "logo": "https://peticion.com/logo.png",
+    "url": "https://regionales.saohgdasregions.fun/tvporinternet3.php?stream=1_"
+  },
+  {
+    "nombre": "azteca 7",
+    "logo": "https://peticion.com/logo.png",
+    "url": "https://regionales.saohgdasregions.fun/tvporinternet3.php?stream=1_"
+  },
+    {
+    "nombre": "azteca 7",
+    "logo": "https://peticion.com/logo.png",
+    "url": "https://regionales.saohgdasregions.fun/tvporinternet3.php?stream=1_"
+  },
+  {
+    "nombre": "azteca 7",
+    "logo": "https://peticion.com/logo.png",
+    "url": "https://regionales.saohgdasregions.fun/tvporinternet3.php?stream=1_"
+  },
+    {
+    "nombre": "azteca 7",
+    "logo": "https://peticion.com/logo.png",
+    "url": "https://regionales.saohgdasregions.fun/tvporinternet3.php?stream=1_"
+  },
+  {
+    "nombre": "azteca 7",
+    "logo": "https://peticion.com/logo.png",
+    "url": "https://regionales.saohgdasregions.fun/tvporinternet3.php?stream=1_"
+  },
+    {
+    "nombre": "azteca 7",
+    "logo": "https://peticion.com/logo.png",
+    "url": "https://regionales.saohgdasregions.fun/tvporinternet3.php?stream=1_"
+  },
+  {
+    "nombre": "azteca 7",
+    "logo": "https://peticion.com/logo.png",
+    "url": "https://regionales.saohgdasregions.fun/tvporinternet3.php?stream=1_"
+  },
+    {
+    "nombre": "azteca 7",
+    "logo": "https://peticion.com/logo.png",
+    "url": "https://regionales.saohgdasregions.fun/tvporinternet3.php?stream=1_"
+  },
+  {
+    "nombre": "azteca 7",
+    "logo": "https://peticion.com/logo.png",
+    "url": "https://regionales.saohgdasregions.fun/tvporinternet3.php?stream=1_"
+  },
+    {
+    "nombre": "azteca 7",
+    "logo": "https://peticion.com/logo.png",
+    "url": "https://regionales.saohgdasregions.fun/tvporinternet3.php?stream=1_"
+  },
+  {
+    "nombre": "azteca 7",
+    "logo": "https://peticion.com/logo.png",
+    "url": "https://regionales.saohgdasregions.fun/tvporinternet3.php?stream=1_"
+  },
+    {
+    "nombre": "azteca 7",
+    "logo": "https://peticion.com/logo.png",
+    "url": "https://regionales.saohgdasregions.fun/tvporinternet3.php?stream=1_"
+  },
+  {
+    "nombre": "azteca 7",
+    "logo": "https://peticion.com/logo.png",
+    "url": "https://regionales.saohgdasregions.fun/tvporinternet3.php?stream=1_"
+  },
+    {
+    "nombre": "azteca 7",
+    "logo": "https://peticion.com/logo.png",
+    "url": "https://regionales.saohgdasregions.fun/tvporinternet3.php?stream=1_"
+  },
+  {
+    "nombre": "azteca 7",
+    "logo": "https://peticion.com/logo.png",
+    "url": "https://regionales.saohgdasregions.fun/tvporinternet3.php?stream=1_"
+  },
+    {
+    "nombre": "azteca 7",
+    "logo": "https://peticion.com/logo.png",
+    "url": "https://regionales.saohgdasregions.fun/tvporinternet3.php?stream=1_"
+  },
+  {
+    "nombre": "azteca 7",
+    "logo": "https://peticion.com/logo.png",
+    "url": "https://regionales.saohgdasregions.fun/tvporinternet3.php?stream=1_"
+  },
+    {
+    "nombre": "azteca 7",
+    "logo": "https://peticion.com/logo.png",
+    "url": "https://regionales.saohgdasregions.fun/tvporinternet3.php?stream=1_"
+  },
+  {
+    "nombre": "azteca 7",
+    "logo": "https://peticion.com/logo.png",
+    "url": "https://regionales.saohgdasregions.fun/tvporinternet3.php?stream=1_"
+  },
+    {
+    "nombre": "azteca 7",
+    "logo": "https://peticion.com/logo.png",
+    "url": "https://regionales.saohgdasregions.fun/tvporinternet3.php?stream=1_"
+  },
+  {
+    "nombre": "azteca 7",
+    "logo": "https://peticion.com/logo.png",
+    "url": "https://regionales.saohgdasregions.fun/tvporinternet3.php?stream=1_"
+  },
+    {
+    "nombre": "azteca 7",
+    "logo": "https://peticion.com/logo.png",
+    "url": "https://regionales.saohgdasregions.fun/tvporinternet3.php?stream=1_"
+  },
+  {
+    "nombre": "azteca 7",
+    "logo": "https://peticion.com/logo.png",
+    "url": "https://regionales.saohgdasregions.fun/tvporinternet3.php?stream=1_"
+  },
+    {
+    "nombre": "azteca 7",
+    "logo": "https://peticion.com/logo.png",
+    "url": "https://regionales.saohgdasregions.fun/tvporinternet3.php?stream=1_"
+  },
+  {
+    "nombre": "azteca 7",
+    "logo": "https://peticion.com/logo.png",
+    "url": "https://regionales.saohgdasregions.fun/tvporinternet3.php?stream=1_"
+  },
+    {
+    "nombre": "azteca 7",
+    "logo": "https://peticion.com/logo.png",
+    "url": "https://regionales.saohgdasregions.fun/tvporinternet3.php?stream=1_"
+  },
+  {
+    "nombre": "azteca 7",
+    "logo": "https://peticion.com/logo.png",
+    "url": "https://regionales.saohgdasregions.fun/tvporinternet3.php?stream=1_"
+  },
+    {
+    "nombre": "azteca 7",
+    "logo": "https://peticion.com/logo.png",
+    "url": "https://regionales.saohgdasregions.fun/tvporinternet3.php?stream=1_"
+  },
+  {
+    "nombre": "azteca 7",
+    "logo": "https://peticion.com/logo.png",
+    "url": "https://regionales.saohgdasregions.fun/tvporinternet3.php?stream=1_"
+  },
+    {
+    "nombre": "azteca 7",
+    "logo": "https://peticion.com/logo.png",
+    "url": "https://regionales.saohgdasregions.fun/tvporinternet3.php?stream=1_"
+  },
+  {
+    "nombre": "azteca 7",
+    "logo": "https://peticion.com/logo.png",
+    "url": "https://regionales.saohgdasregions.fun/tvporinternet3.php?stream=1_"
+  },
+    {
+    "nombre": "azteca 7",
+    "logo": "https://peticion.com/logo.png",
+    "url": "https://regionales.saohgdasregions.fun/tvporinternet3.php?stream=1_"
+  },
+  {
+    "nombre": "azteca 7",
+    "logo": "https://peticion.com/logo.png",
+    "url": "https://regionales.saohgdasregions.fun/tvporinternet3.php?stream=1_"
+  },
+    {
+    "nombre": "azteca 7",
+    "logo": "https://peticion.com/logo.png",
+    "url": "https://regionales.saohgdasregions.fun/tvporinternet3.php?stream=1_"
+  },
+  {
+    "nombre": "azteca 7",
+    "logo": "https://peticion.com/logo.png",
+    "url": "https://regionales.saohgdasregions.fun/tvporinternet3.php?stream=1_"
+  },
+    {
+    "nombre": "azteca 7",
+    "logo": "https://peticion.com/logo.png",
+    "url": "https://regionales.saohgdasregions.fun/tvporinternet3.php?stream=1_"
+  },
+  {
+    "nombre": "azteca 7",
+    "logo": "https://peticion.com/logo.png",
+    "url": "https://regionales.saohgdasregions.fun/tvporinternet3.php?stream=1_"
+  },
+    {
+    "nombre": "azteca 7",
+    "logo": "https://peticion.com/logo.png",
+    "url": "https://regionales.saohgdasregions.fun/tvporinternet3.php?stream=1_"
+  },
+  {
+    "nombre": "azteca 7",
+    "logo": "https://peticion.com/logo.png",
+    "url": "https://regionales.saohgdasregions.fun/tvporinternet3.php?stream=1_"
+  },
+    {
+    "nombre": "azteca 7",
+    "logo": "https://peticion.com/logo.png",
+    "url": "https://regionales.saohgdasregions.fun/tvporinternet3.php?stream=1_"
+  },
+  {
+    "nombre": "azteca 7",
+    "logo": "https://peticion.com/logo.png",
+    "url": "https://regionales.saohgdasregions.fun/tvporinternet3.php?stream=1_"
+  },
+    {
+    "nombre": "azteca 7",
+    "logo": "https://peticion.com/logo.png",
+    "url": "https://regionales.saohgdasregions.fun/tvporinternet3.php?stream=1_"
+  },
+  {
+    "nombre": "azteca 7",
+    "logo": "https://peticion.com/logo.png",
+    "url": "https://regionales.saohgdasregions.fun/tvporinternet3.php?stream=1_"
+  },
+    {
+    "nombre": "azteca 7",
+    "logo": "https://peticion.com/logo.png",
+    "url": "https://regionales.saohgdasregions.fun/tvporinternet3.php?stream=1_"
+  },
+  {
+    "nombre": "azteca 7",
+    "logo": "https://peticion.com/logo.png",
+    "url": "https://regionales.saohgdasregions.fun/tvporinternet3.php?stream=1_"
+  },
+    {
+    "nombre": "azteca 7",
+    "logo": "https://peticion.com/logo.png",
+    "url": "https://regionales.saohgdasregions.fun/tvporinternet3.php?stream=1_"
+  },
+  {
+    "nombre": "azteca 7",
+    "logo": "https://peticion.com/logo.png",
+    "url": "https://regionales.saohgdasregions.fun/tvporinternet3.php?stream=1_"
+  },
+    {
+    "nombre": "azteca 7",
+    "logo": "https://peticion.com/logo.png",
+    "url": "https://regionales.saohgdasregions.fun/tvporinternet3.php?stream=1_"
+  },
+  {
+    "nombre": "azteca 7",
+    "logo": "https://peticion.com/logo.png",
+    "url": "https://regionales.saohgdasregions.fun/tvporinternet3.php?stream=1_"
+  },
+    {
+    "nombre": "azteca 7",
+    "logo": "https://peticion.com/logo.png",
+    "url": "https://regionales.saohgdasregions.fun/tvporinternet3.php?stream=1_"
+  },
+  {
+    "nombre": "azteca 7",
+    "logo": "https://peticion.com/logo.png",
+    "url": "https://regionales.saohgdasregions.fun/tvporinternet3.php?stream=1_"
+  },
+    {
+    "nombre": "azteca 7",
+    "logo": "https://peticion.com/logo.png",
+    "url": "https://regionales.saohgdasregions.fun/tvporinternet3.php?stream=1_"
+  },
+  {
+    "nombre": "azteca 7",
+    "logo": "https://peticion.com/logo.png",
+    "url": "https://regionales.saohgdasregions.fun/tvporinternet3.php?stream=1_"
+  },
+    {
+    "nombre": "azteca 7",
+    "logo": "https://peticion.com/logo.png",
+    "url": "https://regionales.saohgdasregions.fun/tvporinternet3.php?stream=1_"
+  },
+  {
+    "nombre": "azteca 7",
+    "logo": "https://peticion.com/logo.png",
+    "url": "https://regionales.saohgdasregions.fun/tvporinternet3.php?stream=1_"
+  },
+    {
+    "nombre": "azteca 7",
+    "logo": "https://peticion.com/logo.png",
+    "url": "https://regionales.saohgdasregions.fun/tvporinternet3.php?stream=1_"
+  },
+  {
+    "nombre": "azteca 7",
+    "logo": "https://peticion.com/logo.png",
+    "url": "https://regionales.saohgdasregions.fun/tvporinternet3.php?stream=1_"
+  },
+    {
+    "nombre": "azteca 7",
+    "logo": "https://peticion.com/logo.png",
+    "url": "https://regionales.saohgdasregions.fun/tvporinternet3.php?stream=1_"
+  },
+  {
+    "nombre": "azteca 7",
+    "logo": "https://peticion.com/logo.png",
+    "url": "https://regionales.saohgdasregions.fun/tvporinternet3.php?stream=1_"
+  },
+    {
+    "nombre": "azteca 7",
+    "logo": "https://peticion.com/logo.png",
+    "url": "https://regionales.saohgdasregions.fun/tvporinternet3.php?stream=1_"
+  },
+  {
+    "nombre": "azteca 7",
+    "logo": "https://peticion.com/logo.png",
+    "url": "https://regionales.saohgdasregions.fun/tvporinternet3.php?stream=1_"
+  },
+    {
+    "nombre": "azteca 7",
+    "logo": "https://peticion.com/logo.png",
+    "url": "https://regionales.saohgdasregions.fun/tvporinternet3.php?stream=1_"
+  },
+  {
+    "nombre": "azteca 7",
+    "logo": "https://peticion.com/logo.png",
+    "url": "https://regionales.saohgdasregions.fun/tvporinternet3.php?stream=1_"
+  },
+    {
+    "nombre": "azteca 7",
+    "logo": "https://peticion.com/logo.png",
+    "url": "https://regionales.saohgdasregions.fun/tvporinternet3.php?stream=1_"
+  },
+  {
+    "nombre": "azteca 7",
+    "logo": "https://peticion.com/logo.png",
+    "url": "https://regionales.saohgdasregions.fun/tvporinternet3.php?stream=1_"
+  },
+    {
+    "nombre": "azteca 7",
+    "logo": "https://peticion.com/logo.png",
+    "url": "https://regionales.saohgdasregions.fun/tvporinternet3.php?stream=1_"
+  },
+  {
+    "nombre": "azteca 7",
+    "logo": "https://peticion.com/logo.png",
+    "url": "https://regionales.saohgdasregions.fun/tvporinternet3.php?stream=1_"
+  },
+    {
+    "nombre": "azteca 7",
+    "logo": "https://peticion.com/logo.png",
+    "url": "https://regionales.saohgdasregions.fun/tvporinternet3.php?stream=1_"
+  },
+  {
+    "nombre": "azteca 7",
+    "logo": "https://peticion.com/logo.png",
+    "url": "https://regionales.saohgdasregions.fun/tvporinternet3.php?stream=1_"
+  },
+    {
+    "nombre": "azteca 7",
+    "logo": "https://peticion.com/logo.png",
+    "url": "https://regionales.saohgdasregions.fun/tvporinternet3.php?stream=1_"
+  },
+  {
+    "nombre": "azteca 7",
+    "logo": "https://peticion.com/logo.png",
+    "url": "https://regionales.saohgdasregions.fun/tvporinternet3.php?stream=1_"
+  },
+    {
+    "nombre": "azteca 7",
+    "logo": "https://peticion.com/logo.png",
+    "url": "https://regionales.saohgdasregions.fun/tvporinternet3.php?stream=1_"
+  },
+  {
+    "nombre": "azteca 7",
+    "logo": "https://peticion.com/logo.png",
+    "url": "https://regionales.saohgdasregions.fun/tvporinternet3.php?stream=1_"
+  },
+    {
+    "nombre": "azteca 7",
+    "logo": "https://peticion.com/logo.png",
+    "url": "https://regionales.saohgdasregions.fun/tvporinternet3.php?stream=1_"
+  },
+  {
+    "nombre": "azteca 7",
+    "logo": "https://peticion.com/logo.png",
+    "url": "https://regionales.saohgdasregions.fun/tvporinternet3.php?stream=1_"
+  },
+    {
+    "nombre": "azteca 7",
+    "logo": "https://peticion.com/logo.png",
+    "url": "https://regionales.saohgdasregions.fun/tvporinternet3.php?stream=1_"
+  },
+  {
+    "nombre": "azteca 7",
+    "logo": "https://peticion.com/logo.png",
+    "url": "https://regionales.saohgdasregions.fun/tvporinternet3.php?stream=1_"
+  },
+    {
+    "nombre": "azteca 7",
+    "logo": "https://peticion.com/logo.png",
+    "url": "https://regionales.saohgdasregions.fun/tvporinternet3.php?stream=1_"
+  },
+  {
+    "nombre": "azteca 7",
+    "logo": "https://peticion.com/logo.png",
+    "url": "https://regionales.saohgdasregions.fun/tvporinternet3.php?stream=1_"
+  },
+    {
+    "nombre": "azteca 7",
+    "logo": "https://peticion.com/logo.png",
+    "url": "https://regionales.saohgdasregions.fun/tvporinternet3.php?stream=1_"
+  },
+  {
+    "nombre": "azteca 7",
+    "logo": "https://peticion.com/logo.png",
+    "url": "https://regionales.saohgdasregions.fun/tvporinternet3.php?stream=1_"
+  },
+    {
+    "nombre": "azteca 7",
+    "logo": "https://peticion.com/logo.png",
+    "url": "https://regionales.saohgdasregions.fun/tvporinternet3.php?stream=1_"
+  },
+  {
+    "nombre": "azteca 7",
+    "logo": "https://peticion.com/logo.png",
+    "url": "https://regionales.saohgdasregions.fun/tvporinternet3.php?stream=1_"
+  },
+    {
+    "nombre": "azteca 7",
+    "logo": "https://peticion.com/logo.png",
+    "url": "https://regionales.saohgdasregions.fun/tvporinternet3.php?stream=1_"
+  },
+  {
+    "nombre": "azteca 7",
+    "logo": "https://peticion.com/logo.png",
+    "url": "https://regionales.saohgdasregions.fun/tvporinternet3.php?stream=1_"
+  },
+    {
+    "nombre": "azteca 7",
+    "logo": "https://peticion.com/logo.png",
+    "url": "https://regionales.saohgdasregions.fun/tvporinternet3.php?stream=1_"
+  },
+  {
+    "nombre": "azteca 7",
+    "logo": "https://peticion.com/logo.png",
+    "url": "https://regionales.saohgdasregions.fun/tvporinternet3.php?stream=1_"
+  },
+    {
+    "nombre": "azteca 7",
+    "logo": "https://peticion.com/logo.png",
+    "url": "https://regionales.saohgdasregions.fun/tvporinternet3.php?stream=1_"
+  }
+]
