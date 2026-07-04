@@ -385,9 +385,9 @@
     "url": "https://watch.plex.tv/es/live-tv/channel/fifa-31"
   },
     {
-    "nombre": "azteca 7",
-    "logo": "https://peticion.com/logo.png",
-    "url": "https://regionales.saohgdasregions.fun/tvporinternet3.php?stream=1_"
+    "nombre": "NFL channel",
+    "logo": "https://images.plex.tv/photo?size=small-120&scale=2&url=https%3A%2F%2Fprovider-static.plex.tv%2Fepg%2Fcms%2Fproduction%2F585a58ca-c568-4bb8-bfc7-3000ac8d5fc5%2FNFL_WHITE.png",
+    "url": "https://watch.plex.tv/es/live-tv/channel/nfl-channel-3"
   },
   {
     "nombre": "azteca 7",
@@ -395,399 +395,399 @@
     "url": "https://regionales.saohgdasregions.fun/tvporinternet3.php?stream=1_"
   },
     {
-    "nombre": "azteca 7",
-    "logo": "https://peticion.com/logo.png",
-    "url": "https://regionales.saohgdasregions.fun/tvporinternet3.php?stream=1_"
+    "nombre": "UFC",
+    "logo": "https://images.plex.tv/photo?size=small-120&scale=2&url=https%3A%2F%2Fprovider-static.plex.tv%2Fepg%2Fcms%2Fproduction%2Fc2e95493-6f98-4a65-be46-d17200ea068a%2FUFC_logo_WHT_1500x1000.png",
+    "url": "https://watch.plex.tv/es/live-tv/channel/ufc"
   },
   {
-    "nombre": "azteca 7",
-    "logo": "https://peticion.com/logo.png",
-    "url": "https://regionales.saohgdasregions.fun/tvporinternet3.php?stream=1_"
+    "nombre": "TNA Wrestling",
+    "logo": "https://images.plex.tv/photo?size=small-120&scale=2&url=https%3A%2F%2Fprovider-static.plex.tv%2Fepg%2Fcms%2Fproduction%2F5d4f68c3-82af-45e7-b2c4-39aff69f3ce0%2FTNAWrestling_Plex_LogoforDarkBG_1500x1000_-_Alex_TushinghamRDX.png",
+    "url": "https://watch.plex.tv/es/live-tv/channel/tna-wrestling-channel"
   },
     {
-    "nombre": "azteca 7",
-    "logo": "https://peticion.com/logo.png",
-    "url": "https://regionales.saohgdasregions.fun/tvporinternet3.php?stream=1_"
+    "nombre": "Motorvision tv",
+    "logo": "https://images.plex.tv/photo?size=small-120&scale=2&url=https%3A%2F%2Fprovider-static.plex.tv%2Fepg%2Fimages%2Fott_channels%2Flogos%2Fmotorvision_logo_dark_v2.png",
+    "url": "https://watch.plex.tv/es/live-tv/channel/motorvision-tv-en-espanol"
   },
   {
-    "nombre": "azteca 7",
-    "logo": "https://peticion.com/logo.png",
-    "url": "https://regionales.saohgdasregions.fun/tvporinternet3.php?stream=1_"
+    "nombre": "Monster jam",
+    "logo": "https://images.plex.tv/photo?size=small-120&scale=2&url=https%3A%2F%2Fprovider-static.plex.tv%2Fepg%2Fcms%2Fproduction%2F23824964-562b-4498-9eaa-d6262cb7e0c3%2FMonster_Jam_Logo_on_Transparent_1500x1000_Casey_Murawski.png",
+    "url": "https://watch.plex.tv/es/live-tv/channel/monster-jam"
   },
     {
-    "nombre": "azteca 7",
-    "logo": "https://peticion.com/logo.png",
-    "url": "https://regionales.saohgdasregions.fun/tvporinternet3.php?stream=1_"
+    "nombre": "World poker tour",
+    "logo": "https://images.plex.tv/photo?size=small-120&scale=2&url=https%3A%2F%2Fprovider-static.plex.tv%2Fepg%2Fcms%2Fproduction%2Fc40e4f88-6f5c-4f2a-8d54-e6812e25771c%2Fwpt_logo.png",
+    "url": "https://watch.plex.tv/es/live-tv/channel/the-world-poker-tour"
   },
   {
-    "nombre": "azteca 7",
-    "logo": "https://peticion.com/logo.png",
-    "url": "https://regionales.saohgdasregions.fun/tvporinternet3.php?stream=1_"
+    "nombre": "Twitch",
+    "logo": "https://images.plex.tv/photo?size=small-120&scale=2&url=https%3A%2F%2Fprovider-static.plex.tv%2Fepg%2Fcms%2Fproduction%2Fe081c886-d798-4438-855b-2f1fb10c50ee%2Fpoker-night-tv.png",
+    "url": "https://watch.plex.tv/es/live-tv/channel/poker-night-tv"
   },
     {
-    "nombre": "azteca 7",
-    "logo": "https://peticion.com/logo.png",
-    "url": "https://regionales.saohgdasregions.fun/tvporinternet3.php?stream=1_"
+    "nombre": "Poker",
+    "logo": "https://images.plex.tv/photo?size=small-120&scale=2&url=https%3A%2F%2Fprovider-static.plex.tv%2Fepg%2Fcms%2Fproduction%2Fa2ff31a8-9b9a-4b7b-9aa5-71c0bc166632%2F1500x1000_LightBG_-_Aidan_Perrizo_white.png",
+    "url": "https://watch.plex.tv/es/live-tv/channel/pokergo"
   },
   {
-    "nombre": "azteca 7",
-    "logo": "https://peticion.com/logo.png",
-    "url": "https://regionales.saohgdasregions.fun/tvporinternet3.php?stream=1_"
+    "nombre": "Glory",
+    "logo": "https://images.plex.tv/photo?size=small-120&scale=2&url=https%3A%2F%2Fprovider-static.plex.tv%2Fepg%2Fcms%2Fproduction%2F24dfa4e0-5cba-4f17-afce-f325404ba01a%2FGLORY_Logo_Light_Nicholas_Olsen.png",
+    "url": "https://watch.plex.tv/es/live-tv/channel/glory-kickboxing"
   },
     {
-    "nombre": "azteca 7",
-    "logo": "https://peticion.com/logo.png",
-    "url": "https://regionales.saohgdasregions.fun/tvporinternet3.php?stream=1_"
+    "nombre": "Tennis",
+    "logo": "https://images.plex.tv/photo?size=small-120&scale=2&url=https%3A%2F%2Fprovider-static.plex.tv%2Fepg%2Fcms%2Fproduction%2F704e7af1-90a0-4ad4-94de-af2559c19fa6%2F1_Tennis_Plus_Logo__Dark_Mode__1500x1000px.png",
+    "url": "https://watch.plex.tv/es/live-tv/channel/tennis"
   },
   {
-    "nombre": "azteca 7",
-    "logo": "https://peticion.com/logo.png",
-    "url": "https://regionales.saohgdasregions.fun/tvporinternet3.php?stream=1_"
+    "nombre": "fule tv",
+    "logo": "https://images.plex.tv/photo?size=small-120&scale=2&url=https%3A%2F%2Fprovider-static.plex.tv%2Fepg%2Fcms%2Fproduction%2Fb3f56031-6337-4d19-a487-9edefea3ce28%2FCHANNEL_LOGO_3X2.png",
+    "url": "https://watch.plex.tv/es/live-tv/channel/fuel-tv-3"
   },
     {
-    "nombre": "azteca 7",
-    "logo": "https://peticion.com/logo.png",
-    "url": "https://regionales.saohgdasregions.fun/tvporinternet3.php?stream=1_"
+    "nombre": "NHRA",
+    "logo": "https://images.plex.tv/photo?size=small-120&scale=2&url=https%3A%2F%2Fprovider-static.plex.tv%2Fepg%2Fimages%2Fott_channels%2Flogos%2FNHRA_logo_dark.png",
+    "url": "https://watch.plex.tv/es/live-tv/channel/nhra-tv"
   },
   {
-    "nombre": "azteca 7",
-    "logo": "https://peticion.com/logo.png",
-    "url": "https://regionales.saohgdasregions.fun/tvporinternet3.php?stream=1_"
+    "nombre": "Hard knocks",
+    "logo": "https://images.plex.tv/photo?size=small-120&scale=2&url=https%3A%2F%2Fprovider-static.plex.tv%2Fepg%2Fimages%2Fott_channels%2Flogos%2Fhardknocks_logo_dark.png",
+    "url": "https://watch.plex.tv/es/live-tv/channel/hard-knocks"
   },
     {
-    "nombre": "azteca 7",
-    "logo": "https://peticion.com/logo.png",
-    "url": "https://regionales.saohgdasregions.fun/tvporinternet3.php?stream=1_"
+    "nombre": "Ayas hd",
+    "logo": "https://images.plex.tv/photo?size=small-120&scale=2&url=https%3A%2F%2Fprovider-static.plex.tv%2Fepg%2Fcms%2Fproduction%2F94b95e02-4cd5-4739-bb43-cd2a26158a85%2Faym_sports_logo_light_-_Jordan_Warkol.png",
+    "url": "https://watch.plex.tv/es/live-tv/channel/aym-sports-tv"
   },
   {
-    "nombre": "azteca 7",
-    "logo": "https://peticion.com/logo.png",
-    "url": "https://regionales.saohgdasregions.fun/tvporinternet3.php?stream=1_"
+    "nombre": "Sports grio live",
+    "logo": "https://images.plex.tv/photo?size=small-120&scale=2&url=https%3A%2F%2Fprovider-static.plex.tv%2Fepg%2Fcms%2Fproduction%2Fed88a8cc-a1f4-445a-a2bc-9fbb4c7104de%2FSG-LIVE-WHITE-ON-ALPHA-1500x1000.png",
+    "url": "https://watch.plex.tv/es/live-tv/channel/sportsgrid"
   },
     {
-    "nombre": "azteca 7",
-    "logo": "https://peticion.com/logo.png",
-    "url": "https://regionales.saohgdasregions.fun/tvporinternet3.php?stream=1_"
+    "nombre": "Strongman champions league",
+    "logo": "https://images.plex.tv/photo?size=small-120&scale=2&url=https%3A%2F%2Fprovider-static.plex.tv%2Fepg%2Fcms%2Fproduction%2F80fb7204-c306-4759-a0d7-c4e829650c22%2FStrongmanChampionsLeague_Channel-Logo-Light-1500px.png",
+    "url": "https://watch.plex.tv/es/live-tv/channel/strongman-champions"
   },
   {
-    "nombre": "azteca 7",
-    "logo": "https://peticion.com/logo.png",
-    "url": "https://regionales.saohgdasregions.fun/tvporinternet3.php?stream=1_"
+    "nombre": "World billards",
+    "logo": "https://images.plex.tv/photo?size=small-120&scale=2&url=https%3A%2F%2Fprovider-static.plex.tv%2Fepg%2Fcms%2Fproduction%2F55d069fe-0219-447a-a712-e3ecaed26241%2F_Plex__WBT_Logo_Dark_Mode.png",
+    "url": "https://watch.plex.tv/es/live-tv/channel/world-billiards-tv"
   },
     {
-    "nombre": "azteca 7",
-    "logo": "https://peticion.com/logo.png",
-    "url": "https://regionales.saohgdasregions.fun/tvporinternet3.php?stream=1_"
+    "nombre": "Pickle tv",
+    "logo": "https://images.plex.tv/photo?size=small-120&scale=2&url=https%3A%2F%2Fprovider-static.plex.tv%2Fepg%2Fcms%2Fproduction%2F6b1c4bff-1077-4ba0-a8d6-f4c39365f126%2FPickleTV_1500x1000_3_ChannelLogoLight_Casey_Murawskirdx.png",
+    "url": "https://watch.plex.tv/es/live-tv/channel/pickletv"
   },
   {
-    "nombre": "azteca 7",
-    "logo": "https://peticion.com/logo.png",
-    "url": "https://regionales.saohgdasregions.fun/tvporinternet3.php?stream=1_"
+    "nombre": "Pga touch",
+    "logo": "https://images.plex.tv/photo?size=small-120&scale=2&url=https%3A%2F%2Fprovider-static.plex.tv%2Fepg%2Fcms%2Fproduction%2Feed7be0b-c44c-4afa-bfa4-66b9536ace9a%2FPGA_TOUR_PrimaryLogo_Color_RGB_Reverse_654_-_Lily_MorrisonRDX.png",
+    "url": "https://watch.plex.tv/es/live-tv/channel/pga-tour"
   },
     {
-    "nombre": "azteca 7",
-    "logo": "https://peticion.com/logo.png",
-    "url": "https://regionales.saohgdasregions.fun/tvporinternet3.php?stream=1_"
+    "nombre": "PFL",
+    "logo": "https://images.plex.tv/photo?size=small-120&scale=2&url=https%3A%2F%2Fprovider-static.plex.tv%2Fepg%2Fcms%2Fproduction%2F96dd0531-b500-4bd4-93ca-763cbf46defe%2F1500x1000_PFL_SHIELD_DARK_BG_-_Allie_Dinsmore.png",
+    "url": "https://watch.plex.tv/es/live-tv/channel/pfl-mma"
   },
   {
-    "nombre": "azteca 7",
-    "logo": "https://peticion.com/logo.png",
-    "url": "https://regionales.saohgdasregions.fun/tvporinternet3.php?stream=1_"
+    "nombre": "SI Tv",
+    "logo": "https://images.plex.tv/photo?size=small-120&scale=2&url=https%3A%2F%2Fprovider-static.plex.tv%2Fepg%2Fcms%2Fproduction%2F61e78adf-40b3-4a6f-9d75-6c9db47248de%2FSITV_LOGO_PRIMARY_1500X1000.png",
+    "url": "https://watch.plex.tv/es/live-tv/channel/sports-illustrated-tv"
   },
     {
-    "nombre": "azteca 7",
-    "logo": "https://peticion.com/logo.png",
-    "url": "https://regionales.saohgdasregions.fun/tvporinternet3.php?stream=1_"
+    "nombre": "UNBEATEN",
+    "logo": "https://images.plex.tv/photo?size=small-120&scale=2&url=https%3A%2F%2Fprovider-static.plex.tv%2Fepg%2Fcms%2Fproduction%2F0b6f4951-d177-464c-aafc-0e35b61b48da%2FUnbeaten_logo_dark_-_Sam_Neazi.png",
+    "url": "https://watch.plex.tv/es/live-tv/channel/unbeaten-2"
   },
   {
-    "nombre": "azteca 7",
-    "logo": "https://peticion.com/logo.png",
-    "url": "https://regionales.saohgdasregions.fun/tvporinternet3.php?stream=1_"
+    "nombre": "Reacing america",
+    "logo": "https://images.plex.tv/photo?size=small-120&scale=2&url=https%3A%2F%2Fprovider-static.plex.tv%2Fepg%2Fcms%2Fproduction%2F58d6bf78-1acf-4d3e-8e82-fdf0f7b5137a%2FPlex_Logo_Light_1500x1000_-_Jillian_Schwartz.png",
+    "url": "https://watch.plex.tv/es/live-tv/channel/racing-america"
   },
     {
-    "nombre": "azteca 7",
-    "logo": "https://peticion.com/logo.png",
-    "url": "https://regionales.saohgdasregions.fun/tvporinternet3.php?stream=1_"
+    "nombre": "Billirds",
+    "logo": "https://images.plex.tv/photo?size=small-120&scale=2&url=https%3A%2F%2Fprovider-static.plex.tv%2Fepg%2Fcms%2Fproduction%2F7a0799ac-c06c-417e-a1d1-3fade474e07d%2FPlex_billiard__1500x1000__color_rdxfds__1_.png",
+    "url": "https://watch.plex.tv/es/live-tv/channel/billiard-tv"
   },
   {
-    "nombre": "azteca 7",
-    "logo": "https://peticion.com/logo.png",
-    "url": "https://regionales.saohgdasregions.fun/tvporinternet3.php?stream=1_"
+    "nombre": "Cricket gold",
+    "logo": "https://images.plex.tv/photo?size=small-120&scale=2&url=https%3A%2F%2Fprovider-static.plex.tv%2Fepg%2Fcms%2Fproduction%2Fd041b4b4-65f0-4862-8d26-a0be4c984e2e%2FCricket_Gold_Logo_1-1RDX.png",
+    "url": "https://watch.plex.tv/es/live-tv/channel/cricket-gold"
   },
     {
-    "nombre": "azteca 7",
-    "logo": "https://peticion.com/logo.png",
-    "url": "https://regionales.saohgdasregions.fun/tvporinternet3.php?stream=1_"
+    "nombre": "Fight Netword",
+    "logo": "https://images.plex.tv/photo?size=small-120&scale=2&url=https%3A%2F%2Fprovider-static.plex.tv%2Ff%2Fepg%2Fchannels%2Flogos%2Fgracenote%2Ff6e88714b4dae6026720d36ad9de611f.png",
+    "url": "https://watch.plex.tv/es/live-tv/channel/fight-network"
   },
   {
-    "nombre": "azteca 7",
-    "logo": "https://peticion.com/logo.png",
-    "url": "https://regionales.saohgdasregions.fun/tvporinternet3.php?stream=1_"
+    "nombre": "FTF Sports",
+    "logo": "https://images.plex.tv/photo?size=small-120&scale=2&url=https%3A%2F%2Fprovider-static.plex.tv%2Fepg%2Fcms%2Fproduction%2Faa1c5515-a30f-4790-a384-ca23a3ba0740%2FFTFSportsWHT.png",
+    "url": "https://watch.plex.tv/es/live-tv/channel/for-the-fans"
   },
     {
-    "nombre": "azteca 7",
-    "logo": "https://peticion.com/logo.png",
-    "url": "https://regionales.saohgdasregions.fun/tvporinternet3.php?stream=1_"
+    "nombre": "Bassmaster",
+    "logo": "https://images.plex.tv/photo?size=small-120&scale=2&url=https%3A%2F%2Fprovider-static.plex.tv%2Fepg%2Fcms%2Fproduction%2Ff6d14e42-d9be-4f81-893f-cb676d32c473%2FBassmasterChannel_DarkBackground_-_Will_Flowers.png",
+    "url": "https://watch.plex.tv/es/live-tv/channel/bassmaster"
   },
   {
-    "nombre": "azteca 7",
-    "logo": "https://peticion.com/logo.png",
-    "url": "https://regionales.saohgdasregions.fun/tvporinternet3.php?stream=1_"
+    "nombre": "Wited2Fish",
+    "logo": "https://images.plex.tv/photo?size=small-120&scale=2&url=https%3A%2F%2Fprovider-static.plex.tv%2Fepg%2Fcms%2Fproduction%2F146827c9-ba03-4f25-86b2-d99c501e8227%2Fwired2fish_white.png",
+    "url": "https://watch.plex.tv/es/live-tv/channel/wired2fish"
   },
     {
-    "nombre": "azteca 7",
-    "logo": "https://peticion.com/logo.png",
-    "url": "https://regionales.saohgdasregions.fun/tvporinternet3.php?stream=1_"
+    "nombre": "Inter 24/7",
+    "logo": "https://images.plex.tv/photo?size=small-120&scale=2&url=https%3A%2F%2Fprovider-static.plex.tv%2Fepg%2Fcms%2Fproduction%2F57fe10fd-e61b-4796-9afa-1cb853548709%2Fchannel_logo_dark.png_-_Ingrid_Barresi.png",
+    "url": "https://watch.plex.tv/es/live-tv/channel/inter-24-7"
   },
   {
-    "nombre": "azteca 7",
-    "logo": "https://peticion.com/logo.png",
-    "url": "https://regionales.saohgdasregions.fun/tvporinternet3.php?stream=1_"
+    "nombre": "Insider",
+    "logo": "https://images.plex.tv/photo?size=small-120&scale=2&url=https%3A%2F%2Fprovider-static.plex.tv%2Fepg%2Fcms%2Fproduction%2Fa3c09b3c-9f7e-40e9-b14e-5174a45ad551%2FP12_Insider_blue_-_Sean_Kent.png",
+    "url": "https://watch.plex.tv/es/live-tv/channel/pac-12-insider"
   },
     {
-    "nombre": "azteca 7",
-    "logo": "https://peticion.com/logo.png",
-    "url": "https://regionales.saohgdasregions.fun/tvporinternet3.php?stream=1_"
+    "nombre": "Pursuit up",
+    "logo": "https://images.plex.tv/photo?size=small-120&scale=2&url=https%3A%2F%2Fprovider-static.plex.tv%2Fepg%2Fcms%2Fproduction%2Fa3c09b3c-9f7e-40e9-b14e-5174a45ad551%2FP12_Insider_blue_-_Sean_Kent.png",
+    "url": "https://watch.plex.tv/es/live-tv/channel/pursuitup"
   },
   {
-    "nombre": "azteca 7",
-    "logo": "https://peticion.com/logo.png",
-    "url": "https://regionales.saohgdasregions.fun/tvporinternet3.php?stream=1_"
+    "nombre": "Racee internarional",
+    "logo": "https://images.plex.tv/photo?size=small-120&scale=2&url=https%3A%2F%2Fprovider-static.plex.tv%2Fepg%2Fcms%2Fproduction%2Fdd4e5871-4347-49e3-9ea1-a8770ea9c518%2FRACER_Intl_logo_1500x1000.png",
+    "url": "https://watch.plex.tv/es/live-tv/channel/racer-international"
   },
     {
-    "nombre": "azteca 7",
-    "logo": "https://peticion.com/logo.png",
-    "url": "https://regionales.saohgdasregions.fun/tvporinternet3.php?stream=1_"
+    "nombre": "WSN",
+    "logo": "https://images.plex.tv/photo?size=small-120&scale=2&url=https%3A%2F%2Fprovider-static.plex.tv%2Fepg%2Fcms%2Fproduction%2F5c5587dd-f93b-42db-b0dc-6b7a78801c3d%2FWSNLogoColor_1500x1000.png",
+    "url": "https://watch.plex.tv/es/live-tv/channel/womens-sports-network"
   },
   {
-    "nombre": "azteca 7",
-    "logo": "https://peticion.com/logo.png",
-    "url": "https://regionales.saohgdasregions.fun/tvporinternet3.php?stream=1_"
+    "nombre": "Waypoint tv",
+    "logo": "https://images.plex.tv/photo?size=small-120&scale=2&url=https%3A%2F%2Fprovider-static.plex.tv%2Fepg%2Fimages%2Fott_channels%2Flogos%2Fwaypointtv_logo_dark.png",
+    "url": "https://watch.plex.tv/es/live-tv/channel/waypoint-tv"
   },
     {
-    "nombre": "azteca 7",
-    "logo": "https://peticion.com/logo.png",
-    "url": "https://regionales.saohgdasregions.fun/tvporinternet3.php?stream=1_"
+    "nombre": "Surf cinema",
+    "logo": "https://images.plex.tv/photo?size=small-120&scale=2&url=https%3A%2F%2Fprovider-static.plex.tv%2Fepg%2Fcms%2Fproduction%2Fa244db09-7052-4237-ab42-58bcb2b56fe1%2FSurfCinemaStacked-DarkBackground-1500x1000y.png",
+    "url": "https://watch.plex.tv/es/live-tv/channel/surf-cinema"
   },
   {
-    "nombre": "azteca 7",
-    "logo": "https://peticion.com/logo.png",
-    "url": "https://regionales.saohgdasregions.fun/tvporinternet3.php?stream=1_"
+    "nombre": "Word surf 24/7",
+    "logo": "https://images.plex.tv/photo?size=small-120&scale=2&url=https%3A%2F%2Fprovider-static.plex.tv%2Fepg%2Fcms%2Fproduction%2Fb4cf623f-e45e-4706-ba5c-fdf92a9e1e44%2FWSL_WHITE_LOGO.png",
+    "url": "https://watch.plex.tv/es/live-tv/channel/world-surf-league-24-7"
   },
     {
-    "nombre": "azteca 7",
-    "logo": "https://peticion.com/logo.png",
-    "url": "https://regionales.saohgdasregions.fun/tvporinternet3.php?stream=1_"
+    "nombre": "acl corhnole tv",
+    "logo": "https://images.plex.tv/photo?size=small-120&scale=2&url=https%3A%2F%2Fprovider-static.plex.tv%2Fepg%2Fcms%2Fproduction%2Fd1076185-58d6-411b-ba73-1126837074dd%2FPlex_cornhole__1500x1000_white_-_Brendan_Canning_white_rdx.png",
+    "url": "https://watch.plex.tv/es/live-tv/channel/acl-cornhole-tv-2"
   },
   {
-    "nombre": "azteca 7",
-    "logo": "https://peticion.com/logo.png",
-    "url": "https://regionales.saohgdasregions.fun/tvporinternet3.php?stream=1_"
+    "nombre": "Bowling",
+    "logo": "https://images.plex.tv/photo?size=small-120&scale=2&url=https%3A%2F%2Fprovider-static.plex.tv%2Fepg%2Fcms%2Fproduction%2F573ed04e-775e-41c9-a367-81b9597eff00%2FChannel_Logo_Color_Evann_D___AdamoRDX_WHT_LETTERS.png",
+    "url": "https://watch.plex.tv/es/live-tv/channel/bowling-tv"
   },
     {
-    "nombre": "azteca 7",
-    "logo": "https://peticion.com/logo.png",
-    "url": "https://regionales.saohgdasregions.fun/tvporinternet3.php?stream=1_"
+    "nombre": "Slopes tv",
+    "logo": "https://images.plex.tv/photo?size=small-120&scale=2&url=https%3A%2F%2Fprovider-static.plex.tv%2Fepg%2Fcms%2Fproduction%2Fa8716411-7f01-4f8b-bde3-e8390a6d14ce%2FSLOPES_logo_dark.png",
+    "url": "https://watch.plex.tv/es/live-tv/channel/slopes"
   },
   {
-    "nombre": "azteca 7",
-    "logo": "https://peticion.com/logo.png",
-    "url": "https://regionales.saohgdasregions.fun/tvporinternet3.php?stream=1_"
+    "nombre": "pll network",
+    "logo": "https://images.plex.tv/photo?size=small-120&scale=2&url=https%3A%2F%2Fprovider-static.plex.tv%2Fepg%2Fcms%2Fproduction%2F3db52a85-5e90-49f6-8d8e-170d71c86b33%2FPLLL_WHITE_TEXT_1500x1000_DarkBG.png",
+    "url": "https://watch.plex.tv/es/live-tv/channel/pll-network-2"
   },
     {
-    "nombre": "azteca 7",
-    "logo": "https://peticion.com/logo.png",
-    "url": "https://regionales.saohgdasregions.fun/tvporinternet3.php?stream=1_"
+    "nombre": "Xfc international",
+    "logo": "https://images.plex.tv/photo?size=small-120&scale=2&url=https%3A%2F%2Fprovider-static.plex.tv%2Fepg%2Fcms%2Fproduction%2F90cd03c9-281a-4eea-964b-6a9ce5c8d07c%2FXFCTV_channel_logo_dark_-_Dana_Foster.png",
+    "url": "https://watch.plex.tv/es/live-tv/channel/xfc-tv"
   },
   {
-    "nombre": "azteca 7",
-    "logo": "https://peticion.com/logo.png",
-    "url": "https://regionales.saohgdasregions.fun/tvporinternet3.php?stream=1_"
+    "nombre": "Moustrous del rio",
+    "logo": "https://images.plex.tv/photo?size=small-120&scale=2&url=https%3A%2F%2Fprovider-static.plex.tv%2Fepg%2Fcms%2Fproduction%2F3e935eb3-3c68-41ee-8e2e-5b8c37a1fbf1%2F023_FAST-RM-latam_LOGO_1500x100-DARK-Plex.png",
+    "url": "https://watch.plex.tv/es/live-tv/channel/monstruos-de-rio"
   },
     {
-    "nombre": "azteca 7",
-    "logo": "https://peticion.com/logo.png",
-    "url": "https://regionales.saohgdasregions.fun/tvporinternet3.php?stream=1_"
+    "nombre": "Bondi rescues",
+    "logo": "https://images.plex.tv/photo?size=small-120&scale=2&url=https%3A%2F%2Fprovider-static.plex.tv%2Fepg%2Fcms%2Fproduction%2F91ffbeaa-df66-4074-83d6-94cacb9622fa%2FPlex_Totem_BondiRescue_Logo_White_-_Rowan_Williams.png",
+    "url": "https://watch.plex.tv/es/live-tv/channel/bondi-rescue"
   },
   {
-    "nombre": "azteca 7",
-    "logo": "https://peticion.com/logo.png",
-    "url": "https://regionales.saohgdasregions.fun/tvporinternet3.php?stream=1_"
+    "nombre": "Operation repo",
+    "logo": "https://images.plex.tv/photo?size=small-120&scale=2&url=https%3A%2F%2Fprovider-static.plex.tv%2Fepg%2Fcms%2Fproduction%2F9ea6fcd5-6337-4609-8b7c-290b0eb74c65%2FOprepo_logo_-_James_PatrickRDX.png",
+    "url": "https://watch.plex.tv/es/live-tv/channel/operation-repo"
   },
     {
-    "nombre": "azteca 7",
-    "logo": "https://peticion.com/logo.png",
-    "url": "https://regionales.saohgdasregions.fun/tvporinternet3.php?stream=1_"
+    "nombre": "Ice pilots",
+    "logo": "https://images.plex.tv/photo?size=small-120&scale=2&url=https%3A%2F%2Fprovider-static.plex.tv%2Fepg%2Fcms%2Fproduction%2F2c49fafe-3ddd-443d-bdaa-c2ad358146cf%2Fchannel_logo_1500x1000_light.png.png",
+    "url": "https://watch.plex.tv/es/live-tv/channel/ice-pilots-nwt"
   },
   {
-    "nombre": "azteca 7",
-    "logo": "https://peticion.com/logo.png",
-    "url": "https://regionales.saohgdasregions.fun/tvporinternet3.php?stream=1_"
+    "nombre": "Pitufo tv",
+    "logo": "https://images.plex.tv/photo?size=small-120&scale=2&url=https%3A%2F%2Fprovider-static.plex.tv%2Fepg%2Fcms%2Fproduction%2F352d158b-9349-41a8-a273-af1eea090ce6%2Fpitufotv_logo_dark_-_Jordan_Warkol.png",
+    "url": "https://watch.plex.tv/es/live-tv/channel/pitufo-tv"
   },
     {
-    "nombre": "azteca 7",
-    "logo": "https://peticion.com/logo.png",
-    "url": "https://regionales.saohgdasregions.fun/tvporinternet3.php?stream=1_"
+    "nombre": "Jump street",
+    "logo": "https://images.plex.tv/photo?size=small-120&scale=2&url=https%3A%2F%2Fprovider-static.plex.tv%2Fepg%2Fcms%2Fproduction%2Fa93dc428-87b4-49ce-834c-94bcad531802%2F21JS_Logo_Dark.png",
+    "url": "https://watch.plex.tv/es/live-tv/channel/21-jump-street-2"
   },
   {
-    "nombre": "azteca 7",
-    "logo": "https://peticion.com/logo.png",
-    "url": "https://regionales.saohgdasregions.fun/tvporinternet3.php?stream=1_"
+    "nombre": "Hunter",
+    "logo": "https://images.plex.tv/photo?size=small-120&scale=2&url=https%3A%2F%2Fprovider-static.plex.tv%2Fepg%2Fcms%2Fproduction%2F2e34b413-32fc-4600-8b29-94562670814c%2FHunter_Logo_Dark.png",
+    "url": "https://watch.plex.tv/es/live-tv/channel/hunter-2"
   },
     {
-    "nombre": "azteca 7",
-    "logo": "https://peticion.com/logo.png",
-    "url": "https://regionales.saohgdasregions.fun/tvporinternet3.php?stream=1_"
+    "nombre": "Lone star",
+    "logo": "https://images.plex.tv/photo?size=small-120&scale=2&url=https%3A%2F%2Fprovider-static.plex.tv%2F1%2Fepg%2Fchannels%2Flogos%2Fgracenote%2F1d8c9bf417f3e12668fecafc25fc8f72.png",
+    "url": "https://watch.plex.tv/es/live-tv/channel/lone-star"
   },
   {
-    "nombre": "azteca 7",
-    "logo": "https://peticion.com/logo.png",
-    "url": "https://regionales.saohgdasregions.fun/tvporinternet3.php?stream=1_"
+    "nombre": "Death valley days",
+    "logo": "https://images.plex.tv/photo?size=small-120&scale=2&url=https%3A%2F%2Fprovider-static.plex.tv%2Fepg%2Fcms%2Fproduction%2Ff2194eb4-c78d-4502-a3ab-616eb2624c7d%2FFilmRise_DeathValleyDays_White_LogoRDX.png",
+    "url": "https://watch.plex.tv/es/live-tv/channel/death-valley-days"
   },
     {
-    "nombre": "azteca 7",
-    "logo": "https://peticion.com/logo.png",
-    "url": "https://regionales.saohgdasregions.fun/tvporinternet3.php?stream=1_"
+    "nombre": "Crime beat tv",
+    "logo": "https://images.plex.tv/photo?size=small-120&scale=2&url=https%3A%2F%2Fprovider-static.plex.tv%2Fepg%2Fcms%2Fproduction%2F6d933fc7-172f-463f-a4f4-4d08bca2694a%2FCrimeBeatTV_TT_1500x1000RDX_White_Letters.png",
+    "url": "https://watch.plex.tv/es/live-tv/channel/crime-beat-tv"
   },
   {
-    "nombre": "azteca 7",
-    "logo": "https://peticion.com/logo.png",
-    "url": "https://regionales.saohgdasregions.fun/tvporinternet3.php?stream=1_"
+    "nombre": "Jonny carson",
+    "logo": "https://images.plex.tv/photo?size=small-120&scale=2&url=https%3A%2F%2Fprovider-static.plex.tv%2Fepg%2Fimages%2Fott_channels%2Flogos%2Fjohnnycarsontv_logo_dark.png",
+    "url": "https://watch.plex.tv/es/live-tv/channel/johnny-carson-tv"
   },
     {
-    "nombre": "azteca 7",
-    "logo": "https://peticion.com/logo.png",
-    "url": "https://regionales.saohgdasregions.fun/tvporinternet3.php?stream=1_"
+    "nombre": "the carol burnett show",
+    "logo": "https://images.plex.tv/photo?size=small-120&scale=2&url=https%3A%2F%2Fprovider-static.plex.tv%2Fepg%2Fimages%2Fott_channels%2Flogos%2Fcarolburnett_logo_dark.png",
+    "url": "https://watch.plex.tv/es/live-tv/channel/the-carol-burnett-show"
   },
   {
-    "nombre": "azteca 7",
-    "logo": "https://peticion.com/logo.png",
-    "url": "https://regionales.saohgdasregions.fun/tvporinternet3.php?stream=1_"
+    "nombre": "dick van dyke",
+    "logo": "https://images.plex.tv/photo?size=small-120&scale=2&url=https%3A%2F%2Fprovider-static.plex.tv%2Fepg%2Fcms%2Fproduction%2F03fe73df-6585-49b7-bdd5-5ea605c4086f%2FFilmRise_DickVanDykeShow_Logo_Color.png",
+    "url": "https://watch.plex.tv/es/live-tv/channel/dick-van-dyke"
   },
     {
-    "nombre": "azteca 7",
-    "logo": "https://peticion.com/logo.png",
-    "url": "https://regionales.saohgdasregions.fun/tvporinternet3.php?stream=1_"
+    "nombre": "the ed sullivan show",
+    "logo": "https://images.plex.tv/photo?size=small-120&scale=2&url=https%3A%2F%2Fprovider-static.plex.tv%2F0%2Fepg%2Fchannels%2Flogos%2Fgracenote%2F0d7687fcfd8b218d2c4f0a9337b7a68f.png",
+    "url": "https://watch.plex.tv/es/live-tv/channel/the-ed-sullivan-show"
   },
   {
-    "nombre": "azteca 7",
-    "logo": "https://peticion.com/logo.png",
-    "url": "https://regionales.saohgdasregions.fun/tvporinternet3.php?stream=1_"
+    "nombre": "Fire tv accion",
+    "logo": "https://images.plex.tv/photo?size=small-120&scale=2&url=https%3A%2F%2Fprovider-static.plex.tv%2Fepg%2Fcms%2Fproduction%2F8b31c27f-b26e-475d-bec6-a7d452260f56%2FFreeTVAccion_Circle_1500x1000_-_Ralph_Campillo.png",
+    "url": "https://watch.plex.tv/es/live-tv/channel/freetv-accion-2"
   },
     {
-    "nombre": "azteca 7",
-    "logo": "https://peticion.com/logo.png",
-    "url": "https://regionales.saohgdasregions.fun/tvporinternet3.php?stream=1_"
+    "nombre": "Runtime Cine espanto",
+    "logo": "https://images.plex.tv/photo?size=small-120&scale=2&url=https%3A%2F%2Fprovider-static.plex.tv%2Fepg%2Fcms%2Fproduction%2F71c3f630-16dd-451f-bca8-f75f6ca16a81%2FCinEspanto_LAS_Attribution_Logordx.png",
+    "url": "https://watch.plex.tv/es/live-tv/channel/cinespanto-2"
   },
   {
-    "nombre": "azteca 7",
-    "logo": "https://peticion.com/logo.png",
-    "url": "https://regionales.saohgdasregions.fun/tvporinternet3.php?stream=1_"
+    "nombre": "Farscape",
+    "logo": "https://images.plex.tv/photo?size=small-120&scale=2&url=https%3A%2F%2Fprovider-static.plex.tv%2Fepg%2Fcms%2Fproduction%2F77115f01-d00a-4ef0-bb00-dcb3896e1c09%2Ff5c7ee72e5a980b3ac2a31fd94e112e8.png",
+    "url": "https://watch.plex.tv/es/live-tv/channel/farscape"
   },
     {
-    "nombre": "azteca 7",
-    "logo": "https://peticion.com/logo.png",
-    "url": "https://regionales.saohgdasregions.fun/tvporinternet3.php?stream=1_"
+    "nombre": "Filmrise Andromeda",
+    "logo": "https://images.plex.tv/photo?size=small-120&scale=2&url=https%3A%2F%2Fprovider-static.plex.tv%2Fepg%2Fcms%2Fproduction%2F1a6d3a8f-26ee-4968-b0b5-845a0a2e8f78%2FFilmRise_Andromeda_Color_Logo.png",
+    "url": "https://watch.plex.tv/es/live-tv/channel/andromeda"
   },
   {
-    "nombre": "azteca 7",
-    "logo": "https://peticion.com/logo.png",
-    "url": "https://regionales.saohgdasregions.fun/tvporinternet3.php?stream=1_"
+    "nombre": "Action Hollywood movies",
+    "logo": "https://images.plex.tv/photo?size=small-120&scale=2&url=https%3A%2F%2Fprovider-static.plex.tv%2Fepg%2Fcms%2Fproduction%2Fc94e3220-9a45-42e9-8bdb-01fc43e0f27c%2Fwhite_textAction_Hollywood_Movies_logo_dark_-_Angela_Chan.png",
+    "url": "https://watch.plex.tv/es/live-tv/channel/action-hollywood-movies"
   },
     {
-    "nombre": "azteca 7",
-    "logo": "https://peticion.com/logo.png",
-    "url": "https://regionales.saohgdasregions.fun/tvporinternet3.php?stream=1_"
+    "nombre": "Galxy tv",
+    "logo": "https://images.plex.tv/photo?size=small-120&scale=2&url=https%3A%2F%2Fprovider-static.plex.tv%2Fepg%2Fcms%2Fproduction%2Fdc452291-62d8-4f01-8e5b-b1fef79fb37d%2FGalxyTV_logo_dark.png",
+    "url": "https://watch.plex.tv/es/live-tv/channel/galxy-tv-2"
   },
   {
-    "nombre": "azteca 7",
-    "logo": "https://peticion.com/logo.png",
-    "url": "https://regionales.saohgdasregions.fun/tvporinternet3.php?stream=1_"
+    "nombre": "frightflix",
+    "logo": "https://images.plex.tv/photo?size=small-120&scale=2&url=https%3A%2F%2Fprovider-static.plex.tv%2Fepg%2Fcms%2Fproduction%2F889dcf7a-99ec-425f-8044-087c84e8eefc%2FFrightFlix_logo_dark.png",
+    "url": "https://watch.plex.tv/es/live-tv/channel/frightflix-2"
   },
     {
-    "nombre": "azteca 7",
-    "logo": "https://peticion.com/logo.png",
-    "url": "https://regionales.saohgdasregions.fun/tvporinternet3.php?stream=1_"
+    "nombre": "wach it scream",
+    "logo": "https://images.plex.tv/photo?size=small-120&scale=2&url=https%3A%2F%2Fprovider-static.plex.tv%2Fepg%2Fcms%2Fproduction%2F945765a1-a848-4105-bf4d-5c27192e79ed%2FWatchitScream_logo_dark.png",
+    "url": "https://watch.plex.tv/es/live-tv/channel/watch-it-scream-2"
   },
   {
-    "nombre": "azteca 7",
-    "logo": "https://peticion.com/logo.png",
-    "url": "https://regionales.saohgdasregions.fun/tvporinternet3.php?stream=1_"
+    "nombre": "Runtime comedia",
+    "logo": "https://images.plex.tv/photo?size=small-120&scale=2&url=https%3A%2F%2Fprovider-static.plex.tv%2Fepg%2Fcms%2Fproduction%2Fc3208e7c-cc1c-4e9a-9304-5070368a7cc7%2FRuntime_ES_Comedia_Dark_Mode_Logordx.png",
+    "url": "https://watch.plex.tv/es/live-tv/channel/runtime-comedia-3"
   },
     {
-    "nombre": "azteca 7",
-    "logo": "https://peticion.com/logo.png",
-    "url": "https://regionales.saohgdasregions.fun/tvporinternet3.php?stream=1_"
+    "nombre": "Platos sucios",
+    "logo": "https://images.plex.tv/photo?size=small-120&scale=2&url=https%3A%2F%2Fprovider-static.plex.tv%2Fepg%2Fcms%2Fproduction%2F295bd4d4-c84e-4cb7-a0fe-e96f66ba2c40%2FPLATOS_SUCIOS_channel_logo_colorRDX.png",
+    "url": "https://watch.plex.tv/es/live-tv/channel/platos-sucios"
   },
   {
-    "nombre": "azteca 7",
-    "logo": "https://peticion.com/logo.png",
-    "url": "https://regionales.saohgdasregions.fun/tvporinternet3.php?stream=1_"
+    "nombre": "Mr bean",
+    "logo": "https://images.plex.tv/photo?size=small-120&scale=2&url=https%3A%2F%2Fprovider-static.plex.tv%2Fepg%2Fcms%2Fproduction%2Fe8270acf-b6fc-4708-9e35-e45dfc3a4110%2FMrBean_Logo_Light_1500x1000_-_Harry_Marshall.png",
+    "url": "https://watch.plex.tv/es/live-tv/channel/mr-bean-2"
   },
     {
-    "nombre": "azteca 7",
-    "logo": "https://peticion.com/logo.png",
-    "url": "https://regionales.saohgdasregions.fun/tvporinternet3.php?stream=1_"
+    "nombre": "FailArmy",
+    "logo": "https://images.plex.tv/photo?size=small-120&scale=2&url=https%3A%2F%2Fprovider-static.plex.tv%2Fepg%2Fcms%2Fproduction%2Fc3a3b230-a40b-4409-b33f-678c1923bd77%2FFailArmy_logo_dark_v2.png",
+    "url": "https://watch.plex.tv/es/live-tv/channel/failarmy-2"
   },
   {
-    "nombre": "azteca 7",
-    "logo": "https://peticion.com/logo.png",
-    "url": "https://regionales.saohgdasregions.fun/tvporinternet3.php?stream=1_"
+    "nombre": "Alwaysfunny",
+    "logo": "https://images.plex.tv/photo?size=small-120&scale=2&url=https%3A%2F%2Fprovider-static.plex.tv%2Fepg%2Fcms%2Fproduction%2F1bfcb8e4-9593-4914-aa02-14b966a2ec7e%2FAF_Logo_for_Light_BG__transparent__-_Jose_RiveraRDX.png",
+    "url": "https://watch.plex.tv/es/live-tv/channel/always-funny"
   },
     {
-    "nombre": "azteca 7",
-    "logo": "https://peticion.com/logo.png",
-    "url": "https://regionales.saohgdasregions.fun/tvporinternet3.php?stream=1_"
+    "nombre": "just for laughtd gags",
+    "logo": "https://images.plex.tv/photo?size=small-120&scale=2&url=https%3A%2F%2Fprovider-static.plex.tv%2Fepg%2Fcms%2Fproduction%2Fa3d02bc9-13e3-4263-aff8-6a8512501b80%2F1500x1500_Just_for_laughs_CARLOS_PACHECO.png",
+    "url": "https://watch.plex.tv/es/live-tv/channel/just-for-laughs-gags"
   },
   {
-    "nombre": "azteca 7",
-    "logo": "https://peticion.com/logo.png",
-    "url": "https://regionales.saohgdasregions.fun/tvporinternet3.php?stream=1_"
+    "nombre": "Dude perfect",
+    "logo": "https://images.plex.tv/photo?size=small-120&scale=2&url=https%3A%2F%2Fprovider-static.plex.tv%2Fepg%2Fcms%2Fproduction%2F18c7eba5-bcd4-45bd-9d3a-65d3984fec32%2FDarkBG_1500x1000.png",
+    "url": "https://watch.plex.tv/es/live-tv/channel/dude-perfect"
   },
     {
-    "nombre": "azteca 7",
-    "logo": "https://peticion.com/logo.png",
-    "url": "https://regionales.saohgdasregions.fun/tvporinternet3.php?stream=1_"
+    "nombre": "Mythical",
+    "logo": "https://images.plex.tv/photo?size=small-120&scale=2&url=https%3A%2F%2Fprovider-static.plex.tv%2Fepg%2Fcms%2Fproduction%2Fcbce9562-c7a6-460c-9d07-02ab8724bbc5%2FLight_Logo__Mythical_24_7_1500x1000.png",
+    "url": "https://watch.plex.tv/es/live-tv/channel/mythical-24-7"
   },
   {
-    "nombre": "azteca 7",
-    "logo": "https://peticion.com/logo.png",
-    "url": "https://regionales.saohgdasregions.fun/tvporinternet3.php?stream=1_"
+    "nombre": "Creator televisión",
+    "logo": "https://images.plex.tv/photo?size=small-120&scale=2&url=https%3A%2F%2Fprovider-static.plex.tv%2Fepg%2Fcms%2Fproduction%2Ff33d90dc-14d4-4034-8959-30dac5ed085c%2FCTV-WHITE_PINK_4RDXx.png",
+    "url": "https://watch.plex.tv/es/live-tv/channel/creator-television"
   },
     {
-    "nombre": "azteca 7",
-    "logo": "https://peticion.com/logo.png",
-    "url": "https://regionales.saohgdasregions.fun/tvporinternet3.php?stream=1_"
+    "nombre": "Humor mill",
+    "logo": "https://images.plex.tv/photo?size=small-120&scale=2&url=https%3A%2F%2Fprovider-static.plex.tv%2Fepg%2Fimages%2Fott_channels%2Flogos%2Fhumormill_logo_dark.png",
+    "url": "https://watch.plex.tv/es/live-tv/channel/humor-mill"
   },
   {
-    "nombre": "azteca 7",
-    "logo": "https://peticion.com/logo.png",
-    "url": "https://regionales.saohgdasregions.fun/tvporinternet3.php?stream=1_"
+    "nombre": "Dr phil",
+    "logo": "https://images.plex.tv/photo?size=small-120&scale=2&url=https%3A%2F%2Fprovider-static.plex.tv%2Fepg%2Fcms%2Fproduction%2Fa07750e7-11a2-4563-a402-40ad1d9e7392%2FxPlex_DrPhil_Channel_Logo_v01RDX.png",
+    "url": "https://watch.plex.tv/es/live-tv/channel/dr-phil"
   },
     {
-    "nombre": "azteca 7",
-    "logo": "https://peticion.com/logo.png",
-    "url": "https://regionales.saohgdasregions.fun/tvporinternet3.php?stream=1_"
+    "nombre": "Nosey",
+    "logo": "https://images.plex.tv/photo?size=small-120&scale=2&url=https%3A%2F%2Fprovider-static.plex.tv%2Fepg%2Fcms%2Fproduction%2F881d4e9f-10ec-4ca8-9309-17cc1126b768%2Fnosey_green.png",
+    "url": "https://watch.plex.tv/es/live-tv/channel/nosey"
   },
   {
-    "nombre": "azteca 7",
-    "logo": "https://peticion.com/logo.png",
-    "url": "https://regionales.saohgdasregions.fun/tvporinternet3.php?stream=1_"
+    "nombre": "Hot ones",
+    "logo": "https://images.plex.tv/photo?size=small-120&scale=2&url=https%3A%2F%2Fprovider-static.plex.tv%2Fepg%2Fcms%2Fproduction%2F5f489abb-a71e-425f-b276-16d6614f6601%2FFilmRiseHotOnes_Logo_Color.png",
+    "url": "https://watch.plex.tv/es/live-tv/channel/hot-ones-2"
   },
     {
-    "nombre": "azteca 7",
-    "logo": "https://peticion.com/logo.png",
-    "url": "https://regionales.saohgdasregions.fun/tvporinternet3.php?stream=1_"
+    "nombre": "Judge nosey",
+    "logo": "https://images.plex.tv/photo?size=small-120&scale=2&url=https%3A%2F%2Fprovider-static.plex.tv%2Fepg%2Fcms%2Fproduction%2F69e3c98e-4f11-4857-875b-6c76ffc77c5c%2FJudgeNosey_Logo_Color-Dark.png",
+    "url": "https://watch.plex.tv/es/live-tv/channel/judge-nosey"
   },
   {
-    "nombre": "azteca 7",
-    "logo": "https://peticion.com/logo.png",
-    "url": "https://regionales.saohgdasregions.fun/tvporinternet3.php?stream=1_"
+    "nombre": "the bold and rhe veautiful",
+    "logo": "https://images.plex.tv/photo?size=small-120&scale=2&url=https%3A%2F%2Fprovider-static.plex.tv%2Fepg%2Fcms%2Fproduction%2F761a81a4-bd1e-4250-a143-d5f7359414fd%2FThe_Bold_And_The_Beautiful_TT_WHT_RDX.png",
+    "url": "https://watch.plex.tv/es/live-tv/channel/the-bold-and-the-beautiful"
   },
     {
-    "nombre": "azteca 7",
-    "logo": "https://peticion.com/logo.png",
-    "url": "https://regionales.saohgdasregions.fun/tvporinternet3.php?stream=1_"
+    "nombre": "Made Hollywood",
+    "logo": "https://images.plex.tv/photo?size=small-120&scale=2&url=https%3A%2F%2Fprovider-static.plex.tv%2Fepg%2Fcms%2Fproduction%2Fcd2f9be3-7222-4b75-9653-1c9a988258dc%2FWHITE_LOGO_Made_Mona_Lapides.png",
+    "url": "https://watch.plex.tv/es/live-tv/channel/made-in-hollywood-2"
   },
   {
     "nombre": "azteca 7",
