@@ -1,0 +1,267 @@
+[
+  {
+    "nombre": "Canela tv",
+    "logo": "https://image-resizer-cloud-cdn.cms.api.canela.tv/image/3052A289-026D-43E2-A4E5-577140AAA871/0-16x9.jpg?width=160&updatedTime=0&dt=MWeb",
+    "url": "https://canela.tv/player/channel/canela-tv2"
+  },
+    {
+    "nombre": "Cine picante",
+    "logo": "https://image-resizer-cloud-cdn.cms.api.canela.tv/image/3052A289-026D-43E2-A4E5-577140AAA880/0-16x9.jpg?width=160&updatedTime=0&dt=MWeb",
+    "url": "https://canela.tv/player/channel/cine-picante"
+  },
+  {
+    "nombre": "Canela Clasicos",
+    "logo": "https://image-resizer-cloud-cdn.cms.api.canela.tv/image/3052A289-026D-43E2-A4E5-577140AAA875/0-16x9.jpg?width=160&updatedTime=0&dt=MWeb",
+    "url": "https://canela.tv/player/channel/canela-clasicos"
+  },
+    {
+    "nombre": "Cine romantico",
+    "logo": "https://image-resizer-cloud-cdn.cms.api.canela.tv/image/3052A289-026D-43E2-A4E5-577140AAA938/0-16x9.jpg?width=160&updatedTime=0&dt=MWeb",
+    "url": "https://canela.tv/player/channel/cine-romantico"
+  },
+  {
+    "nombre": "Canela cinema",
+    "logo": "https://image-resizer-cloud-cdn.cms.api.canela.tv/image/3052A289-026D-43E2-A4E5-577140AAA873/0-16x9.jpg?width=160&updatedTime=0&dt=MWeb",
+    "url": "https://canela.tv/player/channel/canela-cinema1"
+  },
+    {
+    "nombre": "Canela mood de temporada",
+    "logo": "https://image-resizer-cloud-cdn.cms.api.canela.tv/image/3052A289-026D-43E2-A4E5-577140AAA969/0-16x9.jpg?width=160&updatedTime=0&dt=MWeb",
+    "url": "https://canela.tv/player/channel/mood-de-temporada"
+  },
+  {
+    "nombre": "Accion mexicana",
+    "logo": "https://image-resizer-cloud-cdn.cms.api.canela.tv/image/3052A289-026D-43E2-A4E5-577140AAA881/0-16x9.jpg?width=160&updatedTime=0&dt=MWeb",
+    "url": "https://canela.tv/player/channel/accion-mexicana"
+  },
+    {
+    "nombre": "Pelimex",
+    "logo": "https://image-resizer-cloud-cdn.cms.api.canela.tv/image/3052A289-026D-43E2-A4E5-577140AAA948/0-16x9.jpg?width=160&updatedTime=0&dt=MWeb",
+    "url": "https://canela.tv/player/channel/pelimex"
+  },
+  {
+    "nombre": "Todo cine",
+    "logo": "https://image-resizer-cloud-cdn.cms.api.canela.tv/image/3052A289-026D-43E2-A4E5-577140AAA950/0-16x9.jpg?width=160&updatedTime=0&dt=MWeb",
+    "url": "https://canela.tv/player/channel/todo-cine"
+  },
+    {
+    "nombre": "Clic",
+    "logo": "https://image-resizer-cloud-cdn.cms.api.canela.tv/image/3052A289-026D-43E2-A4E5-577140AAA900/0-16x9.jpg?width=160&updatedTime=0&dt=MWeb",
+    "url": "https://canela.tv/player/channel/clic"
+  },
+  {
+    "nombre": "The walking dead",
+    "logo": "https://image-resizer-cloud-cdn.cms.api.canela.tv/image/3052A289-026D-43E2-A4E5-577140AAA971/0-16x9.jpg?width=160&updatedTime=0&dt=MWeb",
+    "url": "https://canela.tv/player/channel/the-walking-dead-en-espanol"
+  },
+    {
+    "nombre": "AMC",
+    "logo": "https://image-resizer-cloud-cdn.cms.api.canela.tv/image/3052A289-026D-43E2-A4E5-577140AAA970/0-16x9.jpg?width=160&updatedTime=0&dt=MWeb",
+    "url": "https://canela.tv/player/channel/amc-en-espanol"
+  },
+  {
+    "nombre": "Mirada de mujer",
+    "logo": "https://image-resizer-cloud-cdn.cms.api.canela.tv/image/3052A289-026D-43E2-A4E5-577140AAA874/0-16x9.jpg?width=160&updatedTime=0&dt=MWeb",
+    "url": "https://canela.tv/player/channel/mirada-de-mujer"
+  },
+    {
+    "nombre": "Secretos de pareja",
+    "logo": "https://image-resizer-cloud-cdn.cms.api.canela.tv/image/3052A289-026D-43E2-A4E5-577140AAA984/0-16x9.jpg?width=160&updatedTime=0&dt=MWeb",
+    "url": "https://canela.tv/player/channel/canelatv-secretos"
+  },
+  {
+    "nombre": "El padre",
+    "logo": "https://image-resizer-cloud-cdn.cms.api.canela.tv/image/3052A289-026D-43E2-A4E5-577140AAA986/0-16x9.jpg?width=160&updatedTime=0&dt=MWeb",
+    "url": "https://canela.tv/player/channel/el-padre"
+  },
+    {
+    "nombre": "Novelas legendarias",
+    "logo": "https://image-resizer-cloud-cdn.cms.api.canela.tv/image/3052A289-026D-43E2-A4E5-577140AAA962/0-16x9.jpg?width=160&updatedTime=0&dt=MWeb",
+    "url": "https://canela.tv/player/channel/novelas-legendarias"
+  },
+  {
+    "nombre": "Novelas & Dramas",
+    "logo": "https://image-resizer-cloud-cdn.cms.api.canela.tv/image/3052A289-026D-43E2-A4E5-577140AAA877/0-16x9.jpg?width=160&updatedTime=0&dt=MWeb",
+    "url": "https://canela.tv/player/channel/novelas-y-dramas"
+  },
+    {
+    "nombre": "Novelas turcas",
+    "logo": "https://image-resizer-cloud-cdn.cms.api.canela.tv/image/3052A289-026D-43E2-A4E5-577140AAA979/0-16x9.jpg?width=160&updatedTime=0&dt=MWeb",
+    "url": "https://canela.tv/player/channel/novelas-turcas"
+  },
+  {
+    "nombre": "Fatmagul",
+    "logo": "https://image-resizer-cloud-cdn.cms.api.canela.tv/image/3052A289-026D-43E2-A4E5-577140AAA961/0-16x9.jpg?width=160&updatedTime=0&dt=MWeb",
+    "url": "https://canela.tv/player/channel/que-culpa-tiene-fatmagul"
+  },
+    {
+    "nombre": "Hercai",
+    "logo": "https://image-resizer-cloud-cdn.cms.api.canela.tv/image/3052A289-026D-43E2-A4E5-577140AAA879/0-16x9.jpg?width=160&updatedTime=0&dt=MWeb",
+    "url": "https://canela.tv/player/channel/hercai"
+  },
+  {
+    "nombre": "El secreto de Feriha",
+    "logo": "https://image-resizer-cloud-cdn.cms.api.canela.tv/image/3052A289-026D-43E2-A4E5-577140AAA980/0-16x9.jpg?width=160&updatedTime=0&dt=MWeb",
+    "url": "https://canela.tv/player/channel/novelas-turcas-el-secreto-de-feriha"
+  },
+    {
+    "nombre": "Novelas brazileñas",
+    "logo": "https://image-resizer-cloud-cdn.cms.api.canela.tv/image/3052A289-026D-43E2-A4E5-577140AAA960/0-16x9.jpg?width=160&updatedTime=0&dt=MWeb",
+    "url": "https://canela.tv/player/channel/novelas-brasilenas"
+  },
+  {
+    "nombre": "Crimen",
+    "logo": "https://image-resizer-cloud-cdn.cms.api.canela.tv/image/3052A289-026D-43E2-A4E5-577140AAA981/0-16x9.jpg?width=160&updatedTime=0&dt=MWeb",
+    "url": "https://canela.tv/player/channel/crimen-zdf"
+  },
+    {
+    "nombre": "Narco Drama",
+    "logo": "https://image-resizer-cloud-cdn.cms.api.canela.tv/image/3052A289-026D-43E2-A4E5-577140AAA876/0-16x9.jpg?width=160&updatedTime=0&dt=MWeb",
+    "url": "https://canela.tv/player/channel/canela-tv-narco-drama"
+  },
+  {
+    "nombre": "Azteca Internacional",
+    "logo": "https://image-resizer-cloud-cdn.cms.api.canela.tv/image/3052A289-026D-43E2-A4E5-577140AAA897/0-16x9.jpg?width=160&updatedTime=0&dt=MWeb",
+    "url": "https://canela.tv/player/channel/azteca-internacional"
+  },
+    {
+    "nombre": "Kanal d Drama",
+    "logo": "https://image-resizer-cloud-cdn.cms.api.canela.tv/image/3052A289-026D-43E2-A4E5-577140AAA913/0-16x9.jpg?width=160&updatedTime=0&dt=MWeb",
+    "url": "https://canela.tv/player/channel/vive-kanal-d-drama"
+  },
+  {
+    "nombre": "Pasiones",
+    "logo": "https://image-resizer-cloud-cdn.cms.api.canela.tv/image/3052A289-026D-43E2-A4E5-577140AAA949/0-16x9.jpg?width=160&updatedTime=0&dt=MWeb",
+    "url": "https://canela.tv/player/channel/todo-novelas-mas-pasiones"
+  },
+    {
+    "nombre": "Novelisima",
+    "logo": "https://image-resizer-cloud-cdn.cms.api.canela.tv/image/3052A289-026D-43E2-A4E5-577140AAA901/0-16x9.jpg?width=160&updatedTime=0&dt=MWeb",
+    "url": "https://canela.tv/player/channel/novelisima"
+  },
+  {
+    "nombre": "Caracol Mix",
+    "logo": "https://image-resizer-cloud-cdn.cms.api.canela.tv/image/3052A289-026D-43E2-A4E5-577140AAA963/0-16x9.jpg?width=160&updatedTime=0&dt=MWeb",
+    "url": "https://canela.tv/player/channel/caracol-mix"
+  },
+    {
+    "nombre": "Corazon",
+    "logo": "https://image-resizer-cloud-cdn.cms.api.canela.tv/image/3052A289-026D-43E2-A4E5-577140AAA898/0-16x9.jpg?width=160&updatedTime=0&dt=MWeb",
+    "url": "https://canela.tv/player/channel/corazon"
+  },
+  {
+    "nombre": "Plato del dia",
+    "logo": "https://image-resizer-cloud-cdn.cms.api.canela.tv/image/3052A289-026D-43E2-A4E5-577140AAA974/0-16x9.jpg?width=160&updatedTime=0&dt=MWeb",
+    "url": "https://canela.tv/player/channel/plato-del-dia-by-elgourmet-latam"
+  },
+    {
+    "nombre": "Jtv",
+    "logo": "https://image-resizer-cloud-cdn.cms.api.canela.tv/image/3052A289-026D-43E2-A4E5-577140AAA964/0-16x9.jpg?width=160&updatedTime=0&dt=MWeb",
+    "url": "https://canela.tv/player/channel/jtv-espanol"
+  },
+  {
+    "nombre": "Tastemade Viaje",
+    "logo": "https://image-resizer-cloud-cdn.cms.api.canela.tv/image/3052A289-026D-43E2-A4E5-577140AAA976/0-16x9.jpg?width=160&updatedTime=0&dt=MWeb",
+    "url": "https://canela.tv/player/channel/tastemade-viajes"
+  },
+    {
+    "nombre": "Tastemade hogar",
+    "logo": "https://image-resizer-cloud-cdn.cms.api.canela.tv/image/3052A289-026D-43E2-A4E5-577140AAA977/0-16x9.jpg?width=160&updatedTime=0&dt=MWeb",
+    "url": "https://canela.tv/player/channel/tastemade-hogar"
+  },
+  {
+    "nombre": "Tastemade",
+    "logo": "https://image-resizer-cloud-cdn.cms.api.canela.tv/image/3052A289-026D-43E2-A4E5-577140AAA975/0-16x9.jpg?width=160&updatedTime=0&dt=MWeb",
+    "url": "https://canela.tv/player/channel/tastemade-en-espanol1"
+  },
+    {
+    "nombre": "Dulce",
+    "logo": "https://image-resizer-cloud-cdn.cms.api.canela.tv/image/3052A289-026D-43E2-A4E5-577140AAA973/0-16x9.jpg?width=160&updatedTime=0&dt=MWeb",
+    "url": "https://canela.tv/player/channel/dulce-by-elgourmet-latam"
+  },
+  {
+    "nombre": "RCN mas",
+    "logo": "https://image-resizer-cloud-cdn.cms.api.canela.tv/image/3052A289-026D-43E2-A4E5-577140AAA951/0-16x9.jpg?width=160&updatedTime=0&dt=MWeb",
+    "url": "https://canela.tv/player/channel/rcn-mas"
+  },
+    {
+    "nombre": "Telediario",
+    "logo": "https://image-resizer-cloud-cdn.cms.api.canela.tv/image/3052A289-026D-43E2-A4E5-577140AAA909/0-16x9.jpg?width=160&updatedTime=0&dt=MWeb",
+    "url": "https://canela.tv/player/channel/telediario-now"
+  },
+  {
+    "nombre": "Canal 6 cdmx",
+    "logo": "https://image-resizer-cloud-cdn.cms.api.canela.tv/image/3052A289-026D-43E2-A4E5-577140AAA904/0-16x9.jpg?width=160&updatedTime=0&dt=MWeb",
+    "url": "https://canela.tv/player/channel/canal6-de-cdmx"
+  },
+    {
+    "nombre": "C4 Alerta",
+    "logo": "https://image-resizer-cloud-cdn.cms.api.canela.tv/image/3052A289-026D-43E2-A4E5-577140AAA903/0-16x9.jpg?width=160&updatedTime=0&dt=MWeb",
+    "url": "https://canela.tv/player/channel/c4-en-alerta"
+  },
+  {
+    "nombre": "Azteca Uno -hr",
+    "logo": "https://image-resizer-cloud-cdn.cms.api.canela.tv/image/3052A289-026D-43E2-A4E5-577140AAA899/0-16x9.jpg?width=160&updatedTime=0&dt=MWeb",
+    "url": "https://canela.tv/player/channel/azteca-uno"
+  },
+    {
+    "nombre": "Teleformula",
+    "logo": "https://image-resizer-cloud-cdn.cms.api.canela.tv/image/3052A289-026D-43E2-A4E5-577140AAA911/0-16x9.jpg?width=160&updatedTime=0&dt=MWeb",
+    "url": "https://canela.tv/player/channel/teleformula"
+  },
+  {
+    "nombre": "Wapa+",
+    "logo": "https://image-resizer-cloud-cdn.cms.api.canela.tv/image/3052A289-026D-43E2-A4E5-577140AAA955/0-16x9.jpg?width=160&updatedTime=0&dt=MWeb",
+    "url": "https://canela.tv/player/channel/wapa-plus"
+  },
+    {
+    "nombre": "Milenio",
+    "logo": "https://image-resizer-cloud-cdn.cms.api.canela.tv/image/3052A289-026D-43E2-A4E5-577140AAA908/0-16x9.jpg?width=160&updatedTime=0&dt=MWeb",
+    "url": "https://canela.tv/player/channel/milenio-tv"
+  },
+  {
+    "nombre": "Comercio",
+    "logo": "https://image-resizer-cloud-cdn.cms.api.canela.tv/image/3052A289-026D-43E2-A4E5-577140AAA967/0-16x9.jpg?width=160&updatedTime=0&dt=MWeb",
+    "url": "https://canela.tv/player/channel/comercio-tv"
+  },
+    {
+    "nombre": "Deportes",
+    "logo": "https://image-resizer-cloud-cdn.cms.api.canela.tv/image/3052A289-026D-43E2-A4E5-577140AAA884/0-16x9.jpg?width=160&updatedTime=0&dt=MWeb",
+    "url": "https://canela.tv/player/channel/canela-deportes"
+  },
+  {
+    "nombre": "Combat",
+    "logo": "https://image-resizer-cloud-cdn.cms.api.canela.tv/image/3052A289-026D-43E2-A4E5-577140AAA965/0-16x9.jpg?width=160&updatedTime=0&dt=MWeb",
+    "url": "https://canela.tv/player/channel/canela-tv-combat"
+  },
+  {
+    "nombre": "Powernation",
+    "logo": "https://image-resizer-cloud-cdn.cms.api.canela.tv/image/3052A289-026D-43E2-A4E5-577140AAA907/0-16x9.jpg?width=160&updatedTime=0&dt=MWeb",
+    "url": "https://canela.tv/player/channel/power-nation-en-espanol"
+  },
+  {
+    "nombre": "Deporte mexicano en vivo",
+    "logo": "https://image-resizer-cloud-cdn.cms.api.canela.tv/image/3052A289-026D-43E2-A4E5-577140AAA910/0-16x9.jpg?width=160&updatedTime=0&dt=MWeb",
+    "url": "https://canela.tv/player/channel/itv-deportes"
+  },
+  {
+    "nombre": "WPT",
+    "logo": "https://image-resizer-cloud-cdn.cms.api.canela.tv/image/3052A289-026D-43E2-A4E5-577140AAA927/0-16x9.jpg?width=160&updatedTime=0&dt=MWeb",
+    "url": "https://canela.tv/player/channel/world-poker-tour-en-espanol"
+  },
+  {
+    "nombre": "Canela Kids",
+    "logo": "https://image-resizer-cloud-cdn.cms.api.canela.tv/image/3052A289-026D-43E2-A4E5-577140AAA887/0-16x9.jpg?width=160&updatedTime=0&dt=MWeb",
+    "url": "https://canela.tv/player/channel/canela-kids"
+  },
+  {
+    "nombre": "Capitan Tsubasa",
+    "logo": "https://image-resizer-cloud-cdn.cms.api.canela.tv/image/3052A289-026D-43E2-A4E5-577140AAA889/0-16x9.jpg?width=160&updatedTime=0&dt=MWeb",
+    "url": "https://canela.tv/player/channel/captain-tsubasa"
+  },
+  {
+    "nombre": "Toons Googles",
+    "logo": "https://image-resizer-cloud-cdn.cms.api.canela.tv/image/3052A289-026D-43E2-A4E5-577140AAA914/0-16x9.jpg?width=160&updatedTime=0&dt=MWeb",
+    "url": "https://canela.tv/player/channel/toon-googles-en-espanol"
+  }
+]
