@@ -1,12 +1,92 @@
 [
   {
     "nombre": "Fox",
-    "logo": "https://peticion.com/logo.png",
+    "logo": "https://canvas-lb.tubitv.com/opts/G7q5tQjIMphSBw==/df0c23d5-c4d5-4aaf-98a3-e4063ed2e806/CNcHEKgEOgUxLjEuOQ==",
     "url": "https://tubitv.com/es-mx/live/400000122/fox-en-tubi"
   },
     {
-    "nombre": "azteca 7",
-    "logo": "https://peticion.com/logo.png",
-    "url": "https://regionales.saohgdasregions.fun/tvporinternet3.php?stream=1_"
+    "nombre": "Azteca internacional",
+    "logo": "https://canvas-lb.tubitv.com/opts/3PxnwocWszcWVQ==/482676ff-f332-4a8c-8332-67227d87b522/CHgQeDoFMS4xLjlAAQ==",
+    "url": "https://tubitv.com/es-mx/live/400000162/azteca-internacional"
+  },
+    {
+    "nombre": "Azteca deporte network",
+    "logo": "https://canvas-lb.tubitv.com/opts/MPS2aN2-BeVSwg==/2af69a6e-29ec-4543-842a-50650368d973/CHgQeDoFMS4xLjlAAQ==",
+    "url": "https://tubitv.com/es-mx/live/400000160/azteca-deportes-network"
+  },
+    {
+    "nombre": "Estrellatv",
+    "logo": "https://canvas-lb.tubitv.com/opts/qbLpkioyCluU2g==/cc64f947-98c8-4afc-b22e-329d523d3261/CHgQeDoFMS4xLjlAAQ==",
+    "url": "https://tubitv.com/es-mx/live/400000118/estrellatv"
+  },
+    {
+    "nombre": "Freetv-Estelar",
+    "logo": "https://canvas-lb.tubitv.com/opts/wq0i_h7NXHOeFQ==/c6212da4-d96c-4ca4-96ff-cb2a8e39f46f/CHgQeDoFMS4xLjlAAQ==",
+    "url": "https://tubitv.com/es-mx/live/400000166/freetv-estelar"
+  },
+    {
+    "nombre": "Freetv accion",
+    "logo": "https://canvas-lb.tubitv.com/opts/rlUJMopl0Kfd4w==/d301ecac-dd88-404a-a26c-a271a743bd72/CHgQeDoFMS4xLjlAAQ==",
+    "url": "https://tubitv.com/es-mx/live/400000167/freetv-accion"
+  },
+    {
+    "nombre": "Freetv sureño",
+    "logo": "https://canvas-lb.tubitv.com/opts/SABFtWtM1ncGaw==/491e2319-a217-4f8d-9b25-34ceb20d90e2/CHgQeDoFMS4xLjlAAQ==",
+    "url": "https://tubitv.com/es-mx/live/400000165/freetv-sure-o"
+  },
+    {
+    "nombre": "Filmrise series gratis",
+    "logo": "https://canvas-lb.tubitv.com/opts/y4kaoqWciYmkng==/2d21c4c1-c88d-4869-b75a-712da0dfad67/CHgQeDoFMS4xLjlAAQ==",
+    "url": "https://tubitv.com/es-mx/live/400000113/filmrise-series-gratis"
+  },
+    {
+    "nombre": "Masterchef Mexico",
+    "logo": "https://canvas-lb.tubitv.com/opts/v0nAwXl2oce_Bg==/0a4a14fb-16da-4589-b85b-4305e9bf0549/CHgQeDoFMS4xLjlAAQ==",
+    "url": "https://tubitv.com/es-mx/live/400000109/masterchef-mexico"
+  },
+    {
+    "nombre": "Cheaters",
+    "logo": "https://canvas-lb.tubitv.com/opts/K_mJ4FVyjBezRg==/a903ad40-5f60-4adc-828f-54c0b403481c/CHgQeDoFMS4xLjlAAQ==",
+    "url": "https://tubitv.com/es-mx/live/400000114/cheaters-en-espa-ol"
+  },
+    {
+    "nombre": "Crimenes Verdaderos",
+    "logo": "https://canvas-lb.tubitv.com/opts/RpUdI1HHOi0oMA==/8605b3b6-3605-44ef-b0d0-89a85b409bf6/CHgQeDoFMS4xLjlAAQ==",
+    "url": "https://tubitv.com/es-mx/live/400000115/filmrise-crimenes-verdaderos"
+  },
+    {
+    "nombre": "Corazon",
+    "logo": "https://canvas-lb.tubitv.com/opts/S-Jr_jxZ28wq9A==/ec101686-5af7-4633-be22-d30d27902b34/CHgQeDoFMS4xLjlAAQ==",
+    "url": "https://tubitv.com/es-mx/live/400000158/coraz-n"
+  },
+    {
+    "nombre": "Clic",
+    "logo": "https://canvas-lb.tubitv.com/opts/f_jxPP1Px13CPA==/5e1dd110-54bc-4c25-81f5-c36976224e74/CHgQeDoFMS4xLjlAAQ==",
+    "url": "https://tubitv.com/es-mx/live/400000159/clic"
+  },
+    {
+    "nombre": "adn40",
+    "logo": "https://canvas-lb.tubitv.com/opts/V7wBhte3LVROfg==/c6d68510-32a1-4075-831f-64d3dc203b46/CHgQeDoFMS4xLjlAAQ==",
+    "url": "https://tubitv.com/es-mx/live/400000163/adn40"
+  },
+    {
+    "nombre": "Todo cine",
+    "logo": "https://canvas-lb.tubitv.com/opts/JdxWUYI3KdZp6Q==/2f1836dd-96a2-4baa-a7ef-786f38eb09c6/CHgQeDoFMS4xLjlAAQ==",
+    "url": "https://tubitv.com/es-mx/live/400000112/todo-cine"
+  },
+    {
+    "nombre": "Pasiones",
+    "logo": "https://canvas-lb.tubitv.com/opts/Vjr6YqpmQHQ7TA==/084d9109-dc3a-43af-913c-2df986999dd5/CHgQeDoFMS4xLjlAAQ==",
+    "url": "https://tubitv.com/es-mx/live/400000111/todo-novelas-m-s-pasiones"
+  },
+    {
+    "nombre": "Todo cine",
+    "logo": "https://canvas-lb.tubitv.com/opts/JdxWUYI3KdZp6Q==/2f1836dd-96a2-4baa-a7ef-786f38eb09c6/CHgQeDoFMS4xLjlAAQ==",
+    "url": "https://tubitv.com/es-mx/live/400000112/todo-cine"
+  },
+    {
+    "nombre": "pasiones",
+    "logo": "https://canvas-lb.tubitv.com/opts/Vjr6YqpmQHQ7TA==/084d9109-dc3a-43af-913c-2df986999dd5/CHgQeDoFMS4xLjlAAQ==",
+    "url": "https://tubitv.com/es-mx/live/400000111/todo-novelas-m-s-pasiones"
   }
 ]
