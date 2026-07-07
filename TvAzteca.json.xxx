@@ -1,0 +1,62 @@
+[
+  {
+    "nombre": "Tv Azteca",
+    "logo": "https://platform-static.cdn.mdstrm.com/player/logo/s-live-69b0e2ca155d8510bf7e5e38.png?c=20260701",
+    "url": "https://envivo.tvazteca.com/watch/live/69b0e2ca155d8510bf7e5e38"
+  },
+    {
+    "nombre": "MasterChechef 24/7",
+    "logo": "https://platform-static.cdn.mdstrm.com/player/logo/s-live-69f3c2647c4b66af034a67a5.png?c=20260701",
+    "url": "https://envivo.tvazteca.com/watch/live/69f3c2647c4b66af034a67a5"
+  },
+  {
+    "nombre": "Azteca 7",
+    "logo": "https://platform-static.cdn.mdstrm.com/player/logo/s-live-69b0e201a4807b7097316af8.png?c=20260701",
+    "url": "https://envivo.tvazteca.com/watch/live/69b0e201a4807b7097316af8"
+  },
+    {
+    "nombre": "Azteca Uno",
+    "logo": "https://platform-static.cdn.mdstrm.com/player/logo/s-live-67da2951a9abb4cba6221759.png?c=20260701",
+    "url": "https://envivo.tvazteca.com/watch/live/67da2951a9abb4cba6221759"
+  },
+  {
+    "nombre": "Azteca Noticias",
+    "logo": "https://platform-static.cdn.mdstrm.com/player/logo/s-live-685c57312e388c0e9cacb4d8.png?c=20260701",
+    "url": "https://envivo.tvazteca.com/watch/live/685c57312e388c0e9cacb4d8"
+  },
+    {
+    "nombre": "Tv Azteca Deportes Netword",
+    "logo": "https://platform-static.cdn.mdstrm.com/player/logo/s-live-6994be4d5caab0723aaab37c.png?c=20260701",
+    "url": "https://envivo.tvazteca.com/watch/live/6994be4d5caab0723aaab37c"
+  },
+  {
+    "nombre": "a+ mas",
+    "logo": "https://platform-static.cdn.mdstrm.com/player/logo/s-live-67da4856560cceb29bbd014c.png?c=20260701",
+    "url": "https://envivo.tvazteca.com/watch/live/67da4856560cceb29bbd014c"
+  },
+    {
+    "nombre": "adn Noticias",
+    "logo": "https://platform-static.cdn.mdstrm.com/player/logo/s-live-683a80b644ba64f6068a51af.png?c=20260701",
+    "url": "https://envivo.tvazteca.com/watch/live/683a80b644ba64f6068a51af"
+  },
+  {
+    "nombre": "Azteca Internacional",
+    "logo": "https://platform-static.cdn.mdstrm.com/player/logo/s-live-65a1d2fd7e7f14355550d570.png?c=20260701",
+    "url": "https://envivo.tvazteca.com/watch/live/65a1d2fd7e7f14355550d570"
+  },
+    {
+    "nombre": "Regional Noticias",
+    "logo": "https://platform-static.cdn.mdstrm.com/player/logo/s-live-686c4c6eb03d6c0e7b5e25a0.png?c=20260701",
+    "url": "https://envivo.tvazteca.com/watch/live/686c4c6eb03d6c0e7b5e25a0"
+  },
+  {
+    "nombre": "Mundo Sorprendente tv",
+    "logo": "https://platform-static.cdn.mdstrm.com/player/logo/s-live-6719b8b862e13bd63c85325f.png?c=20260701",
+    "url": "https://envivo.tvazteca.com/watch/live/6719b8b862e13bd63c85325f"
+  },
+    {
+    "nombre": "Vida plena tv",
+    "logo": "https://platform-static.cdn.mdstrm.com/player/logo/s-live-6759e2bae182783ceb3cebff.png?c=20260701",
+    "url": "https://envivo.tvazteca.com/watch/live/6759e2bae182783ceb3cebff"
+  }
+]
