@@ -9,25 +9,50 @@
     "logo": "https://platform-static.cdn.mdstrm.com/player/logo/s-live-69f3c2647c4b66af034a67a5.png?c=20260701",
     "url": "https://envivo.tvazteca.com/watch/live/69f3c2647c4b66af034a67a5"
   },
+    {
+    "nombre": "MasterChechef 24/7 Opc 2",
+    "logo": "https://platform-static.cdn.mdstrm.com/player/logo/s-live-69f3c2647c4b66af034a67a5.png?c=20260701",
+    "url": "https://www.tvazteca.com/aztecauno/masterchef/transmision-en-vivo-24-7"
+  },
   {
     "nombre": "Azteca 7",
     "logo": "https://platform-static.cdn.mdstrm.com/player/logo/s-live-69b0e201a4807b7097316af8.png?c=20260701",
     "url": "https://envivo.tvazteca.com/watch/live/69b0e201a4807b7097316af8"
+  },
+  {
+    "nombre": "Azteca 7 Opc 2",
+    "logo": "https://platform-static.cdn.mdstrm.com/player/logo/s-live-69b0e201a4807b7097316af8.png?c=20260701",
+    "url": "https://www.tvazteca.com/azteca7/peliculas/envivo"
   },
     {
     "nombre": "Azteca Uno",
     "logo": "https://platform-static.cdn.mdstrm.com/player/logo/s-live-67da2951a9abb4cba6221759.png?c=20260701",
     "url": "https://envivo.tvazteca.com/watch/live/67da2951a9abb4cba6221759"
   },
+    {
+    "nombre": "Azteca Uno Opc 2",
+    "logo": "https://platform-static.cdn.mdstrm.com/player/logo/s-live-67da2951a9abb4cba6221759.png?c=20260701",
+    "url": "https://www.tvazteca.com/aztecauno/venga-la-alegria/envivo"
+  },
   {
     "nombre": "Azteca Noticias",
     "logo": "https://platform-static.cdn.mdstrm.com/player/logo/s-live-685c57312e388c0e9cacb4d8.png?c=20260701",
     "url": "https://envivo.tvazteca.com/watch/live/685c57312e388c0e9cacb4d8"
   },
+  {
+    "nombre": "Azteca Noticias Opc 2",
+    "logo": "https://platform-static.cdn.mdstrm.com/player/logo/s-live-685c57312e388c0e9cacb4d8.png?c=20260701",
+    "url": "https://www.tvazteca.com/aztecanoticias/videos/envivo"
+  },
     {
     "nombre": "Tv Azteca Deportes Netword",
     "logo": "https://platform-static.cdn.mdstrm.com/player/logo/s-live-6994be4d5caab0723aaab37c.png?c=20260701",
     "url": "https://envivo.tvazteca.com/watch/live/6994be4d5caab0723aaab37c"
+  },
+    {
+    "nombre": "Tv Azteca Deportes Netword Opc 2",
+    "logo": "https://platform-static.cdn.mdstrm.com/player/logo/s-live-6994be4d5caab0723aaab37c.png?c=20260701",
+    "url": "https://www.tvazteca.com/aztecadeportes/azteca-deportes-network-en-vivo"
   },
   {
     "nombre": "a+ mas",
@@ -39,15 +64,30 @@
     "logo": "https://platform-static.cdn.mdstrm.com/player/logo/s-live-683a80b644ba64f6068a51af.png?c=20260701",
     "url": "https://envivo.tvazteca.com/watch/live/683a80b644ba64f6068a51af"
   },
+    {
+    "nombre": "adn Noticias Opc 2",
+    "logo": "https://platform-static.cdn.mdstrm.com/player/logo/s-live-683a80b644ba64f6068a51af.png?c=20260701",
+    "url": "https://live.adn40.mx/"
+  },
   {
     "nombre": "Azteca Internacional",
     "logo": "https://platform-static.cdn.mdstrm.com/player/logo/s-live-65a1d2fd7e7f14355550d570.png?c=20260701",
     "url": "https://envivo.tvazteca.com/watch/live/65a1d2fd7e7f14355550d570"
   },
+  {
+    "nombre": "Azteca Internacional Opc 2",
+    "logo": "https://platform-static.cdn.mdstrm.com/player/logo/s-live-65a1d2fd7e7f14355550d570.png?c=20260701",
+    "url": "https://www.tvazteca.com/aztecanoticias/videos/envivo"
+  },
     {
     "nombre": "Regional Noticias",
     "logo": "https://platform-static.cdn.mdstrm.com/player/logo/s-live-686c4c6eb03d6c0e7b5e25a0.png?c=20260701",
     "url": "https://envivo.tvazteca.com/watch/live/686c4c6eb03d6c0e7b5e25a0"
+  },
+    {
+    "nombre": "Regional Noticias Opc 2",
+    "logo": "https://platform-static.cdn.mdstrm.com/player/logo/s-live-686c4c6eb03d6c0e7b5e25a0.png?c=20260701",
+    "url": "https://www.tvazteca.com/regional-news/envivo"
   },
   {
     "nombre": "Mundo Sorprendente tv",
@@ -58,5 +98,65 @@
     "nombre": "Vida plena tv",
     "logo": "https://platform-static.cdn.mdstrm.com/player/logo/s-live-6759e2bae182783ceb3cebff.png?c=20260701",
     "url": "https://envivo.tvazteca.com/watch/live/6759e2bae182783ceb3cebff"
+  },
+    {
+    "nombre": "Canal 6 Monterrey",
+    "logo": "https://scontent.fcvj3-1.fna.fbcdn.net/v/t39.30808-6/341870944_780657023257038_2305493136756304556_n.png?stp=dst-webp_fr_q70&_nc_cat=1&ccb=1-7&_nc_sid=cc3e7e&_nc_ohc=1S2pHn8YI5cQ7kNvwEVs3ru&_nc_oc=AdoJNb7xOHfEHukVKMhhQEoG8rwgvQBTHQs9N_vhk6QYIb1zMikJmJPCcZxKmF7lkCI&_nc_zt=23&_nc_ht=scontent.fcvj3-1.fna&_nc_gid=oXtJW-2r7SXYF1lf5bLiCQ&_nc_ss=7b289&oh=00_AQBSfSeJo-I-BOQvdOAMYdpndBGEtFtHLKR36WYgf-OrTw&oe=6A54BA18",
+    "url": "https://www.multimediostv.com/en-vivo/monterrey"
+  },
+    {
+    "nombre": "Canal 6 CD MX",
+    "logo": "https://scontent.fcvj3-1.fna.fbcdn.net/v/t39.30808-6/341870944_780657023257038_2305493136756304556_n.png?stp=dst-webp_fr_q70&_nc_cat=1&ccb=1-7&_nc_sid=cc3e7e&_nc_ohc=1S2pHn8YI5cQ7kNvwEVs3ru&_nc_oc=AdoJNb7xOHfEHukVKMhhQEoG8rwgvQBTHQs9N_vhk6QYIb1zMikJmJPCcZxKmF7lkCI&_nc_zt=23&_nc_ht=scontent.fcvj3-1.fna&_nc_gid=oXtJW-2r7SXYF1lf5bLiCQ&_nc_ss=7b289&oh=00_AQBSfSeJo-I-BOQvdOAMYdpndBGEtFtHLKR36WYgf-OrTw&oe=6A54BA18",
+    "url": "https://www.multimediostv.com/en-vivo/cdmx"
+  },
+    {
+    "nombre": "Canal 6 Laguna",
+    "logo": "https://scontent.fcvj3-1.fna.fbcdn.net/v/t39.30808-6/341870944_780657023257038_2305493136756304556_n.png?stp=dst-webp_fr_q70&_nc_cat=1&ccb=1-7&_nc_sid=cc3e7e&_nc_ohc=1S2pHn8YI5cQ7kNvwEVs3ru&_nc_oc=AdoJNb7xOHfEHukVKMhhQEoG8rwgvQBTHQs9N_vhk6QYIb1zMikJmJPCcZxKmF7lkCI&_nc_zt=23&_nc_ht=scontent.fcvj3-1.fna&_nc_gid=oXtJW-2r7SXYF1lf5bLiCQ&_nc_ss=7b289&oh=00_AQBSfSeJo-I-BOQvdOAMYdpndBGEtFtHLKR36WYgf-OrTw&oe=6A54BA18",
+    "url": "https://www.multimediostv.com/en-vivo/laguna"
+  },
+    {
+    "nombre": "Canal 6 Puebla",
+    "logo": "https://scontent.fcvj3-1.fna.fbcdn.net/v/t39.30808-6/341870944_780657023257038_2305493136756304556_n.png?stp=dst-webp_fr_q70&_nc_cat=1&ccb=1-7&_nc_sid=cc3e7e&_nc_ohc=1S2pHn8YI5cQ7kNvwEVs3ru&_nc_oc=AdoJNb7xOHfEHukVKMhhQEoG8rwgvQBTHQs9N_vhk6QYIb1zMikJmJPCcZxKmF7lkCI&_nc_zt=23&_nc_ht=scontent.fcvj3-1.fna&_nc_gid=oXtJW-2r7SXYF1lf5bLiCQ&_nc_ss=7b289&oh=00_AQBSfSeJo-I-BOQvdOAMYdpndBGEtFtHLKR36WYgf-OrTw&oe=6A54BA18",
+    "url": "https://www.multimediostv.com/en-vivo/puebla"
+  },
+    {
+    "nombre": "Canal 6 Saltillo",
+    "logo": "https://scontent.fcvj3-1.fna.fbcdn.net/v/t39.30808-6/341870944_780657023257038_2305493136756304556_n.png?stp=dst-webp_fr_q70&_nc_cat=1&ccb=1-7&_nc_sid=cc3e7e&_nc_ohc=1S2pHn8YI5cQ7kNvwEVs3ru&_nc_oc=AdoJNb7xOHfEHukVKMhhQEoG8rwgvQBTHQs9N_vhk6QYIb1zMikJmJPCcZxKmF7lkCI&_nc_zt=23&_nc_ht=scontent.fcvj3-1.fna&_nc_gid=oXtJW-2r7SXYF1lf5bLiCQ&_nc_ss=7b289&oh=00_AQBSfSeJo-I-BOQvdOAMYdpndBGEtFtHLKR36WYgf-OrTw&oe=6A54BA18",
+    "url": "https://www.multimediostv.com/en-vivo/saltillo"
+  },
+    {
+    "nombre": "Canal 6 Bajio",
+    "logo": "https://scontent.fcvj3-1.fna.fbcdn.net/v/t39.30808-6/341870944_780657023257038_2305493136756304556_n.png?stp=dst-webp_fr_q70&_nc_cat=1&ccb=1-7&_nc_sid=cc3e7e&_nc_ohc=1S2pHn8YI5cQ7kNvwEVs3ru&_nc_oc=AdoJNb7xOHfEHukVKMhhQEoG8rwgvQBTHQs9N_vhk6QYIb1zMikJmJPCcZxKmF7lkCI&_nc_zt=23&_nc_ht=scontent.fcvj3-1.fna&_nc_gid=oXtJW-2r7SXYF1lf5bLiCQ&_nc_ss=7b289&oh=00_AQBSfSeJo-I-BOQvdOAMYdpndBGEtFtHLKR36WYgf-OrTw&oe=6A54BA18",
+    "url": "https://www.multimediostv.com/en-vivo/bajio"
+  },
+    {
+    "nombre": "Canal 6 Guadalajara",
+    "logo": "https://scontent.fcvj3-1.fna.fbcdn.net/v/t39.30808-6/341870944_780657023257038_2305493136756304556_n.png?stp=dst-webp_fr_q70&_nc_cat=1&ccb=1-7&_nc_sid=cc3e7e&_nc_ohc=1S2pHn8YI5cQ7kNvwEVs3ru&_nc_oc=AdoJNb7xOHfEHukVKMhhQEoG8rwgvQBTHQs9N_vhk6QYIb1zMikJmJPCcZxKmF7lkCI&_nc_zt=23&_nc_ht=scontent.fcvj3-1.fna&_nc_gid=oXtJW-2r7SXYF1lf5bLiCQ&_nc_ss=7b289&oh=00_AQBSfSeJo-I-BOQvdOAMYdpndBGEtFtHLKR36WYgf-OrTw&oe=6A54BA18",
+    "url": "https://www.multimediostv.com/en-vivo/guadalajara"
+  },
+    {
+    "nombre": "Canal 6 Costarica",
+    "logo": "https://scontent.fcvj3-1.fna.fbcdn.net/v/t39.30808-6/341870944_780657023257038_2305493136756304556_n.png?stp=dst-webp_fr_q70&_nc_cat=1&ccb=1-7&_nc_sid=cc3e7e&_nc_ohc=1S2pHn8YI5cQ7kNvwEVs3ru&_nc_oc=AdoJNb7xOHfEHukVKMhhQEoG8rwgvQBTHQs9N_vhk6QYIb1zMikJmJPCcZxKmF7lkCI&_nc_zt=23&_nc_ht=scontent.fcvj3-1.fna&_nc_gid=oXtJW-2r7SXYF1lf5bLiCQ&_nc_ss=7b289&oh=00_AQBSfSeJo-I-BOQvdOAMYdpndBGEtFtHLKR36WYgf-OrTw&oe=6A54BA18",
+    "url": "https://www.multimediostv.com/en-vivo/costa-rica"
+  },
+    {
+    "nombre": "Canal 6 Ciudad Juarez",
+    "logo": "https://scontent.fcvj3-1.fna.fbcdn.net/v/t39.30808-6/341870944_780657023257038_2305493136756304556_n.png?stp=dst-webp_fr_q70&_nc_cat=1&ccb=1-7&_nc_sid=cc3e7e&_nc_ohc=1S2pHn8YI5cQ7kNvwEVs3ru&_nc_oc=AdoJNb7xOHfEHukVKMhhQEoG8rwgvQBTHQs9N_vhk6QYIb1zMikJmJPCcZxKmF7lkCI&_nc_zt=23&_nc_ht=scontent.fcvj3-1.fna&_nc_gid=oXtJW-2r7SXYF1lf5bLiCQ&_nc_ss=7b289&oh=00_AQBSfSeJo-I-BOQvdOAMYdpndBGEtFtHLKR36WYgf-OrTw&oe=6A54BA18",
+    "url": "https://www.multimediostv.com/en-vivo/ciudad-juarez"
+  },
+    {
+    "nombre": "Canal 6 Teleritmo",
+    "logo": "https://scontent.fcvj3-1.fna.fbcdn.net/v/t39.30808-6/341870944_780657023257038_2305493136756304556_n.png?stp=dst-webp_fr_q70&_nc_cat=1&ccb=1-7&_nc_sid=cc3e7e&_nc_ohc=1S2pHn8YI5cQ7kNvwEVs3ru&_nc_oc=AdoJNb7xOHfEHukVKMhhQEoG8rwgvQBTHQs9N_vhk6QYIb1zMikJmJPCcZxKmF7lkCI&_nc_zt=23&_nc_ht=scontent.fcvj3-1.fna&_nc_gid=oXtJW-2r7SXYF1lf5bLiCQ&_nc_ss=7b289&oh=00_AQBSfSeJo-I-BOQvdOAMYdpndBGEtFtHLKR36WYgf-OrTw&oe=6A54BA18",
+    "url": "https://www.multimediostv.com/en-vivo/teleritmo"
+  },
+    {
+    "nombre": "Canal 6 CGTN",
+    "logo": "https://scontent.fcvj3-1.fna.fbcdn.net/v/t39.30808-6/341870944_780657023257038_2305493136756304556_n.png?stp=dst-webp_fr_q70&_nc_cat=1&ccb=1-7&_nc_sid=cc3e7e&_nc_ohc=1S2pHn8YI5cQ7kNvwEVs3ru&_nc_oc=AdoJNb7xOHfEHukVKMhhQEoG8rwgvQBTHQs9N_vhk6QYIb1zMikJmJPCcZxKmF7lkCI&_nc_zt=23&_nc_ht=scontent.fcvj3-1.fna&_nc_gid=oXtJW-2r7SXYF1lf5bLiCQ&_nc_ss=7b289&oh=00_AQBSfSeJo-I-BOQvdOAMYdpndBGEtFtHLKR36WYgf-OrTw&oe=6A54BA18",
+    "url": "https://www.multimediostv.com/en-vivo/cgtn"
+  },
+    {
+    "nombre": "Canal 6 RGTV",
+    "logo": "https://scontent.fcvj3-1.fna.fbcdn.net/v/t39.30808-6/341870944_780657023257038_2305493136756304556_n.png?stp=dst-webp_fr_q70&_nc_cat=1&ccb=1-7&_nc_sid=cc3e7e&_nc_ohc=1S2pHn8YI5cQ7kNvwEVs3ru&_nc_oc=AdoJNb7xOHfEHukVKMhhQEoG8rwgvQBTHQs9N_vhk6QYIb1zMikJmJPCcZxKmF7lkCI&_nc_zt=23&_nc_ht=scontent.fcvj3-1.fna&_nc_gid=oXtJW-2r7SXYF1lf5bLiCQ&_nc_ss=7b289&oh=00_AQBSfSeJo-I-BOQvdOAMYdpndBGEtFtHLKR36WYgf-OrTw&oe=6A54BA18",
+    "url": "https://www.multimediostv.com/en-vivo/rgtv"
   }
 ]
