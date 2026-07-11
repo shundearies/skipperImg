@@ -1,286 +1,285 @@
 #EXTM3U
-
-#EXTINF:-1, tvg-logo="https://xtrematv.com/wp-content/uploads/2025/11/3.jpg",Canal 1
+#EXTINF:-1 tvg-logo="https://xtrematv.com/wp-content/uploads/2025/11/3.jpg",Canal 1
 https://vtm1.msinteractiva.com/canal1/canal1/playlist.m3u8?hls_ctx=b5rujw3f
 
-#EXTINF:-1, tvg-logo="https://xtrematv.com/wp-content/uploads/2026/03/1.jpg",Eventos 550
+#EXTINF:-1 tvg-logo="https://xtrematv.com/wp-content/uploads/2026/03/1.jpg",Eventos 550
 https://vtm1.msinteractiva.com/eventos550/eventos550/playlist.m3u8
 
-#EXTINF:-1, tvg-logo="https://xtrematv.com/wp-content/uploads/2025/11/5.jpg",Canal 3 Argentina
+#EXTINF:-1 tvg-logo="https://xtrematv.com/wp-content/uploads/2025/11/5.jpg",Canal 3 Argentina
 https://vtm2.msinteractiva.com/canal3argentina/canal3argentina/playlist.m3u8
 
-#EXTINF:-1, tvg-logo="https://xtrematv.com/wp-content/uploads/2025/11/8.jpg",Video HD 8016
+#EXTINF:-1 tvg-logo="https://xtrematv.com/wp-content/uploads/2025/11/8.jpg",Video HD 8016
 https://videohd.live:19360/8016/8016.m3u8
 
-#EXTINF:-1, tvg-logo="https://xtrematv.com/wp-content/uploads/2026/01/7-vida-al-maximo.jpg",Vida al Maximo
+#EXTINF:-1 tvg-logo="https://xtrematv.com/wp-content/uploads/2026/01/7-vida-al-maximo.jpg",Vida al Maximo
 https://live20.bozztv.com/akamaissh101/ssh101/vidaalmaximo11/playlist.m3u8
 
-#EXTINF:-1, tvg-logo="https://xtrematv.com/wp-content/uploads/2025/11/10.jpg",Canal 8 Rosario
+#EXTINF:-1 tvg-logo="https://xtrematv.com/wp-content/uploads/2025/11/10.jpg",Canal 8 Rosario
 https://vtm1.msinteractiva.com/canal8ros/canal8ros/playlist.m3u8
 
-#EXTINF:-1, tvg-logo="https://xtrematv.com/wp-content/uploads/2025/11/11-1.jpg",Quilpueo Giatv
+#EXTINF:-1 tvg-logo="https://xtrematv.com/wp-content/uploads/2025/11/11-1.jpg",Quilpueo Giatv
 https://live20.bozztv.com/giatv/giatv-quilpueo196208/quilpueo196208/playlist.m3u8
 
-#EXTINF:-1, tvg-logo="https://xtrematv.com/wp-content/uploads/2025/11/12.jpg",Prensa del Interior
+#EXTINF:-1 tvg-logo="https://xtrematv.com/wp-content/uploads/2025/11/12.jpg",Prensa del Interior
 https://vtm1.msinteractiva.com/prensadelinterior/prensadelinterior/playlist.m3u8
 
-#EXTINF:-1, tvg-logo="https://xtrematv.com/wp-content/uploads/2025/11/13.jpg",Vision TV Paraguay
+#EXTINF:-1 tvg-logo="https://xtrematv.com/wp-content/uploads/2025/11/13.jpg",Vision TV Paraguay
 https://videostream.shockmedia.com.ar:19360/nnvisiontvparaguay/nnvisiontvparaguay.m3u8
 
-#EXTINF:-1, tvg-logo="https://xtrematv.com/wp-content/uploads/2026/03/13-faro-vision.jpg",Faro Vision
+#EXTINF:-1 tvg-logo="https://xtrematv.com/wp-content/uploads/2026/03/13-faro-vision.jpg",Faro Vision
 https://streamtv.intervenhosting.net:3754/hybrid/play.m3u8
 
-#EXTINF:-1, tvg-logo="https://xtrematv.com/wp-content/uploads/2025/11/16.jpg",Canal 5 Pueblo
+#EXTINF:-1 tvg-logo="https://xtrematv.com/wp-content/uploads/2025/11/16.jpg",Canal 5 Pueblo
 https://stmv4.voxtvhd.com.br/canal5pueblo/canal5pueblo/playlist.m3u8
 
-#EXTINF:-1, tvg-logo="https://xtrematv.com/wp-content/uploads/2025/11/17.jpg",Sicardi TV
+#EXTINF:-1 tvg-logo="https://xtrematv.com/wp-content/uploads/2025/11/17.jpg",Sicardi TV
 https://vivo.solumedia.com:19360/sicarditv/sicarditv.m3u8
 
-#EXTINF:-1, tvg-logo="https://xtrematv.com/wp-content/uploads/2025/11/18.jpg",Neo TV Digital
+#EXTINF:-1 tvg-logo="https://xtrematv.com/wp-content/uploads/2025/11/18.jpg",Neo TV Digital
 https://videostream.shockmedia.com.ar:19360/neotvdigital/neotvdigital.m3u8
 
-#EXTINF:-1, tvg-logo="https://xtrematv.com/wp-content/uploads/2025/11/19.jpg",Vitrola 4
+#EXTINF:-1 tvg-logo="https://xtrematv.com/wp-content/uploads/2025/11/19.jpg",Vitrola 4
 https://stmvideo6.livecastv.com/vitrola4/vitrola4/playlist.m3u8
 
-#EXTINF:-1, tvg-logo="https://xtrematv.com/wp-content/uploads/2025/11/20.jpg",Ver TV
+#EXTINF:-1 tvg-logo="https://xtrematv.com/wp-content/uploads/2025/11/20.jpg",Ver TV
 https://5f700d5b2c46f.streamlock.net/vertv/vertv/chunklist_w122406606.m3u8
 
-#EXTINF:-1, tvg-logo="https://xtrematv.com/wp-content/uploads/2026/02/19-zn-noticias.jpg",ZN Noticias
+#EXTINF:-1 tvg-logo="https://xtrematv.com/wp-content/uploads/2026/02/19-zn-noticias.jpg",ZN Noticias
 https://stmv3.voxtvhd.com.br/znnoticias/znnoticias/playlist.m3u8
 
-#EXTINF:-1, tvg-logo="https://xtrematv.com/wp-content/uploads/2025/11/22.jpg",So Live TV
+#EXTINF:-1 tvg-logo="https://xtrematv.com/wp-content/uploads/2025/11/22.jpg",So Live TV
 https://stmv6.voxtvhd.com.br/solivetv/solivetv/playlist.m3u8
 
-#EXTINF:-1, tvg-logo="https://xtrematv.com/wp-content/uploads/2025/11/23.jpg",Global TV
+#EXTINF:-1 tvg-logo="https://xtrematv.com/wp-content/uploads/2025/11/23.jpg",Global TV
 https://stmv.gmpro.top/global/global/playlist.m3u8
 
-#EXTINF:-1, tvg-logo="https://xtrematv.com/wp-content/uploads/2025/11/24.jpg",Intro Xtrema
+#EXTINF:-1 tvg-logo="https://xtrematv.com/wp-content/uploads/2025/11/24.jpg",Intro Xtrema
 https://xtrematv.com/intro-xtrema-mobiles.mp4
 
-#EXTINF:-1, tvg-logo="https://xtrematv.com/wp-content/uploads/2025/11/25.jpg",Web Red TV
+#EXTINF:-1 tvg-logo="https://xtrematv.com/wp-content/uploads/2025/11/25.jpg",Web Red TV
 https://stmv4.voxtvhd.com.br/webredtv/webredtv/playlist.m3u8
 
-#EXTINF:-1, tvg-logo="https://xtrematv.com/wp-content/uploads/2026/05/24-rtcl.jpg",RTCL
+#EXTINF:-1 tvg-logo="https://xtrematv.com/wp-content/uploads/2026/05/24-rtcl.jpg",RTCL
 https://live-server.mivideo.pro:8081/lecafemediatv/index.m3u8
 
-#EXTINF:-1, tvg-logo="https://xtrematv.com/wp-content/uploads/2025/11/25b.jpg",Radio Labrar TV
+#EXTINF:-1 tvg-logo="https://xtrematv.com/wp-content/uploads/2025/11/25b.jpg",Radio Labrar TV
 https://live20.bozztv.com/giatv/giatv-radiolabrartv/radiolabrartv/chunks.m3u8
 
-#EXTINF:-1, tvg-logo="https://xtrematv.com/wp-content/uploads/2026/03/26-estacion-winner.jpg",Estacion Winner
+#EXTINF:-1 tvg-logo="https://xtrematv.com/wp-content/uploads/2026/03/26-estacion-winner.jpg",Estacion Winner
 https://stmv7.voxtvhd.com.br/winnertv/winnertv/playlist.m3u8
 
-#EXTINF:-1, tvg-logo="https://xtrematv.com/wp-content/uploads/2025/11/27b.jpg",Crossing TV
+#EXTINF:-1 tvg-logo="https://xtrematv.com/wp-content/uploads/2025/11/27b.jpg",Crossing TV
 https://stmv6.voxtvhd.com.br/crossingtv/crossingtv/playlist.m3u8
 
-#EXTINF:-1, tvg-logo="https://xtrematv.com/wp-content/uploads/2025/11/28.jpg",Kairos TV
+#EXTINF:-1 tvg-logo="https://xtrematv.com/wp-content/uploads/2025/11/28.jpg",Kairos TV
 https://videostream.shockmedia.com.ar:19360/kairostv/kairostv.m3u8
 
-#EXTINF:-1, tvg-logo="https://xtrematv.com/wp-content/uploads/2025/11/29.jpg",Minano TV
+#EXTINF:-1 tvg-logo="https://xtrematv.com/wp-content/uploads/2025/11/29.jpg",Minano TV
 https://stmv1.voxtvhd.com.br/minanotv/minanotv/playlist.m3u8
 
-#EXTINF:-1, tvg-logo="https://xtrematv.com/wp-content/uploads/2025/11/30.jpg",Suenos Group TV
+#EXTINF:-1 tvg-logo="https://xtrematv.com/wp-content/uploads/2025/11/30.jpg",Suenos Group TV
 https://stmv2.voxtvhd.com.br/suenosgrouptv/suenosgrouptv/playlist.m3u8
 
-#EXTINF:-1, tvg-logo="https://xtrematv.com/wp-content/uploads/2025/11/31.jpg",Canal 11 La Rioja
+#EXTINF:-1 tvg-logo="https://xtrematv.com/wp-content/uploads/2025/11/31.jpg",Canal 11 La Rioja
 https://stmv6.voxtvhd.com.br/canal11larioja/canal11larioja/playlist.m3u8
 
-#EXTINF:-1, tvg-logo="https://xtrematv.com/wp-content/uploads/2025/11/32.jpg",Vacantveo 2
+#EXTINF:-1 tvg-logo="https://xtrematv.com/wp-content/uploads/2025/11/32.jpg",Vacantveo 2
 https://stmv6.voxtvhd.com.br/vacantveo2/vacantveo2/playlist.m3u8
 
-#EXTINF:-1, tvg-logo="https://xtrematv.com/wp-content/uploads/2025/12/34b.jpg",Avivamiento Live
+#EXTINF:-1 tvg-logo="https://xtrematv.com/wp-content/uploads/2025/12/34b.jpg",Avivamiento Live
 https://vdopanel.jlahozconsulting.com:3655/live/avivamientolive.m3u8
 
-#EXTINF:-1, tvg-logo="https://xtrematv.com/wp-content/uploads/2026/02/35-ECO305.jpg",ECO 305
+#EXTINF:-1 tvg-logo="https://xtrematv.com/wp-content/uploads/2026/02/35-ECO305.jpg",ECO 305
 https://stmv.gmpro.top/eco/eco/playlist.m3u8
 
-#EXTINF:-1, tvg-logo="https://xtrematv.com/wp-content/uploads/2026/03/36-sima-vision.jpg",Sima Vision
+#EXTINF:-1 tvg-logo="https://xtrematv.com/wp-content/uploads/2026/03/36-sima-vision.jpg",Sima Vision
 https://soportedvb.click:3668/live/simavisiontvlive.m3u8
 
-#EXTINF:-1, tvg-logo="https://xtrematv.com/wp-content/uploads/2025/11/39.jpg",Espacio Fabrik
+#EXTINF:-1 tvg-logo="https://xtrematv.com/wp-content/uploads/2025/11/39.jpg",Espacio Fabrik
 https://vtm1.msinteractiva.com/espaciofabrik/espaciofabrik/playlist.m3u8
 
-#EXTINF:-1, tvg-logo="https://xtrematv.com/wp-content/uploads/2026/03/40-el-duende-tv.jpg",El Duende TV
+#EXTINF:-1 tvg-logo="https://xtrematv.com/wp-content/uploads/2026/03/40-el-duende-tv.jpg",El Duende TV
 https://videostream.shockmedia.com.ar:19360/canal4tv/canal4tv.m3u8
 
-#EXTINF:-1, tvg-logo="https://xtrematv.com/wp-content/uploads/2025/11/41.jpg",Donna TV Digital
+#EXTINF:-1 tvg-logo="https://xtrematv.com/wp-content/uploads/2025/11/41.jpg",Donna TV Digital
 https://live.enhdtv.com:8081/donnatvdigital/index.m3u8
 
-#EXTINF:-1, tvg-logo="https://xtrematv.com/wp-content/uploads/2026/05/43-del-este-uruguay.jpg",Del Este Uruguay
+#EXTINF:-1 tvg-logo="https://xtrematv.com/wp-content/uploads/2026/05/43-del-este-uruguay.jpg",Del Este Uruguay
 https://tuvideoonline.com.ar:3498/live/calle7live.m3u8
 
-#EXTINF:-1, tvg-logo="https://xtrematv.com/wp-content/uploads/2025/11/42.jpg",Palomar TV
+#EXTINF:-1 tvg-logo="https://xtrematv.com/wp-content/uploads/2025/11/42.jpg",Palomar TV
 https://stmv1.voxtvhd.com.br/palomartv/palomartv/playlist.m3u8
 
-#EXTINF:-1, tvg-logo="https://xtrematv.com/wp-content/uploads/2025/11/44.jpg",Telemix en Vivo
+#EXTINF:-1 tvg-logo="https://xtrematv.com/wp-content/uploads/2025/11/44.jpg",Telemix en Vivo
 https://live20.bozztv.com/giatv/giatv-telemixenvivo/telemixenvivo/playlist.m3u8
 
-#EXTINF:-1, tvg-logo="https://xtrematv.com/wp-content/uploads/2026/01/65-bendicion-channel.jpg",Bendicion Channel
+#EXTINF:-1 tvg-logo="https://xtrematv.com/wp-content/uploads/2026/01/65-bendicion-channel.jpg",Bendicion Channel
 https://s.emisoras.tv:8081/bendicionchannel/index.m3u8
 
-#EXTINF:-1, tvg-logo="https://xtrematv.com/wp-content/uploads/2025/11/50.jpg",Canal 72 TV
+#EXTINF:-1 tvg-logo="https://xtrematv.com/wp-content/uploads/2025/11/50.jpg",Canal 72 TV
 https://stmv1.voxtvhd.com.br/canal72tv2/canal72tv2/playlist.m3u8
 
-#EXTINF:-1, tvg-logo="https://xtrematv.com/wp-content/uploads/2025/12/78b.jpg",Streaming HD Live
+#EXTINF:-1 tvg-logo="https://xtrematv.com/wp-content/uploads/2025/12/78b.jpg",Streaming HD Live
 https://vd01.streaminghd.net.ar:3349/live/bzuctkgnlive.m3u8
 
-#EXTINF:-1, tvg-logo="https://xtrematv.com/wp-content/uploads/2025/12/1.jpg",Eventos Live 2
+#EXTINF:-1 tvg-logo="https://xtrematv.com/wp-content/uploads/2025/12/1.jpg",Eventos Live 2
 https://stmv3.voxtvhd.com.br/eventoslive2/eventoslive2/playlist.m3u8
 
-#EXTINF:-1, tvg-logo="https://xtrematv.com/wp-content/uploads/2025/12/3.jpg",CNAR Deportes
+#EXTINF:-1 tvg-logo="https://xtrematv.com/wp-content/uploads/2025/12/3.jpg",CNAR Deportes
 https://vtm1.msinteractiva.com/cnardeportes/cnardeportes/playlist.m3u8
 
-#EXTINF:-1, tvg-logo="https://xtrematv.com/wp-content/uploads/2025/12/4.jpg",CNAR Deportes 2
+#EXTINF:-1 tvg-logo="https://xtrematv.com/wp-content/uploads/2025/12/4.jpg",CNAR Deportes 2
 https://stmv7.voxtvhd.com.br/cnardeportes2/cnardeportes2/playlist.m3u8
 
-#EXTINF:-1, tvg-logo="https://xtrematv.com/wp-content/uploads/2025/12/6.jpg",Multivox Cartoons
+#EXTINF:-1 tvg-logo="https://xtrematv.com/wp-content/uploads/2025/12/6.jpg",Multivox Cartoons
 https://vtm1.msinteractiva.com/multivoxcartoons/multivoxcartoons/playlist.m3u8
 
-#EXTINF:-1, tvg-logo="https://xtrematv.com/wp-content/uploads/2025/12/7.jpg",Multivox Retro Cartoon
+#EXTINF:-1 tvg-logo="https://xtrematv.com/wp-content/uploads/2025/12/7.jpg",Multivox Retro Cartoon
 https://vtm1.msinteractiva.com/multivoxretcartoon/multivoxretcartoon/playlist.m3u8
 
-#EXTINF:-1, tvg-logo="https://xtrematv.com/wp-content/uploads/2025/12/8.jpg",Novakids TV
+#EXTINF:-1 tvg-logo="https://xtrematv.com/wp-content/uploads/2025/12/8.jpg",Novakids TV
 https://stmv1.cnarlatam.com/novakidstv/novakidstv/playlist.m3u8
 
-#EXTINF:-1, tvg-logo="https://xtrematv.com/wp-content/uploads/2025/12/11.jpg",Xtrema Series
+#EXTINF:-1 tvg-logo="https://xtrematv.com/wp-content/uploads/2025/12/11.jpg",Xtrema Series
 https://stmv7.voxtvhd.com.br/xtremaseries/xtremaseries/playlist.m3u8
 
-#EXTINF:-1, tvg-logo="https://xtrematv.com/wp-content/uploads/2025/12/12.jpg",Xtrema Retro Series
+#EXTINF:-1 tvg-logo="https://xtrematv.com/wp-content/uploads/2025/12/12.jpg",Xtrema Retro Series
 https://stmv7.voxtvhd.com.br/xtremaretroseries/xtremaretroseries/playlist.m3u8
 
-#EXTINF:-1, tvg-logo="https://xtrematv.com/wp-content/uploads/2025/12/13.jpg",Xtrema Anime
+#EXTINF:-1 tvg-logo="https://xtrematv.com/wp-content/uploads/2025/12/13.jpg",Xtrema Anime
 https://stmv7.voxtvhd.com.br/xtremaanime/xtremaanime/playlist.m3u8
 
-#EXTINF:-1, tvg-logo="https://xtrematv.com/wp-content/uploads/2025/12/14.jpg",Multivox Accion
+#EXTINF:-1 tvg-logo="https://xtrematv.com/wp-content/uploads/2025/12/14.jpg",Multivox Accion
 https://vtm1.msinteractiva.com/multivoxaccion/multivoxaccion/playlist.m3u8
 
-#EXTINF:-1, tvg-logo="https://xtrematv.com/wp-content/uploads/2025/12/15.jpg",Cine Suspenso
+#EXTINF:-1 tvg-logo="https://xtrematv.com/wp-content/uploads/2025/12/15.jpg",Cine Suspenso
 https://stmv6.voxtvhd.com.br/cinesuspenso/cinesuspenso/playlist.m3u8
 
-#EXTINF:-1, tvg-logo="https://xtrematv.com/wp-content/uploads/2025/12/16.jpg",Cine Terror
+#EXTINF:-1 tvg-logo="https://xtrematv.com/wp-content/uploads/2025/12/16.jpg",Cine Terror
 https://stmv6.voxtvhd.com.br/cineterror/cineterror/playlist.m3u8
 
-#EXTINF:-1, tvg-logo="https://xtrematv.com/wp-content/uploads/2025/12/17.jpg",Cine Clasico
+#EXTINF:-1 tvg-logo="https://xtrematv.com/wp-content/uploads/2025/12/17.jpg",Cine Clasico
 https://stmv6.voxtvhd.com.br/cineclasico/cineclasico/playlist.m3u8
 
-#EXTINF:-1, tvg-logo="https://xtrematv.com/wp-content/uploads/2025/12/18.jpg",Cine Comedia
+#EXTINF:-1 tvg-logo="https://xtrematv.com/wp-content/uploads/2025/12/18.jpg",Cine Comedia
 https://stmv6.voxtvhd.com.br/cinecomedia/cinecomedia/playlist.m3u8
 
-#EXTINF:-1, tvg-logo="https://xtrematv.com/wp-content/uploads/2025/12/19.jpg",Cine Family
+#EXTINF:-1 tvg-logo="https://xtrematv.com/wp-content/uploads/2025/12/19.jpg",Cine Family
 https://stmv6.voxtvhd.com.br/cinefamiliy/cinefamiliy/playlist.m3u8
 
-#EXTINF:-1, tvg-logo="https://xtrematv.com/wp-content/uploads/2025/12/20.jpg",Multivox India
+#EXTINF:-1 tvg-logo="https://xtrematv.com/wp-content/uploads/2025/12/20.jpg",Multivox India
 https://vtm1.msinteractiva.com/multivoxindia/multivoxindia/playlist.m3u8
 
-#EXTINF:-1, tvg-logo="https://xtrematv.com/wp-content/uploads/2025/12/21.jpg",Cine Asia
+#EXTINF:-1 tvg-logo="https://xtrematv.com/wp-content/uploads/2025/12/21.jpg",Cine Asia
 https://stmv6.voxtvhd.com.br/cineasia/cineasia/playlist.m3u8
 
-#EXTINF:-1, tvg-logo="https://xtrematv.com/wp-content/uploads/2025/12/22.jpg",Cine Europa
+#EXTINF:-1 tvg-logo="https://xtrematv.com/wp-content/uploads/2025/12/22.jpg",Cine Europa
 https://stmv6.voxtvhd.com.br/cineeuropa/cineeuropa/playlist.m3u8
 
-#EXTINF:-1, tvg-logo="https://xtrematv.com/wp-content/uploads/2025/12/23.jpg",Cine Drama
+#EXTINF:-1 tvg-logo="https://xtrematv.com/wp-content/uploads/2025/12/23.jpg",Cine Drama
 https://stmv6.voxtvhd.com.br/cinedrama/cinedrama/playlist.m3u8
 
-#EXTINF:-1, tvg-logo="https://xtrematv.com/wp-content/uploads/2025/12/24.jpg",Cine Latino
+#EXTINF:-1 tvg-logo="https://xtrematv.com/wp-content/uploads/2025/12/24.jpg",Cine Latino
 https://stmv6.voxtvhd.com.br/cinelatino/cinelatino/playlist.m3u8
 
-#EXTINF:-1, tvg-logo="https://xtrematv.com/wp-content/uploads/2025/12/27.jpg",Mega Cine TV
+#EXTINF:-1 tvg-logo="https://xtrematv.com/wp-content/uploads/2025/12/27.jpg",Mega Cine TV
 https://cloudflare.streamgato.us:3125/live/megacinetvlive.m3u8
 
-#EXTINF:-1, tvg-logo="https://xtrematv.com/wp-content/uploads/2025/12/28.jpg",Xphere One
+#EXTINF:-1 tvg-logo="https://xtrematv.com/wp-content/uploads/2025/12/28.jpg",Xphere One
 https://vtm1.msinteractiva.com/xphereone/xphereone/playlist.m3u8
 
-#EXTINF:-1, tvg-logo="https://xtrematv.com/wp-content/uploads/2025/12/29.jpg",Xphere Wild
+#EXTINF:-1 tvg-logo="https://xtrematv.com/wp-content/uploads/2025/12/29.jpg",Xphere Wild
 https://stmv2.voxtvhd.com.br/xpherewild/xpherewild/playlist.m3u8
 
-#EXTINF:-1, tvg-logo="https://xtrematv.com/wp-content/uploads/2025/12/30.jpg",Xphere Science
+#EXTINF:-1 tvg-logo="https://xtrematv.com/wp-content/uploads/2025/12/30.jpg",Xphere Science
 https://vtm1.msinteractiva.com/xpherescience/xpherescience/playlist.m3u8
 
-#EXTINF:-1, tvg-logo="https://xtrematv.com/wp-content/uploads/2025/12/31.jpg",El Buen Vivir
+#EXTINF:-1 tvg-logo="https://xtrematv.com/wp-content/uploads/2025/12/31.jpg",El Buen Vivir
 https://stmv4.voxtvhd.com.br/elbuenvivir/elbuenvivir/playlist.m3u8
 
-#EXTINF:-1, tvg-logo="https://xtrematv.com/wp-content/uploads/2025/12/32.jpg",El Histonauta TV
+#EXTINF:-1 tvg-logo="https://xtrematv.com/wp-content/uploads/2025/12/32.jpg",El Histonauta TV
 https://stmv6.voxtvhd.com.br/elhistonautatv/elhistonautatv/playlist.m3u8
 
-#EXTINF:-1, tvg-logo="https://xtrematv.com/wp-content/uploads/2025/12/33.jpg",Xphere Cosmos
+#EXTINF:-1 tvg-logo="https://xtrematv.com/wp-content/uploads/2025/12/33.jpg",Xphere Cosmos
 https://vtm1.msinteractiva.com/xpherecosmos/xpherecosmos/playlist.m3u8
 
-#EXTINF:-1, tvg-logo="https://xtrematv.com/wp-content/uploads/2025/12/34.jpg",Te lo Cuento Y
+#EXTINF:-1 tvg-logo="https://xtrematv.com/wp-content/uploads/2025/12/34.jpg",Te lo Cuento Y
 https://stmv7.voxtvhd.com.br/telocuentoy/telocuentoy/playlist.m3u8
 
-#EXTINF:-1, tvg-logo="https://xtrematv.com/wp-content/uploads/2025/12/35.jpg",Xphere Aventuras
+#EXTINF:-1 tvg-logo="https://xtrematv.com/wp-content/uploads/2025/12/35.jpg",Xphere Aventuras
 https://vtm1.msinteractiva.com/xphereaventuras/xphereaventuras/playlist.m3u8
 
-#EXTINF:-1, tvg-logo="https://xtrematv.com/wp-content/uploads/2025/12/36.jpg",Tele Clasica
+#EXTINF:-1 tvg-logo="https://xtrematv.com/wp-content/uploads/2025/12/36.jpg",Tele Clasica
 https://stmv7.voxtvhd.com.br/teleclasica/teleclasica/playlist.m3u8
 
-#EXTINF:-1, tvg-logo="https://xtrematv.com/wp-content/uploads/2025/12/37.jpg",Comedy TV
+#EXTINF:-1 tvg-logo="https://xtrematv.com/wp-content/uploads/2025/12/37.jpg",Comedy TV
 https://stmv6.voxtvhd.com.br/comedytv/comedytv/playlist.m3u8
 
-#EXTINF:-1, tvg-logo="https://xtrematv.com/wp-content/uploads/2025/12/411.jpg",Multivox Scena
+#EXTINF:-1 tvg-logo="https://xtrematv.com/wp-content/uploads/2025/12/411.jpg",Multivox Scena
 https://video.xtrematv.com:19360/multivoxscena/multivoxscena.m3u8
 
-#EXTINF:-1, tvg-logo="https://xtrematv.com/wp-content/uploads/2026/03/1.jpg",Xpectra Live
+#EXTINF:-1 tvg-logo="https://xtrematv.com/wp-content/uploads/2026/03/1.jpg",Xpectra Live
 https://vtm1.msinteractiva.com/xpectralive/xpectralive/playlist.m3u8
 
-#EXTINF:-1, tvg-logo="https://xtrematv.com/wp-content/uploads/2026/03/2.jpg",Xpectra Top Hits
+#EXTINF:-1 tvg-logo="https://xtrematv.com/wp-content/uploads/2026/03/2.jpg",Xpectra Top Hits
 https://vtm1.msinteractiva.com/xpectratophits/xpectratophits/playlist.m3u8
 
-#EXTINF:-1, tvg-logo="https://xtrematv.com/wp-content/uploads/2026/04/452-xpetra-chill.jpg",Xpectra Chill
+#EXTINF:-1 tvg-logo="https://xtrematv.com/wp-content/uploads/2026/04/452-xpetra-chill.jpg",Xpectra Chill
 https://vtm1.msinteractiva.com/xpectrachill/xpectrachill/playlist.m3u8
 
-#EXTINF:-1, tvg-logo="https://xtrematv.com/wp-content/uploads/2025/12/4-2.jpg",Mass Musica
+#EXTINF:-1 tvg-logo="https://xtrematv.com/wp-content/uploads/2025/12/4-2.jpg",Mass Musica
 https://vtm1.msinteractiva.com/massmusica/massmusica/playlist.m3u8
 
-#EXTINF:-1, tvg-logo="https://xtrematv.com/wp-content/uploads/2025/12/5-2.jpg",Chamame TV
+#EXTINF:-1 tvg-logo="https://xtrematv.com/wp-content/uploads/2025/12/5-2.jpg",Chamame TV
 https://vtm1.msinteractiva.com/chamametv/chamametv/playlist.m3u8
 
-#EXTINF:-1, tvg-logo="https://xtrematv.com/wp-content/uploads/2025/12/6-2.jpg",Ritmo Universal
+#EXTINF:-1 tvg-logo="https://xtrematv.com/wp-content/uploads/2025/12/6-2.jpg",Ritmo Universal
 https://vtm1.msinteractiva.com/ritmouniversal/ritmouniversal/playlist.m3u8
 
-#EXTINF:-1, tvg-logo="https://xtrematv.com/wp-content/uploads/2025/12/7-2.jpg",Rockar Radio
+#EXTINF:-1 tvg-logo="https://xtrematv.com/wp-content/uploads/2025/12/7-2.jpg",Rockar Radio
 https://stmv3.voxtvhd.com.br/rockarradio/rockarradio/playlist.m3u8
 
-#EXTINF:-1, tvg-logo="https://xtrematv.com/wp-content/uploads/2025/12/9-2.jpg",Tropi Xtrema
+#EXTINF:-1 tvg-logo="https://xtrematv.com/wp-content/uploads/2025/12/9-2.jpg",Tropi Xtrema
 https://stmv3.voxtvhd.com.br/tropixtrema/tropixtrema/playlist.m3u8
 
-#EXTINF:-1, tvg-logo="https://xtrematv.com/wp-content/uploads/2025/12/10-1.jpg",Siloe TV
+#EXTINF:-1 tvg-logo="https://xtrematv.com/wp-content/uploads/2025/12/10-1.jpg",Siloe TV
 https://stmv7.voxtvhd.com.br/siloetv/siloetv/playlist.m3u8
 
-#EXTINF:-1, tvg-logo="https://xtrematv.com/wp-content/uploads/2025/12/13-1.jpg",Estercita TV
+#EXTINF:-1 tvg-logo="https://xtrematv.com/wp-content/uploads/2025/12/13-1.jpg",Estercita TV
 https://stmv7.voxtvhd.com.br/estercitatv/estercitatv/playlist.m3u8
 
-#EXTINF:-1, tvg-logo="https://xtrematv.com/wp-content/uploads/2025/11/1.jpg",Spectra Top Hits
+#EXTINF:-1 tvg-logo="https://xtrematv.com/wp-content/uploads/2025/11/1.jpg",Spectra Top Hits
 https://stmv6.voxtvhd.com.br/spectratophits/spectratophits/playlist.m3u8
 
-#EXTINF:-1, tvg-logo="https://xtrematv.com/wp-content/uploads/2025/11/1-1.jpg",Canal 1 (Vox)
+#EXTINF:-1 tvg-logo="https://xtrematv.com/wp-content/uploads/2025/11/1-1.jpg",Canal 1 (Vox)
 https://stmv6.voxtvhd.com.br/canal1/canal1/playlist.m3u8
 
-#EXTINF:-1, tvg-logo="https://xtrematv.com/wp-content/uploads/2025/11/2-1.jpg",Azahares FM
+#EXTINF:-1 tvg-logo="https://xtrematv.com/wp-content/uploads/2025/11/2-1.jpg",Azahares FM
 https://streamyes.alsolnet.com/azaharesfm/live/playlist.m3u8
 
-#EXTINF:-1, tvg-logo="https://xtrematv.com/wp-content/uploads/2025/11/3-1.jpg",Radio Conexion Live
+#EXTINF:-1 tvg-logo="https://xtrematv.com/wp-content/uploads/2025/11/3-1.jpg",Radio Conexion Live
 https://tuvideoonline.com.ar:3391/live/radioconexionlive.m3u8
 
-#EXTINF:-1, tvg-logo="https://xtrematv.com/wp-content/uploads/2025/11/4-1.jpg",Lenara TV
+#EXTINF:-1 tvg-logo="https://xtrematv.com/wp-content/uploads/2025/11/4-1.jpg",Lenara TV
 https://5790d294af2dc.streamlock.net/lenaratv/live/chunklist_w876063461.m3u8
 
-#EXTINF:-1, tvg-logo="https://xtrematv.com/wp-content/uploads/2026/05/905-estacion-52.jpg",Estacion 52 Radio
+#EXTINF:-1 tvg-logo="https://xtrematv.com/wp-content/uploads/2026/05/905-estacion-52.jpg",Estacion 52 Radio
 https://vtm1.msinteractiva.com/estacion52radio/estacion52radio/playlist.m3u8
 
-#EXTINF:-1, tvg-logo="https://xtrematv.com/wp-content/uploads/2025/11/7-1.jpg",CNAR Radio Arg
+#EXTINF:-1 tvg-logo="https://xtrematv.com/wp-content/uploads/2025/11/7-1.jpg",CNAR Radio Arg
 https://stmv4.voxtvhd.com.br/cnarradioarg/cnarradioarg/playlist.m3u8
 
-#EXTINF:-1, tvg-logo="https://xtrematv.com/wp-content/uploads/2025/11/9-1.jpg",Linea Directa Web
+#EXTINF:-1 tvg-logo="https://xtrematv.com/wp-content/uploads/2025/11/9-1.jpg",Linea Directa Web
 https://stmv6.voxtvhd.com.br/lineadirectaweb/lineadirectaweb/playlist.m3u8
 
-#EXTINF:-1, tvg-logo="https://xtrematv.com/wp-content/uploads/2025/11/10-1.jpg",Radio Plus 881
+#EXTINF:-1 tvg-logo="https://xtrematv.com/wp-content/uploads/2025/11/10-1.jpg",Radio Plus 881
 https://stmv6.voxtvhd.com.br/radioplus881aut/radioplus881aut/playlist.m3u8
 
-#EXTINF:-1, tvg-logo="https://xtrematv.com/wp-content/uploads/2025/11/15-1.jpg",Radio Rawson
+#EXTINF:-1 tvg-logo="https://xtrematv.com/wp-content/uploads/2025/11/15-1.jpg",Radio Rawson
 https://stmv3.voxtvhd.com.br/radiorawson/radiorawson/playlist.m3u8
 
-#EXTINF:-1, tvg-logo="https://xtrematv.com/wp-content/uploads/2025/11/16-1.jpg",Agata Stereo
+#EXTINF:-1 tvg-logo="https://xtrematv.com/wp-content/uploads/2025/11/16-1.jpg",Agata Stereo
 https://vtm1.msinteractiva.com/agatastereo/agatastereo/playlist.m3u8
 
-#EXTINF:-1, tvg-logo="https://xtrematv.com/wp-content/uploads/2025/11/17-1.jpg",FM Est Winner
+#EXTINF:-1 tvg-logo="https://xtrematv.com/wp-content/uploads/2025/11/17-1.jpg",FM Est Winner
 https://stmv2.voxtvhd.com.br/fmestwinner/fmestwinner/playlist.m3u8
