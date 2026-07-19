@@ -1,0 +1,18 @@
+{
+  "menu": [
+    {
+      "id": "premium_gratis",
+      "titulo": "User-uno",
+      "url": "https://github.com/shundearies/skipperImg/raw/refs/heads/main/Hidori.mp4",
+      "icono": "https://raw.githubusercontent.com/shundearies/skipperImg/refs/heads/main/hidori-rose.jpg",
+      "acceso": "gratis"
+    },
+    {
+      "id": "premium_gratis",
+      "titulo": "ARELY MONTENEGRO",
+      "url": "https://github.com/shundearies/skipperImg/raw/refs/heads/main/Are_mon.mp4",
+      "icono": "https://raw.githubusercontent.com/shundearies/skipperImg/refs/heads/main/arelymontenegro.jpg",
+      "acceso": "gratis"
+    }
+  ]
+}
