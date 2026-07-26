@@ -2,8 +2,15 @@
   "menu": [
     {
       "id": "premium_gratis",
-      "titulo": "Hidori Rose",
+      "titulo": "❤️Grupo❤️",
       "url": "https://shundearies.github.io/Paginas-de-acceso/accesoonly/",
+      "icono": "https://img.magnific.com/premium-photo/3d-render-onlyfans-logo-designed-translucent-blue-glass-floating-upward-angle-neon-blue_1020495-783487.jpg?semt=ais_hybrid&w=740&q=80",
+      "acceso": "anuncio"
+    },
+    {
+      "id": "premium_gratis",
+      "titulo": "Hidori Rose",
+      "url": "https://github.com/shundearies/skipperImg/raw/refs/heads/main/Hidori.mp4",
       "icono": "https://raw.githubusercontent.com/shundearies/skipperImg/refs/heads/main/hidori-rose.jpg",
       "acceso": "gratis"
     },
