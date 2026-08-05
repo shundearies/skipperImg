@@ -1,0 +1,649 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="ECUAVG" tvg-logo="" group-title="NACIONALES",test12
+http://cdn-abc.xyz:2086/live/CanalesVen/NF8sq6nCEq/432291.ts
+#EXTINF:-1 tvg-id="" tvg-logo="s:1:/images/Y_STBOg-CWcvCT_ufdf2jalwSNuSzwHdZZ0DWyNieH20KUCQQLKaTfEBMlatfHo_pNDk89EsG2gE1DRivJGXYQ.png" group-title="NACIONALES",RTS
+http://cdn-abc.xyz:2086/live/CanalesVen/NF8sq6nCEq/1924.ts
+#EXTINF:-1 tvg-id="" tvg-logo="s:1:/images/kz1dLeZMYBKeCZAXlrA1d8nVpwMImXbyzNm5eguQgqlRCr2xZH58om78bFgasIISxaLGgBFMzCp14fT5YNfYhpy0MgD7sJApbrxigj3r33YtuRdQ9NP43aIy58YHF7Wt.png" group-title="NACIONALES",MGO TV
+http://cdn-abc.xyz:2086/live/CanalesVen/NF8sq6nCEq/287292.ts
+#EXTINF:-1 tvg-id="Canal.Ecuavisa.(Ecuador).ec" tvg-logo="s:1:/images/Y_STBOg-CWcvCT_ufdf2jSSa_7hw8z3VRouQWsVzP-JQthJKoTqu7YcvFM3_IkcdC63yU_5ho14DO3YPry4sJw.png" group-title="NACIONALES",ECUAVISA
+http://cdn-abc.xyz:2086/live/CanalesVen/NF8sq6nCEq/962.ts
+#EXTINF:-1 tvg-id="AMAZQ" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQnbeoQkTqBMA1NaB-Yl8fqFsjdBnNiKrAXqg&s" group-title="NACIONALES",TELERAMA
+http://cdn-abc.xyz:2086/live/CanalesVen/NF8sq6nCEq/11427.ts
+#EXTINF:-1 tvg-id="Canal.Ecuador.TV.ec" tvg-logo="s:1:/images/Y_STBOg-CWcvCT_ufdf2jalwSNuSzwHdZZ0DWyNieH3aibfk2cfh_RUK_soeSzLvpQ7wBPSrYQ1EkiF_pe8jHg.png" group-title="NACIONALES",Ecuador TV
+http://cdn-abc.xyz:2086/live/CanalesVen/NF8sq6nCEq/3331.ts
+#EXTINF:-1 tvg-id="" tvg-logo="s:1:/images/Y_STBOg-CWcvCT_ufdf2jQNQtJdbfKaMh1NhzrN8bxC2iojGPSy1M6J0SAY7eMXZKNsuGg68jyNVOLmOgNFFWw.png" group-title="NACIONALES",TC MI CANAL
+http://cdn-abc.xyz:2086/live/CanalesVen/NF8sq6nCEq/11425.ts
+#EXTINF:-1 tvg-id="Canal.Gamavisión.ec" tvg-logo="s:1:/images/Y_STBOg-CWcvCT_ufdf2jQNQtJdbfKaMh1NhzrN8bxCTOp3XvwUusVWYj8IpHdEv_9wmGn5MmQfLb6OxDCzqDA.png" group-title="NACIONALES",Gamavision
+http://cdn-abc.xyz:2086/live/CanalesVen/NF8sq6nCEq/3332.ts
+#EXTINF:-1 tvg-id="TELEVIC" tvg-logo="s:1:/images/Y_STBOg-CWcvCT_ufdf2jRFsjcsxNs19CKigq5gvga68LSlXsPtwGdHG9vqzwPm0UHj-5htKRhsyDwrRgtBZ8A.png" group-title="NACIONALES",Televicentro
+http://cdn-abc.xyz:2086/live/CanalesVen/NF8sq6nCEq/3336.ts
+#EXTINF:-1 tvg-id="" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/d/d5/RTUecuador2019.png/revision/latest/scale-to-width-down/1200?cb=20210214160459&path-prefix=es" group-title="NACIONALES",RTU
+http://cdn-abc.xyz:2086/live/CanalesVen/NF8sq6nCEq/3335.ts
+#EXTINF:-1 tvg-id="OROMTV" tvg-logo="s:1:/images/Y_STBOg-CWcvCT_ufdf2jRCbIaJ_Ajc-Kov5n4x53vO35d_qGJUcTGU3ErI9up4jto8_dIjAcmwHYqw-i0PXzw.png" group-title="NACIONALES",OROMAR TV
+http://cdn-abc.xyz:2086/live/CanalesVen/NF8sq6nCEq/3333.ts
+#EXTINF:-1 tvg-id="" tvg-logo="https://yt3.googleusercontent.com/LuZ6CejHBtrg3f8wXooHvi2OYenXTi1-xOIxj2cwHSh8SAqHhsEszf_9nsiRnbAgKhbKhMGJ=s900-c-k-c0x00ffffff-no-rj" group-title="NACIONALES",MAKRODIGITAL
+http://cdn-abc.xyz:2086/live/CanalesVen/NF8sq6nCEq/107263.ts
+#EXTINF:-1 tvg-id="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRdGBh2OGPju-oUe5rNNu9cgVGBF9Wly-R_vA&s" group-title="NACIONALES",Unsion
+http://cdn-abc.xyz:2086/live/CanalesVen/NF8sq6nCEq/284555.ts
+#EXTINF:-1 tvg-id="" tvg-logo="https://play-lh.googleusercontent.com/lcQ6WT1bem5_Zo-sZ21_E6JirqEd14GV0pBDh9GSQT2xx4Jttdb-cXxy3C0FN-zDkC8K" group-title="NACIONALES",ZARACAY TV
+http://cdn-abc.xyz:2086/live/CanalesVen/NF8sq6nCEq/195485.ts
+#EXTINF:-1 tvg-id="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRU4hCckuXBcKlUP8oDz3txAk8llJGoOJ7Ttg&s" group-title="NACIONALES",Majestad TV
+http://cdn-abc.xyz:2086/live/CanalesVen/NF8sq6nCEq/284580.ts
+#EXTINF:-1 tvg-id="" tvg-logo="s:1:/images/Y_STBOg-CWcvCT_ufdf2jdqaf35QZTNZ_kQrj3poerdQ7anlvhgR1xnyCVpMv8PfUY5KgTVg7CaZFng0oCAXRg.png" group-title="NACIONALES",Canal Uno
+http://cdn-abc.xyz:2086/live/CanalesVen/NF8sq6nCEq/95554.ts
+#EXTINF:-1 tvg-id="" tvg-logo="s:1:/images/rrO0faLa3LmNXh0XshWgPTf3r01q2qfD4kW7bz1YHNgMh5AgmGsZNF3zb4Gjj_wbHHivWsG1n0Dpvt_31--lD7O9Nth6NX9B2bcQ8jZswRiJk5jkeu5m9qmkoVUxlUfP.png" group-title="NACIONALES",SONOVISION
+http://cdn-abc.xyz:2086/live/CanalesVen/NF8sq6nCEq/58691.ts
+#EXTINF:-1 tvg-id="" tvg-logo="http://cdn-abc.xyz:2086/images/channels_image/34190398409.jpg" group-title="NACIONALES",WUAN+
+http://cdn-abc.xyz:2086/live/CanalesVen/NF8sq6nCEq/160143.ts
+#EXTINF:-1 tvg-id="" tvg-logo="https://play-lh.googleusercontent.com/ChCqlI0Va46e5YQg9R3JNXUVwmuyHEMJiG9M7-TCaaKpUYM7JltPQPYfIrIt9mayihM=w600-h300-pc0xffffff-pd" group-title="NACIONALES",IEAN JESUS TV
+http://cdn-abc.xyz:2086/live/CanalesVen/NF8sq6nCEq/183060.ts
+#EXTINF:-1 tvg-id="" tvg-logo="https://play-lh.googleusercontent.com/kGVmMIVMAh2jc3lA0NVsQ3yMiHXKsVJQp6bNwpQNXW3KsoUaWNDJR8_p43Tje9xkTA" group-title="NACIONALES",Ecoteltv
+http://cdn-abc.xyz:2086/live/CanalesVen/NF8sq6nCEq/284556.ts
+#EXTINF:-1 tvg-id="" tvg-logo="https://auratv.net/auratv/logosMgo/RadioCuencaEstereo.png" group-title="NACIONALES",RadioCuenca Estereo
+http://cdn-abc.xyz:2086/live/CanalesVen/NF8sq6nCEq/284558.ts
+#EXTINF:-1 tvg-id="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTLjQRS6-MD8SE0rmtShZqzKCxrXjbyrFnniA&s" group-title="NACIONALES",Voz y TV
+http://cdn-abc.xyz:2086/live/CanalesVen/NF8sq6nCEq/284559.ts
+#EXTINF:-1 tvg-id="" tvg-logo="https://auratv.net/auratv/logosMgo/tvuniversalec.png" group-title="NACIONALES",TV Universal Ecuador
+http://cdn-abc.xyz:2086/live/CanalesVen/NF8sq6nCEq/284560.ts
+#EXTINF:-1 tvg-id="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQpMoGxAQbo60cBKHLWeLcQhKkJBk9s592IsQ&s" group-title="NACIONALES",Multicanal Catamayo
+http://cdn-abc.xyz:2086/live/CanalesVen/NF8sq6nCEq/284561.ts
+#EXTINF:-1 tvg-id="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQdzy0ReLb_ovYtqDmvIP9eK-9xBJvw6nOcMw&s" group-title="NACIONALES",Latacunga TV
+http://cdn-abc.xyz:2086/live/CanalesVen/NF8sq6nCEq/284562.ts
+#EXTINF:-1 tvg-id="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRaTI21eh4KjbT-tNTSZ8QYFEaqkMytxM-OFg&s" group-title="NACIONALES",Austral TV
+http://cdn-abc.xyz:2086/live/CanalesVen/NF8sq6nCEq/284563.ts
+#EXTINF:-1 tvg-id="" tvg-logo="https://auratv.net/auratv/logosMgo/PuruwaTV.png" group-title="NACIONALES",Puruwa TV
+http://cdn-abc.xyz:2086/live/CanalesVen/NF8sq6nCEq/284564.ts
+#EXTINF:-1 tvg-id="" tvg-logo="s:1:/images/8FNewHLsYOe8tSjFTKxOJE8s_xUtSniKebFRX8MYgE8XLXEH2JqbEGw_kBvFU8ksNN0y_w01I4dH5YkOSiYJy6CCK6kpqBvfa2P3_t9nk5E.jpg" group-title="NACIONALES",Circacu TV
+http://cdn-abc.xyz:2086/live/CanalesVen/NF8sq6nCEq/284568.ts
+#EXTINF:-1 tvg-id="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR3Zr1UM1jzm2g8c3D5RUeztR5L7x18j17Rzw&s" group-title="NACIONALES",Curiquingue Tv
+http://cdn-abc.xyz:2086/live/CanalesVen/NF8sq6nCEq/284571.ts
+#EXTINF:-1 tvg-id="" tvg-logo="https://auratv.net/auratv/logosMgo/ElSolNetwortTv.png" group-title="NACIONALES",El Sol Networt Tv
+http://cdn-abc.xyz:2086/live/CanalesVen/NF8sq6nCEq/284572.ts
+#EXTINF:-1 tvg-id="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTb4ot4KpKrpdBucF-Zf0cE7tTtcf2v3qk_7Q&s" group-title="NACIONALES",FM Mundo
+http://cdn-abc.xyz:2086/live/CanalesVen/NF8sq6nCEq/284573.ts
+#EXTINF:-1 tvg-id="" tvg-logo="https://auratv.net/auratv/logosMgo/hechosecuador.png" group-title="NACIONALES",Hechos Ecuador
+http://cdn-abc.xyz:2086/live/CanalesVen/NF8sq6nCEq/284575.ts
+#EXTINF:-1 tvg-id="ECUTV" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRiu5xKIMF8xw6I5mlmnmuohgnEKBuZ4aADuA&s" group-title="NACIONALES",IEN Jesus Ecuador
+http://cdn-abc.xyz:2086/live/CanalesVen/NF8sq6nCEq/284576.ts
+#EXTINF:-1 tvg-id="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ2NTbOyuQWU6hcpR7ml72tdai8h-U8b06jnQ&s" group-title="NACIONALES",Infinita TV
+http://cdn-abc.xyz:2086/live/CanalesVen/NF8sq6nCEq/284577.ts
+#EXTINF:-1 tvg-id="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSedEwnf5bXAIKWNRUZyzGPb0DgLF5G88Pi3A&s" group-title="NACIONALES",Loreto TV
+http://cdn-abc.xyz:2086/live/CanalesVen/NF8sq6nCEq/284581.ts
+#EXTINF:-1 tvg-id="" tvg-logo="https://play-lh.googleusercontent.com/eAAbEn3I1-Eav9jkBRBC2Qh9byzrtzOjjsOsLeC09iV2jxcWAWHfZpdX2rQXUvOjziE" group-title="NACIONALES",Metropolitano Medios TV
+http://cdn-abc.xyz:2086/live/CanalesVen/NF8sq6nCEq/284582.ts
+#EXTINF:-1 tvg-id="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTlvYo9Pj4Pc-6DMeKLJAgQ8KTwzZU8CF3iSg&s" group-title="NACIONALES",Television Quevedeña
+http://cdn-abc.xyz:2086/live/CanalesVen/NF8sq6nCEq/284585.ts
+#EXTINF:-1 tvg-id="COLVISN" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQwO4Bo2C8JOLxpr8Ji7jSnw1VkOIt4UjO1sg&s" group-title="NACIONALES",Tv Color
+http://cdn-abc.xyz:2086/live/CanalesVen/NF8sq6nCEq/284586.ts
+#EXTINF:-1 tvg-id="" tvg-logo="https://yt3.googleusercontent.com/dkGiIk9kz-PP1FOovt9OcCBGsR3DoYR2B6EYb2Sz83AJhRTPuiXeDdgr1101d-MveZ_HcHXd7g=s900-c-k-c0x00ffffff-no-rj" group-title="NACIONALES",DIBLU TV
+http://cdn-abc.xyz:2086/live/CanalesVen/NF8sq6nCEq/284640.ts
+#EXTINF:-1 tvg-id="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRYUMM8WyHz4q8qap38e1xTY4hFq3tvqAtAXQ&s" group-title="NACIONALES",TVC
+http://cdn-abc.xyz:2086/live/CanalesVen/NF8sq6nCEq/287866.ts
+#EXTINF:-1 tvg-id="" tvg-logo="http://cdn-abc.xyz:2086/images/channels_image/51950155764.jpg" group-title="JDVS 2026",ECUAVOLEY
+http://cdn-abc.xyz:2086/live/CanalesVen/NF8sq6nCEq/432288.ts
+#EXTINF:-1 tvg-id="" tvg-logo="http://cdn-abc.xyz:2086/images/channels_image/89907828965.jpg" group-title="JDVS 2026",INDOR B
+http://cdn-abc.xyz:2086/live/CanalesVen/NF8sq6nCEq/432285.ts
+#EXTINF:-1 tvg-id="" tvg-logo="http://cdn-abc.xyz:2086/images/channels_image/58895519040.jpg" group-title="JDVS 2026",INDOR A
+http://cdn-abc.xyz:2086/live/CanalesVen/NF8sq6nCEq/432282.ts
+#EXTINF:-1 tvg-id="" tvg-logo="http://cdn-abc.xyz:2086/images/channels_image/46699504062.jpg" group-title="JDVS 2026",BASQUET
+http://cdn-abc.xyz:2086/live/CanalesVen/NF8sq6nCEq/432279.ts
+#EXTINF:-1 tvg-id="" tvg-logo="http://cdn-abc.xyz:2086/images/channels_image/93366465060.jpg" group-title="JDVS 2026",FUTBOL
+http://cdn-abc.xyz:2086/live/CanalesVen/NF8sq6nCEq/427779.ts
+#EXTINF:-1 tvg-id="DSCGHD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSAMW9u75tcOia_WC0R7-0S3wKB2c8tp6GALg&s" group-title="DOCUMENTALES",DISCOVERY CHANNEL HD 
+http://cdn-abc.xyz:2086/live/CanalesVen/NF8sq6nCEq/423202.ts
+#EXTINF:-1 tvg-id="Canal.Animal.Planet.(Ecuador).ec" tvg-logo="s:1:/images/Y_STBOg-CWcvCT_ufdf2jea53Z6U0mOCNIVUuzL9NVEtu6ADADJc6lHQv3mDeIGvkCimDuFbxvPxFS1MC6XpiQ.png" group-title="DOCUMENTALES",Animal Planet HD
+http://cdn-abc.xyz:2086/live/CanalesVen/NF8sq6nCEq/3338.ts
+#EXTINF:-1 tvg-id="DISCITL" tvg-logo="s:1:/images/Y_STBOg-CWcvCT_ufdf2jRWDuDhhvTMTs5EmlBdEfhe1DrSP3homNdGpb6UQZqcl7eiFyjIDezwNroVb7me5dA.png" group-title="DOCUMENTALES",Discovery H&H HD
+http://cdn-abc.xyz:2086/live/CanalesVen/NF8sq6nCEq/3340.ts
+#EXTINF:-1 tvg-id="Canal.Discovery.Science.(Latinoamérica).ec" tvg-logo="s:1:/images/Y_STBOg-CWcvCT_ufdf2jba13fRIOYBkXzHaKPXcqLWTYO2TCHXOD9Yes3xRkFYg.png" group-title="DOCUMENTALES",Discovery Science
+http://cdn-abc.xyz:2086/live/CanalesVen/NF8sq6nCEq/3342.ts
+#EXTINF:-1 tvg-id="Canal.Discovery.Theater.(Latinoamérica).ec" tvg-logo="s:1:/images/Y_STBOg-CWcvCT_ufdf2jZJ3adB39KQnPnFf-X4fyvffcQSJ-__UDpF6jo7wkJwqDzA1L7MMXtYnhX6JV33XRw.png" group-title="DOCUMENTALES",Discovery Theater HD
+http://cdn-abc.xyz:2086/live/CanalesVen/NF8sq6nCEq/3343.ts
+#EXTINF:-1 tvg-id="Canal.Discovery.Turbo.(Latinoamérica).ec" tvg-logo="s:1:/images/Y_STBOg-CWcvCT_ufdf2jQNQtJdbfKaMh1NhzrN8bxALRj7otXB39HNXJZT0Uq8TVlyzTZRNNuEPUjeathiudg.png" group-title="DOCUMENTALES",Discovery Turbo
+http://cdn-abc.xyz:2086/live/CanalesVen/NF8sq6nCEq/3344.ts
+#EXTINF:-1 tvg-id="DWRLDA" tvg-logo="s:1:/images/Y_STBOg-CWcvCT_ufdf2jfBo7HXpAo_BoGZgA7lE8iIoi0mVHT4qwZ4zX6hTC6oYnNaGDrAiMPWwwCHsxygMYQ.png" group-title="DOCUMENTALES",Discovery World HD
+http://cdn-abc.xyz:2086/live/CanalesVen/NF8sq6nCEq/3345.ts
+#EXTINF:-1 tvg-id="" tvg-logo="s:1:/images/Y_STBOg-CWcvCT_ufdf2jRK8bAiZUt_hK6w4OQtteQfKl7_fHUZdVpEZ9Q11bX_H.png" group-title="DOCUMENTALES",ID
+http://cdn-abc.xyz:2086/live/CanalesVen/NF8sq6nCEq/11428.ts
+#EXTINF:-1 tvg-id="Canal.Elgourmet.ec" tvg-logo="s:1:/images/Y_STBOg-CWcvCT_ufdf2jQzPxyJwX4C_S6xDdYAIvEz8nowEACcR9ffBm7zLEr3SzdpBOAw3srQabrREYJ255A.png" group-title="DOCUMENTALES",El Gourmet
+http://cdn-abc.xyz:2086/live/CanalesVen/NF8sq6nCEq/7609.ts
+#EXTINF:-1 tvg-id="" tvg-logo="s:1:/images/Y_STBOg-CWcvCT_ufdf2jQ_y8Ny2AddiQ7MaENJsRyeNPHgo7j9zBXUqa8e5BLI4Hw5e7kRJQ8RtDpZdeY2mrw.png" group-title="DOCUMENTALES",TLC
+http://cdn-abc.xyz:2086/live/CanalesVen/NF8sq6nCEq/3353.ts
+#EXTINF:-1 tvg-id="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSGP1TR5ihZa2ii92_pveVVrMGEC3SnXWp8tw&s" group-title="DOCUMENTALES",Home Garden Latino
+http://cdn-abc.xyz:2086/live/CanalesVen/NF8sq6nCEq/3349.ts
+#EXTINF:-1 tvg-id="NGMUNDO" tvg-logo="s:1:/images/Y_STBOg-CWcvCT_ufdf2jRFsjcsxNs19CKigq5gvga7V4Xo8khKJTSmGbUsMXfn1SVBzhwG2oORYHLgi7Tm9rA.png" group-title="DOCUMENTALES",Nat Geo HD
+http://cdn-abc.xyz:2086/live/CanalesVen/NF8sq6nCEq/3351.ts
+#EXTINF:-1 tvg-id="SUNCH" tvg-logo="s:1:/images/Y_STBOg-CWcvCT_ufdf2jalwSNuSzwHdZZ0DWyNieH2XwZq2Eh0owme2k2_dkaYjsxYX2SMeo-D8ZoP8108UXA.png" group-title="DOCUMENTALES",Sun Channel HD
+http://cdn-abc.xyz:2086/live/CanalesVen/NF8sq6nCEq/3352.ts
+#EXTINF:-1 tvg-id="Canal.History.2.(Ecuador).ec" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRwQ2otxTBO4yyr1bPin4yRzMoWJMgjRJT3DA&s" group-title="DOCUMENTALES",History 2
+http://cdn-abc.xyz:2086/live/CanalesVen/NF8sq6nCEq/7607.ts
+#EXTINF:-1 tvg-id="" tvg-logo="http://cdn-abc.xyz:2086/images/channels_image/53157788556.jpg" group-title="DOCUMENTALES",Mas Chic
+http://cdn-abc.xyz:2086/live/CanalesVen/NF8sq6nCEq/160141.ts
+#EXTINF:-1 tvg-id="" tvg-logo="s:1:/images/Y_STBOg-CWcvCT_ufdf2jUnM19LIbFKZxwDbFVJtkw3PENHCKIRyEyL-VxjoaHPvqBiPmssuDwsiREz8GpN5wA.png" group-title="DOCUMENTALES",DW EN ESPAÑOL
+http://cdn-abc.xyz:2086/live/CanalesVen/NF8sq6nCEq/89769.ts
+#EXTINF:-1 tvg-id="" tvg-logo="https://auratv.net/auratv/logosMgo/hgtv.png" group-title="DOCUMENTALES",HGTV
+http://cdn-abc.xyz:2086/live/CanalesVen/NF8sq6nCEq/121721.ts
+#EXTINF:-1 tvg-id="" tvg-logo="http://cdn-abc.xyz:2086/images/channels_image/70319002831.jpg" group-title="DOCUMENTALES",Travelxp
+http://cdn-abc.xyz:2086/live/CanalesVen/NF8sq6nCEq/157932.ts
+#EXTINF:-1 tvg-id="" tvg-logo="https://auratv.net/auratv/logosMgo/lovenature.png" group-title="DOCUMENTALES",LOVE NATURE
+http://cdn-abc.xyz:2086/live/CanalesVen/NF8sq6nCEq/285719.ts
+#EXTINF:-1 tvg-id="HSTNORH" tvg-logo="https://yt3.googleusercontent.com/WRT3nzkXXvD7CYXS2p_6pEZpPL9g2gJfOAFE-f0PTMawVdXJhaXvoIXpVOeb6qAlSENwfzVvMnQ=s900-c-k-c0x00ffffff-no-rj" group-title="DOCUMENTALES",History Chanel HD
+http://cdn-abc.xyz:2086/live/CanalesVen/NF8sq6nCEq/288537.ts
+#EXTINF:-1 tvg-id="AMAZQ" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQhIL8r-Vfe3XyBCOwl5cNVmWukO9WWCPzNjJGT2rj14A&s=10" group-title="Copa Mundial de la FIFA 2026",TELEAMAZONAS HD
+http://cdn-abc.xyz:2086/live/CanalesVen/NF8sq6nCEq/3856.ts
+#EXTINF:-1 tvg-id="TYC" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/1/15/DirecTVSports2018.png/revision/latest?cb=20180301233804" group-title="Copa Mundial de la FIFA 2026",DSPORTS
+http://cdn-abc.xyz:2086/live/CanalesVen/NF8sq6nCEq/3483.ts
+#EXTINF:-1 tvg-id="" tvg-logo="s:1:/images/qcSXhPthTapOWllvZLj0cist7aGnVQ26-ShA-8LvDWqAvJxVxArhC3wjE4TRVdS3f_e_bh9HSSf81Dg_E48FPqiOU8-Nv87DLn0qmM-kmY98EsETjKFfYeTiOca6rhFxQbt9dKN0rIoZA-iqSX3nI3AojoYOzVIZaVinYncIgzs.png" group-title="Copa Mundial de la FIFA 2026",DSPORTS 2
+http://cdn-abc.xyz:2086/live/CanalesVen/NF8sq6nCEq/3484.ts
+#EXTINF:-1 tvg-id="TYC" tvg-logo="https://d18o29lhcg4kda.cloudfront.net/fit-in/360x270/Y2gwMTAwMDAwMDAwMTM5X2xpbmVhcl9jaGFubmVsX3NzbGE_11002_LOGO_360x270.png?timestamp=1748761710537" group-title="Copa Mundial de la FIFA 2026",DSPORTS +
+http://cdn-abc.xyz:2086/live/CanalesVen/NF8sq6nCEq/3485.ts
+#EXTINF:-1 tvg-id="AMAZQ" tvg-logo="https://auratv.net/auratv/logosMgo/teleamazonas.png" group-title="Copa Mundial de la FIFA 2026",TELEAMAZONAS SD
+http://cdn-abc.xyz:2086/live/CanalesVen/NF8sq6nCEq/288845.ts
+#EXTINF:-1 tvg-id="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQvOOrEbH0ej9vVXXlK5JAWOj4WkQimdP9QVw&s" group-title="Copa Mundial de la FIFA 2026",EVENTOS DISNEY +
+http://cdn-abc.xyz:2086/live/CanalesVen/NF8sq6nCEq/278676.ts
+#EXTINF:-1 tvg-id="DISNLSH" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQvOOrEbH0ej9vVXXlK5JAWOj4WkQimdP9QVw&s" group-title="Copa Mundial de la FIFA 2026",EVENTOS DISNEY + 2
+http://cdn-abc.xyz:2086/live/CanalesVen/NF8sq6nCEq/254972.ts
+#EXTINF:-1 tvg-id="DISNLSH" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQvOOrEbH0ej9vVXXlK5JAWOj4WkQimdP9QVw&s" group-title="Copa Mundial de la FIFA 2026",EVENTOS DISNEY + 3
+http://cdn-abc.xyz:2086/live/CanalesVen/NF8sq6nCEq/284588.ts
+#EXTINF:-1 tvg-id="DISNLSH" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQvOOrEbH0ej9vVXXlK5JAWOj4WkQimdP9QVw&s" group-title="Copa Mundial de la FIFA 2026",EVENTOS DISNEY + 4
+http://cdn-abc.xyz:2086/live/CanalesVen/NF8sq6nCEq/285788.ts
+#EXTINF:-1 tvg-id="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTY1ZhvKhtXEOkiRs0hEd9tqUD7LzNiVq4XEg&s" group-title="Copa Mundial de la FIFA 2026",TIGO SPORT 2
+http://cdn-abc.xyz:2086/live/CanalesVen/NF8sq6nCEq/285804.ts
+#EXTINF:-1 tvg-id="Canal.Telemundo.(Ecuador).ec" tvg-logo="https://play-lh.googleusercontent.com/zF8urZrMb8DwBf6Y0JZZnk6lpr-0cONuaBm4Apc8LH9UKmx-vhfatrTlnZEn3ewVPyxg" group-title="Copa Mundial de la FIFA 2026",TELEMUNDO USA
+http://cdn-abc.xyz:2086/live/CanalesVen/NF8sq6nCEq/287583.ts
+#EXTINF:-1 tvg-id="" tvg-logo="http://auratv.net/auratv/logosMgo/evParamount.png" group-title="Copa Mundial de la FIFA 2026",EVENTOS PARAMOUNT 1
+http://cdn-abc.xyz:2086/live/CanalesVen/NF8sq6nCEq/288703.ts
+#EXTINF:-1 tvg-id="" tvg-logo="http://auratv.net/auratv/logosMgo/evParamount.png" group-title="Copa Mundial de la FIFA 2026",EVENTOS PARAMOUNT 2
+http://cdn-abc.xyz:2086/live/CanalesVen/NF8sq6nCEq/288704.ts
+#EXTINF:-1 tvg-id="" tvg-logo="http://auratv.net/auratv/logosMgo/evParamount.png" group-title="Copa Mundial de la FIFA 2026",EVENTOS PARAMOUNT 3
+http://cdn-abc.xyz:2086/live/CanalesVen/NF8sq6nCEq/288705.ts
+#EXTINF:-1 tvg-id="" tvg-logo="https://auratv.net/auratv/logosMgo/foxsportusa.png" group-title="Copa Mundial de la FIFA 2026",FOX SPORTS USA
+http://cdn-abc.xyz:2086/live/CanalesVen/NF8sq6nCEq/288857.ts
+#EXTINF:-1 tvg-id="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRxCtr6mfWvj0Ui8mbgGPOuSTbuCW4KpTVXQg&s" group-title="Copa Mundial de la FIFA 2026",FOX CR
+http://cdn-abc.xyz:2086/live/CanalesVen/NF8sq6nCEq/288862.ts
+#EXTINF:-1 tvg-id="" tvg-logo="https://static.wikia.nocookie.net/liga-mx/images/3/32/ClaroSportsLogo.png/revision/latest?cb=20151222200513&path-prefix=es" group-title="DEPORTES",Claro sports 1
+http://cdn-abc.xyz:2086/live/CanalesVen/NF8sq6nCEq/7648.ts
+#EXTINF:-1 tvg-id="" tvg-logo="https://static.wikia.nocookie.net/liga-mx/images/3/32/ClaroSportsLogo.png/revision/latest?cb=20151222200513&path-prefix=es" group-title="DEPORTES",Claro Sports 2
+http://cdn-abc.xyz:2086/live/CanalesVen/NF8sq6nCEq/7673.ts
+#EXTINF:-1 tvg-id="" tvg-logo="https://auratv.net/auratv/logosMgo/espn.png" group-title="DEPORTES",ESPN Sur HD
+http://cdn-abc.xyz:2086/live/CanalesVen/NF8sq6nCEq/3713.ts
+#EXTINF:-1 tvg-id="ESPNI" tvg-logo="https://auratv.net/auratv/logosMgo/espn2.png" group-title="DEPORTES",ESPN 2 Sur
+http://cdn-abc.xyz:2086/live/CanalesVen/NF8sq6nCEq/7868.ts
+#EXTINF:-1 tvg-id="" tvg-logo="https://auratv.net/auratv/logosMgo/espn3.png" group-title="DEPORTES",ESPN 3 Norte
+http://cdn-abc.xyz:2086/live/CanalesVen/NF8sq6nCEq/7917.ts
+#EXTINF:-1 tvg-id="" tvg-logo="https://auratv.net/auratv/logosMgo/espn4.png" group-title="DEPORTES",ESPN 4 HD Sur
+http://cdn-abc.xyz:2086/live/CanalesVen/NF8sq6nCEq/3711.ts
+#EXTINF:-1 tvg-id="ESPNI" tvg-logo="https://auratv.net/auratv/logosMgo/espn5.png" group-title="DEPORTES",ESPN 5 HD
+http://cdn-abc.xyz:2086/live/CanalesVen/NF8sq6nCEq/3712.ts
+#EXTINF:-1 tvg-id="" tvg-logo="https://auratv.net/auratv/logosMgo/espn6.png" group-title="DEPORTES",ESPN 6 Norte
+http://cdn-abc.xyz:2086/live/CanalesVen/NF8sq6nCEq/8035.ts
+#EXTINF:-1 tvg-id="ESPNI" tvg-logo="https://auratv.net/auratv/logosMgo/espn7.png" group-title="DEPORTES",ESPN 7 HD
+http://cdn-abc.xyz:2086/live/CanalesVen/NF8sq6nCEq/3366.ts
+#EXTINF:-1 tvg-id="" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/6/6b/ESPN_Premium_%28white_and_red%29_2022.png/revision/latest/scale-to-width-down/250?cb=20220501173308&path-prefix=es" group-title="DEPORTES",ESPN Premium
+http://cdn-abc.xyz:2086/live/CanalesVen/NF8sq6nCEq/3368.ts
+#EXTINF:-1 tvg-id="" tvg-logo="https://img.asmedia.epimg.net/resizer/v2/HDFAZLSP7FH7XJK2XFRO56O22U.jpeg?auth=5d7e53f23444b4e49deaaadc032a5470401ba4ca10214e4cac7006b8d1f5f9e1&width=1472&height=1104&smart=true" group-title="DEPORTES",FOX PREMIUM
+http://cdn-abc.xyz:2086/live/CanalesVen/NF8sq6nCEq/11426.ts
+#EXTINF:-1 tvg-id="TNTSPOR" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSYcZpYoiEecPCpDU3NUfmGvxVJ2zJFiUQmyw&s" group-title="DEPORTES",TNT Sports Premium
+http://cdn-abc.xyz:2086/live/CanalesVen/NF8sq6nCEq/60232.ts
+#EXTINF:-1 tvg-id="" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/8/8e/WinSportsPlusPremium.png/revision/latest?cb=20200225220524&path-prefix=es" group-title="DEPORTES",Win Sports+ HD
+http://cdn-abc.xyz:2086/live/CanalesVen/NF8sq6nCEq/3374.ts
+#EXTINF:-1 tvg-id="" tvg-logo="https://auratv.net/auratv/logosMgo/espn.png" group-title="DEPORTES",ESPN Norte
+http://cdn-abc.xyz:2086/live/CanalesVen/NF8sq6nCEq/3357.ts
+#EXTINF:-1 tvg-id="ESPNI" tvg-logo="https://auratv.net/auratv/logosMgo/espn2.png" group-title="DEPORTES",ESPN 2 Norte
+http://cdn-abc.xyz:2086/live/CanalesVen/NF8sq6nCEq/3708.ts
+#EXTINF:-1 tvg-id="" tvg-logo="https://auratv.net/auratv/logosMgo/espn4.png" group-title="DEPORTES",ESPN 4 Norte
+http://cdn-abc.xyz:2086/live/CanalesVen/NF8sq6nCEq/8034.ts
+#EXTINF:-1 tvg-id="AMTV" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSBpyFfS_isX5pLICeWcccj0M_qDBgPiEusvg&s" group-title="DEPORTES",Latin America Sports
+http://cdn-abc.xyz:2086/live/CanalesVen/NF8sq6nCEq/8153.ts
+#EXTINF:-1 tvg-id="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS7izaBIkY4JXD_kwQuAKYJEEUJroSFzcDSbA&s" group-title="DEPORTES",TD+
+http://cdn-abc.xyz:2086/live/CanalesVen/NF8sq6nCEq/8178.ts
+#EXTINF:-1 tvg-id="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTyw4f2MBJoZby4zFhg6NpO2tvUpayiyRndhQ&s" group-title="DEPORTES",TD+ 2
+http://cdn-abc.xyz:2086/live/CanalesVen/NF8sq6nCEq/8182.ts
+#EXTINF:-1 tvg-id="TNTSPOR" tvg-logo="https://static.wikia.nocookie.net/tvcable/images/5/52/Logo_TNT_Sports_2021.png/revision/latest?cb=20210118175837&path-prefix=es" group-title="DEPORTES",TNT SPORTS
+http://cdn-abc.xyz:2086/live/CanalesVen/NF8sq6nCEq/8088.ts
+#EXTINF:-1 tvg-id="" tvg-logo="s:1:/images/Y_STBOg-CWcvCT_ufdf2jRyJr43pPjjmGgdAkxe1s29PyXPC1BfWHTtz2AUnLEZjuZhf7qYJKHU3AfU7hCAG0w.png" group-title="DEPORTES",GOLF CHANNEL
+http://cdn-abc.xyz:2086/live/CanalesVen/NF8sq6nCEq/8239.ts
+#EXTINF:-1 tvg-id="TYC" tvg-logo="s:1:/images/Y_STBOg-CWcvCT_ufdf2jRK8bAiZUt_hK6w4OQtteQcWjAwaO0yQ7KNvBoekXqGSoFNEc0nUYrTRLC3xUBqJNA.png" group-title="DEPORTES",TyC Sports
+http://cdn-abc.xyz:2086/live/CanalesVen/NF8sq6nCEq/8116.ts
+#EXTINF:-1 tvg-id="" tvg-logo="https://auratv.net/auratv/logosMgo/espn.png" group-title="DEPORTES",ESPN Arg
+http://cdn-abc.xyz:2086/live/CanalesVen/NF8sq6nCEq/108631.ts
+#EXTINF:-1 tvg-id="" tvg-logo="s:1:/images/Y_STBOg-CWcvCT_ufdf2jX4S6rNSQCfigTn_e9CgAUAXPoRAKxNxBTBF9gdfLRMoigY7sReTt-CopQZIEa1VQA.png" group-title="DEPORTES",Fox Sports Arg
+http://cdn-abc.xyz:2086/live/CanalesVen/NF8sq6nCEq/108714.ts
+#EXTINF:-1 tvg-id="" tvg-logo="s:1:/images/Y_STBOg-CWcvCT_ufdf2jdqaf35QZTNZ_kQrj3poercQD4_GWWnvOIj9rEnUcqAnY-3rotGrdq9O_wEQ4me_GQ.png" group-title="DEPORTES",Fox Sports Arg HD
+http://cdn-abc.xyz:2086/live/CanalesVen/NF8sq6nCEq/108715.ts
+#EXTINF:-1 tvg-id="" tvg-logo="s:1:/images/Y_STBOg-CWcvCT_ufdf2jSSa_7hw8z3VRouQWsVzP-Jsd518Iv4PsdoyMvTd8Bh1.png" group-title="DEPORTES",Fox Sports 1 Norte
+http://cdn-abc.xyz:2086/live/CanalesVen/NF8sq6nCEq/108726.ts
+#EXTINF:-1 tvg-id="" tvg-logo="s:1:/images/Y_STBOg-CWcvCT_ufdf2jfGfy9O3laJYo80KQT4UPj6UCSU9e9wujrwCJHLwIlmFvur74Gj7oU5XN2yZSFQDJQ.png" group-title="DEPORTES",Fox Sports 2 Norte
+http://cdn-abc.xyz:2086/live/CanalesVen/NF8sq6nCEq/108727.ts
+#EXTINF:-1 tvg-id="TNTSPOR" tvg-logo="s:1:/images/Y_STBOg-CWcvCT_ufdf2jRFsjcsxNs19CKigq5gvga5Ax0nOqnMAeBRgeqrOr7oxByNeL8duyN6yOiunrw_07g.png" group-title="DEPORTES",Fox Sports Premium
+http://cdn-abc.xyz:2086/live/CanalesVen/NF8sq6nCEq/108790.ts
+#EXTINF:-1 tvg-id="" tvg-logo="s:1:/images/Y_STBOg-CWcvCT_ufdf2jVFE9OMHqgKHpM9MXyNRPtpE86vnxMLlBpCOe1qb8gHe.png" group-title="DEPORTES",Fox Sports 3 Norte
+http://cdn-abc.xyz:2086/live/CanalesVen/NF8sq6nCEq/108791.ts
+#EXTINF:-1 tvg-id="" tvg-logo="http://cdn-abc.xyz:2086/images/channels_image/81460111686.jpg" group-title="DEPORTES",Fox Sports 2 ARG
+http://cdn-abc.xyz:2086/live/CanalesVen/NF8sq6nCEq/108826.ts
+#EXTINF:-1 tvg-id="" tvg-logo="http://cdn-abc.xyz:2086/images/channels_image/72985377041.jpg" group-title="DEPORTES",Fox Sports 2 HD ARG
+http://cdn-abc.xyz:2086/live/CanalesVen/NF8sq6nCEq/108827.ts
+#EXTINF:-1 tvg-id="" tvg-logo="http://cdn-abc.xyz:2086/images/channels_image/95825592872.jpg" group-title="DEPORTES",Fox Sports 3 ARG
+http://cdn-abc.xyz:2086/live/CanalesVen/NF8sq6nCEq/108828.ts
+#EXTINF:-1 tvg-id="" tvg-logo="http://cdn-abc.xyz:2086/images/channels_image/27645765829.jpg" group-title="DEPORTES",Fox Sports 3 HD ARG
+http://cdn-abc.xyz:2086/live/CanalesVen/NF8sq6nCEq/108829.ts
+#EXTINF:-1 tvg-id="TYC" tvg-logo="http://cdn-abc.xyz:2086/images/channels_image/74402337007.jpg" group-title="DEPORTES",AM Sports
+http://cdn-abc.xyz:2086/live/CanalesVen/NF8sq6nCEq/108830.ts
+#EXTINF:-1 tvg-id="" tvg-logo="http://cdn-abc.xyz:2086/images/channels_image/79777865925.jpg" group-title="DEPORTES",DeporTV
+http://cdn-abc.xyz:2086/live/CanalesVen/NF8sq6nCEq/108831.ts
+#EXTINF:-1 tvg-id="TYC" tvg-logo="https://static.wikia.nocookie.net/liga-mx/images/2/2b/TVCDep16Logo.png/revision/latest?cb=20160715002021&path-prefix=es" group-title="DEPORTES",TVC SPORTS
+http://cdn-abc.xyz:2086/live/CanalesVen/NF8sq6nCEq/110899.ts
+#EXTINF:-1 tvg-id="" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/7/7b/TVC_Deportes_2_%282016-%29.png/revision/latest?cb=20160225011139" group-title="DEPORTES",TVC DEPORTES 2
+http://cdn-abc.xyz:2086/live/CanalesVen/NF8sq6nCEq/110900.ts
+#EXTINF:-1 tvg-id="ESPNI" tvg-logo="https://auratv.net/auratv/logosMgo/espn7.png" group-title="DEPORTES",ESPN 7 CHD
+http://cdn-abc.xyz:2086/live/CanalesVen/NF8sq6nCEq/112610.ts
+#EXTINF:-1 tvg-id="TVNUR" tvg-logo="http://cdn-abc.xyz:2086/images/channels_image/62715892790.jpg" group-title="DEPORTES",NBA TV
+http://cdn-abc.xyz:2086/live/CanalesVen/NF8sq6nCEq/160123.ts
+#EXTINF:-1 tvg-id="" tvg-logo="http://cdn-abc.xyz:2086/images/channels_image/30959647114.jpg" group-title="DEPORTES",BESIBOL LATINO
+http://cdn-abc.xyz:2086/live/CanalesVen/NF8sq6nCEq/160125.ts
+#EXTINF:-1 tvg-id="" tvg-logo="https://auratv.net/auratv/logosMgo/tycsport.png" group-title="DEPORTES",TyC Argentina
+http://cdn-abc.xyz:2086/live/CanalesVen/NF8sq6nCEq/160128.ts
+#EXTINF:-1 tvg-id="ESPNI" tvg-logo="https://auratv.net/auratv/logosMgo/espn2.png" group-title="DEPORTES",ESPN 2 ARG
+http://cdn-abc.xyz:2086/live/CanalesVen/NF8sq6nCEq/160132.ts
+#EXTINF:-1 tvg-id="" tvg-logo="https://auratv.net/auratv/logosMgo/espn3.png" group-title="DEPORTES",ESPN 3 ARG
+http://cdn-abc.xyz:2086/live/CanalesVen/NF8sq6nCEq/160133.ts
+#EXTINF:-1 tvg-id="" tvg-logo="https://auratv.net/auratv/logosMgo/espn4.png" group-title="DEPORTES",ESPN 4 ARG
+http://cdn-abc.xyz:2086/live/CanalesVen/NF8sq6nCEq/160134.ts
+#EXTINF:-1 tvg-id="" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/6/6b/ESPN_Premium_%28white_and_red%29_2022.png/revision/latest/scale-to-width-down/250?cb=20220501173308&path-prefix=es" group-title="DEPORTES",ESPN PREMIUM ARG
+http://cdn-abc.xyz:2086/live/CanalesVen/NF8sq6nCEq/160136.ts
+#EXTINF:-1 tvg-id="" tvg-logo="https://yt3.googleusercontent.com/j_KSqh2YkixpYYuIGN9DVkZ5e0yuZyA55dSF5faLCcXIP26HkUumENoNJfc8Bc0KIGOLcUY_=s900-c-k-c0x00ffffff-no-rj" group-title="DEPORTES",VIA X ESPORTS
+http://cdn-abc.xyz:2086/live/CanalesVen/NF8sq6nCEq/160140.ts
+#EXTINF:-1 tvg-id="" tvg-logo="https://auratv.net/auratv/logosMgo/espn3.png" group-title="DEPORTES",ESPN 3 HD COLOMBIA
+http://cdn-abc.xyz:2086/live/CanalesVen/NF8sq6nCEq/284602.ts
+#EXTINF:-1 tvg-id="ESPNI" tvg-logo="https://auratv.net/auratv/logosMgo/espn.png" group-title="DEPORTES",ESPN HD
+http://cdn-abc.xyz:2086/live/CanalesVen/NF8sq6nCEq/284603.ts
+#EXTINF:-1 tvg-id="" tvg-logo="https://yt3.googleusercontent.com/rhy7PZnlFsTcNJZoKhxSIyUWeqQnt9B92RDelt9N4b8icz3BOdIJDlrCIeeQ5aYtlxOfJpJz=s900-c-k-c0x00ffffff-no-rj" group-title="DEPORTES",DAZN
+http://cdn-abc.xyz:2086/live/CanalesVen/NF8sq6nCEq/285789.ts
+#EXTINF:-1 tvg-id="" tvg-logo="https://image.discovery.indazn.com/ca/v2/ca/image?id=1twx1j8a3gge219010n6o2qlgx_image-header_pRow_1720521671000&quality=70" group-title="DEPORTES",DAZN 3
+http://cdn-abc.xyz:2086/live/CanalesVen/NF8sq6nCEq/285791.ts
+#EXTINF:-1 tvg-id="" tvg-logo="https://auratv.net/auratv/logosMgo/daznlaliga.png" group-title="DEPORTES",DAZN LA LIGA
+http://cdn-abc.xyz:2086/live/CanalesVen/NF8sq6nCEq/285792.ts
+#EXTINF:-1 tvg-id="" tvg-logo="https://auratv.net/auratv/logosMgo/tudn.png" group-title="DEPORTES",TUDN 2
+http://cdn-abc.xyz:2086/live/CanalesVen/NF8sq6nCEq/285794.ts
+#EXTINF:-1 tvg-id="" tvg-logo="https://play-lh.googleusercontent.com/wuaaWCRlO8isR_c-kjsKisw6KPfXQ1-GGrVwdE8q8OXeEwnwb9lqdNUJldFYYdoK9EHt" group-title="DEPORTES",SKY SPORTS
+http://cdn-abc.xyz:2086/live/CanalesVen/NF8sq6nCEq/285795.ts
+#EXTINF:-1 tvg-id="" tvg-logo="https://auratv.net/auratv/logosMgo/skysportlaliga.png" group-title="DEPORTES",SKY SPORTS LA LIGA
+http://cdn-abc.xyz:2086/live/CanalesVen/NF8sq6nCEq/285796.ts
+#EXTINF:-1 tvg-id="TVNUR" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR5caRYG8WmuAETn_BHaVcM9FP_b4Kvaqezyg&s" group-title="DEPORTES",NBA
+http://cdn-abc.xyz:2086/live/CanalesVen/NF8sq6nCEq/285798.ts
+#EXTINF:-1 tvg-id="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSYyNSlvacMe7R6jPnOKL5Km4z2NvMkFTWEzQ&s" group-title="DEPORTES",MOVISTA LIGA DE CAMPEONES
+http://cdn-abc.xyz:2086/live/CanalesVen/NF8sq6nCEq/285799.ts
+#EXTINF:-1 tvg-id="" tvg-logo="https://auratv.net/auratv/logosMgo/tudn.png" group-title="DEPORTES",TUDN
+http://cdn-abc.xyz:2086/live/CanalesVen/NF8sq6nCEq/285800.ts
+#EXTINF:-1 tvg-id="ESPNI" tvg-logo="https://auratv.net/auratv/logosMgo/espn6.png" group-title="DEPORTES",ESPN 6 HD
+http://cdn-abc.xyz:2086/live/CanalesVen/NF8sq6nCEq/286258.ts
+#EXTINF:-1 tvg-id="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTx4cVZiNggDXB3B8_hJdYR3fyNz8GCNa9-8w&s" group-title="DEPORTES",TV AZTECA DEPORTES
+http://cdn-abc.xyz:2086/live/CanalesVen/NF8sq6nCEq/286259.ts
+#EXTINF:-1 tvg-id="" tvg-logo="https://yt3.googleusercontent.com/UwRcQP6T7jcoBYXgKpOnuKTsUrSK1J6JMrXE7ZASGuShWmI5conHxDaMU77IvcfXCJK-otsu=s900-c-k-c0x00ffffff-no-rj" group-title="DEPORTES",ECDF SD
+http://cdn-abc.xyz:2086/live/CanalesVen/NF8sq6nCEq/286726.ts
+#EXTINF:-1 tvg-id="" tvg-logo="https://img2.rtve.es/n/15966755" group-title="DEPORTES",TELEDEPORTE
+http://cdn-abc.xyz:2086/live/CanalesVen/NF8sq6nCEq/287290.ts
+#EXTINF:-1 tvg-id="" tvg-logo="https://auratv.net/auratv/logosMgo/tigo1.png" group-title="DEPORTES",TIGO 1
+http://cdn-abc.xyz:2086/live/CanalesVen/NF8sq6nCEq/289177.ts
+#EXTINF:-1 tvg-id="Canal.Las.Estrellas.(Ecuador).ec" tvg-logo="s:1:/images/Y_STBOg-CWcvCT_ufdf2jRK8bAiZUt_hK6w4OQtteQf22ZK_eBc90wBUrSZWQ5Abpoq1eYeAaYa1UZvVe_3oIA.png" group-title="NOVELAS Y ENTRETENIMIENTO",Las estrellas
+http://cdn-abc.xyz:2086/live/CanalesVen/NF8sq6nCEq/8610.ts
+#EXTINF:-1 tvg-id="Canal.TNT.Novelas.(Ecuador).ec" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRxyTZMT8t1J5ucujGPBtf67nfyzfJEex4Qtw&s" group-title="NOVELAS Y ENTRETENIMIENTO",TNT Novelas HD
+http://cdn-abc.xyz:2086/live/CanalesVen/NF8sq6nCEq/3412.ts
+#EXTINF:-1 tvg-id="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS-C9fE0ZnVElhv5e4Gh5x2F2HPDyZfJHppYQ&s" group-title="NOVELAS Y ENTRETENIMIENTO",KANAL D DRAMA
+http://cdn-abc.xyz:2086/live/CanalesVen/NF8sq6nCEq/8608.ts
+#EXTINF:-1 tvg-id="TELEESP" tvg-logo="s:1:/images/Y_STBOg-CWcvCT_ufdf2jXzthnHmwU0FcfEjK9LMldVX_DTdulpy9Kan36DWGWSWfT49iiXvHefCzLU1UUMj9g.png" group-title="NOVELAS Y ENTRETENIMIENTO",Telenovelas
+http://cdn-abc.xyz:2086/live/CanalesVen/NF8sq6nCEq/8609.ts
+#EXTINF:-1 tvg-id="Canal.Pasiones.(Latinoamérica).ec" tvg-logo="s:1:/images/Y_STBOg-CWcvCT_ufdf2jdvGrcERYli-CbLwr7j9HGEOZCNIhIerbUtHvd1S1MwhwwXG0ViSatlFSRI7CAKYoQ.png" group-title="NOVELAS Y ENTRETENIMIENTO",Pasiones
+http://cdn-abc.xyz:2086/live/CanalesVen/NF8sq6nCEq/8613.ts
+#EXTINF:-1 tvg-id="" tvg-logo="https://static.wikia.nocookie.net/youtubepedia/images/9/98/Distrito_Comedia.jpg/revision/latest?cb=20211122040915&path-prefix=es" group-title="NOVELAS Y ENTRETENIMIENTO",DISTRITO COMEDIA
+http://cdn-abc.xyz:2086/live/CanalesVen/NF8sq6nCEq/85971.ts
+#EXTINF:-1 tvg-id="Canal.Univision.(Ecuador).ec" tvg-logo="https://auratv.net/auratv/logosMgo/univision.png" group-title="NOVELAS Y ENTRETENIMIENTO",Univision
+http://cdn-abc.xyz:2086/live/CanalesVen/NF8sq6nCEq/284591.ts
+#EXTINF:-1 tvg-id="Canal.RCN.Novelas.ec" tvg-logo="s:1:/images/Y_STBOg-CWcvCT_ufdf2jZJ3adB39KQnPnFf-X4fyvfUJu4toySbhoTYE-MgslC2dHIpvVywAmIt3G0SrIe5sg.png" group-title="NOVELAS Y ENTRETENIMIENTO",RCN Novelas
+http://cdn-abc.xyz:2086/live/CanalesVen/NF8sq6nCEq/8611.ts
+#EXTINF:-1 tvg-id="PRCMSPN" tvg-logo="s:1:/images/Y_STBOg-CWcvCT_ufdf2jRFsjcsxNs19CKigq5gvga7uSJ8W5PeaWFsW_CV7UfiTYh9C5Bo9jPhLdXzXYfnRcQ.png" group-title="NOVELAS Y ENTRETENIMIENTO",COMEDY CENTRAL
+http://cdn-abc.xyz:2086/live/CanalesVen/NF8sq6nCEq/10009.ts
+#EXTINF:-1 tvg-id="" tvg-logo="s:1:/images/Y_STBOg-CWcvCT_ufdf2jf3kc57fLZzAd01IEj4FId7JdwA59_zKA9ohwl_c1pnKtR7g-SG00Izq8XqScfEICA.png" group-title="NOVELAS Y ENTRETENIMIENTO",HTV
+http://cdn-abc.xyz:2086/live/CanalesVen/NF8sq6nCEq/9072.ts
+#EXTINF:-1 tvg-id="" tvg-logo="https://ca-times.brightspotcdn.com/dims4/default/ebb202b/2147483647/strip/false/crop/2385x1590+0+0/resize/1486x991!/quality/75/?url=https%3A%2F%2Fcalifornia-times-brightspot.s3.amazonaws.com%2F98%2F60%2F5efeae6049d5876d1cc683562911%2Fmtv-logo.jpg" group-title="NOVELAS Y ENTRETENIMIENTO",MTV
+http://cdn-abc.xyz:2086/live/CanalesVen/NF8sq6nCEq/9127.ts
+#EXTINF:-1 tvg-id="TVEMPAC" tvg-logo="s:1:/images/Y_STBOg-CWcvCT_ufdf2jRFsjcsxNs19CKigq5gvga4oOTbADo6zpz2pvcweh26W3eEh_OYRGhsKDki4a7uK2w.png" group-title="NOVELAS Y ENTRETENIMIENTO",E! HD
+http://cdn-abc.xyz:2086/live/CanalesVen/NF8sq6nCEq/3492.ts
+#EXTINF:-1 tvg-id="ADSM" tvg-logo="s:1:/images/Y_STBOg-CWcvCT_ufdf2jTeCZX6otaE6xyQokz0rivYbrtnblv4-BkK24fePvf4eMSb9huQfpyEe-MWAytzHng.png" group-title="NOVELAS Y ENTRETENIMIENTO",Adult Swim
+http://cdn-abc.xyz:2086/live/CanalesVen/NF8sq6nCEq/3378.ts
+#EXTINF:-1 tvg-id="" tvg-logo="s:1:/images/ayfdHaSGfQQ7HLxmvsjLeLnSuDtFOdL2NKzZQDYjUFUlVMaenQirxRcozPnb8hj44XZ7s_DcB0BCu9ywFfHUVQ.png" group-title="NOVELAS Y ENTRETENIMIENTO",Azcorazon
+http://cdn-abc.xyz:2086/live/CanalesVen/NF8sq6nCEq/3430.ts
+#EXTINF:-1 tvg-id="SUNCH" tvg-logo="s:1:/images/Y_STBOg-CWcvCT_ufdf2jRK8bAiZUt_hK6w4OQtteQdp6EpeUXKM90k_6zKyTTeoRJm2zXzBZkanTboYYU7LZg.png" group-title="NOVELAS Y ENTRETENIMIENTO",EURO Channel
+http://cdn-abc.xyz:2086/live/CanalesVen/NF8sq6nCEq/3493.ts
+#EXTINF:-1 tvg-id="FRLTDA" tvg-logo="s:1:/images/Y_STBOg-CWcvCT_ufdf2jd2ytqVG466RXgeCvhZbAdMd1Yr4aUAN5hk7wd99VDPc8CCd0e9yz75a3qk3AAgzAw.png" group-title="NOVELAS Y ENTRETENIMIENTO",Latina
+http://cdn-abc.xyz:2086/live/CanalesVen/NF8sq6nCEq/8612.ts
+#EXTINF:-1 tvg-id="" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/8/8e/Stingray_Concerts_%282015-2017%29.png/revision/latest?cb=20180408151550" group-title="NOVELAS Y ENTRETENIMIENTO",Stingray Cocktail Lounge
+http://cdn-abc.xyz:2086/live/CanalesVen/NF8sq6nCEq/121809.ts
+#EXTINF:-1 tvg-id="TVEMPAC" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTPFwSPG_-lxooUYCupG7_-e2yPX_57oBXCdg&s" group-title="NOVELAS Y ENTRETENIMIENTO",HEI
+http://cdn-abc.xyz:2086/live/CanalesVen/NF8sq6nCEq/160139.ts
+#EXTINF:-1 tvg-id="Canal.Lifetime.(Ecuador).ec" tvg-logo="https://yt3.googleusercontent.com/cH4kYblOErtfBb83ogYYRJQuh6LZmYSfLlsP2jdnkBt8MBIYPvIWNKbPDKPrDQxkE19DWGle1mM=s900-c-k-c0x00ffffff-no-rj" group-title="NOVELAS Y ENTRETENIMIENTO",LIFETIME
+http://cdn-abc.xyz:2086/live/CanalesVen/NF8sq6nCEq/284607.ts
+#EXTINF:-1 tvg-id="" tvg-logo="https://variety.com/wp-content/uploads/2018/02/univision-logo.jpg?w=1000&h=563&crop=1" group-title="NOVELAS Y ENTRETENIMIENTO",UNIVISION 2
+http://cdn-abc.xyz:2086/live/CanalesVen/NF8sq6nCEq/285616.ts
+#EXTINF:-1 tvg-id="Canal.Telemundo.(Ecuador).ec" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTWLoG6JCAxHJEWAbCh3pWHTxTaUomPRXmctQ&s" group-title="NOVELAS Y ENTRETENIMIENTO",TELEMUNDO
+http://cdn-abc.xyz:2086/live/CanalesVen/NF8sq6nCEq/287582.ts
+#EXTINF:-1 tvg-id="Canal.Lifetime.(Ecuador).ec" tvg-logo="https://auratv.net/auratv/logosMgo/lifetime.png" group-title="NOVELAS Y ENTRETENIMIENTO",LIFETIME
+http://cdn-abc.xyz:2086/live/CanalesVen/NF8sq6nCEq/288541.ts
+#EXTINF:-1 tvg-id="" tvg-logo="https://auratv.net/auratv/logosMgo/adultswim.png" group-title="NOVELAS Y ENTRETENIMIENTO",Adult Swin
+http://cdn-abc.xyz:2086/live/CanalesVen/NF8sq6nCEq/288900.ts
+#EXTINF:-1 tvg-id="TELEC" tvg-logo="https://auratv.net/auratv/logosMgo/telemundoint.png" group-title="INTERNACIONALES",Telemundo Internacional
+http://cdn-abc.xyz:2086/live/CanalesVen/NF8sq6nCEq/275159.ts
+#EXTINF:-1 tvg-id="AMTV" tvg-logo="s:1:/images/Y_STBOg-CWcvCT_ufdf2jTEg774_KTg1YQSyzWhfSWa9nzr-_3USZvHOG9mqzkWZ8ooMNvBck92zfOviRLpOIQ.png" group-title="INTERNACIONALES",Panamericana
+http://cdn-abc.xyz:2086/live/CanalesVen/NF8sq6nCEq/60234.ts
+#EXTINF:-1 tvg-id="" tvg-logo="https://play-lh.googleusercontent.com/O3SK7F6PpB_nSQDsO5-O9OOdd-MywuTbKNAiawO5pDMtcI8S7iOK5qNPeCtdTgLurmo" group-title="INTERNACIONALES",CARACOL
+http://cdn-abc.xyz:2086/live/CanalesVen/NF8sq6nCEq/285320.ts
+#EXTINF:-1 tvg-id="ATRESSE" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRdU5zYnE-3ygnrbhqFIIFq2eZZcr9G6TvByw&s" group-title="INTERNACIONALES",Atres Series
+http://cdn-abc.xyz:2086/live/CanalesVen/NF8sq6nCEq/3429.ts
+#EXTINF:-1 tvg-id="Canal.TVE.Internacional.(Televisión.Española).ec" tvg-logo="s:1:/images/Y_STBOg-CWcvCT_ufdf2jeOl3CId2u0ybuew8cfOeeOWELTO10phimYaoFlI6bEGJtpsN9mG5KTAqLR0QXl4Lw.png" group-title="INTERNACIONALES",CNN Internacional
+http://cdn-abc.xyz:2086/live/CanalesVen/NF8sq6nCEq/3447.ts
+#EXTINF:-1 tvg-id="Canal.ESNE.TV.ec" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS7HW_0LYHisRw9zB7agdlhuQBbtz_yhZbTgA&s" group-title="INTERNACIONALES",CNNE
+http://cdn-abc.xyz:2086/live/CanalesVen/NF8sq6nCEq/3449.ts
+#EXTINF:-1 tvg-id="Canal.TV.Chile.ec" tvg-logo="https://auratv.net/auratv/logosMgo/cnnchile.png" group-title="INTERNACIONALES",CNN CHILE
+http://cdn-abc.xyz:2086/live/CanalesVen/NF8sq6nCEq/109127.ts
+#EXTINF:-1 tvg-id="" tvg-logo="s:1:/images/Y_STBOg-CWcvCT_ufdf2jRFsjcsxNs19CKigq5gvga6ChaPYVSF0fgKfiY5lF1VZvUKHivrzN9lWmucKkPkGYw.png" group-title="INTERNACIONALES",BBC News
+http://cdn-abc.xyz:2086/live/CanalesVen/NF8sq6nCEq/3432.ts
+#EXTINF:-1 tvg-id="" tvg-logo="s:1:/images/Y_STBOg-CWcvCT_ufdf2jRFsjcsxNs19CKigq5gvga5_v8BcRxFt2LzmT5Zf9ns_mlPm7MTflJk3go7JII3Bow.png" group-title="INTERNACIONALES",TELEFE
+http://cdn-abc.xyz:2086/live/CanalesVen/NF8sq6nCEq/108795.ts
+#EXTINF:-1 tvg-id="" tvg-logo="s:1:/images/Y_STBOg-CWcvCT_ufdf2jboCUFiOEYncg0zELEpVMHP1v7ayaMZvJbYmNsUs1e9NIyHNMnSjoOVHQqcZ5hI7eQ.png" group-title="INTERNACIONALES",Movistar TV
+http://cdn-abc.xyz:2086/live/CanalesVen/NF8sq6nCEq/60216.ts
+#EXTINF:-1 tvg-id="TVEMPAC" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTuypqodMfJxyf0KccEVO36IBNNsOeni_2kgQ&s" group-title="INTERNACIONALES",TVE
+http://cdn-abc.xyz:2086/live/CanalesVen/NF8sq6nCEq/60224.ts
+#EXTINF:-1 tvg-id="" tvg-logo="s:1:/images/Y_STBOg-CWcvCT_ufdf2jZJ3adB39KQnPnFf-X4fyvdPbCM28h4Txa6w5aldFzPJM695Y-dxEFJVtQqr5a4EGw.png" group-title="INTERNACIONALES",13 C
+http://cdn-abc.xyz:2086/live/CanalesVen/NF8sq6nCEq/3417.ts
+#EXTINF:-1 tvg-id="AMTV" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTfb2rBxmR0KPvk3EPdbwJPKHUfn20Cw3fOKQ&s" group-title="INTERNACIONALES",America TV HD
+http://cdn-abc.xyz:2086/live/CanalesVen/NF8sq6nCEq/3426.ts
+#EXTINF:-1 tvg-id="Canal.Antena.3.ec" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcReicQgWwEwilsL3bJ74egxUOsJ8-HRS9RJHA&s" group-title="INTERNACIONALES",Antena 3
+http://cdn-abc.xyz:2086/live/CanalesVen/NF8sq6nCEq/3427.ts
+#EXTINF:-1 tvg-id="ANT3SPH" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRCHjMKAEj_i7FLGujWJGyRIphu8NCCZUuDRg&s" group-title="INTERNACIONALES",Antena 7- RD
+http://cdn-abc.xyz:2086/live/CanalesVen/NF8sq6nCEq/3428.ts
+#EXTINF:-1 tvg-id="" tvg-logo="s:1:/images/Y_STBOg-CWcvCT_ufdf2jUC1SRWbVBwZbxdSyJa8j6hUGd9go0IrQEznXJOnCAUJVA0zq8xvkljvY8u1FNzH8Q.png" group-title="INTERNACIONALES",Azmundo
+http://cdn-abc.xyz:2086/live/CanalesVen/NF8sq6nCEq/3431.ts
+#EXTINF:-1 tvg-id="Canal.ESPN.3.(Ecuador).ec" tvg-logo="s:1:/images/Y_STBOg-CWcvCT_ufdf2jZJ3adB39KQnPnFf-X4fyvc1nwhY1LutzOxMxSKkMr5y.png" group-title="INTERNACIONALES",Canal 13 HD
+http://cdn-abc.xyz:2086/live/CanalesVen/NF8sq6nCEq/3461.ts
+#EXTINF:-1 tvg-id="Canal.A&E.(Ecuador).ec" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQiMuHcaZJfw5YJs3_7ioE9LpLSQnPBGGyJPA&s" group-title="INTERNACIONALES",Canal 2 - ESA
+http://cdn-abc.xyz:2086/live/CanalesVen/NF8sq6nCEq/3465.ts
+#EXTINF:-1 tvg-id="Canal.Nick.Jr..(Ecuador).ec" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQBn2CA8wrh_jQ8tSK6Em3l6qbk87JAGfp7hA&s" group-title="INTERNACIONALES",Canal 2 - NIC
+http://cdn-abc.xyz:2086/live/CanalesVen/NF8sq6nCEq/3466.ts
+#EXTINF:-1 tvg-id="" tvg-logo="s:1:/images/Y_STBOg-CWcvCT_ufdf2jcEuh7GKj-R-RhGO9p-PzsD25gWxLiWiSfPxG2iP3ve0OYWM0ylKEFf5IteaEXAkSA.png" group-title="INTERNACIONALES",Caracol
+http://cdn-abc.xyz:2086/live/CanalesVen/NF8sq6nCEq/3477.ts
+#EXTINF:-1 tvg-id="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRcMkA62qU-xIAOIzFb7Me6QEnYia5fSYNA4A&s" group-title="INTERNACIONALES",CDN37 - RD
+http://cdn-abc.xyz:2086/live/CanalesVen/NF8sq6nCEq/3439.ts
+#EXTINF:-1 tvg-id="" tvg-logo="s:1:/images/Y_STBOg-CWcvCT_ufdf2jRFsjcsxNs19CKigq5gvga6ChaPYVSF0fgKfiY5lF1VZvUKHivrzN9lWmucKkPkGYw.png" group-title="INTERNACIONALES",BBC NEWS
+http://cdn-abc.xyz:2086/live/CanalesVen/NF8sq6nCEq/60226.ts
+#EXTINF:-1 tvg-id="MEGAUS" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS0f4OM_F4D4h-G9iPIpgzTsen7zx2kTxTm3Q&s" group-title="INTERNACIONALES",MEGA HD
+http://cdn-abc.xyz:2086/live/CanalesVen/NF8sq6nCEq/60236.ts
+#EXTINF:-1 tvg-id="TVNUR" tvg-logo="s:1:/images/Y_STBOg-CWcvCT_ufdf2jea53Z6U0mOCNIVUuzL9NVHUz9BD81uWJbU35a228gFJMvHo_5z1rg4rlaysEgcrKQ.png" group-title="INTERNACIONALES",RCN HD
+http://cdn-abc.xyz:2086/live/CanalesVen/NF8sq6nCEq/60237.ts
+#EXTINF:-1 tvg-id="Canal.HTV.ec" tvg-logo="s:1:/images/Y_STBOg-CWcvCT_ufdf2jaB6ckRlC4eAQNHPV3XzRztgz-YXDDJfOfw3bqeuMFQbE9bLSYmFPR0dCTV1EK9B7A.png" group-title="INTERNACIONALES",Canal VTV HND
+http://cdn-abc.xyz:2086/live/CanalesVen/NF8sq6nCEq/89776.ts
+#EXTINF:-1 tvg-id="" tvg-logo="s:1:/images/Y_STBOg-CWcvCT_ufdf2jUnM19LIbFKZxwDbFVJtkw3PENHCKIRyEyL-VxjoaHPvqBiPmssuDwsiREz8GpN5wA.png" group-title="INTERNACIONALES",DW Español
+http://cdn-abc.xyz:2086/live/CanalesVen/NF8sq6nCEq/95551.ts
+#EXTINF:-1 tvg-id="" tvg-logo="s:1:/images/Y_STBOg-CWcvCT_ufdf2jfBo7HXpAo_BoGZgA7lE8iIJ6TqaVXVWaJMoCMe5BnK81eHiBNCV4L-Ts1wcJkGbGw.png" group-title="INTERNACIONALES",RAI
+http://cdn-abc.xyz:2086/live/CanalesVen/NF8sq6nCEq/95552.ts
+#EXTINF:-1 tvg-id="Canal.AXN.(Ecuador).ec" tvg-logo="s:1:/images/Y_STBOg-CWcvCT_ufdf2jea53Z6U0mOCNIVUuzL9NVGjIwyvvaVdRT_CQBV6FcWtmUHtRHxnQoKdhBz-hB7HYg.png" group-title="INTERNACIONALES",Canal a Pan
+http://cdn-abc.xyz:2086/live/CanalesVen/NF8sq6nCEq/108614.ts
+#EXTINF:-1 tvg-id="" tvg-logo="s:1:/images/Y_STBOg-CWcvCT_ufdf2jba13fRIOYBkXzHaKPXcqLVdLaVfP9xdE8TWWfKKVi4Zh1QiMlw9S6mMe0MDfT2FHA.png" group-title="INTERNACIONALES",RT en español
+http://cdn-abc.xyz:2086/live/CanalesVen/NF8sq6nCEq/108792.ts
+#EXTINF:-1 tvg-id="" tvg-logo="s:1:/images/Y_STBOg-CWcvCT_ufdf2jYtIjkZiR_PBq3rLD6Gu1JN2_WOCEta6QlSRizz1pR5ChZJ0Ia9arrYe_0T0taN5HA.png" group-title="INTERNACIONALES",CUBA VISION
+http://cdn-abc.xyz:2086/live/CanalesVen/NF8sq6nCEq/108815.ts
+#EXTINF:-1 tvg-id="" tvg-logo="http://cdn-abc.xyz:2086/images/channels_image/33015021730.jpg" group-title="INTERNACIONALES",CNBC
+http://cdn-abc.xyz:2086/live/CanalesVen/NF8sq6nCEq/121728.ts
+#EXTINF:-1 tvg-id="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSyxPhF2SZjbipWYEc8VAxa2W_TWw_Yr6GO1Q&s" group-title="INTERNACIONALES",TVM25 ESA
+http://cdn-abc.xyz:2086/live/CanalesVen/NF8sq6nCEq/121811.ts
+#EXTINF:-1 tvg-id="" tvg-logo="http://cdn-abc.xyz:2086/images/channels_image/84849522772.jpg" group-title="INTERNACIONALES",GLOBO VISION
+http://cdn-abc.xyz:2086/live/CanalesVen/NF8sq6nCEq/152313.ts
+#EXTINF:-1 tvg-id="" tvg-logo="http://cdn-abc.xyz:2086/images/channels_image/55101511767.jpg" group-title="INTERNACIONALES",TELETUYA
+http://cdn-abc.xyz:2086/live/CanalesVen/NF8sq6nCEq/152316.ts
+#EXTINF:-1 tvg-id="Canal.HTV.ec" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR0WGd7YG0jED9B19zNWvOJ_itne8rn-P2lGw&s" group-title="INTERNACIONALES",CANAL 8
+http://cdn-abc.xyz:2086/live/CanalesVen/NF8sq6nCEq/152317.ts
+#EXTINF:-1 tvg-id="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTnYaih-3T6rybTllCtaOkGQHNwjnbnW0Ftcg&s" group-title="INTERNACIONALES",CANAL EDUCATIVO
+http://cdn-abc.xyz:2086/live/CanalesVen/NF8sq6nCEq/160121.ts
+#EXTINF:-1 tvg-id="" tvg-logo="https://media.licdn.com/dms/image/v2/D4E0BAQH6PhXO0ObEpw/company-logo_200_200/company-logo_200_200/0/1706828385106/redunodebolivia_logo?e=2147483647&v=beta&t=aQdDs2oWD5pD4PE0nA07CNhZxYNQUJfQsyrYetmJUF8" group-title="INTERNACIONALES",RED UNO BOLIVIA
+http://cdn-abc.xyz:2086/live/CanalesVen/NF8sq6nCEq/286780.ts
+#EXTINF:-1 tvg-id="" tvg-logo="s:1:/images/Y_STBOg-CWcvCT_ufdf2jd2ytqVG466RXgeCvhZbAdMd1Yr4aUAN5hk7wd99VDPc8CCd0e9yz75a3qk3AAgzAw.png" group-title="PERÚ",Latina Peru
+http://cdn-abc.xyz:2086/live/CanalesVen/NF8sq6nCEq/89768.ts
+#EXTINF:-1 tvg-id="Canal.Warner.TV.(Ecuador).ec" tvg-logo="s:1:/images/Y_STBOg-CWcvCT_ufdf2jTEg774_KTg1YQSyzWhfSWZyfGjrxab5iAu09ut5-2UvcRemwPIwenzwgAozqOEJcQ.png" group-title="PERÚ",Canal N Peru
+http://cdn-abc.xyz:2086/live/CanalesVen/NF8sq6nCEq/89766.ts
+#EXTINF:-1 tvg-id="PERUHDA" tvg-logo="s:1:/images/Y_STBOg-CWcvCT_ufdf2jfBo7HXpAo_BoGZgA7lE8iKiHlq1iKARFjxNvjayVF4jFEwSCdkYuOHuZlPcJFJnuQ.png" group-title="PERÚ",TV Peru
+http://cdn-abc.xyz:2086/live/CanalesVen/NF8sq6nCEq/60235.ts
+#EXTINF:-1 tvg-id="" tvg-logo="s:1:/images/Y_STBOg-CWcvCT_ufdf2jeOl3CId2u0ybuew8cfOeeNUk6xNy6rZtPjGbP1a5JUYd3NQxEkaZioxqLbEcYkaXw.png" group-title="PERÚ",ATV
+http://cdn-abc.xyz:2086/live/CanalesVen/NF8sq6nCEq/3422.ts
+#EXTINF:-1 tvg-id="COLVISN" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQg_WXUIeAFer9UYC0-SeTm-ttc_Bf6OkI5BA&s" group-title="PERÚ",Clover
+http://cdn-abc.xyz:2086/live/CanalesVen/NF8sq6nCEq/109129.ts
+#EXTINF:-1 tvg-id="" tvg-logo="http://cdn-abc.xyz:2086/images/channels_image/39946959272.jpg" group-title="PERÚ",ATV+
+http://cdn-abc.xyz:2086/live/CanalesVen/NF8sq6nCEq/152312.ts
+#EXTINF:-1 tvg-id="" tvg-logo="https://auratv.net/auratv/logosMgo/willaxtv.png" group-title="PERÚ",Willax TV
+http://cdn-abc.xyz:2086/live/CanalesVen/NF8sq6nCEq/160119.ts
+#EXTINF:-1 tvg-id="" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhvA8i1O5M5Uat9XH3ioEAZgN2t0PtHfnLHrbup4hdluxx76-wo-9BN7dpE-jOyqAZAz4mZX5Lll0giBg4RPxoQ0O3FxH3d61N-2VKEINg-jIGixcAOg33c15y3ZBazGC3IhDfUzC0NpgU/s1600/rpptv.jpg" group-title="PERÚ",RPP
+http://cdn-abc.xyz:2086/live/CanalesVen/NF8sq6nCEq/160144.ts
+#EXTINF:-1 tvg-id="" tvg-logo="https://auratv.net/auratv/logosMgo/globarperu.png" group-title="PERÚ",GLOBAL
+http://cdn-abc.xyz:2086/live/CanalesVen/NF8sq6nCEq/160145.ts
+#EXTINF:-1 tvg-id="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTlgosxbnGB7-bVWBfvnczV931nQwMwg_hK2w&s" group-title="SERIES Y PELICULAS",GOLDEN
+http://cdn-abc.xyz:2086/live/CanalesVen/NF8sq6nCEq/284605.ts
+#EXTINF:-1 tvg-id="WBLA2HD" tvg-logo="https://static.wikia.nocookie.net/rarter/images/c/c6/Warner-azul-0.webp/revision/latest?cb=20240131024224" group-title="SERIES Y PELICULAS",Warner Channel HD
+http://cdn-abc.xyz:2086/live/CanalesVen/NF8sq6nCEq/3416.ts
+#EXTINF:-1 tvg-id="FXHD" tvg-logo="s:1:/images/Y_STBOg-CWcvCT_ufdf2jbdoM9drrRc2p9HchendhwsVRazzDMP4JvXx23mTZXyJe4weusdfO_8kUdr3Iau_RA.png" group-title="SERIES Y PELICULAS",FX HD
+http://cdn-abc.xyz:2086/live/CanalesVen/NF8sq6nCEq/3502.ts
+#EXTINF:-1 tvg-id="" tvg-logo="s:1:/images/Y_STBOg-CWcvCT_ufdf2jf3kc57fLZzAd01IEj4FId578RZqSTTBA2Wm2bDC56sKXRfr-vr7esndqXpKx8GZBg.png" group-title="SERIES Y PELICULAS",Cine Latino
+http://cdn-abc.xyz:2086/live/CanalesVen/NF8sq6nCEq/3381.ts
+#EXTINF:-1 tvg-id="HSTNORH" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSMcFCYsIIF0F6DmFDQKJE0C-mbM8wZj9_OAg&s" group-title="SERIES Y PELICULAS",STAR CHANNEL
+http://cdn-abc.xyz:2086/live/CanalesVen/NF8sq6nCEq/10010.ts
+#EXTINF:-1 tvg-id="Canal.Studio.Universal.(Ecuador).ec" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQJIc7BpoYZOZJ4VcSBTXbtq31ZaE_SVZIkxA&s" group-title="SERIES Y PELICULAS",Studio Universal HD
+http://cdn-abc.xyz:2086/live/CanalesVen/NF8sq6nCEq/3408.ts
+#EXTINF:-1 tvg-id="TNTSERH" tvg-logo="https://static.wikia.nocookie.net/telepedia-es/images/8/86/TNT_Series.png/revision/latest/thumbnail/width/360/height/360?cb=20210831201528&path-prefix=es" group-title="SERIES Y PELICULAS",TNT Series
+http://cdn-abc.xyz:2086/live/CanalesVen/NF8sq6nCEq/3413.ts
+#EXTINF:-1 tvg-id="HBO" tvg-logo="https://static.wikia.nocookie.net/ultimatepopculture/images/7/79/HBO_logo.png/revision/latest?cb=20220831182029" group-title="SERIES Y PELICULAS",HBO HD
+http://cdn-abc.xyz:2086/live/CanalesVen/NF8sq6nCEq/3392.ts
+#EXTINF:-1 tvg-id="HBO" tvg-logo="s:1:/images/Y_STBOg-CWcvCT_ufdf2jenT97NTB7etohlelnfPd_IMh1tikM6f49xPZoxPn-KGKuYH2D_MStPk9z3ltxxI8A.png" group-title="SERIES Y PELICULAS",HBO 2 HD
+http://cdn-abc.xyz:2086/live/CanalesVen/NF8sq6nCEq/3389.ts
+#EXTINF:-1 tvg-id="HBOHDA" tvg-logo="s:1:/images/Y_STBOg-CWcvCT_ufdf2jUFTHV33_5SBzCjsLylDk6p-RbJGDNgaSwlKjF_1ZnTV.png" group-title="SERIES Y PELICULAS",HBO Family HD
+http://cdn-abc.xyz:2086/live/CanalesVen/NF8sq6nCEq/3391.ts
+#EXTINF:-1 tvg-id="POPAM" tvg-logo="https://static.wikia.nocookie.net/rarter/images/1/1b/HBO_Pop.svg/revision/latest/scale-to-width-down/211?cb=20240101073917" group-title="SERIES Y PELICULAS",HBO POP HD
+http://cdn-abc.xyz:2086/live/CanalesVen/NF8sq6nCEq/3569.ts
+#EXTINF:-1 tvg-id="HBO" tvg-logo="s:1:/images/Y_STBOg-CWcvCT_ufdf2jQCOikQ4yd31ifLu07U0Y7l-hESrc3FAvbhMmFjHNGDl8ggh1EG_rjz0JFUpQmrjnw.png" group-title="SERIES Y PELICULAS",HBO Plus
+http://cdn-abc.xyz:2086/live/CanalesVen/NF8sq6nCEq/3570.ts
+#EXTINF:-1 tvg-id="" tvg-logo="s:1:/images/Y_STBOg-CWcvCT_ufdf2jaGmslC3u_ocL07H8CZh4tmj7JVQZlNGtiW8WsWwzngvlcjAoYwU_yAl_4cGKZ3T7Q.png" group-title="SERIES Y PELICULAS",HBO Signature
+http://cdn-abc.xyz:2086/live/CanalesVen/NF8sq6nCEq/3571.ts
+#EXTINF:-1 tvg-id="" tvg-logo="s:1:/images/ayfdHaSGfQQ7HLxmvsjLeDbFddPfCOJcniaQ8gY4__OUStoCZ19TfUqSqgXC8I1z1uYNdFpU9ILDWcr1EGuKVg.png" group-title="SERIES Y PELICULAS",TCM
+http://cdn-abc.xyz:2086/live/CanalesVen/NF8sq6nCEq/3410.ts
+#EXTINF:-1 tvg-id="Canal.Multipremier.ec" tvg-logo="https://static.wikia.nocookie.net/tvcable/images/6/69/Multipremier_2020.png/revision/latest?cb=20220115005213&path-prefix=es" group-title="SERIES Y PELICULAS",Multipremier
+http://cdn-abc.xyz:2086/live/CanalesVen/NF8sq6nCEq/3575.ts
+#EXTINF:-1 tvg-id="SONYCH" tvg-logo="https://static.wikia.nocookie.net/tvcable/images/3/31/SonyChannel2023LA.png/revision/latest?cb=20231115232012&path-prefix=es" group-title="SERIES Y PELICULAS",Sony HD
+http://cdn-abc.xyz:2086/live/CanalesVen/NF8sq6nCEq/3405.ts
+#EXTINF:-1 tvg-id="CNLDHEN" tvg-logo="s:1:/images/Y_STBOg-CWcvCT_ufdf2jYgjgkjAL9zWawzuZyS0AwUbGcdJNH9UlFhb5jxm_qc7yw-3X3dvFh4TWXy1SyjWxw.png" group-title="SERIES Y PELICULAS",DHE HD
+http://cdn-abc.xyz:2086/live/CanalesVen/NF8sq6nCEq/3383.ts
+#EXTINF:-1 tvg-id="AXNHDK" tvg-logo="s:1:/images/Y_STBOg-CWcvCT_ufdf2jXBRJhBhzBTB9AV33jZP_PhqtZqVkMYpMpmlp4GHvZFrdXRzRkjDeBBgpe6t_dpZiQ.png" group-title="SERIES Y PELICULAS",AXN HD
+http://cdn-abc.xyz:2086/live/CanalesVen/NF8sq6nCEq/3377.ts
+#EXTINF:-1 tvg-id="Canal.Cinemax.(Ecuador).ec" tvg-logo="s:1:/images/Y_STBOg-CWcvCT_ufdf2jRK8bAiZUt_hK6w4OQtteQfr3-MQjaUkFV1XK961L994.png" group-title="SERIES Y PELICULAS",CineMax
+http://cdn-abc.xyz:2086/live/CanalesVen/NF8sq6nCEq/3382.ts
+#EXTINF:-1 tvg-id="SPACEOI" tvg-logo="https://d1yjjnpx0p53s8.cloudfront.net/styles/logo-thumbnail/s3/032013/untitled-1_146.png?itok=NjYgUe-D" group-title="SERIES Y PELICULAS",Space HD
+http://cdn-abc.xyz:2086/live/CanalesVen/NF8sq6nCEq/3407.ts
+#EXTINF:-1 tvg-id="DAEHD" tvg-logo="s:1:/images/Y_STBOg-CWcvCT_ufdf2jRFsjcsxNs19CKigq5gvga51q_9Acd3EAauGSCa-qjtJmAF9iya_vvJ12DOLTf3zRg.png" group-title="SERIES Y PELICULAS",A&E
+http://cdn-abc.xyz:2086/live/CanalesVen/NF8sq6nCEq/3420.ts
+#EXTINF:-1 tvg-id="DAEHD" tvg-logo="s:1:/images/Y_STBOg-CWcvCT_ufdf2jRFsjcsxNs19CKigq5gvga51q_9Acd3EAauGSCa-qjtJmAF9iya_vvJ12DOLTf3zRg.png" group-title="SERIES Y PELICULAS",A&E HD
+http://cdn-abc.xyz:2086/live/CanalesVen/NF8sq6nCEq/3375.ts
+#EXTINF:-1 tvg-id="" tvg-logo="https://play-lh.googleusercontent.com/g7K2KCxcNoOV4bgerqP5yDmRpBImqMGcV99Zvd9vYOQ-v6zDj9f_gyU0EaE5OM2yBrU" group-title="SERIES Y PELICULAS",AMC HD
+http://cdn-abc.xyz:2086/live/CanalesVen/NF8sq6nCEq/3376.ts
+#EXTINF:-1 tvg-id="Canal.Cinecanal.(Ecuador).ec" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ8ZY2IW62veudwW8LydyZmMWbd8FGLMuP9Cw&s" group-title="SERIES Y PELICULAS",Cinecanal HD
+http://cdn-abc.xyz:2086/live/CanalesVen/NF8sq6nCEq/3480.ts
+#EXTINF:-1 tvg-id="Canal.Europa.Europa.ec" tvg-logo="s:1:/images/Y_STBOg-CWcvCT_ufdf2jbUORgst-XrbEUa8G6TzUPQ-JfB-R_-mdr0v7YtliKRenb8zGj4RClJ9LZbaeqWtfg.png" group-title="SERIES Y PELICULAS",Europa Europa
+http://cdn-abc.xyz:2086/live/CanalesVen/NF8sq6nCEq/3385.ts
+#EXTINF:-1 tvg-id="" tvg-logo="https://static.wikia.nocookie.net/logo-timeline/images/6/63/FILM%26ARTS.svg/revision/latest/scale-to-width-down/1200?cb=20231023134556" group-title="SERIES Y PELICULAS",Film&Arts
+http://cdn-abc.xyz:2086/live/CanalesVen/NF8sq6nCEq/3386.ts
+#EXTINF:-1 tvg-id="POPAM" tvg-logo="https://static.wikia.nocookie.net/rarter/images/1/1b/HBO_Pop.svg/revision/latest/scale-to-width-down/211?cb=20240101073917" group-title="SERIES Y PELICULAS",HBO POP
+http://cdn-abc.xyz:2086/live/CanalesVen/NF8sq6nCEq/3393.ts
+#EXTINF:-1 tvg-id="" tvg-logo="s:1:/images/Y_STBOg-CWcvCT_ufdf2jea53Z6U0mOCNIVUuzL9NVGWNXhCjlnYD1hKyVaVml-w99NO25qwSjJzQBJMeoL6Gw.png" group-title="SERIES Y PELICULAS",Multicinema
+http://cdn-abc.xyz:2086/live/CanalesVen/NF8sq6nCEq/3574.ts
+#EXTINF:-1 tvg-id="TNTHDOI" tvg-logo="https://static.wikia.nocookie.net/esstarwars/images/2/2c/Tnt_logo.png/revision/latest?cb=20091230061033" group-title="SERIES Y PELICULAS",TNT
+http://cdn-abc.xyz:2086/live/CanalesVen/NF8sq6nCEq/3411.ts
+#EXTINF:-1 tvg-id="Canal.Universal.TV.(Ecuador).ec" tvg-logo="s:1:/images/Y_STBOg-CWcvCT_ufdf2jfKrz2EhubTRy4twU0Rz1tZ636uUd3RMtQbbCjL_5aMn-AKvX4-HeBJ-YlP-zZ7xGw.png" group-title="SERIES Y PELICULAS",Universal
+http://cdn-abc.xyz:2086/live/CanalesVen/NF8sq6nCEq/3415.ts
+#EXTINF:-1 tvg-id="" tvg-logo="https://yt3.googleusercontent.com/ytc/AIdro_n6zSKXz-kwSRlpU3NQzgQR8pPrxOEr_imahLE6BJMVa6E=s900-c-k-c0x00ffffff-no-rj" group-title="SERIES Y PELICULAS",UNIVERSAL CHANNEL HD
+http://cdn-abc.xyz:2086/live/CanalesVen/NF8sq6nCEq/3414.ts
+#EXTINF:-1 tvg-id="" tvg-logo="s:1:/images/Y_STBOg-CWcvCT_ufdf2jRCbIaJ_Ajc-Kov5n4x53vPNbdVITRu8spw9tOCBrKMkga0U6BkRpuEOfEVM3pon_A.png" group-title="SERIES Y PELICULAS",GOLDEN PREMIER
+http://cdn-abc.xyz:2086/live/CanalesVen/NF8sq6nCEq/60240.ts
+#EXTINF:-1 tvg-id="" tvg-logo="s:1:/images/Y_STBOg-CWcvCT_ufdf2jRCbIaJ_Ajc-Kov5n4x53vPNbdVITRu8spw9tOCBrKMkga0U6BkRpuEOfEVM3pon_A.png" group-title="SERIES Y PELICULAS",GOLDEN PREMIER 2
+http://cdn-abc.xyz:2086/live/CanalesVen/NF8sq6nCEq/60241.ts
+#EXTINF:-1 tvg-id="" tvg-logo="s:1:/images/Y_STBOg-CWcvCT_ufdf2jXXhNSpwmL606iqVA6m4XU_iL5JNTjaRRn6c0z-7Zj_Arp7_Nu1NnXwrgu0pmkvOPA.png" group-title="SERIES Y PELICULAS",USA
+http://cdn-abc.xyz:2086/live/CanalesVen/NF8sq6nCEq/95549.ts
+#EXTINF:-1 tvg-id="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQga_qcTr3vn4F86D03QHrSCRwrNH6GMm54uw&s" group-title="SERIES Y PELICULAS",Cine.Ar
+http://cdn-abc.xyz:2086/live/CanalesVen/NF8sq6nCEq/108616.ts
+#EXTINF:-1 tvg-id="" tvg-logo="s:1:/images/Y_STBOg-CWcvCT_ufdf2jRFsjcsxNs19CKigq5gvga49kRRF49kOmmnx67We1V-ic7IxmcnvmNfWyDXCmWLFyw.png" group-title="SERIES Y PELICULAS",HBO Mundi
+http://cdn-abc.xyz:2086/live/CanalesVen/NF8sq6nCEq/108713.ts
+#EXTINF:-1 tvg-id="DPLUSSD" tvg-logo="s:1:/images/Y_STBOg-CWcvCT_ufdf2jRK8bAiZUt_hK6w4OQtteQf3nM0qHkAZ11sUQwXzbTmv.png" group-title="SERIES Y PELICULAS",De pelicula
+http://cdn-abc.xyz:2086/live/CanalesVen/NF8sq6nCEq/108811.ts
+#EXTINF:-1 tvg-id="" tvg-logo="https://i0.wp.com/www.vectorizando.com/wp-content/uploads/2021/04/golden-edgev-9ae69024.png?fit=500%2C500&ssl=1" group-title="SERIES Y PELICULAS",GOLDEN EDGE
+http://cdn-abc.xyz:2086/live/CanalesVen/NF8sq6nCEq/284606.ts
+#EXTINF:-1 tvg-id="" tvg-logo="https://img.utdstc.com/icon/44e/6b3/44e6b30fb3a18c464dde08b0d4b5d3ae4d05872435bcf5b6a5dcc76d428f3f01:200" group-title="SERIES Y PELICULAS",STAR CHANEL +
+http://cdn-abc.xyz:2086/live/CanalesVen/NF8sq6nCEq/284610.ts
+#EXTINF:-1 tvg-id="SONYMOV" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTB7ytZayTt-ZIkWcQyKGdu0rwUnoaYP3MzCQ&s" group-title="SERIES Y PELICULAS",SONY MOVIES
+http://cdn-abc.xyz:2086/live/CanalesVen/NF8sq6nCEq/284611.ts
+#EXTINF:-1 tvg-id="Canal.Studio.Universal.(Ecuador).ec" tvg-logo="https://auratv.net/auratv/logosMgo/studioUniversal.png" group-title="SERIES Y PELICULAS",STUDIO UNIVERSAL HD
+http://cdn-abc.xyz:2086/live/CanalesVen/NF8sq6nCEq/284612.ts
+#EXTINF:-1 tvg-id="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTUGbj613doA_lyYhNByuF0DRhIk9yKSfzkLA&s" group-title="SERIES Y PELICULAS",HBO STREME HD
+http://cdn-abc.xyz:2086/live/CanalesVen/NF8sq6nCEq/287865.ts
+#EXTINF:-1 tvg-id="" tvg-logo="https://auratv.net/auratv/logosMgo/telesur.png" group-title="VENEZUELA",Telesur
+http://cdn-abc.xyz:2086/live/CanalesVen/NF8sq6nCEq/109124.ts
+#EXTINF:-1 tvg-id="" tvg-logo="https://media.licdn.com/dms/image/v2/C4D0BAQGAoNFIU97lrQ/company-logo_200_200/company-logo_200_200/0/1668178849417?e=2147483647&v=beta&t=TwA9GHPE1B21LnNHiu9-pHvxPkMJT8H7jfkcjMP4hmg" group-title="VENEZUELA",VTV
+http://cdn-abc.xyz:2086/live/CanalesVen/NF8sq6nCEq/108797.ts
+#EXTINF:-1 tvg-id="TELEVIC" tvg-logo="http://cdn-abc.xyz:2086/images/channels_image/53519403553.jpg" group-title="VENEZUELA",TELEVEN
+http://cdn-abc.xyz:2086/live/CanalesVen/NF8sq6nCEq/152314.ts
+#EXTINF:-1 tvg-id="" tvg-logo="https://auratv.net/auratv/logosMgo/venevision.png" group-title="VENEZUELA",VENEVISION
+http://cdn-abc.xyz:2086/live/CanalesVen/NF8sq6nCEq/152315.ts
+#EXTINF:-1 tvg-id="ENLSTGO" tvg-logo="s:1:/images/Y_STBOg-CWcvCT_ufdf2jRK8bAiZUt_hK6w4OQtteQcVV8EdnRR1zQ1Haf5L6AgdhNg1HmjdiPu8ODrtNMoQRg.png" group-title="ARGENTINA",el trece
+http://cdn-abc.xyz:2086/live/CanalesVen/NF8sq6nCEq/108799.ts
+#EXTINF:-1 tvg-id="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQQTUd3xNnNIrmiBllfot4j96bozHWTz2IjuA&s" group-title="ARGENTINA",26 TV
+http://cdn-abc.xyz:2086/live/CanalesVen/NF8sq6nCEq/108604.ts
+#EXTINF:-1 tvg-id="" tvg-logo="https://play-lh.googleusercontent.com/TWQgJ9V0vOtKFxXvV0XElYV8WLher-1L0XnbHg0ZkDAJUt4Of63K7FLp5JE-rl1hOw" group-title="ARGENTINA",A24
+http://cdn-abc.xyz:2086/live/CanalesVen/NF8sq6nCEq/108605.ts
+#EXTINF:-1 tvg-id="" tvg-logo="s:1:/images/Y_STBOg-CWcvCT_ufdf2jWK83T7_CvcO5npC2ia2PHg5MPSJZAnf13m8vYFlmFJatyBUxetBV_gQ-l9OfEu6_g.png" group-title="ARGENTINA",CNN en español ARG
+http://cdn-abc.xyz:2086/live/CanalesVen/NF8sq6nCEq/108606.ts
+#EXTINF:-1 tvg-id="Canal.Ecuador.TV.ec" tvg-logo="s:1:/images/Y_STBOg-CWcvCT_ufdf2jRFsjcsxNs19CKigq5gvga4Nk5n6ixZy9THD4ZXiMvUBgP2p_Xfr4ipxqWtEG0voVA.png" group-title="ARGENTINA",Canal de la ciudad
+http://cdn-abc.xyz:2086/live/CanalesVen/NF8sq6nCEq/108615.ts
+#EXTINF:-1 tvg-id="Canal.Telefe.Internacional.ec" tvg-logo="s:1:/images/Y_STBOg-CWcvCT_ufdf2jUnM19LIbFKZxwDbFVJtkw2ISRRPFGlTUJJ_gB6UK8arqkr7JqUriGiuYPx1KWvrLg.png" group-title="ARGENTINA",el trece internacional
+http://cdn-abc.xyz:2086/live/CanalesVen/NF8sq6nCEq/108800.ts
+#EXTINF:-1 tvg-id="" tvg-logo="s:1:/images/ayfdHaSGfQQ7HLxmvsjLePGHrSUiH7OIsUHw-XNxKkOxLGMJVyq5CWeD_oQR3D-8zVUCESi_oTnr6QfdzeTOrg.png" group-title="ARGENTINA",Crónica
+http://cdn-abc.xyz:2086/live/CanalesVen/NF8sq6nCEq/108820.ts
+#EXTINF:-1 tvg-id="TELEVIC" tvg-logo="https://auratv.net/auratv/logosMgo/encuentro.png" group-title="ARGENTINA",Ecuentro
+http://cdn-abc.xyz:2086/live/CanalesVen/NF8sq6nCEq/108821.ts
+#EXTINF:-1 tvg-id="" tvg-logo="s:1:/images/Y_STBOg-CWcvCT_ufdf2jRFsjcsxNs19CKigq5gvga70brSxm3cNh4td6tE4IpjdlrfXVREqfVYiHsOWEm7pRg.png" group-title="ARGENTINA",La Nacion TV
+http://cdn-abc.xyz:2086/live/CanalesVen/NF8sq6nCEq/108823.ts
+#EXTINF:-1 tvg-id="" tvg-logo="http://cdn-abc.xyz:2086/images/channels_image/30158379116.jpg" group-title="ARGENTINA",Pakapaka
+http://cdn-abc.xyz:2086/live/CanalesVen/NF8sq6nCEq/108824.ts
+#EXTINF:-1 tvg-id="" tvg-logo="https://auratv.net/auratv/logosMgo/canalrural.png" group-title="ARGENTINA",Rural
+http://cdn-abc.xyz:2086/live/CanalesVen/NF8sq6nCEq/108825.ts
+#EXTINF:-1 tvg-id="" tvg-logo="https://auratv.net/auratv/logosMgo/metrotv.png" group-title="ARGENTINA",Metro
+http://cdn-abc.xyz:2086/live/CanalesVen/NF8sq6nCEq/160129.ts
+#EXTINF:-1 tvg-id="TVNUR" tvg-logo="http://cdn-abc.xyz:2086/images/channels_image/56680307372.jpg" group-title="ARGENTINA",TN
+http://cdn-abc.xyz:2086/live/CanalesVen/NF8sq6nCEq/160130.ts
+#EXTINF:-1 tvg-id="" tvg-logo="http://cdn-abc.xyz:2086/images/channels_image/67388011763.jpg" group-title="ARGENTINA",El nueve
+http://cdn-abc.xyz:2086/live/CanalesVen/NF8sq6nCEq/160131.ts
+#EXTINF:-1 tvg-id="" tvg-logo="https://auratv.net/auratv/logosMgo/tvpublica.png" group-title="ARGENTINA",TV PUBLICA
+http://cdn-abc.xyz:2086/live/CanalesVen/NF8sq6nCEq/160146.ts
+#EXTINF:-1 tvg-id="" tvg-logo="s:1:/images/Y_STBOg-CWcvCT_ufdf2jdqaf35QZTNZ_kQrj3poerdC3c62BmcZrPnXsOoTZG-fRni-C9wL9XsBw0dV02hWWQ.png" group-title="COLOMBIA",NTN 24 horas
+http://cdn-abc.xyz:2086/live/CanalesVen/NF8sq6nCEq/108809.ts
+#EXTINF:-1 tvg-id="" tvg-logo="s:1:/images/Y_STBOg-CWcvCT_ufdf2jWK83T7_CvcO5npC2ia2PHjHWN7qk1GnNq2X-RvxYktLNYdDKXYD7SA_Zf9Lcj0d3g.png" group-title="COLOMBIA",City TV
+http://cdn-abc.xyz:2086/live/CanalesVen/NF8sq6nCEq/108808.ts
+#EXTINF:-1 tvg-id="" tvg-logo="s:1:/images/Y_STBOg-CWcvCT_ufdf2jea53Z6U0mOCNIVUuzL9NVHaDwhH3mbT56MbvDFcbp8gbGTkuhsOUOBU34Xj4nSuow.png" group-title="COLOMBIA",SEÑAL COLOMBIA
+http://cdn-abc.xyz:2086/live/CanalesVen/NF8sq6nCEq/60220.ts
+#EXTINF:-1 tvg-id="" tvg-logo="s:1:/images/Y_STBOg-CWcvCT_ufdf2jX8omoQrm_VfOYgQuyLzKQCt28RSQacWejWr96iKHRFF.png" group-title="COLOMBIA",Telecafe
+http://cdn-abc.xyz:2086/live/CanalesVen/NF8sq6nCEq/108801.ts
+#EXTINF:-1 tvg-id="" tvg-logo="s:1:/images/Y_STBOg-CWcvCT_ufdf2jX8omoQrm_VfOYgQuyLzKQBWZppIwk23xMX7jcdDhiJtFRhDE0NyzfdzwzJsp_x6tw.png" group-title="COLOMBIA",Telecaribe
+http://cdn-abc.xyz:2086/live/CanalesVen/NF8sq6nCEq/108802.ts
+#EXTINF:-1 tvg-id="TELEESP" tvg-logo="s:1:/images/Y_STBOg-CWcvCT_ufdf2jRFsjcsxNs19CKigq5gvga526-Ec3PbqrAKPzL0MGCvLSJPshvS2eswT9YNVFz7-Dw.png" group-title="COLOMBIA",Teleislas
+http://cdn-abc.xyz:2086/live/CanalesVen/NF8sq6nCEq/108803.ts
+#EXTINF:-1 tvg-id="" tvg-logo="s:1:/images/Y_STBOg-CWcvCT_ufdf2jea53Z6U0mOCNIVUuzL9NVEUa5yYzCpjT4Xgcwp-ov_a--c_BegHOTtc4Odo-HVUvQ.png" group-title="COLOMBIA",Telepacifico
+http://cdn-abc.xyz:2086/live/CanalesVen/NF8sq6nCEq/108804.ts
+#EXTINF:-1 tvg-id="Canal.TV.Chile.ec" tvg-logo="s:1:/images/Y_STBOg-CWcvCT_ufdf2jSHaeykoavgFe6SgN464fAPwhNvFHgC2y0emJVPb2_V4GoEW8djjAjxjOgtk-QqkWg.png" group-title="COLOMBIA",Canal capital
+http://cdn-abc.xyz:2086/live/CanalesVen/NF8sq6nCEq/108806.ts
+#EXTINF:-1 tvg-id="" tvg-logo="s:1:/images/Y_STBOg-CWcvCT_ufdf2jUC1SRWbVBwZbxdSyJa8j6jMevgh-HDcdkUUYj8hvvND1k_unnjNfdWISp1tWBgTQw.png" group-title="COLOMBIA",ET Canal el Tiempo
+http://cdn-abc.xyz:2086/live/CanalesVen/NF8sq6nCEq/108807.ts
+#EXTINF:-1 tvg-id="Canal.ESNE.TV.ec" tvg-logo="s:1:/images/Y_STBOg-CWcvCT_ufdf2jX8omoQrm_VfOYgQuyLzKQBTsKc3ogpKD5f1iRD24OXC.png" group-title="COLOMBIA",CANAL TRO
+http://cdn-abc.xyz:2086/live/CanalesVen/NF8sq6nCEq/108810.ts
+#EXTINF:-1 tvg-id="" tvg-logo="http://cdn-abc.xyz:2086/images/channels_image/94767683603.jpg" group-title="COLOMBIA",TELEMEDELLIN
+http://cdn-abc.xyz:2086/live/CanalesVen/NF8sq6nCEq/152309.ts
+#EXTINF:-1 tvg-id="" tvg-logo="https://auratv.net/auratv/logosMgo/canaluno.png" group-title="COLOMBIA",CANAL UNO
+http://cdn-abc.xyz:2086/live/CanalesVen/NF8sq6nCEq/285617.ts
+#EXTINF:-1 tvg-id="" tvg-logo="s:1:/images/Y_STBOg-CWcvCT_ufdf2jTEg774_KTg1YQSyzWhfSWYeQZbmI3vwJlQrErhwBmxO2eZuV5z3om2KsRPwJVpgzQ.png" group-title="CHILE",TV+ HD
+http://cdn-abc.xyz:2086/live/CanalesVen/NF8sq6nCEq/60239.ts
+#EXTINF:-1 tvg-id="" tvg-logo="s:1:/images/Y_STBOg-CWcvCT_ufdf2jVFE9OMHqgKHpM9MXyNRPtrdjNFQ-QpkLvGZVdU-cPd9ocK1LnIUmqHD7lFOIMnbfA.png" group-title="CHILE",TV SENADO
+http://cdn-abc.xyz:2086/live/CanalesVen/NF8sq6nCEq/60223.ts
+#EXTINF:-1 tvg-id="TVNUR" tvg-logo="https://yt3.googleusercontent.com/3fR9guCWcr28bGYZKu4CfAB-FWJ9MkFfVmr8huxbIglRM926kuXdAMkXVZJEi-mz89h6s67fUQ=s900-c-k-c0x00ffffff-no-rj" group-title="CHILE",NTV
+http://cdn-abc.xyz:2086/live/CanalesVen/NF8sq6nCEq/109125.ts
+#EXTINF:-1 tvg-id="" tvg-logo="http://cdn-abc.xyz:2086/images/channels_image/32826864263.jpg" group-title="CHILE",Teletrak
+http://cdn-abc.xyz:2086/live/CanalesVen/NF8sq6nCEq/109126.ts
+#EXTINF:-1 tvg-id="TVEMPAC" tvg-logo="https://images2-megamedia.cdn.mdstrm.com/etcetera/2020/02/25/10043_4_5e5531f40cf27.jpg?d=500x500" group-title="CHILE",ETC TV
+http://cdn-abc.xyz:2086/live/CanalesVen/NF8sq6nCEq/109128.ts
+#EXTINF:-1 tvg-id="" tvg-logo="https://auratv.net/auratv/logosMgo/t13.png" group-title="CHILE",T13
+http://cdn-abc.xyz:2086/live/CanalesVen/NF8sq6nCEq/109130.ts
+#EXTINF:-1 tvg-id="RECHS" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSWL3bz2wW5bl4Dp5mHbzcF_H5IbxuCXG45FA&s" group-title="CHILE",REC TV
+http://cdn-abc.xyz:2086/live/CanalesVen/NF8sq6nCEq/109131.ts
+#EXTINF:-1 tvg-id="" tvg-logo="http://cdn-abc.xyz:2086/images/channels_image/60937965082.jpg" group-title="CHILE",VIA X
+http://cdn-abc.xyz:2086/live/CanalesVen/NF8sq6nCEq/109132.ts
+#EXTINF:-1 tvg-id="Canal.Zona.Latina.ec" tvg-logo="https://auratv.net/auratv/logosMgo/zonalatina.png" group-title="CHILE",ZONA LATINA
+http://cdn-abc.xyz:2086/live/CanalesVen/NF8sq6nCEq/109133.ts
+#EXTINF:-1 tvg-id="" tvg-logo="http://cdn-abc.xyz:2086/images/channels_image/53077547575.jpg" group-title="CHILE",RED TELEVISION
+http://cdn-abc.xyz:2086/live/CanalesVen/NF8sq6nCEq/109134.ts
+#EXTINF:-1 tvg-id="" tvg-logo="http://cdn-abc.xyz:2086/images/channels_image/80042007494.jpg" group-title="CHILE",Telecanal
+http://cdn-abc.xyz:2086/live/CanalesVen/NF8sq6nCEq/109135.ts
+#EXTINF:-1 tvg-id="TOONLSE" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT9OGcJoLglvFUy9cO_-Jg3mebkIaaEv39ARQ&s" group-title="INFANTILES",Cartoon Network HD
+http://cdn-abc.xyz:2086/live/CanalesVen/NF8sq6nCEq/3478.ts
+#EXTINF:-1 tvg-id="CARNITO" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRe15L2mucDr-jaBFTWdAQ95WrR59zpprZLzw&s" group-title="INFANTILES",Cartoonito
+http://cdn-abc.xyz:2086/live/CanalesVen/NF8sq6nCEq/3479.ts
+#EXTINF:-1 tvg-id="NKLACHD" tvg-logo="s:1:/images/Y_STBOg-CWcvCT_ufdf2jUFTHV33_5SBzCjsLylDk6qBiDZkZYuZ1RBYBxJ6fAJazFyEdTXkYQpS6mD4uEXi1A.png" group-title="INFANTILES",Nick
+http://cdn-abc.xyz:2086/live/CanalesVen/NF8sq6nCEq/10012.ts
+#EXTINF:-1 tvg-id="Canal.Disney.Junior.(Ecuador).ec" tvg-logo="s:1:/images/Y_STBOg-CWcvCT_ufdf2jalwSNuSzwHdZZ0DWyNieH2jFNkC0FIo2Ird8Z6gShm1BFab6y-dL55tp7HZmZKbxg.png" group-title="INFANTILES",Disney Junior
+http://cdn-abc.xyz:2086/live/CanalesVen/NF8sq6nCEq/3490.ts
+#EXTINF:-1 tvg-id="DISNLSH" tvg-logo="s:1:/images/Y_STBOg-CWcvCT_ufdf2jaGymw5wzZUpLrry3dteh790AerenYyIQznj7c71G9W0-32oHpzyLohCIOiwwIlRqA.png" group-title="INFANTILES",Disney
+http://cdn-abc.xyz:2086/live/CanalesVen/NF8sq6nCEq/3488.ts
+#EXTINF:-1 tvg-id="Canal.Discovery.Kids.(Ecuador).ec" tvg-logo="s:1:/images/Y_STBOg-CWcvCT_ufdf2jRK8bAiZUt_hK6w4OQtteQe1G5JxohEKR-Acs3BZqWgW2dK6R_6GCcy2W3guopO3oQ.png" group-title="INFANTILES",Discovery Kids HD
+http://cdn-abc.xyz:2086/live/CanalesVen/NF8sq6nCEq/3487.ts
+#EXTINF:-1 tvg-id="BBTVFR" tvg-logo="s:1:/images/Y_STBOg-CWcvCT_ufdf2jYXFeKA5xEiUXw8iC1Qfs-SwZbbTPAoKDNyTNIdu1mITFjTmvAwZJ36AgFx2Bia0vA.png" group-title="INFANTILES",Baby TV
+http://cdn-abc.xyz:2086/live/CanalesVen/NF8sq6nCEq/10011.ts
+#EXTINF:-1 tvg-id="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSYmRV8OOwuNdOV2hma1g0Err8wq_tHvr4Wdg&s" group-title="INFANTILES",Semillitas
+http://cdn-abc.xyz:2086/live/CanalesVen/NF8sq6nCEq/10018.ts
+#EXTINF:-1 tvg-id="" tvg-logo="s:1:/images/Y_STBOg-CWcvCT_ufdf2jRFsjcsxNs19CKigq5gvga7ZILJd6gy4xvhY6_k1gydmKimN2uMiBvx_Ii_DgQ12Pg.png" group-title="INFANTILES",Zoomoo
+http://cdn-abc.xyz:2086/live/CanalesVen/NF8sq6nCEq/10017.ts
+#EXTINF:-1 tvg-id="BBTVFR" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ2VlAS12mj5Mo6ZhM-pF0C9d_2fZUtZmxfoA&s" group-title="INFANTILES",Baby First
+http://cdn-abc.xyz:2086/live/CanalesVen/NF8sq6nCEq/3434.ts
+#EXTINF:-1 tvg-id="TOONLSE" tvg-logo="https://auratv.net/auratv/logosMgo/cartoonnetwork.png" group-title="INFANTILES",Cartoon Network HD
+http://cdn-abc.xyz:2086/live/CanalesVen/NF8sq6nCEq/117800.ts
+#EXTINF:-1 tvg-id="BBTVFR" tvg-logo="https://auratv.net/auratv/logosMgo/babytv.png" group-title="INFANTILES",BABY TV
+http://cdn-abc.xyz:2086/live/CanalesVen/NF8sq6nCEq/288577.ts
+#EXTINF:-1 tvg-id="TOONCST" tvg-logo="https://auratv.net/auratv/logosMgo/tooncast.png" group-title="INFANTILES",TOONCAST
+http://cdn-abc.xyz:2086/live/CanalesVen/NF8sq6nCEq/288578.ts
+#EXTINF:-1 tvg-id="" tvg-logo="https://play-lh.googleusercontent.com/3716tvZCgzpIt-X1giV8jKwCdC8zwOI4eMUfO_ETWzNX6eGKIi2RiUK9a_fr6BCzjw" group-title="RELIGIÓN",EWTN
+http://cdn-abc.xyz:2086/live/CanalesVen/NF8sq6nCEq/3496.ts
+#EXTINF:-1 tvg-id="" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/6/63/BethelTV1998.png/revision/latest?cb=20210326224941&path-prefix=es" group-title="RELIGIÓN",BETHEL TV
+http://cdn-abc.xyz:2086/live/CanalesVen/NF8sq6nCEq/108814.ts
+#EXTINF:-1 tvg-id="" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/9/94/Cristovisi%C3%B3n_2016.png/revision/latest?cb=20210503213723&path-prefix=es" group-title="RELIGIÓN",Cristovision
+http://cdn-abc.xyz:2086/live/CanalesVen/NF8sq6nCEq/60215.ts
+#EXTINF:-1 tvg-id="ENLSTGO" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/f/fc/TBNEnlace2008.png/revision/latest?cb=20210330233715&path-prefix=es" group-title="RELIGIÓN",Enlace
+http://cdn-abc.xyz:2086/live/CanalesVen/NF8sq6nCEq/3497.ts
+#EXTINF:-1 tvg-id="" tvg-logo="https://auratv.net/auratv/logosMgo/televid.png" group-title="RELIGIÓN",Tele Vid
+http://cdn-abc.xyz:2086/live/CanalesVen/NF8sq6nCEq/183062.ts
+#EXTINF:-1 tvg-id="TVEMPAC" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/d/da/EXATV2009.jpg/revision/latest?cb=20230304224929&path-prefix=es" group-title="MEXICO",Exa TV
+http://cdn-abc.xyz:2086/live/CanalesVen/NF8sq6nCEq/3500.ts
+#EXTINF:-1 tvg-id="Canal.ESNE.TV.ec" tvg-logo="s:1:/images/Y_STBOg-CWcvCT_ufdf2jRCbIaJ_Ajc-Kov5n4x53vNzfh-jB2gGkp9wStelhyYtUn72RTfAxV_PhdquHMr-3A.png" group-title="MEXICO",Canal del congreso
+http://cdn-abc.xyz:2086/live/CanalesVen/NF8sq6nCEq/108805.ts
+#EXTINF:-1 tvg-id="" tvg-logo="https://auratv.net/auratv/logosMgo/aztecauno.png" group-title="MEXICO",AZTECA UNO
+http://cdn-abc.xyz:2086/live/CanalesVen/NF8sq6nCEq/160124.ts
+#EXTINF:-1 tvg-id="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQoVm1ROVEnM_lG11TDFVH1cZ5rK1eptrTU0g&s" group-title="MEXICO",UDG44
+http://cdn-abc.xyz:2086/live/CanalesVen/NF8sq6nCEq/160126.ts
+#EXTINF:-1 tvg-id="" tvg-logo="http://cdn-abc.xyz:2086/images/channels_image/71617521459.jpg" group-title="MEXICO",CB TV
+http://cdn-abc.xyz:2086/live/CanalesVen/NF8sq6nCEq/160127.ts
+#EXTINF:-1 tvg-id="Canal.A&E.(Ecuador).ec" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQZkTUuksqWiWy0yr-KRDwulRmNrrYcx73gfQ&s" group-title="GUATEMALA",CANAL 3 GUA
+http://cdn-abc.xyz:2086/live/CanalesVen/NF8sq6nCEq/89772.ts
+#EXTINF:-1 tvg-id="Canal.A&E.(Ecuador).ec" tvg-logo="https://static.wikia.nocookie.net/cablelogofando/images/b/b3/Canal_7_GT_1964.png/revision/latest?cb=20240705205004&path-prefix=es" group-title="GUATEMALA",CANAL 7 GUA
+http://cdn-abc.xyz:2086/live/CanalesVen/NF8sq6nCEq/89773.ts
+#EXTINF:-1 tvg-id="Canal.Antena.3.ec" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSEVgrFPIXxArhFdk4r5RGZD5J7uMFl-toLoA&s" group-title="GUATEMALA",Canal Antigua GUA
+http://cdn-abc.xyz:2086/live/CanalesVen/NF8sq6nCEq/89774.ts
+#EXTINF:-1 tvg-id="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQUoTqTbW8A0TVocS1rreMnklD5LBt587twCw&s" group-title="URUGUAY",SAETA CANAL 10
+http://cdn-abc.xyz:2086/live/CanalesVen/NF8sq6nCEq/108796.ts
+#EXTINF:-1 tvg-id="" tvg-logo="s:1:/images/Y_STBOg-CWcvCT_ufdf2jQNQtJdbfKaMh1NhzrN8bxAZ9d1qMJopkvexVeXg2SBNDLRCKWgWKQyCpd8vFVtCVQ.png" group-title="URUGUAY",la tele urg
+http://cdn-abc.xyz:2086/live/CanalesVen/NF8sq6nCEq/108798.ts
