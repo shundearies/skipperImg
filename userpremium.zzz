@@ -2,13 +2,13 @@
   {
     "nombre": "User-1",
     "logo": "https://raw.githubusercontent.com/shundearies/skipperImg/refs/heads/main/9bd5dcaf-17c3-46f3-8b0e-30e539fb6ddc.jpeg",
-    "url": "http://wplatino.live:2095/get.php?username=emilson.lopez&password=zdKVKu8ygHKe&type=m3u",
+    "url": "http://wplatino.live:2095/get.php?username=emilson.lopez&password=zdKVKu8ygHKe&type=m3u_plus",
     "contrasena": "1098"
   },
     {
     "nombre": "User-2",
     "logo": "https://raw.githubusercontent.com/shundearies/skipperImg/refs/heads/main/9bd5dcaf-17c3-46f3-8b0e-30e539fb6ddc.jpeg",
-    "url": "http://tv.zeuspro.xyz:8080/get.php?username=JesusB5306&password=35301c7e0252&type=m3u",
+    "url": "http://tv.zeuspro.xyz:8080/get.php?username=JesusB5306&password=35301c7e0252&type=m3u_plus",
     "contrasena": "3893"
   },
   {
@@ -20,7 +20,7 @@
     {
     "nombre": "User-4",
     "logo": "https://raw.githubusercontent.com/shundearies/skipperImg/refs/heads/main/9bd5dcaf-17c3-46f3-8b0e-30e539fb6ddc.jpeg",
-    "url": "http://play.pelusa.online:8080/get.php?username=Marioni_2026&password=JhEsBwG2FEBy&type=m3u",
+    "url": "http://play.pelusa.online:8080/get.php?username=Marioni_2026&password=JhEsBwG2FEBy&type=m3u_plus",
     "contrasena": "8493"
   },
   {
