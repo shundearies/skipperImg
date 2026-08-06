@@ -27,7 +27,8 @@
     "nombre": "User-5",
     "logo": "https://raw.githubusercontent.com/shundearies/skipperImg/refs/heads/main/9bd5dcaf-17c3-46f3-8b0e-30e539fb6ddc.jpeg",
     "url": "https://raw.githubusercontent.com/shundearies/imagenuser/refs/heads/main/5.m3u",
-    "contrasena": "03883"
+    "contrasena": "03883",
+    "reproductor": "better_player"
   },
     {
     "nombre": "User-6",
