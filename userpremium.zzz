@@ -21,7 +21,8 @@
     "nombre": "ADMINISTRADOR",
     "logo": "https://raw.githubusercontent.com/shundearies/skipperImg/refs/heads/main/9bd5dcaf-17c3-46f3-8b0e-30e539fb6ddc.jpeg",
     "url": "http://starlatino.tv:8880/get.php?username=CesarHernandez369&password=HJw2Eb2Zcy2z&type=m3u_plus",
-    "contrasena": "8493"
+    "contrasena": "8493",
+    "reproductor": "inapp_webview_player2"
   },
   {
     "nombre": "User6-5",
