@@ -3,22 +3,22 @@
     "nombre": "User-1",
     "logo": "https://raw.githubusercontent.com/shundearies/skipperImg/refs/heads/main/9bd5dcaf-17c3-46f3-8b0e-30e539fb6ddc.jpeg",
     "url": "http://starlatino.tv:8880/get.php?username=kevin5239@&password=PSFZBncgkEyU&type=m3u_plus",
-    "contrasena": "1829"
+    "contrasena": "18893"
   },
     {
     "nombre": "User-2",
     "logo": "https://raw.githubusercontent.com/shundearies/skipperImg/refs/heads/main/9bd5dcaf-17c3-46f3-8b0e-30e539fb6ddc.jpeg",
     "url": "http://starlatino.tv:8880/get.php?username=LIDIETTE&password=VMvDdBsrvS4Y&type=m3u_plus",
-    "contrasena": "3893"
+    "contrasena": "35935"
   },
   {
     "nombre": "User-3",
     "logo": "https://raw.githubusercontent.com/shundearies/skipperImg/refs/heads/main/9bd5dcaf-17c3-46f3-8b0e-30e539fb6ddc.jpeg",
     "url": "http://starlatino.tv:8880/get.php?username=56978277857&password=YuTBMs35T2my&type=m3u_plus",
-    "contrasena": "8822"
+    "contrasena": "86229"
   },
     {
-    "nombre": "User-4",
+    "nombre": "ADMINISTRADOR",
     "logo": "https://raw.githubusercontent.com/shundearies/skipperImg/refs/heads/main/9bd5dcaf-17c3-46f3-8b0e-30e539fb6ddc.jpeg",
     "url": "http://starlatino.tv:8880/get.php?username=CesarHernandez369&password=HJw2Eb2Zcy2z&type=m3u_plus",
     "contrasena": "8493"
@@ -33,30 +33,570 @@
     "nombre": "User-6",
     "logo": "https://raw.githubusercontent.com/shundearies/skipperImg/refs/heads/main/9bd5dcaf-17c3-46f3-8b0e-30e539fb6ddc.jpeg",
     "url": "http://starlatino.tv:8880/get.php?username=lerolero28&password=LQyJTfHBmj4w&type=m3u_plus",
-    "contrasena": "6893"
+    "contrasena": "68953"
   },
   {
     "nombre": "User6-7",
     "logo": "https://raw.githubusercontent.com/shundearies/skipperImg/refs/heads/main/9bd5dcaf-17c3-46f3-8b0e-30e539fb6ddc.jpeg",
     "url": "http://starlatino.tv:8880/get.php?username=qscgyabweu&password=eensmKwn3ktT&type=m3u_plus",
-    "contrasena": "8390"
+    "contrasena": "83490"
   },
     {
     "nombre": "User-8",
     "logo": "https://raw.githubusercontent.com/shundearies/skipperImg/refs/heads/main/9bd5dcaf-17c3-46f3-8b0e-30e539fb6ddc.jpeg",
     "url": "http://starlatino.tv:8880/get.php?username=56999291719C&password=9XgDr9KALRjH&type=m3u_plus",
-    "contrasena": "5893"
+    "contrasena": "58993"
   },
   {
     "nombre": "User-9",
     "logo": "https://raw.githubusercontent.com/shundearies/skipperImg/refs/heads/main/9bd5dcaf-17c3-46f3-8b0e-30e539fb6ddc.jpeg",
     "url": "http://starlatino.tv:8880/get.php?username=marin09578&password=xxWcEb6XfHVp&type=m3u_plus",
-    "contrasena": "0283"
+    "contrasena": "02183"
   },
     {
     "nombre": "User-10",
     "logo": "https://raw.githubusercontent.com/shundearies/skipperImg/refs/heads/main/9bd5dcaf-17c3-46f3-8b0e-30e539fb6ddc.jpeg",
     "url": "http://starlatino.tv:8880/get.php?username=8edChVLrgzrd&password=WSS2Xx9apNGv&type=m3u_plus",
-    "contrasena": "7290"
+    "contrasena": "72960"
+  },
+    {
+    "nombre": "User-11",
+    "logo": "https://raw.githubusercontent.com/shundearies/skipperImg/refs/heads/main/9bd5dcaf-17c3-46f3-8b0e-30e539fb6ddc.jpeg",
+    "url": "http://starlatino.tv:8880/get.php?username=yrDLJNyubHwb&password=quNVj9X3PKXn&type=m3u_plus",
+    "contrasena": "7399"
+  },
+    {
+    "nombre": "User-12",
+    "logo": "https://raw.githubusercontent.com/shundearies/skipperImg/refs/heads/main/9bd5dcaf-17c3-46f3-8b0e-30e539fb6ddc.jpeg",
+    "url": "http://starlatino.tv:8880/get.php?username=Titinch2&password=wCpLVHd85z6S&type=m3u_plus",
+    "contrasena": "63920"
+  },
+    {
+    "nombre": "User-13",
+    "logo": "https://raw.githubusercontent.com/shundearies/skipperImg/refs/heads/main/9bd5dcaf-17c3-46f3-8b0e-30e539fb6ddc.jpeg",
+    "url": "http://starlatino.tv:8880/get.php?username=sumix866a@&password=3NrQL5gjZprR&type=m3u_plus",
+    "contrasena": "73920"
+  },
+    {
+    "nombre": "User-14",
+    "logo": "https://raw.githubusercontent.com/shundearies/skipperImg/refs/heads/main/9bd5dcaf-17c3-46f3-8b0e-30e539fb6ddc.jpeg",
+    "url": "http://starlatino.tv:8880/get.php?username=taty15&password=3exkLvWG4ffg&type=m3u_plus",
+    "contrasena": "6200"
+  },
+    {
+    "nombre": "User-15",
+    "logo": "https://raw.githubusercontent.com/shundearies/skipperImg/refs/heads/main/9bd5dcaf-17c3-46f3-8b0e-30e539fb6ddc.jpeg",
+    "url": "http://starlatino.tv:8880/get.php?username=56940776955&password=mRJgZUmqLdWt&type=m3u_plus",
+    "contrasena": "51892"
+  },
+    {
+    "nombre": "User-16",
+    "logo": "https://raw.githubusercontent.com/shundearies/skipperImg/refs/heads/main/9bd5dcaf-17c3-46f3-8b0e-30e539fb6ddc.jpeg",
+    "url": "http://starlatino.tv:8880/get.php?username=71799127&password=g9yGuX8e2rRf&type=m3u_plus",
+    "contrasena": "62903"
+  },
+    {
+    "nombre": "User-17",
+    "logo": "https://raw.githubusercontent.com/shundearies/skipperImg/refs/heads/main/9bd5dcaf-17c3-46f3-8b0e-30e539fb6ddc.jpeg",
+    "url": "http://starlatino.tv:8880/get.php?username=drnsatijnq&password=7kVWWNc5vgz2&type=m3u_plus",
+    "contrasena": "63902"
+  },
+    {
+    "nombre": "User-18",
+    "logo": "https://raw.githubusercontent.com/shundearies/skipperImg/refs/heads/main/9bd5dcaf-17c3-46f3-8b0e-30e539fb6ddc.jpeg",
+    "url": "http://starlatino.tv:8880/get.php?username=acer793238g&password=8y2vH7DMpRRu&type=m3u_plus",
+    "contrasena": "63802"
+  },
+    {
+    "nombre": "User-19",
+    "logo": "https://raw.githubusercontent.com/shundearies/skipperImg/refs/heads/main/9bd5dcaf-17c3-46f3-8b0e-30e539fb6ddc.jpeg",
+    "url": "http://starlatino.tv:8880/get.php?username=usralf&password=M9kdprPgMS26&type=m3u_plus",
+    "contrasena": "63992"
+  },
+    {
+    "nombre": "User-20",
+    "logo": "https://raw.githubusercontent.com/shundearies/skipperImg/refs/heads/main/9bd5dcaf-17c3-46f3-8b0e-30e539fb6ddc.jpeg",
+    "url": "http://starlatino.tv:8880/get.php?username=Camila.carrasco_&password=UvAVjUKYKQhF&type=m3u_plus",
+    "contrasena": "62891"
+  },
+    {
+    "nombre": "User6-21",
+    "logo": "https://raw.githubusercontent.com/shundearies/skipperImg/refs/heads/main/9bd5dcaf-17c3-46f3-8b0e-30e539fb6ddc.jpeg",
+    "url": "http://starlatino.tv:8880/get.php?username=bbuevqkpcu&password=8FsFjj6VLZFf&type=m3u_plus",
+    "contrasena": "62829"
+  },
+    {
+    "nombre": "User-22",
+    "logo": "https://raw.githubusercontent.com/shundearies/skipperImg/refs/heads/main/9bd5dcaf-17c3-46f3-8b0e-30e539fb6ddc.jpeg",
+    "url": "http://starlatino.tv:8880/get.php?username=56933267911ff&password=58Q9gQAMRLHd&type=m3u_plus",
+    "contrasena": "41902"
+  },
+    {
+    "nombre": "User-23",
+    "logo": "https://raw.githubusercontent.com/shundearies/skipperImg/refs/heads/main/9bd5dcaf-17c3-46f3-8b0e-30e539fb6ddc.jpeg",
+    "url": "http://starlatino.tv:8880/get.php?username=caQqZHwKqFYG&password=YP8TakxqMpC8&type=m3u_plus",
+    "contrasena": "18030"
+  },
+    {
+    "nombre": "User-24",
+    "logo": "https://raw.githubusercontent.com/shundearies/skipperImg/refs/heads/main/9bd5dcaf-17c3-46f3-8b0e-30e539fb6ddc.jpeg",
+    "url": "http://starlatino.tv:8880/get.php?username=Rivasvicuna&password=zU2SbNpAHamf&type=m3u_plus",
+    "contrasena": "16930"
+  },
+    {
+    "nombre": "User-25",
+    "logo": "https://raw.githubusercontent.com/shundearies/skipperImg/refs/heads/main/9bd5dcaf-17c3-46f3-8b0e-30e539fb6ddc.jpeg",
+    "url": "http://starlatino.tv:8880/get.php?username=CabraRespaldo&password=s99WXCvkGtAM&type=m3u_plus",
+    "contrasena": "16020"
+  },
+    {
+    "nombre": "User-26",
+    "logo": "https://raw.githubusercontent.com/shundearies/skipperImg/refs/heads/main/9bd5dcaf-17c3-46f3-8b0e-30e539fb6ddc.jpeg",
+    "url": "http://starlatino.tv:8880/get.php?username=betyy2026&password=CY7VzFRz6Nkx&type=m3u_plus",
+    "contrasena": "60302"
+  },
+    {
+    "nombre": "User-27",
+    "logo": "https://raw.githubusercontent.com/shundearies/skipperImg/refs/heads/main/9bd5dcaf-17c3-46f3-8b0e-30e539fb6ddc.jpeg",
+    "url": "http://starlatino.tv:8880/get.php?username=DigitalService264g&password=FJsKNVDBxFkV&type=m3u_plus",
+    "contrasena": "50183"
+  },
+    {
+    "nombre": "User-28",
+    "logo": "https://raw.githubusercontent.com/shundearies/skipperImg/refs/heads/main/9bd5dcaf-17c3-46f3-8b0e-30e539fb6ddc.jpeg",
+    "url": "http://starlatino.tv:8880/get.php?username=Gabrielaiptv&password=eLFChQ5Z2Pxb&type=m3u_plus",
+    "contrasena": "417"
+  },
+    {
+    "nombre": "User-29",
+    "logo": "https://raw.githubusercontent.com/shundearies/skipperImg/refs/heads/main/9bd5dcaf-17c3-46f3-8b0e-30e539fb6ddc.jpeg",
+    "url": "http://starlatino.tv:8880/get.php?username=yk294igg&password=bVg8sVWGRw8Z&type=m3u_plus",
+    "contrasena": "73002"
+  },
+    {
+    "nombre": "User-30",
+    "logo": "https://raw.githubusercontent.com/shundearies/skipperImg/refs/heads/main/9bd5dcaf-17c3-46f3-8b0e-30e539fb6ddc.jpeg",
+    "url": "http://starlatino.tv:8880/get.php?username=ahifuryfov&password=xQwzYeJX2DKn&type=m3u_plus",
+    "contrasena": "62800"
+  },
+    {
+    "nombre": "User-31",
+    "logo": "https://raw.githubusercontent.com/shundearies/skipperImg/refs/heads/main/9bd5dcaf-17c3-46f3-8b0e-30e539fb6ddc.jpeg",
+    "url": "http://starlatino.tv:8880/get.php?username=trenes400@@&password=R6N8RtwArj65&type=m3u_plus",
+    "contrasena": " "
+  },
+    {
+    "nombre": "User6-32",
+    "logo": "https://raw.githubusercontent.com/shundearies/skipperImg/refs/heads/main/9bd5dcaf-17c3-46f3-8b0e-30e539fb6ddc.jpeg",
+    "url": "http://starlatino.tv:8880/get.php?username=epjzxmnsuq&password=usCkEzksgBqf&type=m3u_plus",
+    "contrasena": "4901"
+  },
+    {
+    "nombre": "User-33",
+    "logo": "https://raw.githubusercontent.com/shundearies/skipperImg/refs/heads/main/9bd5dcaf-17c3-46f3-8b0e-30e539fb6ddc.jpeg",
+    "url": "http://starlatino.tv:8880/get.php?username=dashboat748&password=K3ByWgEsTgT9&type=m3u_plus",
+    "contrasena": "49020"
+  },
+    {
+    "nombre": "User-34",
+    "logo": "https://raw.githubusercontent.com/shundearies/skipperImg/refs/heads/main/9bd5dcaf-17c3-46f3-8b0e-30e539fb6ddc.jpeg",
+    "url": "http://starlatino.tv:8880/get.php?username=EVOSTREAM9229&password=52Z8SVsTL8yN&type=m3u_plus",
+    "contrasena": "62903"
+  },
+    {
+    "nombre": "User-35",
+    "logo": "https://raw.githubusercontent.com/shundearies/skipperImg/refs/heads/main/9bd5dcaf-17c3-46f3-8b0e-30e539fb6ddc.jpeg",
+    "url": "http://starlatino.tv:8880/get.php?username=iptv85k&password=WKLDCmnV3MgE&type=m3u_plus",
+    "contrasena": "59301"
+  },
+    {
+    "nombre": "User-36",
+    "logo": "https://raw.githubusercontent.com/shundearies/skipperImg/refs/heads/main/9bd5dcaf-17c3-46f3-8b0e-30e539fb6ddc.jpeg",
+    "url": "http://starlatino.tv:8880/get.php?username=mwJssd5kKXTw&password=3Wd8HdnusJKk&type=m3u_plus",
+    "contrasena": "5830"
+  },
+    {
+    "nombre": "User-37",
+    "logo": "https://raw.githubusercontent.com/shundearies/skipperImg/refs/heads/main/9bd5dcaf-17c3-46f3-8b0e-30e539fb6ddc.jpeg",
+    "url": "http://starlatino.tv:8880/get.php?username=RAGNAR-VIKING&password=VB5Khz9uyeSZ&type=m3u_plus",
+    "contrasena": "58303"
+  },
+    {
+    "nombre": "User-38",
+    "logo": "https://raw.githubusercontent.com/shundearies/skipperImg/refs/heads/main/9bd5dcaf-17c3-46f3-8b0e-30e539fb6ddc.jpeg",
+    "url": "http://starlatino.tv:8880/get.php?username=MR99hbk5jaCd&password=QYw8s3QwbDqv&type=m3u_plus",
+    "contrasena": "53068"
+  },
+    {
+    "nombre": "User-39",
+    "logo": "https://raw.githubusercontent.com/shundearies/skipperImg/refs/heads/main/9bd5dcaf-17c3-46f3-8b0e-30e539fb6ddc.jpeg",
+    "url": "http://starlatino.tv:8880/get.php?username=cliente108&password=tDMMbpxDQzjR&type=m3u_plus",
+    "contrasena": "5002"
+  },
+    {
+    "nombre": "User-40",
+    "logo": "https://raw.githubusercontent.com/shundearies/skipperImg/refs/heads/main/9bd5dcaf-17c3-46f3-8b0e-30e539fb6ddc.jpeg",
+    "url": "http://starlatino.tv:8880/get.php?username=94454476&password=Hm6kYkczdxj8&type=m3u_plus",
+    "contrasena": "08193"
+  },
+    {
+    "nombre": "User-41",
+    "logo": "https://raw.githubusercontent.com/shundearies/skipperImg/refs/heads/main/9bd5dcaf-17c3-46f3-8b0e-30e539fb6ddc.jpeg",
+    "url": "http://starlatino.tv:8880/get.php?username=gabriel0508&password=bV6HDAyPVEke&type=m3u_plus",
+    "contrasena": "0838"
+  },
+    {
+    "nombre": "User-42",
+    "logo": "https://raw.githubusercontent.com/shundearies/skipperImg/refs/heads/main/9bd5dcaf-17c3-46f3-8b0e-30e539fb6ddc.jpeg",
+    "url": "http://starlatino.tv:8880/get.php?username=UcGDft6shWQ5&password=ccvSCSCevhbS&type=m3u_plus",
+    "contrasena": "09389"
+  },
+    {
+    "nombre": "User-43",
+    "logo": "https://raw.githubusercontent.com/shundearies/skipperImg/refs/heads/main/9bd5dcaf-17c3-46f3-8b0e-30e539fb6ddc.jpeg",
+    "url": "http://starlatino.tv:8880/get.php?username=c559&password=ShMKyFDmMxdX&type=m3u_plus",
+    "contrasena": "03882"
+  },
+    {
+    "nombre": "User-44",
+    "logo": "https://raw.githubusercontent.com/shundearies/skipperImg/refs/heads/main/9bd5dcaf-17c3-46f3-8b0e-30e539fb6ddc.jpeg",
+    "url": "http://starlatino.tv:8880/get.php?username=iptv21sung&password=3bAeQEhnYqZm&type=m3u_plus",
+    "contrasena": "29407"
+  },
+    {
+    "nombre": "User-45",
+    "logo": "https://raw.githubusercontent.com/shundearies/skipperImg/refs/heads/main/9bd5dcaf-17c3-46f3-8b0e-30e539fb6ddc.jpeg",
+    "url": "http://starlatino.tv:8880/get.php?username=victor61@fz&password=2aerkUGjKK6u&type=m3u_plus",
+    "contrasena": "89202"
+  },
+    {
+    "nombre": "User-46",
+    "logo": "https://raw.githubusercontent.com/shundearies/skipperImg/refs/heads/main/9bd5dcaf-17c3-46f3-8b0e-30e539fb6ddc.jpeg",
+    "url": "http://starlatino.tv:8880/get.php?username=56933713395&password=3us6mmbdzXf7&type=m3u_plus",
+    "contrasena": "62010"
+  },
+    {
+    "nombre": "User-47",
+    "logo": "https://raw.githubusercontent.com/shundearies/skipperImg/refs/heads/main/9bd5dcaf-17c3-46f3-8b0e-30e539fb6ddc.jpeg",
+    "url": "http://starlatino.tv:8880/get.php?username=NJY64632&password=5Kj4zMfYYx9U&type=m3u_plus",
+    "contrasena": "41902"
+  },
+    {
+    "nombre": "User-48",
+    "logo": "https://raw.githubusercontent.com/shundearies/skipperImg/refs/heads/main/9bd5dcaf-17c3-46f3-8b0e-30e539fb6ddc.jpeg",
+    "url": "http://starlatino.tv:8880/get.php?username=Vxtream008&password=rVtzCbbDNrsu&type=m3u_plus",
+    "contrasena": "73903"
+  },
+    {
+    "nombre": "User-49",
+    "logo": "https://raw.githubusercontent.com/shundearies/skipperImg/refs/heads/main/9bd5dcaf-17c3-46f3-8b0e-30e539fb6ddc.jpeg",
+    "url": "http://starlatino.tv:8880/get.php?username=PREM382SK&password=PREM939H&type=m3u_plus",
+    "contrasena": "72902"
+  },
+    {
+    "nombre": "User-50",
+    "logo": "https://raw.githubusercontent.com/shundearies/skipperImg/refs/heads/main/9bd5dcaf-17c3-46f3-8b0e-30e539fb6ddc.jpeg",
+    "url": "http://starlatino.tv:8880/get.php?username=jhoncarbajal123&password=XjxZGVPeKBxL&type=m3u_plus",
+    "contrasena": "63925"
+  },
+    {
+    "nombre": "User-51",
+    "logo": "https://raw.githubusercontent.com/shundearies/skipperImg/refs/heads/main/9bd5dcaf-17c3-46f3-8b0e-30e539fb6ddc.jpeg",
+    "url": "http://starlatino.tv:8880/get.php?username=BH8tcrjLLJjh&password=627Z4uWrHeTB&type=m3u_plus",
+    "contrasena": "72903"
+  },
+    {
+    "nombre": "User-52",
+    "logo": "https://raw.githubusercontent.com/shundearies/skipperImg/refs/heads/main/9bd5dcaf-17c3-46f3-8b0e-30e539fb6ddc.jpeg",
+    "url": "http://starlatino.tv:8880/get.php?username=pruebaelvis9&password=5yqxzRdDuJxv&type=m3u_plus",
+    "contrasena": "73930"
+  },
+    {
+    "nombre": "User-53",
+    "logo": "https://raw.githubusercontent.com/shundearies/skipperImg/refs/heads/main/9bd5dcaf-17c3-46f3-8b0e-30e539fb6ddc.jpeg",
+    "url": "http://starlatino.tv:8880/get.php?username=Vizcocho87&password=wE5p7sqfcfVT&type=m3u_plus",
+    "contrasena": "6294"
+  },
+    {
+    "nombre": "User-54",
+    "logo": "https://raw.githubusercontent.com/shundearies/skipperImg/refs/heads/main/9bd5dcaf-17c3-46f3-8b0e-30e539fb6ddc.jpeg",
+    "url": "http://starlatino.tv:8880/get.php?username=Damiantomas33&password=bXmCmwY5QsvG&type=m3u_plus",
+    "contrasena": "01837"
+  },
+    {
+    "nombre": "User-55",
+    "logo": "https://raw.githubusercontent.com/shundearies/skipperImg/refs/heads/main/9bd5dcaf-17c3-46f3-8b0e-30e539fb6ddc.jpeg",
+    "url": "http://starlatino.tv:8880/get.php?username=tamara45953@839&password=857495937393&type=m3u_plus",
+    "contrasena": "63901"
+  },
+    {
+    "nombre": "User-56",
+    "logo": "https://raw.githubusercontent.com/shundearies/skipperImg/refs/heads/main/9bd5dcaf-17c3-46f3-8b0e-30e539fb6ddc.jpeg",
+    "url": "http://starlatino.tv:8880/get.php?username=4782&password=WctmTSGdLQGW&type=m3u_plus",
+    "contrasena": "74002"
+  },
+    {
+    "nombre": "User-57",
+    "logo": "https://raw.githubusercontent.com/shundearies/skipperImg/refs/heads/main/9bd5dcaf-17c3-46f3-8b0e-30e539fb6ddc.jpeg",
+    "url": "http://starlatino.tv:8880/get.php?username=MarceloGomez1&password=3upVtWTCprVP&type=m3u_plus",
+    "contrasena": "63902"
+  },
+    {
+    "nombre": "User-58",
+    "logo": "https://raw.githubusercontent.com/shundearies/skipperImg/refs/heads/main/9bd5dcaf-17c3-46f3-8b0e-30e539fb6ddc.jpeg",
+    "url": "http://starlatino.tv:8880/get.php?username=iptv2785rt&password=R8qC6aBJhNXf&type=m3u_plus",
+    "contrasena": "52040"
+  },
+    {
+    "nombre": "User-59",
+    "logo": "https://raw.githubusercontent.com/shundearies/skipperImg/refs/heads/main/9bd5dcaf-17c3-46f3-8b0e-30e539fb6ddc.jpeg",
+    "url": "http://starlatino.tv:8880/get.php?username=jonathang11&password=PKCr29tc6ryA&type=m3u_plus",
+    "contrasena": "51903"
+  },
+    {
+    "nombre": "User-60",
+    "logo": "https://raw.githubusercontent.com/shundearies/skipperImg/refs/heads/main/9bd5dcaf-17c3-46f3-8b0e-30e539fb6ddc.jpeg",
+    "url": "http://starlatino.tv:8880/get.php?username=Kali&password=d9SWqx3q2x5F&type=m3u_plus",
+    "contrasena": "530103"
+  },
+    {
+    "nombre": "User-61",
+    "logo": "https://raw.githubusercontent.com/shundearies/skipperImg/refs/heads/main/9bd5dcaf-17c3-46f3-8b0e-30e539fb6ddc.jpeg",
+    "url": "http://starlatino.tv:8880/get.php?username=lodd1010&password=nZaQhXJUE8tX&type=m3u_plus",
+    "contrasena": "51903"
+  },
+    {
+    "nombre": "User-62",
+    "logo": "https://raw.githubusercontent.com/shundearies/skipperImg/refs/heads/main/9bd5dcaf-17c3-46f3-8b0e-30e539fb6ddc.jpeg",
+    "url": "http://starlatino.tv:8880/get.php?username=mireme646&password=GE2eKum5tpfK&type=m3u_plus",
+    "contrasena": "62920"
+  },
+    {
+    "nombre": "User-63",
+    "logo": "https://raw.githubusercontent.com/shundearies/skipperImg/refs/heads/main/9bd5dcaf-17c3-46f3-8b0e-30e539fb6ddc.jpeg",
+    "url": "http://starlatino.tv:8880/get.php?username=Jenifer2026&password=qH4JmF2DwnXW&type=m3u_plus",
+    "contrasena": "63903"
+  },
+    {
+    "nombre": "User-64",
+    "logo": "https://raw.githubusercontent.com/shundearies/skipperImg/refs/heads/main/9bd5dcaf-17c3-46f3-8b0e-30e539fb6ddc.jpeg",
+    "url": "http://starlatino.tv:8880/get.php?username=EVELYNIPTVA&password=wzChgDRH47yP&type=m3u_plus",
+    "contrasena": "10307"
+  },
+    {
+    "nombre": "User-65",
+    "logo": "https://raw.githubusercontent.com/shundearies/skipperImg/refs/heads/main/9bd5dcaf-17c3-46f3-8b0e-30e539fb6ddc.jpeg",
+    "url": "http://starlatino.tv:8880/get.php?username=IPTV215&password=my6HW4aACsvp&type=m3u_plus",
+    "contrasena": "1903"
+  },
+    {
+    "nombre": "User-66",
+    "logo": "https://raw.githubusercontent.com/shundearies/skipperImg/refs/heads/main/9bd5dcaf-17c3-46f3-8b0e-30e539fb6ddc.jpeg",
+    "url": "http://starlatino.tv:8880/get.php?username=cxrDRmpsDQ3A&password=4RCHvN75gBEk&type=m3u_plus",
+    "contrasena": "7392"
+  },
+    {
+    "nombre": "User-67",
+    "logo": "https://raw.githubusercontent.com/shundearies/skipperImg/refs/heads/main/9bd5dcaf-17c3-46f3-8b0e-30e539fb6ddc.jpeg",
+    "url": "http://starlatino.tv:8880/get.php?username=cristiantobar1655iptv&password=Mpsq4ZPPq4nn&type=m3u_plus",
+    "contrasena": "73001"
+  },
+    {
+    "nombre": "User-68",
+    "logo": "https://raw.githubusercontent.com/shundearies/skipperImg/refs/heads/main/9bd5dcaf-17c3-46f3-8b0e-30e539fb6ddc.jpeg",
+    "url": "http://starlatino.tv:8880/get.php?username=Keno@29953&password=Jx862DCyLJwW&type=m3u_plus",
+    "contrasena": "72920"
+  },
+    {
+    "nombre": "User-69",
+    "logo": "https://raw.githubusercontent.com/shundearies/skipperImg/refs/heads/main/9bd5dcaf-17c3-46f3-8b0e-30e539fb6ddc.jpeg",
+    "url": "http://starlatino.tv:8880/get.php?username=sgxfickrzv&password=QXrTDuGxGmAG&type=m3u_plus",
+    "contrasena": "64001"
+  },
+    {
+    "nombre": "User-70",
+    "logo": "https://raw.githubusercontent.com/shundearies/skipperImg/refs/heads/main/9bd5dcaf-17c3-46f3-8b0e-30e539fb6ddc.jpeg",
+    "url": "http://starlatino.tv:8880/get.php?username=Ivan@Araya&password=nVcLtCwkcjkp&type=m3u_plus",
+    "contrasena": "7392"
+  },
+    {
+    "nombre": "User-71",
+    "logo": "https://raw.githubusercontent.com/shundearies/skipperImg/refs/heads/main/9bd5dcaf-17c3-46f3-8b0e-30e539fb6ddc.jpeg",
+    "url": "http://starlatino.tv:8880/get.php?username=Televisor951&password=CChdR8KHU6VY&type=m3u_plus",
+    "contrasena": "73925"
+  },
+    {
+    "nombre": "User6-72",
+    "logo": "https://raw.githubusercontent.com/shundearies/skipperImg/refs/heads/main/9bd5dcaf-17c3-46f3-8b0e-30e539fb6ddc.jpeg",
+    "url": "http://starlatino.tv:8880/get.php?username=euoixpaffu&password=Axr9J8k38EhE&type=m3u_plus",
+    "contrasena": "01839"
+  },
+    {
+    "nombre": "User-73",
+    "logo": "https://raw.githubusercontent.com/shundearies/skipperImg/refs/heads/main/9bd5dcaf-17c3-46f3-8b0e-30e539fb6ddc.jpeg",
+    "url": "http://starlatino.tv:8880/get.php?username=Coke1234&password=mjeXrGUG9VYW&type=m3u_plus",
+    "contrasena": "01839"
+  },
+    {
+    "nombre": "User-74",
+    "logo": "https://raw.githubusercontent.com/shundearies/skipperImg/refs/heads/main/9bd5dcaf-17c3-46f3-8b0e-30e539fb6ddc.jpeg",
+    "url": "http://starlatino.tv:8880/get.php?username=56961308298C&password=vXaqxqgbf8hV&type=m3u_plus",
+    "contrasena": "01836"
+  },
+    {
+    "nombre": "User-75",
+    "logo": "https://raw.githubusercontent.com/shundearies/skipperImg/refs/heads/main/9bd5dcaf-17c3-46f3-8b0e-30e539fb6ddc.jpeg",
+    "url": "http://starlatino.tv:8880/get.php?username=56986374490w&password=79PMsBtYfQke&type=m3u_plus",
+    "contrasena": "01839"
+  },
+    {
+    "nombre": "User-76",
+    "logo": "https://raw.githubusercontent.com/shundearies/skipperImg/refs/heads/main/9bd5dcaf-17c3-46f3-8b0e-30e539fb6ddc.jpeg",
+    "url": "http://starlatino.tv:8880/get.php?username=JuanHLeyton&password=KbEFFA8xkvkA&type=m3u_plus",
+    "contrasena": "02848"
+  },
+    {
+    "nombre": "User-77",
+    "logo": "https://raw.githubusercontent.com/shundearies/skipperImg/refs/heads/main/9bd5dcaf-17c3-46f3-8b0e-30e539fb6ddc.jpeg",
+    "url": "http://starlatino.tv:8880/get.php?username=2J7XtQYskptf&password=UsbUs9m9bhKd&type=m3u_plus",
+    "contrasena": "01735"
+  },
+    {
+    "nombre": "User-78",
+    "logo": "https://raw.githubusercontent.com/shundearies/skipperImg/refs/heads/main/9bd5dcaf-17c3-46f3-8b0e-30e539fb6ddc.jpeg",
+    "url": "http://starlatino.tv:8880/get.php?username=yfWkzS6jEBJ4&password=BSkbmD2kmcT9&type=m3u_plus",
+    "contrasena": "03727"
+  },
+    {
+    "nombre": "User-79",
+    "logo": "https://raw.githubusercontent.com/shundearies/skipperImg/refs/heads/main/9bd5dcaf-17c3-46f3-8b0e-30e539fb6ddc.jpeg",
+    "url": "http://starlatino.tv:8880/get.php?username=56994723467&password=aL2ZkfVGBm8B&type=m3u_plus",
+    "contrasena": "52903"
+  },
+    {
+    "nombre": "User-80",
+    "logo": "https://raw.githubusercontent.com/shundearies/skipperImg/refs/heads/main/9bd5dcaf-17c3-46f3-8b0e-30e539fb6ddc.jpeg",
+    "url": "http://starlatino.tv:8880/get.php?username=Gx55257544&password=2HKMTyppteGk&type=m3u_plus",
+    "contrasena": "82925"
+  },
+    {
+    "nombre": "User-81",
+    "logo": "https://raw.githubusercontent.com/shundearies/skipperImg/refs/heads/main/9bd5dcaf-17c3-46f3-8b0e-30e539fb6ddc.jpeg",
+    "url": "http://starlatino.tv:8880/get.php?username=Gx53887520&password=qH5APFMgZkck&type=m3u_plus",
+    "contrasena": "42903"
+  },
+    {
+    "nombre": "User-82",
+    "logo": "https://raw.githubusercontent.com/shundearies/skipperImg/refs/heads/main/9bd5dcaf-17c3-46f3-8b0e-30e539fb6ddc.jpeg",
+    "url": "http://starlatino.tv:8880/get.php?username=egHj9&password=r5ApaSbXhaG8&type=m3u_plus",
+    "contrasena": "610036"
+  },
+    {
+    "nombre": "User-83",
+    "logo": "https://raw.githubusercontent.com/shundearies/skipperImg/refs/heads/main/9bd5dcaf-17c3-46f3-8b0e-30e539fb6ddc.jpeg",
+    "url": "http://starlatino.tv:8880/get.php?username=elmerch15xt&password=6KaczYJh5LkM&type=m3u_plus",
+    "contrasena": "649018"
+  },
+    {
+    "nombre": "User-84",
+    "logo": "https://raw.githubusercontent.com/shundearies/skipperImg/refs/heads/main/9bd5dcaf-17c3-46f3-8b0e-30e539fb6ddc.jpeg",
+    "url": "http://starlatino.tv:8880/get.php?username=r2kVV6d9qq8w&password=aqJX4qJdRJqU&type=m3u_plus",
+    "contrasena": "639015"
+  },
+    {
+    "nombre": "User-85",
+    "logo": "https://raw.githubusercontent.com/shundearies/skipperImg/refs/heads/main/9bd5dcaf-17c3-46f3-8b0e-30e539fb6ddc.jpeg",
+    "url": "http://starlatino.tv:8880/get.php?username=Cv3NjjLHTbFj&password=zLCb9GRqcAym&type=m3u_plus",
+    "contrasena": "629305"
+  },
+    {
+    "nombre": "User-86",
+    "logo": "https://raw.githubusercontent.com/shundearies/skipperImg/refs/heads/main/9bd5dcaf-17c3-46f3-8b0e-30e539fb6ddc.jpeg",
+    "url": "http://starlatino.tv:8880/get.php?username=diaz65438&password=3tyfmy8XKFCW&type=m3u_plus",
+    "contrasena": "54017"
+  },
+    {
+    "nombre": "User-87",
+    "logo": "https://raw.githubusercontent.com/shundearies/skipperImg/refs/heads/main/9bd5dcaf-17c3-46f3-8b0e-30e539fb6ddc.jpeg",
+    "url": "http://starlatino.tv:8880/get.php?username=conexion2026us&password=rqc3Ecqbe7kH&type=m3u_plus",
+    "contrasena": "53910"
+  },
+    {
+    "nombre": "User-88",
+    "logo": "https://raw.githubusercontent.com/shundearies/skipperImg/refs/heads/main/9bd5dcaf-17c3-46f3-8b0e-30e539fb6ddc.jpeg",
+    "url": "http://starlatino.tv:8880/get.php?username=Javier2026&password=7j8c8xeHWy7z&type=m3u_plus",
+    "contrasena": "51893"
+  },
+    {
+    "nombre": "User-89",
+    "logo": "https://raw.githubusercontent.com/shundearies/skipperImg/refs/heads/main/9bd5dcaf-17c3-46f3-8b0e-30e539fb6ddc.jpeg",
+    "url": "http://starlatino.tv:8880/get.php?username=LETSA22&password=8f2THYyDmg6w&type=m3u_plus",
+    "contrasena": "29295"
+  },
+    {
+    "nombre": "User-90",
+    "logo": "https://raw.githubusercontent.com/shundearies/skipperImg/refs/heads/main/9bd5dcaf-17c3-46f3-8b0e-30e539fb6ddc.jpeg",
+    "url": "http://starlatino.tv:8880/get.php?username=JoseGallegos&password=CPpySVFgJHzz&type=m3u_plus",
+    "contrasena": "62839"
+  },
+    {
+    "nombre": "User-91",
+    "logo": "https://raw.githubusercontent.com/shundearies/skipperImg/refs/heads/main/9bd5dcaf-17c3-46f3-8b0e-30e539fb6ddc.jpeg",
+    "url": "http://starlatino.tv:8880/get.php?username=pvmxeoqhnb&password=3AURrxCWXZmW&type=m3u_plus",
+    "contrasena": "41803"
+  },
+    {
+    "nombre": "User-92",
+    "logo": "https://raw.githubusercontent.com/shundearies/skipperImg/refs/heads/main/9bd5dcaf-17c3-46f3-8b0e-30e539fb6ddc.jpeg",
+    "url": "http://starlatino.tv:8880/get.php?username=Jhonatanwow&password=5hS2JrUNHrGQ&type=m3u_plus",
+    "contrasena": "63001"
+  },
+    {
+    "nombre": "User-93",
+    "logo": "https://raw.githubusercontent.com/shundearies/skipperImg/refs/heads/main/9bd5dcaf-17c3-46f3-8b0e-30e539fb6ddc.jpeg",
+    "url": "http://starlatino.tv:8880/get.php?username=ugNaGNQHZATT&password=qRmvAEwz7KYW&type=m3u_plus",
+    "contrasena": "01873"
+  },
+    {
+    "nombre": "User-94",
+    "logo": "https://raw.githubusercontent.com/shundearies/skipperImg/refs/heads/main/9bd5dcaf-17c3-46f3-8b0e-30e539fb6ddc.jpeg",
+    "url": "http://starlatino.tv:8880/get.php?username=aP6QWCFV6QG7&password=regFUZVyw9VB&type=m3u_plus",
+    "contrasena": "73902"
+  },
+    {
+    "nombre": "User-95",
+    "logo": "https://raw.githubusercontent.com/shundearies/skipperImg/refs/heads/main/9bd5dcaf-17c3-46f3-8b0e-30e539fb6ddc.jpeg",
+    "url": "http://starlatino.tv:8880/get.php?username=36382638229&password=UTxZwzemqmHB&type=m3u_plus",
+    "contrasena": "63902"
+  },
+    {
+    "nombre": "User-96",
+    "logo": "https://raw.githubusercontent.com/shundearies/skipperImg/refs/heads/main/9bd5dcaf-17c3-46f3-8b0e-30e539fb6ddc.jpeg",
+    "url": "http://starlatino.tv:8880/get.php?username=Victor428&password=wrhzBsMQfJNS&type=m3u_plus",
+    "contrasena": "62902"
+  },
+    {
+    "nombre": "User-97",
+    "logo": "https://raw.githubusercontent.com/shundearies/skipperImg/refs/heads/main/9bd5dcaf-17c3-46f3-8b0e-30e539fb6ddc.jpeg",
+    "url": "http://starlatino.tv:8880/get.php?username=JuanV3567&password=kKV3mpTwEVV2&type=m3u_plus",
+    "contrasena": "63929"
+  },
+    {
+    "nombre": "User-98",
+    "logo": "https://raw.githubusercontent.com/shundearies/skipperImg/refs/heads/main/9bd5dcaf-17c3-46f3-8b0e-30e539fb6ddc.jpeg",
+    "url": "http://starlatino.tv:8880/get.php?username=56984192771f&password=M8Z4rxjNjT6c&type=m3u_plus",
+    "contrasena": "38409"
+  },
+    {
+    "nombre": "User-99",
+    "logo": "https://raw.githubusercontent.com/shundearies/skipperImg/refs/heads/main/9bd5dcaf-17c3-46f3-8b0e-30e539fb6ddc.jpeg",
+    "url": "http://starlatino.tv:8880/get.php?username=6qVSeWyk6EMJ&password=x3thC4qjKZcM&type=m3u_plus",
+    "contrasena": "73993"
+  },
+    {
+    "nombre": "User-100",
+    "logo": "https://raw.githubusercontent.com/shundearies/skipperImg/refs/heads/main/9bd5dcaf-17c3-46f3-8b0e-30e539fb6ddc.jpeg",
+    "url": "http://starlatino.tv:8880/get.php?username=MyMBj7bKVN3t&password=42HAKjtmMXZg&type=m3u_plus",
+    "contrasena": "01297"
   }
 ]
