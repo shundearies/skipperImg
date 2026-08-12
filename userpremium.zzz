@@ -38,7 +38,8 @@
   {
     "nombre": "User-7",
     "logo": "https://raw.githubusercontent.com/shundearies/skipperImg/refs/heads/main/9bd5dcaf-17c3-46f3-8b0e-30e539fb6ddc.jpeg",
-    "url": "http://starlatino.tv:8880/get.php?username=436584&password=kjBSSSAjfJrx&type=m3u_plus": "8390"
+    "url": "http://starlatino.tv:8880/get.php?username=436584&password=kjBSSSAjfJrx&type=m3u_plus",
+    "contrasena": "8390"
   },
     {
     "nombre": "User-8",
