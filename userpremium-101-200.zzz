@@ -3,7 +3,8 @@
     "nombre": "User-1",
     "logo": "https://raw.githubusercontent.com/shundearies/skipperImg/refs/heads/main/9bd5dcaf-17c3-46f3-8b0e-30e539fb6ddc.jpeg",
     "url": "http://mundocorp.pro:55577/get.php?username=Net.Pedrito&password=Camp26&type=m3u_plus",
-    "contrasena": "7391"
+    "contrasena": "7391",
+    "reproductor": "inapp_webview_player2"
   },
     {
     "nombre": "User-2",
