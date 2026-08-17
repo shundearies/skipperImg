@@ -1,57 +1,62 @@
 [
   {
     "nombre": "Cine horror",
-    "logo": "https://i0.wp.com/r",
+    "logo": "https://wwwimage-us.plutostatic.tv/thumbnails/photos/w400-q80/ptv/channels/5dcddf1ed95e740009fef7ab/solidLogoPNG_1730472485750.png?format=webp&trim=true",
     "url": "https://pluto.tv/live-tv/5dcddf1ed95e740009fef7ab"
+  },
+  {
+    "nombre": "Cine accion",
+    "logo": "https://wwwimage-us.plutostatic.tv/thumbnails/photos/w400-q80/ptv/channels/5dcb62e63d4d8f0009f36881/colorLogoPNG_1760378798093.png?format=webp&trim=true",
+    "url": "https://pluto.tv/latam/watch/live-tv/#29421"
   },
     {
     "nombre": "Cinema Estelar",
-    "logo": "https://images.pluto.tv/channels/5dcde437229eff00091b6c30/colorLogoSVG_1769014514491.svg",
+    "logo": "https://wwwimage-us.plutostatic.tv/thumbnails/photos/w400-q80/ptv/channels/5dcde437229eff00091b6c30/solidLogoPNG_1786125745855.png?format=webp&trim=true",
     "url": "https://pluto.tv/live-tv/5dcde437229eff00091b6c30"
   },
   {
     "nombre": "Estrellas de acción",
-    "logo": "https://i0.wp.com/r",
+    "logo": "https://wwwimage-us.plutostatic.tv/thumbnails/photos/w400-q80/ptv/channels/5e972a21ad709d00074195ba/solidLogoPNG.png?format=webp&trim=true",
     "url": "https://pluto.tv/live-tv/5e972a21ad709d00074195ba"
   },
     {
     "nombre": "Adrenalina Pura Tv",
-    "logo": "https://i0.wp.com/",
+    "logo": "https://wwwimage-us.plutostatic.tv/thumbnails/photos/w400-q80/ptv/channels/61b793ccf571b80007b7a610/solidLogoPNG.png?format=webp&trim=true",
     "url": "https://pluto.tv/live-tv/61b793ccf571b80007b7a610"
   },
   {
     "nombre": "Cine Comedia",
-    "logo": "https://i0.wp.com/r",
+    "logo": "https://wwwimage-us.plutostatic.tv/thumbnails/photos/w400-q80/ptv/channels/5dcdde78f080d900098550e4/solidLogoPNG_1762281944802.png?format=webp&trim=true",
     "url": "https://pluto.tv/live-tv/5dcdde78f080d900098550e4"
   },
     {
     "nombre": "Cine Drama",
-    "logo": "https://i0.wp.com/",
+    "logo": "https://wwwimage-us.plutostatic.tv/thumbnails/photos/w400-q80/ptv/channels/5dcddfcb229eff00091b6bdf/solidLogoPNG_1765466087404.png?format=webp&trim=true",
     "url": "https://pluto.tv/live-tv/5dcddfcb229eff00091b6bdf"
   },
   {
     "nombre": "Cine Romance",
-    "logo": "https://i0.wp.com/r",
+    "logo": "https://wwwimage-us.plutostatic.tv/thumbnails/photos/w400-q80/ptv/channels/5dd7ea2aeab5230009986735/solidLogoPNG.png?format=webp&trim=true",
     "url": "https://pluto.tv/live-tv/5dd7ea2aeab5230009986735"
   },
     {
     "nombre": "Cine Suspenso",
-    "logo": "https://i0.wp.com/",
+    "logo": "https://wwwimage-us.plutostatic.tv/thumbnails/photos/w400-q80/ptv/channels/5ddc4e8bcbb9010009b4e84f/solidLogoPNG.png?format=webp&trim=true",
     "url": "https://pluto.tv/live-tv/5ddc4e8bcbb9010009b4e84f"
   },
   {
     "nombre": "Cine Crimen",
-    "logo": "https://i0.wp.com/r",
+    "logo": "https://wwwimage-us.plutostatic.tv/thumbnails/photos/w400-q80/ptv/channels/624af40c004f8000079b784d/solidLogoPNG.png?format=webp&trim=true",
     "url": "https://pluto.tv/live-tv/624af40c004f8000079b784d"
   },
     {
     "nombre": "Ciencia Ficcion",
-    "logo": "https://i0.wp.com/",
+    "logo": "https://wwwimage-us.plutostatic.tv/thumbnails/photos/w400-q80/ptv/channels/5f2817d3d7573a00080f9175/solidLogoPNG.png?format=webp&trim=true",
     "url": "https://pluto.tv/live-tv/5f2817d3d7573a00080f9175"
   },
   {
     "nombre": "Run:time tv y peliculas",
-    "logo": "https://i0.wp.com/r",
+    "logo": "https://wwwimage-us.plutostatic.tv/thumbnails/photos/w400-q80/ptv/channels/62c5d80dc6de440007e033eb/solidLogoPNG.png?format=webp&trim=true",
     "url": "https://pluto.tv/live-tv/62c5d80dc6de440007e033eb"
   },
     {
@@ -61,22 +66,22 @@
   },
   {
     "nombre": "Cine Inspirador",
-    "logo": "https://i0.wp.com/r",
+    "logo": "https://wwwimage-us.plutostatic.tv/thumbnails/photos/w400-q80/ptv/channels/6806d519fea7414f33f57016/solidLogoPNG_1746817618439.png?format=webp&trim=true",
     "url": "https://pluto.tv/live-tv/6806d519fea7414f33f57016"
   },
     {
     "nombre": "A la Mexicana",
-    "logo": "https://i0.wp.com/",
+    "logo": "https://wwwimage-us.plutostatic.tv/thumbnails/photos/w400-q80/ptv/channels/5dfcde52d28b09000a42d7a2/solidLogoPNG.png?format=webp&trim=true",
     "url": "https://pluto.tv/latam/live-tv/5dfcde52d28b09000a42d7a2"
   },
   {
     "nombre": "Cine Clasico",
-    "logo": "https://i0.wp.com/r",
+    "logo": "https://wwwimage-us.plutostatic.tv/thumbnails/photos/w400-q80/ptv/channels/609059dc63be6e0007b4eca6/solidLogoPNG.png?format=webp&trim=true",
     "url": "https://pluto.tv/latam/live-tv/609059dc63be6e0007b4eca6"
   },
     {
     "nombre": "Cine Familia",
-    "logo": "https://i0.wp.com/",
+    "logo": "https://wwwimage-us.plutostatic.tv/thumbnails/photos/w400-q80/ptv/channels/5dd6ddb30a1d8a000908ed4c/solidLogoPNG_1785959252371.png?format=webp&trim=true",
     "url": "https://pluto.tv/latam/live-tv/5dd6ddb30a1d8a000908ed4c"
   },
   {
@@ -86,57 +91,57 @@
   },
     {
     "nombre": "Shockwave",
-    "logo": "https://i0.wp.com/",
+    "logo": "https://wwwimage-us.plutostatic.tv/thumbnails/photos/w400-q80/ptv/channels/68b784d03e17b7676a0378f7/solidLogoPNG_1760108952265.png?format=webp&trim=true",
     "url": "https://pluto.tv/latam/live-tv/68b784d03e17b7676a0378f7"
   },
   {
     "nombre": "Naturaleza",
-    "logo": "https://i0.wp.com/r",
+    "logo": "https://wwwimage-us.plutostatic.tv/thumbnails/photos/w400-q80/ptv/channels/5dd85eac039bba0009e86d1d/solidLogoPNG.png?format=webp&trim=true",
     "url": "https://pluto.tv/latam/live-tv/5dd85eac039bba0009e86d1d"
   },
     {
     "nombre": "Moustros de Rio",
-    "logo": "https://i0.wp.com/",
+    "logo": "https://wwwimage-us.plutostatic.tv/thumbnails/photos/w400-q80/ptv/channels/66a92375cd0d31000847b219/solidLogoPNG.png?format=webp&trim=true",
     "url": "https://pluto.tv/latam/live-tv/66a92375cd0d31000847b219"
   },
   {
     "nombre": "Nature Time",
-    "logo": "https://i0.wp.com/r",
+    "logo": "https://wwwimage-us.plutostatic.tv/thumbnails/photos/w400-q80/ptv/channels/681ba2729624e6275efe0044/solidLogoPNG_1746817067158.png?format=webp&trim=true",
     "url": "https://pluto.tv/latam/live-tv/681ba2729624e6275efe0044"
   },
     {
     "nombre": "Paisajes",
-    "logo": "https://i0.wp.com/",
+    "logo": "https://wwwimage-us.plutostatic.tv/thumbnails/photos/w400-q80/ptv/channels/5f4fed840a2764000720d966/solidLogoPNG.png?format=webp&trim=true",
     "url": "https://pluto.tv/latam/live-tv/5f4fed840a2764000720d966"
   },
   {
     "nombre": "El encantador de perros",
-    "logo": "https://i0.wp.com/r",
+    "logo": "https://wwwimage-us.plutostatic.tv/thumbnails/photos/w400-q80/ptv/channels/61099f2b40d0640007fc5aa2/solidLogoPNG.png?format=webp&trim=true",
     "url": "https://pluto.tv/latam/live-tv/61099f2b40d0640007fc5aa2"
   },
     {
     "nombre": "Aventura",
-    "logo": "https://i0.wp.com/",
+    "logo": "https://wwwimage-us.plutostatic.tv/thumbnails/photos/w400-q80/ptv/channels/5ddc266f80e3550009136843/solidLogoPNG.png?format=webp&trim=true",
     "url": "https://pluto.tv/latam/live-tv/5ddc266f80e3550009136843"
   },
   {
     "nombre": "Ice Pilots",
-    "logo": "https://i0.wp.com/r",
+    "logo": "https://wwwimage-us.plutostatic.tv/thumbnails/photos/w400-q80/ptv/channels/62154548a2be360007cb02f0/solidLogoPNG.png?format=webp&trim=true",
     "url": "https://pluto.tv/latam/live-tv/62154548a2be360007cb02f0"
   },
     {
     "nombre": "Velocidad",
-    "logo": "https://i0.wp.com/",
+    "logo": "https://wwwimage-us.plutostatic.tv/thumbnails/photos/w400-q80/ptv/channels/5dd6dc7480e3550009133d4a/solidLogoPNG.png?format=webp&trim=true",
     "url": "https://pluto.tv/latam/live-tv/5dd6dc7480e3550009133d4a"
   },
   {
     "nombre": "Obsecion por los autos",
-    "logo": "https://i0.wp.com/r",
+    "logo": "https://wwwimage-us.plutostatic.tv/thumbnails/photos/w400-q80/ptv/channels/64025592953da40008bf9238/solidLogoPNG.png?format=webp&trim=true",
     "url": "https://pluto.tv/latam/live-tv/64025592953da40008bf9238"
   },
     {
     "nombre": "Mi coche clasico",
-    "logo": "https://i0.wp.com/",
+    "logo": "https://wwwimage-us.plutostatic.tv/thumbnails/photos/w400-q80/ptv/channels/656e2536fbc15b00084ae29d/solidLogoPNG.png?format=webp&trim=true",
     "url": "https://pluto.tv/latam/live-tv/656e2536fbc15b00084ae29d"
   },
   {
@@ -146,237 +151,237 @@
   },
     {
     "nombre": "Vida real",
-    "logo": "https://i0.wp.com/",
+    "logo": "https://wwwimage-us.plutostatic.tv/thumbnails/photos/w400-q80/ptv/channels/5df265697ec3510009df1ef0/solidLogoPNG_1732044810641.png?format=webp&trim=true",
     "url": "https://pluto.tv/latam/live-tv/5df265697ec3510009df1ef0"
   },
   {
     "nombre": "Cops",
-    "logo": "https://i0.wp.com/r",
+    "logo": "https://wwwimage-us.plutostatic.tv/thumbnails/photos/w400-q80/ptv/channels/6419ab7c9189ce000865a469/solidLogoPNG.png?format=webp&trim=true",
     "url": "https://pluto.tv/latam/live-tv/6419ab7c9189ce000865a469"
   },
     {
     "nombre": "Dogs el cazarecompensas",
-    "logo": "https://i0.wp.com/",
+    "logo": "https://wwwimage-us.plutostatic.tv/thumbnails/photos/w400-q80/ptv/channels/5f9992c685a2a80007fa414a/solidLogoPNG.png?format=webp&trim=true",
     "url": "https://pluto.tv/latam/live-tv/5f9992c685a2a80007fa414a"
   },
   {
     "nombre": "Mi obsesión Favorita",
-    "logo": "https://i0.wp.com/r",
+    "logo": "https://wwwimage-us.plutostatic.tv/thumbnails/photos/w400-q80/ptv/channels/6109ab25b84d6a0007504886/solidLogoPNG.png?format=webp&trim=true",
     "url": "https://pluto.tv/latam/live-tv/6109ab25b84d6a0007504886"
   },
     {
     "nombre": "I shouldn't Be a live",
-    "logo": "https://i0.wp.com/",
+    "logo": "https://wwwimage-us.plutostatic.tv/thumbnails/photos/w400-q80/ptv/channels/69fcaaa1853a01a827bcd056/solidLogoPNG_1778856115341.png?format=webp&trim=true",
     "url": "https://pluto.tv/latam/live-tv/69fcaaa1853a01a827bcd056"
   },
   {
     "nombre": "Untold stories of the ER",
-    "logo": "https://i0.wp.com/r",
+    "logo": "https://wwwimage-us.plutostatic.tv/thumbnails/photos/w400-q80/ptv/channels/678533155e0e6a000828cd48/solidLogoPNG.png?format=webp&trim=true",
     "url": "https://pluto.tv/latam/live-tv/678533155e0e6a000828cd48"
   },
     {
     "nombre": "Misterios Medicos",
-    "logo": "https://i0.wp.com/",
+    "logo": "https://wwwimage-us.plutostatic.tv/thumbnails/photos/w400-q80/ptv/channels/5f230e416b68ff00075b0139/solidLogoPNG.png?format=webp&trim=true",
     "url": "https://pluto.tv/latam/live-tv/5f230e416b68ff00075b0139"
   },
   {
     "nombre": "Smith sonian Channel",
-    "logo": "https://i0.wp.com/r",
+    "logo": "https://wwwimage-us.plutostatic.tv/thumbnails/photos/w400-q80/ptv/channels/63a084934734f30007457b2c/solidLogoPNG.png?format=webp&trim=true",
     "url": "https://pluto.tv/latam/live-tv/63a084934734f30007457b2c"
   },
     {
     "nombre": "Historia",
-    "logo": "https://i0.wp.com/",
+    "logo": "https://wwwimage-us.plutostatic.tv/thumbnails/photos/w400-q80/ptv/channels/5de5758e1a30dc00094fcd6c/solidLogoPNG.png?format=webp&trim=true",
     "url": "https://pluto.tv/latam/live-tv/5de5758e1a30dc00094fcd6c"
   },
   {
     "nombre": "Series de crime",
-    "logo": "https://i0.wp.com/r",
+    "logo": "https://wwwimage-us.plutostatic.tv/thumbnails/photos/w400-q80/ptv/channels/655f62ff954b020008c91ec6/solidLogoPNG.png?format=webp&trim=true",
     "url": "https://pluto.tv/latam/live-tv/655f62ff954b020008c91ec6"
   },
     {
     "nombre": "CSI:MIAMI",
-    "logo": "https://i0.wp.com/",
+    "logo": "https://wwwimage-us.plutostatic.tv/thumbnails/photos/w400-q80/ptv/channels/63eb9255c111bc0008fe6ec4/solidLogoPNG.png?format=webp&trim=true",
     "url": "https://pluto.tv/latam/live-tv/63eb9255c111bc0008fe6ec4"
   },
   {
     "nombre": "NCSI",
-    "logo": "https://i0.wp.com/r",
+    "logo": "https://wwwimage-us.plutostatic.tv/thumbnails/photos/w400-q80/ptv/channels/63eb947c4e83e70008ab877b/solidLogoPNG.png?format=webp&trim=true",
     "url": "https://pluto.tv/latam/live-tv/63eb947c4e83e70008ab877b"
   },
     {
     "nombre": "Los asesinatos de MidSomer",
-    "logo": "https://i0.wp.com/",
+    "logo": "https://wwwimage-us.plutostatic.tv/thumbnails/photos/w400-q80/ptv/channels/6764203df433320008836bc6/solidLogoPNG.png?format=webp&trim=true",
     "url": "https://pluto.tv/latam/live-tv/6764203df433320008836bc6"
   },
   {
     "nombre": "Numbers",
-    "logo": "https://i0.wp.com/r",
+    "logo": "https://wwwimage-us.plutostatic.tv/thumbnails/photos/w400-q80/ptv/channels/67f960680072d6b187a0682e/solidLogoPNG_1747415112501.png?format=webp&trim=true",
     "url": "https://pluto.tv/latam/live-tv/67f960680072d6b187a0682e"
   },
     {
     "nombre": "Series de accion",
-    "logo": "https://i0.wp.com/",
+    "logo": "https://wwwimage-us.plutostatic.tv/thumbnails/photos/w400-q80/ptv/channels/6479ff1c17f5e10008ad2797/solidLogoPNG.png?format=webp&trim=true",
     "url": "https://pluto.tv/latam/live-tv/6479ff1c17f5e10008ad2797"
   },
   {
     "nombre": "Rookie Blue",
-    "logo": "https://i0.wp.com/r",
+    "logo": "https://wwwimage-us.plutostatic.tv/thumbnails/photos/w400-q80/ptv/channels/64ff270f30ab3300084e259c/solidLogoPNG.png?format=webp&trim=true",
     "url": "https://pluto.tv/latam/live-tv/64ff270f30ab3300084e259c"
   },
     {
     "nombre": "The Walking Dead",
-    "logo": "https://i0.wp.com/",
+    "logo": "https://wwwimage-us.plutostatic.tv/thumbnails/photos/w400-q80/ptv/channels/678aa0b3680721c77c5035dd/colorLogoPNG.png?format=webp&trim=true",
     "url": "https://pluto.tv/latam/live-tv/678aa0b3680721c77c5035dd"
   },
   {
     "nombre": "star Trek",
-    "logo": "https://i0.wp.com/r",
+    "logo": "https://wwwimage-us.plutostatic.tv/thumbnails/photos/w400-q80/ptv/channels/5ec5761aabe4690007f6e047/solidLogoPNG_1753988442589.png?format=webp&trim=true",
     "url": "https://pluto.tv/latam/live-tv/5ec5761aabe4690007f6e047"
   },
     {
     "nombre": "Series de ciencia ficcion",
-    "logo": "https://i0.wp.com/",
+    "logo": "https://wwwimage-us.plutostatic.tv/thumbnails/photos/w400-q80/ptv/channels/65662f8a2c46f300088a84cc/solidLogoPNG.png?format=webp&trim=true",
     "url": "https://pluto.tv/latam/live-tv/65662f8a2c46f300088a84cc"
   },
   {
     "nombre": "Z nation",
-    "logo": "https://i0.wp.com/r",
+    "logo": "https://wwwimage-us.plutostatic.tv/thumbnails/photos/w400-q80/ptv/channels/66b3af1c3a4ad200081c7d03/solidLogoPNG.png?format=webp&trim=true",
     "url": "https://pluto.tv/latam/live-tv/66b3af1c3a4ad200081c7d03"
   },
     {
     "nombre": "Relic Hunter",
-    "logo": "https://i0.wp.com/",
+    "logo": "https://wwwimage-us.plutostatic.tv/thumbnails/photos/w400-q80/ptv/channels/67e5941f0812459cb682d9c6/solidLogoPNG_1745511573043.png?format=webp&trim=true",
     "url": "https://pluto.tv/latam/live-tv/67e5941f0812459cb682d9c6"
   },
   {
     "nombre": "Series",
-    "logo": "https://i0.wp.com/r",
+    "logo": "https://wwwimage-us.plutostatic.tv/thumbnails/photos/w400-q80/ptv/channels/5dcde1317578340009b751d0/solidLogoPNG.png?format=webp&trim=true",
     "url": "https://pluto.tv/latam/live-tv/5dcde1317578340009b751d0"
   },
     {
     "nombre": "Series de comedia",
-    "logo": "https://i0.wp.com/",
+    "logo": "https://wwwimage-us.plutostatic.tv/thumbnails/photos/w400-q80/ptv/channels/655f626d57fe4a00085c7c3e/solidLogoPNG.png?format=webp&trim=true",
     "url": "https://pluto.tv/latam/live-tv/655f626d57fe4a00085c7c3e"
   },
   {
     "nombre": "Series de Drama",
-    "logo": "https://i0.wp.com/r",
+    "logo": "https://wwwimage-us.plutostatic.tv/thumbnails/photos/w400-q80/ptv/channels/655f636d954b020008c93299/solidLogoPNG_1765466171343.png?format=webp&trim=true",
     "url": "https://pluto.tv/latam/live-tv/655f636d954b020008c93299"
   },
     {
     "nombre": "Series de otros continentes",
-    "logo": "https://i0.wp.com/",
+    "logo": "https://wwwimage-us.plutostatic.tv/thumbnails/photos/w400-q80/ptv/channels/6806d570c178637410ae4962/solidLogoPNG_1765466496602.png?format=webp&trim=true",
     "url": "https://pluto.tv/latam/live-tv/6806d570c178637410ae4962"
   },
   {
     "nombre": "Dramas coreanos",
-    "logo": "https://i0.wp.com/r",
+    "logo": "https://wwwimage-us.plutostatic.tv/thumbnails/photos/w400-q80/ptv/channels/6185a9a88b2ce30007de5128/solidLogoPNG_1765467371603.png?format=webp&trim=true",
     "url": "https://pluto.tv/latam/live-tv/6185a9a88b2ce30007de5128"
   },
     {
     "nombre": "Dramas Coreanos Reens",
-    "logo": "https://i0.wp.com/",
+    "logo": "https://wwwimage-us.plutostatic.tv/thumbnails/photos/w400-q80/ptv/channels/6661d5424b10960008599fa3/solidLogoPNG_1765467438253.png?format=webp&trim=true",
     "url": "https://pluto.tv/latam/live-tv/6661d5424b10960008599fa3"
   },
   {
     "nombre": "Canal de drana",
-    "logo": "https://i0.wp.com/r",
+    "logo": "https://wwwimage-us.plutostatic.tv/thumbnails/photos/w400-q80/ptv/channels/639751f81a36b400072b8f5a/solidLogoPNG.png?format=webp&trim=true",
     "url": "https://pluto.tv/latam/live-tv/639751f81a36b400072b8f5a"
   },
     {
     "nombre": "Series Latinas",
-    "logo": "https://i0.wp.com/",
+    "logo": "https://wwwimage-us.plutostatic.tv/thumbnails/photos/w400-q80/ptv/channels/5dd837642c6e9300098ad484/solidLogoPNG.png?format=webp&trim=true",
     "url": "https://pluto.tv/latam/live-tv/5dd837642c6e9300098ad484"
   },
   {
     "nombre": "Misterios",
-    "logo": "https://i0.wp.com/r",
+    "logo": "https://wwwimage-us.plutostatic.tv/thumbnails/photos/w400-q80/ptv/channels/5dcde2f53449c50009b2b4dc/colorLogoPNG.png?format=webp&trim=true",
     "url": "https://pluto.tv/latam/live-tv/5dcde2f53449c50009b2b4dc"
   },
     {
     "nombre": "Historias de Ultratumba",
-    "logo": "https://i0.wp.com/",
+    "logo": "https://wwwimage-us.plutostatic.tv/thumbnails/photos/w400-q80/ptv/channels/5f4d3696d938c900072679fd/solidLogoPNG.png?format=webp&trim=true",
     "url": "https://pluto.tv/latam/live-tv/5f4d3696d938c900072679fd"
   },
   {
     "nombre": "Archivos Extraterrestres",
-    "logo": "https://i0.wp.com/r",
+    "logo": "https://wwwimage-us.plutostatic.tv/thumbnails/photos/w400-q80/ptv/channels/645d1abbe1979c0008779d5a/solidLogoPNG.png?format=webp&trim=true",
     "url": "https://pluto.tv/latam/live-tv/645d1abbe1979c0008779d5a"
   },
     {
     "nombre": "Investiga",
-    "logo": "https://i0.wp.com/",
+    "logo": "https://wwwimage-us.plutostatic.tv/thumbnails/photos/w400-q80/ptv/channels/5dcde27ffae9520009c0c75a/solidLogoPNG.png?format=webp&trim=true",
     "url": "https://pluto.tv/latam/live-tv/5dcde27ffae9520009c0c75a"
   },
   {
     "nombre": "Cazador de Homicidas",
-    "logo": "https://i0.wp.com/r",
+    "logo": "https://wwwimage-us.plutostatic.tv/thumbnails/photos/w400-q80/ptv/channels/6109a9f5531b840007a4a187/solidLogoPNG.png?format=webp&trim=true",
     "url": "https://pluto.tv/latam/live-tv/6109a9f5531b840007a4a187"
   },
     {
     "nombre": "Zona investgacion Tv",
-    "logo": "https://i0.wp.com/",
+    "logo": "https://wwwimage-us.plutostatic.tv/thumbnails/photos/w400-q80/ptv/channels/680bdaf54d7cf165c705f91e/solidLogoPNG_1749054652199.png?format=webp&trim=true",
     "url": "https://pluto.tv/latam/live-tv/680bdaf54d7cf165c705f91e"
   },
   {
     "nombre": "Los archivos FBI",
-    "logo": "https://i0.wp.com/r",
+    "logo": "https://wwwimage-us.plutostatic.tv/thumbnails/photos/w400-q80/ptv/channels/5e67d41b93312100076f3fca/solidLogoPNG.png?format=webp&trim=true",
     "url": "https://pluto.tv/latam/live-tv/5e67d41b93312100076f3fca"
   },
     {
     "nombre": "Archivos Forences",
-    "logo": "https://i0.wp.com/",
+    "logo": "https://wwwimage-us.plutostatic.tv/thumbnails/photos/w400-q80/ptv/channels/5efb8c19b2678b000780d032/solidLogoPNG.png?format=webp&trim=true",
     "url": "https://pluto.tv/latam/live-tv/5efb8c19b2678b000780d032"
   },
   {
     "nombre": "Dr.:G",
-    "logo": "https://i0.wp.com/r",
+    "logo": "https://wwwimage-us.plutostatic.tv/thumbnails/photos/w400-q80/ptv/channels/697c9bc2a7ce9d5a3d83504a/solidLogoPNG_1771861519995.png?format=webp&trim=true",
     "url": "https://pluto.tv/latam/live-tv/697c9bc2a7ce9d5a3d83504a"
   },
     {
     "nombre": "The new Detectives",
-    "logo": "https://i0.wp.com/",
+    "logo": "https://wwwimage-us.plutostatic.tv/thumbnails/photos/w400-q80/ptv/channels/5ea71d48af1d0b0007d837f4/solidLogoPNG.png?format=webp&trim=true",
     "url": "https://pluto.tv/latam/live-tv/5ea71d48af1d0b0007d837f4"
   },
   {
     "nombre": "Misterios sin resolver",
-    "logo": "https://i0.wp.com/r",
+    "logo": "https://wwwimage-us.plutostatic.tv/thumbnails/photos/w400-q80/ptv/channels/5f610042272f68000867685b/solidLogoPNG.png?format=webp&trim=true",
     "url": "https://pluto.tv/latam/live-tv/5f610042272f68000867685b"
   },
     {
     "nombre": "CBS News 24/7",
-    "logo": "https://i0.wp.com/",
+    "logo": "https://wwwimage-us.plutostatic.tv/thumbnails/photos/w400-q80/ptv/channels/62310d5a5dc9550007c6f580/solidLogoPNG_1778002301638.png?format=webp&trim=true",
     "url": "https://pluto.tv/latam/live-tv/62310d5a5dc9550007c6f580"
   },
   {
     "nombre": "Euro News",
-    "logo": "https://i0.wp.com/r",
+    "logo": "https://wwwimage-us.plutostatic.tv/thumbnails/photos/w400-q80/ptv/channels/619d59b7cbef25000728221c/solidLogoPNG_1781045575622.png?format=webp&trim=true",
     "url": "https://pluto.tv/latam/live-tv/619d59b7cbef25000728221c"
   },
     {
     "nombre": "RC Noticias",
-    "logo": "https://i0.wp.com/",
+    "logo": "https://wwwimage-us.plutostatic.tv/thumbnails/photos/w400-q80/ptv/channels/67d9b0ebc290c9499046e88f/solidLogoPNG_1747143719423.png?format=webp&trim=true",
     "url": "https://pluto.tv/latam/live-tv/67d9b0ebc290c9499046e88f"
   },
   {
     "nombre": "ADN Noticias",
-    "logo": "https://i0.wp.com/r",
+    "logo": "https://wwwimage-us.plutostatic.tv/thumbnails/photos/w400-q80/ptv/channels/646ccd3681844c000974d6f4/solidLogoPNG_1761233564713.png?format=webp&trim=true",
     "url": "https://pluto.tv/latam/live-tv/646ccd3681844c000974d6f4"
   },
     {
     "nombre": "Teleformula",
-    "logo": "https://i0.wp.com/",
+    "logo": "https://wwwimage-us.plutostatic.tv/thumbnails/photos/w400-q80/ptv/channels/63d2c140c111bc0008cb890b/solidLogoPNG.png?format=webp&trim=true",
     "url": "https://pluto.tv/latam/live-tv/63d2c140c111bc0008cb890b"
   },
   {
     "nombre": "Milenio Noticias",
-    "logo": "https://i0.wp.com/r",
+    "logo": "https://wwwimage-us.plutostatic.tv/thumbnails/photos/w400-q80/ptv/channels/652e922db4b047000825f975/solidLogoPNG.png?format=webp&trim=true",
     "url": "https://pluto.tv/latam/live-tv/652e922db4b047000825f975"
   },
     {
     "nombre": "C4 en alerta",
-    "logo": "https://i0.wp.com/",
+    "logo": "https://wwwimage-us.plutostatic.tv/thumbnails/photos/w400-q80/ptv/channels/673f7446030a2c0008231bc3/solidLogoPNG.png?format=webp&trim=true",
     "url": "https://pluto.tv/latam/live-tv/673f7446030a2c0008231bc3"
   },
   {
@@ -386,27 +391,27 @@
   },
     {
     "nombre": "Deportes",
-    "logo": "https://i0.wp.com/",
+    "logo": "https://wwwimage-us.plutostatic.tv/thumbnails/photos/w400-q80/ptv/channels/5dcde07af1c85b0009b18651/solidLogoPNG_1766080575034.png?format=webp&trim=true",
     "url": "https://pluto.tv/latam/live-tv/5dcde07af1c85b0009b18651"
   },
   {
     "nombre": "Tv Azteca Deportes",
-    "logo": "https://i0.wp.com/r",
+    "logo": "https://wwwimage-us.plutostatic.tv/thumbnails/photos/w400-q80/ptv/channels/65cf60d166eec80008724e6f/solidLogoPNG.png?format=webp&trim=true",
     "url": "https://pluto.tv/latam/live-tv/65cf60d166eec80008724e6f"
   },
     {
     "nombre": "Claro Sports",
-    "logo": "https://i0.wp.com/",
+    "logo": "https://wwwimage-us.plutostatic.tv/thumbnails/photos/w400-q80/ptv/channels/6320d2755e54db000783fd87/solidLogoPNG_1770389965710.png?format=webp&trim=true",
     "url": "https://pluto.tv/latam/live-tv/6320d2755e54db000783fd87"
   },
     {
     "nombre": "ITV Deportes",
-    "logo": "https://i0.wp.com/",
+    "logo": "https://wwwimage-us.plutostatic.tv/thumbnails/photos/w400-q80/ptv/channels/63f7e3f9dff38e00082a57af/solidLogoPNG.png?format=webp&trim=true",
     "url": "https://pluto.tv/latam/live-tv/63f7e3f9dff38e00082a57af"
   },
     {
     "nombre": "Peleas",
-    "logo": "https://i0.wp.com/",
+    "logo": "https://wwwimage-us.plutostatic.tv/thumbnails/photos/w400-q80/ptv/channels/5e98b0447665f200078caded/solidLogoPNG.png?format=webp&trim=true",
     "url": "https://pluto.tv/latam/live-tv/5e98b0447665f200078caded"
   },
     {
@@ -426,12 +431,12 @@
   },
     {
     "nombre": "UFC Channel",
-    "logo": "https://i0.wp.com/",
+    "logo": "https://wwwimage-us.plutostatic.tv/thumbnails/photos/w400-q80/ptv/channels/67a52cd4ec91870008a62164/solidLogoPNG_1772733104958.png?format=webp&trim=true",
     "url": "https://pluto.tv/latam/live-tv/67a52cd4ec91870008a62164"
   },
     {
     "nombre": "FIFA PLUS",
-    "logo": "https://i0.wp.com/",
+    "logo": "https://wwwimage-us.plutostatic.tv/thumbnails/photos/w400-q80/ptv/channels/66997d18a1b69e00082ee85f/solidLogoPNG_1749841167714.png?format=webp&trim=true",
     "url": "https://pluto.tv/latam/live-tv/66997d18a1b69e00082ee85f"
   },
     {
@@ -441,407 +446,407 @@
   },
     {
     "nombre": "Red Bull Tv",
-    "logo": "https://i0.wp.com/",
+    "logo": "https://wwwimage-us.plutostatic.tv/thumbnails/photos/w400-q80/ptv/channels/67813f893886aa863497733d/solidLogoPNG.png?format=webp&trim=true",
     "url": "https://pluto.tv/latam/live-tv/67813f893886aa863497733d"
   },
     {
     "nombre": "South Park Cartman",
-    "logo": "https://i0.wp.com/",
+    "logo": "https://wwwimage-us.plutostatic.tv/thumbnails/photos/w400-q80/ptv/channels/65df731cec9fda0008b7aa8d/solidLogoPNG.png?format=webp&trim=true",
     "url": "https://pluto.tv/live-tv/65df731cec9fda0008b7aa8d"
   },
     {
     "nombre": "South park coleccion kenny",
-    "logo": "https://i0.wp.com/",
+    "logo": "https://wwwimage-us.plutostatic.tv/thumbnails/photos/w400-q80/ptv/channels/65df7272ec9fda0008b7a970/solidLogoPNG.png?format=webp&trim=true",
     "url": "https://pluto.tv/live-tv/65df7272ec9fda0008b7a970"
   },
     {
     "nombre": "South park Coleccion kely",
-    "logo": "https://i0.wp.com/",
+    "logo": "https://wwwimage-us.plutostatic.tv/thumbnails/photos/w400-q80/ptv/channels/65df73520d4561000817c29b/solidLogoPNG.png?format=webp&trim=true",
     "url": "https://pluto.tv/live-tv/65df73520d4561000817c29b"
   },
     {
     "nombre": "South Park Coleccion Stan",
-    "logo": "https://i0.wp.com/",
+    "logo": "https://wwwimage-us.plutostatic.tv/thumbnails/photos/w400-q80/ptv/channels/65df72db18036500081a8292/solidLogoPNG.png?format=webp&trim=true",
     "url": "https://pluto.tv/live-tv/65df72db18036500081a8292"
   },
     {
     "nombre": "Comedy central South Park",
-    "logo": "https://i0.wp.com/",
+    "logo": "https://wwwimage-us.plutostatic.tv/thumbnails/photos/w400-q80/ptv/channels/609ae5cd48d3200007b0a98e/solidLogoPNG_1764595225705.png?format=webp&trim=true",
     "url": "https://pluto.tv/live-tv/609ae5cd48d3200007b0a98e"
   },
     {
     "nombre": "Daria",
-    "logo": "https://i0.wp.com/",
+    "logo": "https://wwwimage-us.plutostatic.tv/thumbnails/photos/w400-q80/ptv/channels/62d0895ebe7a970008785244/solidLogoPNG.png?format=webp&trim=true",
     "url": "https://pluto.tv/live-tv/62d0895ebe7a970008785244"
   },
     {
     "nombre": "La familia Barrio",
-    "logo": "https://i0.wp.com/",
+    "logo": "https://wwwimage-us.plutostatic.tv/thumbnails/photos/w400-q80/ptv/channels/62d08af527ce19000731eaa0/solidLogoPNG.png?format=webp&trim=true",
     "url": "https://pluto.tv/live-tv/62d08af527ce19000731eaa0"
   },
     {
     "nombre": "Mr Bean",
-    "logo": "https://i0.wp.com/",
+    "logo": "https://wwwimage-us.plutostatic.tv/thumbnails/photos/w400-q80/ptv/channels/69fca9f9b9c0f0d444f631ca/solidLogoPNG_1778514521886.png?format=webp&trim=true",
     "url": "https://pluto.tv/live-tv/69fca9f9b9c0f0d444f631ca"
   },
     {
     "nombre": "Enchufe Tv",
-    "logo": "https://i0.wp.com/",
+    "logo": "https://wwwimage-us.plutostatic.tv/thumbnails/photos/w400-q80/ptv/channels/699763d184235f26d5056002/solidLogoPNG_1773232255595.png?format=webp&trim=true",
     "url": "https://pluto.tv/live-tv/699763d184235f26d5056002"
   },
     {
     "nombre": "Humor",
-    "logo": "https://i0.wp.com/",
+    "logo": "https://wwwimage-us.plutostatic.tv/thumbnails/photos/w400-q80/ptv/channels/5e8397936791b30007ebb5a7/solidLogoPNG.png?format=webp&trim=true",
     "url": "https://pluto.tv/live-tv/5e8397936791b30007ebb5a7"
   },
     {
-    "nombre": "COmedy central",
-    "logo": "https://i0.wp.com/",
+    "nombre": "Comedy central",
+    "logo": "https://wwwimage-us.plutostatic.tv/thumbnails/photos/w400-q80/ptv/channels/5ffcc21a432945000762d06b/solidLogoPNG_1762352082465.png?format=webp&trim=true",
     "url": "https://pluto.tv/live-tv/5ffcc21a432945000762d06b"
   },
     {
     "nombre": "Failarmy",
-    "logo": "https://i0.wp.com/",
+    "logo": "https://wwwimage-us.plutostatic.tv/thumbnails/photos/w400-q80/ptv/channels/5ebaccf1734aaf0007142c86/solidLogoPNG.png?format=webp&trim=true",
     "url": "https://pluto.tv/live-tv/5ebaccf1734aaf0007142c86"
   },
     {
     "nombre": "The pets collective",
-    "logo": "https://i0.wp.com/",
+    "logo": "https://wwwimage-us.plutostatic.tv/thumbnails/photos/w400-q80/ptv/channels/5ebacbcae43a6d000787b88e/solidLogoPNG.png?format=webp&trim=true",
     "url": "https://pluto.tv/live-tv/5ebacbcae43a6d000787b88e"
   },
     {
     "nombre": "Bromas Gags",
-    "logo": "https://i0.wp.com/",
+    "logo": "https://wwwimage-us.plutostatic.tv/thumbnails/photos/w400-q80/ptv/channels/678029c654f43dad4b5c1ec0/solidLogoPNG.png?format=webp&trim=true",
     "url": "https://pluto.tv/live-tv/678029c654f43dad4b5c1ec0"
   },
     {
     "nombre": "El gran hermano repeticion",
-    "logo": "https://i0.wp.com/",
+    "logo": "https://wwwimage-us.plutostatic.tv/thumbnails/photos/w400-q80/ptv/channels/6320ddef274b1b0007b2ee88/solidLogoPNG_1762821727370.png?format=webp&trim=true",
     "url": "https://pluto.tv/live-tv/6320ddef274b1b0007b2ee88"
   },
     {
     "nombre": "Azteca Uno -1hora",
-    "logo": "https://i0.wp.com/",
+    "logo": "https://wwwimage-us.plutostatic.tv/thumbnails/photos/w400-q80/ptv/channels/646ccc7a2858cb0008127367/solidLogoPNG.png?format=webp&trim=true",
     "url": "https://pluto.tv/live-tv/646ccc7a2858cb0008127367"
   },
     {
     "nombre": "Azteca Internacional",
-    "logo": "https://i0.wp.com/",
+    "logo": "https://wwwimage-us.plutostatic.tv/thumbnails/photos/w400-q80/ptv/channels/646cce4d1593940008a33f09/solidLogoPNG.png?format=webp&trim=true",
     "url": "https://pluto.tv/live-tv/646cce4d1593940008a33f09"
   },
     {
     "nombre": "Imagen televisión",
-    "logo": "https://i0.wp.com/",
+    "logo": "https://wwwimage-us.plutostatic.tv/thumbnails/photos/w400-q80/ptv/channels/64e35aff6b1fdb0008ea8441/solidLogoPNG.png?format=webp&trim=true",
     "url": "https://pluto.tv/live-tv/64e35aff6b1fdb0008ea8441"
   },
     {
     "nombre": "Canal 6",
-    "logo": "https://i0.wp.com/",
+    "logo": "https://wwwimage-us.plutostatic.tv/thumbnails/photos/w400-q80/ptv/channels/652e91fd6208700008dcaf7b/solidLogoPNG.png?format=webp&trim=true",
     "url": "https://pluto.tv/live-tv/652e91fd6208700008dcaf7b"
   },
     {
     "nombre": "Canal Claro",
-    "logo": "https://i0.wp.com/",
+    "logo": "https://wwwimage-us.plutostatic.tv/thumbnails/photos/w400-q80/ptv/channels/68224482c5d53e1351aaf2f2/solidLogoPNG_1751655767043.png?format=webp&trim=true",
     "url": "https://pluto.tv/live-tv/68224482c5d53e1351aaf2f2"
   },
     {
     "nombre": "Al ritmo girapeo",
-    "logo": "https://i0.wp.com/",
+    "logo": "https://wwwimage-us.plutostatic.tv/thumbnails/photos/w400-q80/ptv/channels/68ba0910e1d03fec7d5c084f/solidLogoPNG_1760471498749.png?format=webp&trim=true",
     "url": "https://pluto.tv/live-tv/68ba0910e1d03fec7d5c084f"
   },
     {
-    "nombre": "Series Retri",
-    "logo": "https://i0.wp.com/",
+    "nombre": "Series Retro",
+    "logo": "https://wwwimage-us.plutostatic.tv/thumbnails/photos/w400-q80/ptv/channels/5de802659167b10009e7deba/solidLogoPNG.png?format=webp&trim=true",
     "url": "https://pluto.tv/live-tv/5de802659167b10009e7deba"
   },
     {
     "nombre": "Hechiceros",
-    "logo": "https://i0.wp.com/",
+    "logo": "https://wwwimage-us.plutostatic.tv/thumbnails/photos/w400-q80/ptv/channels/67f95fa76b11614ab0caaef3/solidLogoPNG_1747414260787.png?format=webp&trim=true",
     "url": "https://pluto.tv/live-tv/67f95fa76b11614ab0caaef3"
   },
     {
     "nombre": "Hechizada",
-    "logo": "https://i0.wp.com/",
+    "logo": "https://wwwimage-us.plutostatic.tv/thumbnails/photos/w400-q80/ptv/channels/631fb6be21b7440007b9f606/solidLogoPNG.png?format=webp&trim=true",
     "url": "https://pluto.tv/live-tv/631fb6be21b7440007b9f606"
   },
     {
     "nombre": "Mi bella genio",
-    "logo": "https://i0.wp.com/",
+    "logo": "https://wwwimage-us.plutostatic.tv/thumbnails/photos/w400-q80/ptv/channels/68ffc086a530e036bc8f0305/solidLogoPNG_1762795920992.png?format=webp&trim=true",
     "url": "https://pluto.tv/live-tv/68ffc086a530e036bc8f0305"
   },
     {
     "nombre": "MacaGyver",
-    "logo": "https://i0.wp.com/",
+    "logo": "https://wwwimage-us.plutostatic.tv/thumbnails/photos/w400-q80/ptv/channels/63eb95baa99571000898a078/solidLogoPNG.png?format=webp&trim=true",
     "url": "https://pluto.tv/live-tv/63eb95baa99571000898a078"
   },
     {
     "nombre": "Popeye",
-    "logo": "https://i0.wp.com/",
+    "logo": "https://wwwimage-us.plutostatic.tv/thumbnails/photos/w400-q80/ptv/channels/677d93afe650a700081e5f18/solidLogoPNG.png?format=webp&trim=true",
     "url": "https://pluto.tv/live-tv/677d93afe650a700081e5f18"
   },
     {
     "nombre": "Pitufos",
-    "logo": "https://i0.wp.com/",
+    "logo": "https://wwwimage-us.plutostatic.tv/thumbnails/photos/w400-q80/ptv/channels/68a3a97fd8f7693ae3f8575f/solidLogoPNG_1760386871984.png?format=webp&trim=true",
     "url": "https://pluto.tv/live-tv/68a3a97fd8f7693ae3f8575f"
   },
     {
     "nombre": "Tastemade viaje",
-    "logo": "https://i0.wp.com/",
+    "logo": "https://wwwimage-us.plutostatic.tv/thumbnails/photos/w400-q80/ptv/channels/68b88712e777774982269ce9/solidLogoPNG_1759784103416.png?format=webp&trim=true",
     "url": "https://pluto.tv/live-tv/68b88712e777774982269ce9"
   },
     {
     "nombre": "Homeful de español",
-    "logo": "https://i0.wp.com/",
+    "logo": "https://wwwimage-us.plutostatic.tv/thumbnails/photos/w400-q80/ptv/channels/64fb1f6e6625510008c00848/solidLogoPNG.png?format=webp&trim=true",
     "url": "https://pluto.tv/live-tv/64fb1f6e6625510008c00848"
   },
     {
     "nombre": "Tastemade hogar",
-    "logo": "https://i0.wp.com/",
+    "logo": "https://wwwimage-us.plutostatic.tv/thumbnails/photos/w400-q80/ptv/channels/68b887c2e77777498226a0de/solidLogoPNG_1759784256636.png?format=webp&trim=true",
     "url": "https://pluto.tv/live-tv/68b887c2e77777498226a0de"
   },
     {
     "nombre": "Estilo de vida",
-    "logo": "https://i0.wp.com/",
+    "logo": "https://wwwimage-us.plutostatic.tv/thumbnails/photos/w400-q80/ptv/channels/5dcde0657444a40009cd2422/solidLogoPNG_1778796418783.png?format=webp&trim=true",
     "url": "https://pluto.tv/live-tv/5dcde0657444a40009cd2422"
   },
     {
     "nombre": "Tastemade",
-    "logo": "https://i0.wp.com/",
+    "logo": "https://wwwimage-us.plutostatic.tv/thumbnails/photos/w400-q80/ptv/channels/5f998c1fc54853000797bacd/solidLogoPNG_1730999718594.png?format=webp&trim=true",
     "url": "https://pluto.tv/live-tv/5f998c1fc54853000797bacd"
   },
     {
     "nombre": "Dulce by the Gourmet",
-    "logo": "https://i0.wp.com/",
+    "logo": "https://wwwimage-us.plutostatic.tv/thumbnails/photos/w400-q80/ptv/channels/6894fc3f66f164e402f4fd14/solidLogoPNG_1756446971991.png?format=webp&trim=true",
     "url": "https://pluto.tv/live-tv/6894fc3f66f164e402f4fd14"
   },
     {
     "nombre": "Plato del dia",
-    "logo": "https://i0.wp.com/",
+    "logo": "https://wwwimage-us.plutostatic.tv/thumbnails/photos/w400-q80/ptv/channels/6894febddbd49c964f3b66c8/solidLogoPNG_1756396393718.png?format=webp&trim=true",
     "url": "https://pluto.tv/live-tv/6894febddbd49c964f3b66c8"
   },
     {
     "nombre": "Anime",
-    "logo": "https://i0.wp.com/",
+    "logo": "https://wwwimage-us.plutostatic.tv/thumbnails/photos/w400-q80/ptv/channels/5dcde17bf6591d0009839e02/solidLogoPNG.png?format=webp&trim=true",
     "url": "https://pluto.tv/live-tv/5dcde17bf6591d0009839e02"
   },
     {
     "nombre": "Naruto",
-    "logo": "https://i0.wp.com/",
+    "logo": "https://wwwimage-us.plutostatic.tv/thumbnails/photos/w400-q80/ptv/channels/5ee92e72fb286e0007285fec/solidLogoPNG.png?format=webp&trim=true",
     "url": "https://pluto.tv/live-tv/5ee92e72fb286e0007285fec"
   },
     {
     "nombre": "Naruto Shippuden",
-    "logo": "https://i0.wp.com/",
+    "logo": "https://wwwimage-us.plutostatic.tv/thumbnails/photos/w400-q80/ptv/channels/64c92fea3c3344000869e8a9/solidLogoPNG.png?format=webp&trim=true",
     "url": "https://pluto.tv/live-tv/64c92fea3c3344000869e8a9"
   },
     {
     "nombre": "Boruto",
-    "logo": "https://i0.wp.com/",
+    "logo": "https://wwwimage-us.plutostatic.tv/thumbnails/photos/w400-q80/ptv/channels/656f37f257fe4a000884dfee/solidLogoPNG.png?format=webp&trim=true",
     "url": "https://pluto.tv/live-tv/656f37f257fe4a000884dfee"
   },
     {
     "nombre": "Pokemon",
-    "logo": "https://i0.wp.com/",
+    "logo": "https://wwwimage-us.plutostatic.tv/thumbnails/photos/w400-q80/ptv/channels/6870072ca9d5c45c3e9466f1/solidLogoPNG_1752173246646.png?format=webp&trim=true",
     "url": "https://pluto.tv/live-tv/6870072ca9d5c45c3e9466f1"
   },
     {
     "nombre": "Hunter hunter",
-    "logo": "https://i0.wp.com/",
+    "logo": "https://wwwimage-us.plutostatic.tv/thumbnails/photos/w400-q80/ptv/channels/65d916a2f7f0af0008b6540d/solidLogoPNG.png?format=webp&trim=true",
     "url": "https://pluto.tv/live-tv/65d916a2f7f0af0008b6540d"
   },
     {
     "nombre": "Death Note",
-    "logo": "https://i0.wp.com/",
+    "logo": "https://wwwimage-us.plutostatic.tv/thumbnails/photos/w400-q80/ptv/channels/626c2ed933a2890007e91422/solidLogoPNG.png?format=webp&trim=true",
     "url": "https://pluto.tv/live-tv/626c2ed933a2890007e91422"
   },
     {
     "nombre": "Jojo's bizarre aventure",
-    "logo": "https://i0.wp.com/",
+    "logo": "https://wwwimage-us.plutostatic.tv/thumbnails/photos/w400-q80/ptv/channels/66c790f780a0af0008583aa4/solidLogoPNG.png?format=webp&trim=true",
     "url": "https://pluto.tv/live-tv/66c790f780a0af0008583aa4"
   },
     {
     "nombre": "Yu-gi-oh",
-    "logo": "https://i0.wp.com/",
+    "logo": "https://wwwimage-us.plutostatic.tv/thumbnails/photos/w400-q80/ptv/channels/5fceaab478f2af00080ff51f/solidLogoPNG.png?format=webp&trim=true",
     "url": "https://pluto.tv/live-tv/5fceaab478f2af00080ff51f"
   },
     {
     "nombre": "Capitan Tsubasa",
-    "logo": "https://i0.wp.com/",
+    "logo": "https://wwwimage-us.plutostatic.tv/thumbnails/photos/w400-q80/ptv/channels/64666345f3f5b1000882bfb4/solidLogoPNG.png?format=webp&trim=true",
     "url": "https://pluto.tv/live-tv/64666345f3f5b1000882bfb4"
   },
     {
     "nombre": "Inuyasha",
-    "logo": "https://i0.wp.com/",
+    "logo": "https://wwwimage-us.plutostatic.tv/thumbnails/photos/w400-q80/ptv/channels/66b26665d512590008c507b7/solidLogoPNG.png?format=webp&trim=true",
     "url": "https://pluto.tv/live-tv/66b26665d512590008c507b7"
   },
     {
     "nombre": "One piece",
-    "logo": "https://i0.wp.com/",
+    "logo": "https://wwwimage-us.plutostatic.tv/thumbnails/photos/w400-q80/ptv/channels/5ff4b9ccf938f8000779eb99/solidLogoPNG-1663941529069.png?format=webp&trim=true",
     "url": "https://pluto.tv/live-tv/5ff4b9ccf938f8000779eb99"
   },
     {
     "nombre": "Tokusato",
-    "logo": "https://i0.wp.com/",
+    "logo": "https://wwwimage-us.plutostatic.tv/thumbnails/photos/w400-q80/ptv/channels/5ff608e60e2996000768c366/solidLogoPNG.png?format=webp&trim=true",
     "url": "https://pluto.tv/live-tv/5ff608e60e2996000768c366"
   },
     {
     "nombre": "S sports",
-    "logo": "https://i0.wp.com/",
+    "logo": "https://wwwimage-us.plutostatic.tv/thumbnails/photos/w400-q80/ptv/channels/5ff3934600d4c7000733ff49/solidLogoPNG.png?format=webp&trim=true",
     "url": "https://pluto.tv/live-tv/5ff3934600d4c7000733ff49"
   },
     {
     "nombre": "Novelas",
-    "logo": "https://i0.wp.com/",
+    "logo": "https://wwwimage-us.plutostatic.tv/thumbnails/photos/w400-q80/ptv/channels/5dcde0cc2efd2700090b7ff4/solidLogoPNG_1772819701162.png?format=webp&trim=true",
     "url": "https://pluto.tv/live-tv/5dcde0cc2efd2700090b7ff4"
   },
     {
     "nombre": "Novelas de otros continentes",
-    "logo": "https://i0.wp.com/",
+    "logo": "https://wwwimage-us.plutostatic.tv/thumbnails/photos/w400-q80/ptv/channels/686eed4c677f2f98b4a1ccd4/solidLogoPNG_1765466599084.png?format=webp&trim=true",
     "url": "https://pluto.tv/live-tv/686eed4c677f2f98b4a1ccd4"
   },
     {
     "nombre": "Madre",
-    "logo": "https://i0.wp.com/",
+    "logo": "https://wwwimage-us.plutostatic.tv/thumbnails/photos/w400-q80/ptv/channels/69b32974814d27f4aed90fdd/solidLogoPNG_1775832484542.png?format=webp&trim=true",
     "url": "https://pluto.tv/live-tv/69b32974814d27f4aed90fdd"
   },
     {
     "nombre": "Novelas Mexico",
-    "logo": "https://i0.wp.com/",
+    "logo": "https://wwwimage-us.plutostatic.tv/thumbnails/photos/w400-q80/ptv/channels/6474a7958e3c0a0008b97cae/solidLogoPNG_1765475296297.png?format=webp&trim=true",
     "url": "https://pluto.tv/live-tv/6474a7958e3c0a0008b97cae"
   },
     {
     "nombre": "Corazon",
-    "logo": "https://i0.wp.com/",
+    "logo": "https://wwwimage-us.plutostatic.tv/thumbnails/photos/w400-q80/ptv/channels/646ccdd0939a5900088a1980/solidLogoPNG.png?format=webp&trim=true",
     "url": "https://pluto.tv/live-tv/646ccdd0939a5900088a1980"
   },
     {
     "nombre": "Cuando los angeles caen",
-    "logo": "https://i0.wp.com/",
+    "logo": "https://wwwimage-us.plutostatic.tv/thumbnails/photos/w400-q80/ptv/channels/699769fa19ac123965833fd3/solidLogoPNG_1773786938217.png?format=webp&trim=true",
     "url": "https://pluto.tv/live-tv/699769fa19ac123965833fd3"
   },
     {
     "nombre": "Sin tetas no hay paraiso",
-    "logo": "https://i0.wp.com/",
+    "logo": "https://wwwimage-us.plutostatic.tv/thumbnails/photos/w400-q80/ptv/channels/604bdf4e6d0abc0007ba77ad/solidLogoPNG.png?format=webp&trim=true",
     "url": "https://pluto.tv/live-tv/604bdf4e6d0abc0007ba77ad"
   },
     {
     "nombre": "La seleccion",
-    "logo": "https://i0.wp.com/",
+    "logo": "https://wwwimage-us.plutostatic.tv/thumbnails/photos/w400-q80/ptv/channels/63211ba9cad976000794f988/solidLogoPNG.png?format=webp&trim=true",
     "url": "https://pluto.tv/live-tv/63211ba9cad976000794f988"
   },
     {
     "nombre": "NCN mas",
-    "logo": "https://i0.wp.com/",
+    "logo": "https://wwwimage-us.plutostatic.tv/thumbnails/photos/w400-q80/ptv/channels/69de4ad924a6d521f8b0a348/solidLogoPNG_1776884271790.png?format=webp&trim=true",
     "url": "https://pluto.tv/live-tv/69de4ad924a6d521f8b0a348"
   },
     {
     "nombre": "Novelas Venezuela",
-    "logo": "https://i0.wp.com/",
+    "logo": "https://wwwimage-us.plutostatic.tv/thumbnails/photos/w400-q80/ptv/channels/6474a86917f5e100089a0c1c/solidLogoPNG_1765471713312.png?format=webp&trim=true",
     "url": "https://pluto.tv/live-tv/6474a86917f5e100089a0c1c"
   },
     {
     "nombre": "Nikelodeon Teen",
-    "logo": "https://i0.wp.com/",
+    "logo": "https://wwwimage-us.plutostatic.tv/thumbnails/photos/w400-q80/ptv/channels/5fab09a8749b1a00077d35d2/solidLogoPNG_1749640894732.png?format=webp&trim=true",
     "url": "https://pluto.tv/live-tv/5fab09a8749b1a00077d35d2"
   },
     {
     "nombre": "I Carly",
-    "logo": "https://i0.wp.com/",
+    "logo": "https://wwwimage-us.plutostatic.tv/thumbnails/photos/w400-q80/ptv/channels/620ff0a01f9e8700076c6f9d/solidLogoPNG.png?format=webp&trim=true",
     "url": "https://pluto.tv/live-tv/620ff0a01f9e8700076c6f9d"
   },
     {
     "nombre": "Kenan y Kel",
-    "logo": "https://i0.wp.com/",
+    "logo": "https://wwwimage-us.plutostatic.tv/thumbnails/photos/w400-q80/ptv/channels/5fcea93ffcf94500071c4b2f/solidLogoPNG.png?format=webp&trim=true",
     "url": "https://pluto.tv/live-tv/5fcea93ffcf94500071c4b2f"
   },
     {
     "nombre": "Nick jr. Club",
-    "logo": "https://i0.wp.com/",
+    "logo": "https://wwwimage-us.plutostatic.tv/thumbnails/photos/w400-q80/ptv/channels/5ddd7cb2cbb9010009b4fe32/solidLogoPNG_1748446481293.png?format=webp&trim=true",
     "url": "https://pluto.tv/live-tv/5ddd7cb2cbb9010009b4fe32"
   },
     {
     "nombre": "Baby Shark",
-    "logo": "https://i0.wp.com/",
+    "logo": "https://wwwimage-us.plutostatic.tv/thumbnails/photos/w400-q80/ptv/channels/619d5e6a093e7c0007489211/solidLogoPNG.png?format=webp&trim=true",
     "url": "https://pluto.tv/live-tv/619d5e6a093e7c0007489211"
   },
     {
     "nombre": "Baby Firts",
-    "logo": "https://i0.wp.com/",
+    "logo": "https://wwwimage-us.plutostatic.tv/thumbnails/photos/w400-q80/ptv/channels/5ebac49ce4dc8b00078b23bc/solidLogoPNG.png?format=webp&trim=true",
     "url": "https://pluto.tv/live-tv/5ebac49ce4dc8b00078b23bc"
   },
     {
     "nombre": "Junior",
-    "logo": "https://i0.wp.com/",
+    "logo": "https://wwwimage-us.plutostatic.tv/thumbnails/photos/w400-q80/ptv/channels/5dcde2ac4bc6c500094ab45b/solidLogoPNG.png?format=webp&trim=true",
     "url": "https://pluto.tv/live-tv/5dcde2ac4bc6c500094ab45b"
   },
     {
     "nombre": "El reino Infantil",
-    "logo": "https://i0.wp.com/",
+    "logo": "https://wwwimage-us.plutostatic.tv/thumbnails/photos/w400-q80/ptv/channels/5f4d3d06fb60d8000781fce8/solidLogoPNG.png?format=webp&trim=true",
     "url": "https://pluto.tv/live-tv/5f4d3d06fb60d8000781fce8"
   },
     {
     "nombre": "Nikelodeon Clasicos",
-    "logo": "https://i0.wp.com/",
+    "logo": "https://wwwimage-us.plutostatic.tv/thumbnails/photos/w400-q80/ptv/channels/6824cda00101510f9eeaa011/solidLogoPNG_1750110889995.png?format=webp&trim=true",
     "url": "https://pluto.tv/live-tv/6824cda00101510f9eeaa011"
   },
     {
     "nombre": "Hey Arnol",
-    "logo": "https://i0.wp.com/",
+    "logo": "https://wwwimage-us.plutostatic.tv/thumbnails/photos/w400-q80/ptv/channels/66c79221b1a34600087e264d/solidLogoPNG.png?format=webp&trim=true",
     "url": "https://pluto.tv/live-tv/66c79221b1a34600087e264d"
   },
     {
     "nombre": "Avatar las aventuras de Ann",
-    "logo": "https://i0.wp.com/",
+    "logo": "https://wwwimage-us.plutostatic.tv/thumbnails/photos/w400-q80/ptv/channels/6759ee82bd523200083b4f0f/solidLogoPNG.png?format=webp&trim=true",
     "url": "https://pluto.tv/live-tv/6759ee82bd523200083b4f0f"
   },
     {
     "nombre": "Rugrats",
-    "logo": "https://i0.wp.com/",
+    "logo": "https://wwwimage-us.plutostatic.tv/thumbnails/photos/w400-q80/ptv/channels/5ea7215005d66d0007e8128a/solidLogoPNG.png?format=webp&trim=true",
     "url": "https://pluto.tv/live-tv/5ea7215005d66d0007e8128a"
   },
     {
     "nombre": "Nickelodeon Toons",
-    "logo": "https://i0.wp.com/",
+    "logo": "https://wwwimage-us.plutostatic.tv/thumbnails/photos/w400-q80/ptv/channels/645952687cb4b100084ed52e/solidLogoPNG_1753975316962.png?format=webp&trim=true",
     "url": "https://pluto.tv/live-tv/645952687cb4b100084ed52e"
   },
     {
     "nombre": "Bob Sponja",
-    "logo": "https://i0.wp.com/",
+    "logo": "https://wwwimage-us.plutostatic.tv/thumbnails/photos/w400-q80/ptv/channels/6254598f5083f800076d8563/solidLogoPNG_1781042617820.png?format=webp&trim=true",
     "url": "https://pluto.tv/live-tv/6254598f5083f800076d8563"
   },
     {
     "nombre": "Los padrinos magicos",
-    "logo": "https://i0.wp.com/",
+    "logo": "https://wwwimage-us.plutostatic.tv/thumbnails/photos/w400-q80/ptv/channels/6322099c822bbc00074857db/solidLogoPNG_1767810452011.png?format=webp&trim=true",
     "url": "https://pluto.tv/live-tv/6322099c822bbc00074857db"
   },
     {
     "nombre": "Tortugas Ninjas",
-    "logo": "https://i0.wp.com/",
+    "logo": "https://wwwimage-us.plutostatic.tv/thumbnails/photos/w400-q80/ptv/channels/63dd5d7a4e83e700088fbca8/solidLogoPNG_1768926025035.png?format=webp&trim=true",
     "url": "https://pluto.tv/live-tv/63dd5d7a4e83e700088fbca8"
   },
     {
     "nombre": "Kids",
-    "logo": "https://i0.wp.com/",
+    "logo": "https://wwwimage-us.plutostatic.tv/thumbnails/photos/w400-q80/ptv/channels/5dd6dae8ce788b0009eaf77b/solidLogoPNG.png?format=webp&trim=true",
     "url": "https://pluto.tv/live-tv/5dd6dae8ce788b0009eaf77b"
   },
     {
     "nombre": "Amor y mentiras",
-    "logo": "https://i0.wp.com/",
+    "logo": "https://wwwimage-us.plutostatic.tv/thumbnails/photos/w400-q80/ptv/channels/698a45156dc3c71eb1ba6599/solidLogoPNG_1771861302997.png?format=webp&trim=true",
     "url": "https://pluto.tv/live-tv/698a45156dc3c71eb1ba6599"
   },
     {
     "nombre": "Reality",
-    "logo": "https://i0.wp.com/",
+    "logo": "https://wwwimage-us.plutostatic.tv/thumbnails/photos/w400-q80/ptv/channels/5dcde197f6591d0009839e04/solidLogoPNG.png?format=webp&trim=true",
     "url": "https://pluto.tv/live-tv/5dcde197f6591d0009839e04"
   },
     {
     "nombre": "Mtv Drag",
-    "logo": "https://i0.wp.com/",
+    "logo": "https://wwwimage-us.plutostatic.tv/thumbnails/photos/w400-q80/ptv/channels/64510d3ad3fdde00080951f2/solidLogoPNG.png?format=webp&trim=true",
     "url": "https://pluto.tv/live-tv/64510d3ad3fdde00080951f2"
   },
     {
-    "nombre": "Mtv Plutos",
-    "logo": "https://i0.wp.com/",
+    "nombre": "Mtv Pluto",
+    "logo": "https://wwwimage-us.plutostatic.tv/thumbnails/photos/w400-q80/ptv/channels/5fab088b3279760007d4e4fd/solidLogoPNG_1764875981566.png?format=webp&trim=true",
     "url": "https://pluto.tv/live-tv/5fab088b3279760007d4e4fd"
   },
     {
@@ -856,122 +861,122 @@
   },
     {
     "nombre": "Acapulco Shore",
-    "logo": "https://i0.wp.com/",
+    "logo": "https://wwwimage-us.plutostatic.tv/thumbnails/photos/w400-q80/ptv/channels/61a52615cbef2500072876e2/solidLogoPNG_1756972228612.png?format=webp&trim=true",
     "url": "https://pluto.tv/live-tv/61a52615cbef2500072876e2"
   },
     {
     "nombre": "Mtv Con mi ex",
-    "logo": "https://i0.wp.com/",
+    "logo": "https://wwwimage-us.plutostatic.tv/thumbnails/photos/w400-q80/ptv/channels/638693db857364000781b471/solidLogoPNG.png?format=webp&trim=true",
     "url": "https://pluto.tv/live-tv/638693db857364000781b471"
   },
     {
     "nombre": "Mtv Ridiculousines",
-    "logo": "https://i0.wp.com/",
+    "logo": "https://wwwimage-us.plutostatic.tv/thumbnails/photos/w400-q80/ptv/channels/5e98a911c881310007d7aae2/solidLogoPNG.png?format=webp&trim=true",
     "url": "https://pluto.tv/live-tv/5e98a911c881310007d7aae2"
   },
     {
     "nombre": "Mtv Teen Mon",
-    "logo": "https://i0.wp.com/",
+    "logo": "https://wwwimage-us.plutostatic.tv/thumbnails/photos/w400-q80/ptv/channels/620fd9f4afb9a80007a9c6d5/solidLogoPNG.png?format=webp&trim=true",
     "url": "https://pluto.tv/live-tv/620fd9f4afb9a80007a9c6d5"
   },
     {
     "nombre": "Mtv Castfish",
-    "logo": "https://i0.wp.com/",
+    "logo": "https://wwwimage-us.plutostatic.tv/thumbnails/photos/w400-q80/ptv/channels/625461ef01f27a0007976ad1/solidLogoPNG.png?format=webp&trim=true",
     "url": "https://pluto.tv/live-tv/625461ef01f27a0007976ad1"
   },
     {
     "nombre": "Mtv Biggets pop",
-    "logo": "https://i0.wp.com/",
+    "logo": "https://wwwimage-us.plutostatic.tv/thumbnails/photos/w400-q80/ptv/channels/6047fabfce6e8e00070bcc9f/solidLogoPNG.png?format=webp&trim=true",
     "url": "https://pluto.tv/live-tv/6047fabfce6e8e00070bcc9f"
   },
     {
     "nombre": "Mtv Classics",
-    "logo": "https://i0.wp.com/",
+    "logo": "https://wwwimage-us.plutostatic.tv/thumbnails/photos/w400-q80/ptv/channels/66a11a21a79dea0008aa90ca/solidLogoPNG.png?format=webp&trim=true",
     "url": "https://pluto.tv/live-tv/66a11a21a79dea0008aa90ca"
   },
     {
     "nombre": "Mtv Rocks",
-    "logo": "https://i0.wp.com/",
+    "logo": "https://wwwimage-us.plutostatic.tv/thumbnails/photos/w400-q80/ptv/channels/66a01b52a4ee27000808ea36/solidLogoPNG.png?format=webp&trim=true",
     "url": "https://pluto.tv/live-tv/66a01b52a4ee27000808ea36"
   },
     {
     "nombre": "Mtv Flow Latino",
-    "logo": "https://i0.wp.com/",
+    "logo": "https://wwwimage-us.plutostatic.tv/thumbnails/photos/w400-q80/ptv/channels/62b218fc511d4b00070ddc0c/solidLogoPNG.png?format=webp&trim=true",
     "url": "https://pluto.tv/live-tv/62b218fc511d4b00070ddc0c"
   },
     {
     "nombre": "Tiktok Radio",
-    "logo": "https://i0.wp.com/",
+    "logo": "https://wwwimage-us.plutostatic.tv/thumbnails/photos/w400-q80/ptv/channels/63dac1b78795f300086d5ca6/solidLogoPNG_1758309465067.png?format=webp&trim=true",
     "url": "https://pluto.tv/live-tv/63dac1b78795f300086d5ca6"
   },
     {
     "nombre": "Concert Channel",
-    "logo": "https://i0.wp.com/",
+    "logo": "https://wwwimage-us.plutostatic.tv/thumbnails/photos/w400-q80/ptv/channels/6868152657543d1f8be4ece3/colorLogoPNG_1751652184592.png?format=webp&trim=true",
     "url": "https://pluto.tv/live-tv/6868152657543d1f8be4ece3"
   },
     {
     "nombre": "Conciertos",
-    "logo": "https://i0.wp.com/",
+    "logo": "https://wwwimage-us.plutostatic.tv/thumbnails/photos/w400-q80/ptv/channels/5f85ca40eda1b10007b967cd/solidLogoPNG.png?format=webp&trim=true",
     "url": "https://pluto.tv/live-tv/5f85ca40eda1b10007b967cd"
   },
     {
     "nombre": "Karaoke",
-    "logo": "https://i0.wp.com/",
+    "logo": "https://wwwimage-us.plutostatic.tv/thumbnails/photos/w400-q80/ptv/channels/5f85cf621d6d2200079f1de0/solidLogoPNG.png?format=webp&trim=true",
     "url": "https://pluto.tv/live-tv/5f85cf621d6d2200079f1de0"
   },
     {
     "nombre": "Competencias",
-    "logo": "https://i0.wp.com/",
+    "logo": "https://wwwimage-us.plutostatic.tv/thumbnails/photos/w400-q80/ptv/channels/5dd6d935d000120009bc1132/logo7_2-20250131170415.png?format=webp&trim=true",
     "url": "https://pluto.tv/live-tv/5dd6d935d000120009bc1132"
   },
     {
     "nombre": "Shark tank",
-    "logo": "https://i0.wp.com/",
+    "logo": "https://wwwimage-us.plutostatic.tv/thumbnails/photos/w400-q80/ptv/channels/6647c02422494d000804b13a/solidLogoPNG_1772461055527.png?format=webp&trim=true",
     "url": "https://pluto.tv/live-tv/6647c02422494d000804b13a"
   },
     {
     "nombre": "Master shef",
-    "logo": "https://i0.wp.com/",
+    "logo": "https://wwwimage-us.plutostatic.tv/thumbnails/photos/w400-q80/ptv/channels/5e3ddbd27091820009f86dd9/solidLogoPNG_1783712159843.png?format=webp&trim=true",
     "url": "https://pluto.tv/live-tv/5e3ddbd27091820009f86dd9"
   },
     {
     "nombre": "Master shef Argentina",
-    "logo": "https://i0.wp.com/",
+    "logo": "https://wwwimage-us.plutostatic.tv/thumbnails/photos/w400-q80/ptv/channels/69fcaa88e022927e1c94c533/solidLogoPNG_1779731088552.png?format=webp&trim=true",
     "url": "https://pluto.tv/live-tv/69fcaa88e022927e1c94c533"
   },
     {
     "nombre": "Master shef Colombia",
-    "logo": "https://i0.wp.com/",
+    "logo": "https://wwwimage-us.plutostatic.tv/thumbnails/photos/w400-q80/ptv/channels/69fcaa71ea95ffff0987f555/solidLogoPNG_1779730748951.png?format=webp&trim=true",
     "url": "https://pluto.tv/live-tv/69fcaa71ea95ffff0987f555"
   },
     {
     "nombre": "Helle's Kitchen",
-    "logo": "https://i0.wp.com/",
+    "logo": "https://wwwimage-us.plutostatic.tv/thumbnails/photos/w400-q80/ptv/channels/6095ad97351eb0000754c1e6/solidLogoPNG.png?format=webp&trim=true",
     "url": "https://pluto.tv/live-tv/6095ad97351eb0000754c1e6"
   },
     {
     "nombre": "Minuto para ganar",
-    "logo": "https://i0.wp.com/",
+    "logo": "https://wwwimage-us.plutostatic.tv/thumbnails/photos/w400-q80/ptv/channels/5e46e64dc73db400094b5f0b/solidLogoPNG.png?format=webp&trim=true",
     "url": "https://pluto.tv/live-tv/5e46e64dc73db400094b5f0b"
   },
     {
     "nombre": "Escape perfecto",
-    "logo": "https://i0.wp.com/",
+    "logo": "https://wwwimage-us.plutostatic.tv/thumbnails/photos/w400-q80/ptv/channels/662bf39756fc840008f25cb9/solidLogoPNG_1772461215418.png?format=webp&trim=true",
     "url": "https://pluto.tv/live-tv/662bf39756fc840008f25cb9"
   },
     {
     "nombre": "Wipeout",
-    "logo": "https://i0.wp.com/",
+    "logo": "https://wwwimage-us.plutostatic.tv/thumbnails/photos/w400-q80/ptv/channels/5ed6828192e8b3000743ef61/solidLogoPNG.png?format=webp&trim=true",
     "url": "https://pluto.tv/live-tv/5ed6828192e8b3000743ef61"
   },
     {
     "nombre": "Survivor Mexico",
-    "logo": "https://i0.wp.com/",
+    "logo": "https://wwwimage-us.plutostatic.tv/thumbnails/photos/w400-q80/ptv/channels/69fca9dd14a5dfae8875a3be/solidLogoPNG_1778516804340.png?format=webp&trim=true",
     "url": "https://pluto.tv/live-tv/69fca9dd14a5dfae8875a3be"
   },
     {
     "nombre": "Desafio India",
-    "logo": "https://i0.wp.com/",
+    "logo": "https://wwwimage-us.plutostatic.tv/thumbnails/photos/w400-q80/ptv/channels/6495af324c014a000842e923/solidLogoPNG.png?format=webp&trim=true",
     "url": "https://pluto.tv/live-tv/6495af324c014a000842e923"
   }
 ]
