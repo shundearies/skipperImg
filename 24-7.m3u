@@ -109,74 +109,47 @@ https://lbgo.bozztv.com/ssh101/ssh101/monitvhd/playlist.m3u8
 https://live20.bozztv.com/akamaissh101/ssh101/gextvaccess/playlist.m3u8
 #EXTINF:-1 group-title="24/7" tvg-logo="https://i.imgur.com/3IhYd7G.jpg",Salsa Gorda Television (Perú) [Not 24/7]
 https://live20.bozztv.com/akamaissh101/ssh101/qMUAZEy/playlist.m3u8
-#EXTINF:0 group-title="Telecable Latino" tvg-logo="",24/7 Chespirito
-https://live20.bozztv.com/giatvplayout7/giatv-211111/playlist.m3u8
-#EXTINF:0 group-title="Telecable Latino" tvg-logo="",24/7 Mr Bean
+#EXTINF:-1 group-title="24/7" tvg-logo="",24/7 Mr Bean
 https://amg00627-amg00627c40-rakuten-uk-5725.playouts.now.amagi.tv/playlist/amg00627-banijayfast-mrbeanpopupcc-rakutenuk/playlist.m3u8
-#EXTINF:0 group-title="24/7" tvg-logo="",24/7 Dragon Ball / Dragon Ball Z
-#EXTVLCOPT:network-caching=1000
+#EXTINF:-1 group-title="24/7" tvg-logo="",24/7 Dragon Ball / Dragon Ball Z
 https://183.bozztv.com/giatv/giatv-dball/dball/playlist.m3u8
-#EXTINF:0 group-title="24/7" tvg-logo="",24/7 Los Simpson Latino
-#EXTVLCOPT:network-caching=1000
-https://lbgo.bozztv.com/ssh101/ssh101/simplat/playlist.m3u8
-#EXTINF:0 group-title="24/7" tvg-logo="",24/7 Los Simpson Opc 2
-#EXTVLCOPT:network-caching=1000
-https://lbgo.bozztv.com/ssh101/ssh101/simptestnews/playlist.m3u8
-#EXTINF:0 group-title="24/7" tvg-logo="",24/7 Bob Esponja Latino
-#EXTVLCOPT:network-caching=1000
+#EXTINF:-1 group-title="24/7" tvg-logo="",24/7 Bob Esponja Latino
 https://jmp2.uk/plu-6254598f5083f800076d8563.m3u8
-#EXTINF:0 group-title="24/7" tvg-logo="",24/7 El Chavo TV
-#EXTVLCOPT:network-caching=1000
-https://live20.bozztv.com/giatvplayout7/giatv-211465/playlist.m3u8
-#EXTINF:0 group-title="24/7" tvg-logo="",24/7 El Chavo del Ocho
-#EXTVLCOPT:network-caching=1000
+#EXTINF:-1 group-title="24/7" tvg-logo="",24/7 El Chavo del Ocho
 https://live20.bozztv.com/giatvplayout7/giatv-208870/playlist.m3u8
-#EXTINF:0 group-title="Telecable Latino" tvg-logo="",24/7 Archivos Forenses
+#EXTINF:-1 group-title="24/7" tvg-logo="",24/7 Archivos Forenses
 https://jmp2.uk/plu-5f984f4a09e92d0007d74647.m3u8
-#EXTINF:0 group-title="24/7" tvg-logo="",24/7 Sala de Emergencia
-#EXTVLCOPT:network-caching=1000
+#EXTINF:-1 group-title="24/7" tvg-logo="",24/7 Sala de Emergencia
 https://jmp2.uk/plu-66ba53cda4ee2700083fac09.m3u8
-#EXTINF:0 group-title="Telecable Latino" tvg-logo="",24/7 COPS en español
+#EXTINF:-1 group-title="24/7" tvg-logo="",24/7 COPS en español
 https://jmp2.uk/plu-6554bd45aa9ffb00088e5589.m3u8
-#EXTINF:0 group-title="Telecable Latino" tvg-logo="",24/7 Los archivos del FBI
+#EXTINF:-1 group-title="24/7" tvg-logo="",24/7 Los archivos del FBI
 https://jmp2.uk/plu-5f1acbed25948a0007ffbe65.m3u8
-#EXTINF:0 group-title="Telecable Latino" tvg-logo="",24/7 Los nuevos detectives
+#EXTINF:-1 group-title="24/7" tvg-logo="",24/7 Los nuevos detectives
 https://jmp2.uk/plu-5f1acba0d1f6340007db8843.m3u8
-#EXTINF:0 group-title="Telecable Latino" tvg-logo="",24/7 Empeños a lo bestia
+#EXTINF:-1 group-title="24/7" tvg-logo="",24/7 Empeños a lo bestia
 https://jmp2.uk/plu-60218baa464ef900073168c1.m3u8
-#EXTINF:0 group-title="24/7" tvg-logo="",24/7 Cheaters en Español
-#EXTVLCOPT:network-caching=1000
+#EXTINF:-1 group-title="24/7" tvg-logo="",24/7 Cheaters en Español
 https://live-manifest.production-public.tubi.io/live/eca7fc67-ab6a-4d29-a25f-d8d77b7467a4/playlist.m3u8
-#EXTINF:0 group-title="24/7" tvg-logo="",24/7 Csi
-#EXTVLCOPT:network-caching=1000
+#EXTINF:-1 group-title="24/7" tvg-logo="",24/7 Csi
 https://jmp2.uk/plu-604928d54a4f730007ff76bc.m3u8
-#EXTINF:0 group-title="24/7" tvg-logo="",24/7 Csi Miami
-#EXTVLCOPT:network-caching=1000
+#EXTINF:-1 group-title="24/7" tvg-logo="",24/7 Csi Miami
 https://jmp2.uk/plu-632b5950b515b000079e6b81.m3u8
-#EXTINF:0 group-title="24/7" tvg-logo="",24/7 Csi NY
-#EXTVLCOPT:network-caching=1000
+#EXTINF:-1 group-title="24/7" tvg-logo="",24/7 Csi NY
 https://jmp2.uk/plu-632b606e12a67b0007c9e371.m3u8
-#EXTINF:0 group-title="24/7" tvg-logo="",24/7 Kenan y Kel
-#EXTVLCOPT:network-caching=1000
+#EXTINF:-1 group-title="24/7" tvg-logo="",24/7 Kenan y Kel
 https://jmp2.uk/plu-5fcea93ffcf94500071c4b2f.m3u8
-#EXTINF:0 group-title="24/7" tvg-logo="",24/7 Nick Clasicos
-#EXTVLCOPT:network-caching=1000
+#EXTINF:-1 group-title="24/7" tvg-logo="",24/7 Nick Clasicos
 https://jmp2.uk/plu-6824cda00101510f9eeaa011.m3u8
-#EXTINF:0 group-title="24/7" tvg-logo="",24/7 Rugrats
-#EXTVLCOPT:network-caching=1000
+#EXTINF:-1 group-title="24/7" tvg-logo="",24/7 Rugrats
 https://jmp2.uk/plu-610c09219fc0430007a3fce6.m3u8
-#EXTINF:0 group-title="24/7" tvg-logo="",24/7 Los Pitufos
-#EXTVLCOPT:network-caching=1000
+#EXTINF:-1 group-title="24/7" tvg-logo="",24/7 Los Pitufos
 https://imps-smrfs.otteravision.com/imps/smrfs/smrfs.m3u8
-#EXTINF:0 group-title="24/7" tvg-logo="",24/7 Pokemon
-#EXTVLCOPT:network-caching=1000
+#EXTINF:-1 group-title="24/7" tvg-logo="",24/7 Pokemon
 https://jmp2.uk/plu-69e6be40fde57cd5ba562b29.m3u8
-#EXTINF:0 group-title="24/7" tvg-logo="",24/7 Hey Arnold!
-#EXTVLCOPT:network-caching=1000
+#EXTINF:-1 group-title="24/7" tvg-logo="",24/7 Hey Arnold!
 https://jmp2.uk/plu-66c79221b1a34600087e264d.m3u8
-#EXTINF:0 group-title="24/7" tvg-logo="",24/7 Cuentos de la Cripta Serie Animada
-#EXTVLCOPT:network-caching=1000
+#EXTINF:-1 group-title="24/7" tvg-logo="",24/7 Cuentos de la Cripta Serie Animada
 https://live20.bozztv.com/giatvplayout7/giatv-210858/playlist.m3u8
-#EXTINF:0 group-title="24/7" tvg-logo="",24/7 Los Padrinos Magicos
-#EXTVLCOPT:network-caching=1000
+#EXTINF:-1 group-title="24/7" tvg-logo="",24/7 Los Padrinos Magicos
 https://jmp2.uk/plu-6322099c822bbc00074857db.m3u8
