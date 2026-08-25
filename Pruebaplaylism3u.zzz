@@ -9,6 +9,7 @@
     "nombre": "user-prueba",
     "logo": "https://raw.githubusercontent.com/shundearies/skipperImg/refs/heads/main/9bd5dcaf-17c3-46f3-8b0e-30e539fb6ddc.jpeg",
     "url": "https://tv.topmediatv.net:25463/get.php?username=TopMediaWeb&password=bOteTR8ED1&type=m3u_plus",
-    "contrasena": "109898"
+    "contrasena": "109898",
+    "reproductor": "inapp_webview_player"
   }
 ]
