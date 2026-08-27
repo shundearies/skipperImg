@@ -1,92 +1,92 @@
 [
   {
     "nombre": "ESPN",
-    "logo": "https://peticion.com/logo.png",
+    "logo": "http://latinapro.net:25461/images/ef0217f6c67ee4c1f840322a0fc4c610.png",
     "url": "https://streamtp.sbs//global1.php?stream=espn"
   },
     {
     "nombre": "Win sports",
-    "logo": "https://peticion.com/logo.png",
+    "logo": "http://latinapro.net:25461/images/68b885f876355c6e18a063bfc0558aee.jpg",
     "url": "https://streamtp.sbs/global1.php?stream=winplus2"
   },
   {
     "nombre": "Win sports",
-    "logo": "https://peticion.com/logo.png",
+    "logo": "http://latinapro.net:25461/images/5bafd47eb3141e29872cade169c83b19.jpg",
     "url": "https://streamtp.sbs/global1.php?stream=winsports"
   },
     {
-    "nombre": "Fix Sports Argentina",
-    "logo": "https://peticion.com/logo.png",
+    "nombre": "Fox Sports Argentina",
+    "logo": "http://latinapro.net:25461/images/b88ab5a849ebacbea981467921da314d.jpg",
     "url": "https://streamtp.sbs/global1.php?stream=fox1ar"
   },
   {
     "nombre": "Fox Sports 2",
-    "logo": "https://peticion.com/logo.png",
+    "logo": "http://latinapro.net:25461/images/3242949a653f4cf5ced117ea877ebfb5.jpg",
     "url": "https://streamtp.sbs/global1.php?stream=fox2ar"
   },
     {
     "nombre": "Fox Sports 3 Argentina",
-    "logo": "https://peticion.com/logo.png",
+    "logo": "http://latinapro.net:25461/images/820b128c3afc31349237f2c4f9689d6c.jpg",
     "url": "https://streamtp.sbs/global1.php?stream=fox3ar"
   },
   {
     "nombre": "Dsports",
-    "logo": "https://peticion.com/logo.png",
+    "logo": "http://latinapro.net:25461/images/cc0014b2e16037b5dcb3befb062e3f3e.png",
     "url": "https://streamtp.sbs/global1.php?stream=dsports"
   },
     {
     "nombre": "Dsports 2",
-    "logo": "https://peticion.com/logo.png",
+    "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRt6qrZml6m_wS0lq9e40Fx3kTZmlrhsknaYw&s",
     "url": "https://streamtp.sbs/global1.php?stream=dsports2"
   },
   {
-    "nombre": "DSports 4",
-    "logo": "https://peticion.com/logo.png",
+    "nombre": "DSports Plus",
+    "logo": "http://latinapro.net:25461/images/cTC2Qq0pPg2Vqq7PhtugU7Qo3X9kzk5Xp8eeoLK8JqMsHRgDkIhEi0KE4tPg0YbpA-NwHnl4lzAs41nVLSLt5w.png",
     "url": "https://streamtp.sbs/global1.php?stream=dsportsplus"
   },
     {
     "nombre": "TNT Sports Chile",
-    "logo": "https://peticion.com/logo.png",
+    "logo": "http://latinapro.net:25461/images/631461f8e5cf7fc21429e0649583c3ef.png",
     "url": "https://streamtp.sbs/global1.php?stream=tntsportschile"
   },
   {
     "nombre": "TNT Sports Argentina",
-    "logo": "https://peticion.com/logo.png",
+    "logo": "http://latinapro.net:25461/images/631461f8e5cf7fc21429e0649583c3ef.png",
     "url": "https://streamtp.sbs/global1.php?stream=tntsports"
   },
     {
     "nombre": "ESPN PREMIUM Argentina",
-    "logo": "https://peticion.com/logo.png",
+    "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQDcvcjzjn2GWIfhC1z3_620MPgVaLRcPnlwA&s",
     "url": "https://streamtp.sbs/global1.php?stream=espnpremium"
   },
   {
     "nombre": "TyC Sports",
-    "logo": "https://peticion.com/logo.png",
+    "logo": "http://latinapro.net:25461/images/77eee83ffdb378dee7f117f9a05bb865.png",
     "url": "https://streamtp.sbs/global1.php?stream=tycsports"
   },
     {
     "nombre": "Telefe",
-    "logo": "https://peticion.com/logo.png",
+    "logo": "http://latinapro.net:25461/images/1a3c22a788d4f51b70631a326eda841e.jpg",
     "url": "https://streamtp.sbs/global1.php?stream=telefe"
   },
   {
     "nombre": "TV Publica",
-    "logo": "https://peticion.com/logo.png",
+    "logo": "https://cdn.mitvstatic.com/channels/ar_canal-7-capital_m.png",
     "url": "https://streamtp.sbs/global1.php?stream=tv_publica"
   },
     {
     "nombre": "Liga 1 max",
-    "logo": "https://peticion.com/logo.png",
+    "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTzrfURPHcJblk8-4OwMaBBYfg1Gb7ZchC0yQ&s",
     "url": "https://streamtp.sbs/global1.php?stream=liga1max"
   },
   {
     "nombre": "ESPN deportes USA",
-    "logo": "https://peticion.com/logo.png",
+    "logo": "http://latinapro.net:25461/images/ef0217f6c67ee4c1f840322a0fc4c610.png",
     "url": "https://streamtp.sbs/global1.php?stream=espndeportes"
   },
     {
     "nombre": "TUDN USA",
-    "logo": "https://peticion.com/logo.png",
+    "logo": "https://play-lh.googleusercontent.com/fisQ9nQ_TEtyvdMNLKfjxfuJEJQHvH5Dm6WTDeD95KjzzVRl2Pdeq8nys7eFid6Wvw",
     "url": "https://streamtp.sbs/global1.php?stream=tudn_usa"
   },
   {
@@ -96,192 +96,187 @@
   },
     {
     "nombre": "Fox Sports 2 USA",
-    "logo": "https://peticion.com/logo.png",
+    "logo": "http://latinapro.net:25461/images/b88ab5a849ebacbea981467921da314d.jpg",
     "url": "https://streamtp.sbs/global1.php?stream=fox_2_usa"
   },
   {
     "nombre": "Universo USA",
-    "logo": "https://peticion.com/logo.png",
+    "logo": "http://latinapro.net:25461/images/76de322bea5ea48a6adfea4c0c3fd443.jpg",
     "url": "https://streamtp.sbs/global1.php?stream=universo_usa"
   },
     {
     "nombre": "Univision USA",
-    "logo": "https://peticion.com/logo.png",
+    "logo": "http://latinapro.net:25461/images/22d0a44a4f4c624919faee22939aa273.png",
     "url": "https://streamtp.sbs/global1.php?stream=univision_usa"
   },
   {
     "nombre": "Fox Deportes USA",
-    "logo": "https://peticion.com/logo.png",
+    "logo": "http://latinapro.net:25461/images/b67524d54921319c9b02f89444276967.png",
     "url": "https://streamtp.sbs/global1.php?stream=fox_deportes_usa"
   },
     {
     "nombre": "azteca 7 Mx",
-    "logo": "https://peticion.com/logo.png",
+    "logo": "http://latinapro.net:25461/images/43fbf7656562fcf073188d28b5007f71.png",
     "url": "https://streamtp.sbs/global1.php?stream=azteca7"
   },
   {
     "nombre": "Fox Sports Mx",
-    "logo": "https://peticion.com/logo.png",
+    "logo": "http://latinapro.net:25461/images/b88ab5a849ebacbea981467921da314d.jpg",
     "url": "https://streamtp.sbs/global1.php?stream=foxsportsmx"
   },
     {
     "nombre": "Fox Sports 2 MX",
-    "logo": "https://peticion.com/logo.png",
+    "logo": "http://latinapro.net:25461/images/3242949a653f4cf5ced117ea877ebfb5.jpg",
     "url": "https://streamtp.sbs/global1.php?stream=foxsports2mx"
   },
   {
     "nombre": "Fox Sport 3 Mx",
-    "logo": "https://peticion.com/logo.png",
+    "logo": "http://latinapro.net:25461/images/820b128c3afc31349237f2c4f9689d6c.jpg",
     "url": "https://streamtp.sbs/global1.php?stream=foxsports3mx"
   },
     {
     "nombre": "Fox Sports Premium",
-    "logo": "https://peticion.com/logo.png",
+    "logo": "https://www.tvplusgratis.org/imge/foxsportsmx.webp",
     "url": "https://streamtp.sbs/global1.php?stream=foxsportspremium"
   },
   {
     "nombre": "ESPN Mx",
-    "logo": "https://peticion.com/logo.png",
+    "logo": "http://latinapro.net:25461/images/e1bd9e9008c137da501e5e0dca12d8b9.png",
     "url": "https://streamtp.sbs/global1.php?stream=espnmx"
   },
     {
     "nombre": "ESPN 2 Mx",
-    "logo": "https://peticion.com/logo.png",
+    "logo": "http://latinapro.net:25461/images/973822139bde28ada94071e8bf9479b9.jpg",
     "url": "https://streamtp.sbs/global1.php?stream=espn2mx"
   },
   {
     "nombre": "ESPN 3 Mx",
-    "logo": "https://peticion.com/logo.png",
+    "logo": "http://latinapro.net:25461/images/e1bd9e9008c137da501e5e0dca12d8b9.png",
     "url": "https://streamtp.sbs/global1.php?stream=espn3mx"
   },
     {
     "nombre": "TNT 1 GB",
-    "logo": "https://peticion.com/logo.png",
+    "logo": "http://latinapro.net:25461/images/631461f8e5cf7fc21429e0649583c3ef.png",
     "url": "https://streamtp.sbs/global1.php?stream=tnt_1_gb"
   },
   {
     "nombre": "TNT 2 GB",
-    "logo": "https://peticion.com/logo.png",
+    "logo": "http://latinapro.net:25461/images/631461f8e5cf7fc21429e0649583c3ef.png",
     "url": "https://streamtp.sbs/global1.php?stream=tnt_2_gb"
   },
     {
     "nombre": "TNT 3 GB",
-    "logo": "https://peticion.com/logo.png",
+    "logo": "http://latinapro.net:25461/images/631461f8e5cf7fc21429e0649583c3ef.png",
     "url": "https://streamtp.sbs/global1.php?stream=tnt_3_gb"
   },
   {
     "nombre": "TNT 4",
-    "logo": "https://peticion.com/logo.png",
+    "logo": "http://latinapro.net:25461/images/631461f8e5cf7fc21429e0649583c3ef.png",
     "url": "https://streamtp.sbs/global1.php?stream=tnt_4_gb"
   },
     {
     "nombre": "Sports Tv BR 1",
-    "logo": "https://peticion.com/logo.png",
+    "logo": "http://latinapro.net:25461/images/17d34a7ad59f8578e682d0ade0ecbb48.png",
     "url": "https://streamtp.sbs/global1.php?stream=sporttvbr1"
   },
   {
     "nombre": "Sport Tv BR 2",
-    "logo": "https://peticion.com/logo.png",
+    "logo": "http://latinapro.net:25461/images/1a114b288ef7432428c1a7f44f30f291.png",
     "url": "https://streamtp.sbs//global1.php?stream=espn"
   },
     {
     "nombre": "Sports tv BR 3",
-    "logo": "https://peticion.com/logo.png",
+    "logo": "http://latinapro.net:25461/images/1bf57bd8178b234f6a08404f193a253e.png",
     "url": "https://streamtp.sbs/global1.php?stream=sporttvbr3"
   },
   {
     "nombre": "Premier 1 BR",
-    "logo": "https://peticion.com/logo.png",
+    "logo": "http://latinapro.net:25461/images/14256ddb0712552bd4e407d58faec0a4.jpg",
     "url": "https://streamtp.sbs/global1.php?stream=premiere1"
   },
     {
     "nombre": "Premier 2 BR",
-    "logo": "https://peticion.com/logo.png",
+    "logo": "http://latinapro.net:25461/images/14256ddb0712552bd4e407d58faec0a4.jpg",
     "url": "https://streamtp.sbs/global1.php?stream=premiere2"
   },
   {
     "nombre": "Premier 3 BR",
-    "logo": "https://peticion.com/logo.png",
+    "logo": "http://latinapro.net:25461/images/14256ddb0712552bd4e407d58faec0a4.jpg",
     "url": "https://streamtp.sbs/global1.php?stream=premiere3"
   },
     {
     "nombre": "Fox One Mx",
-    "logo": "https://peticion.com/logo.png",
+    "logo": "https://foxone.asset.viewlift.com/images/brand/2025/12/01/fox-new-FOX-ONE-Logo-1764567761278.png",
     "url": "https://streamtp.sbs/global1.php?stream=foxone"
   },
   {
     "nombre": "Fox One",
-    "logo": "https://peticion.com/logo.png",
+    "logo": "https://foxone.asset.viewlift.com/images/brand/2025/12/01/fox-new-FOX-ONE-Logo-1764567761278.png",
     "url": "https://streamtp.sbs/global1.php?stream=foxone1"
   },
     {
     "nombre": "Fox One 2 Mx",
-    "logo": "https://peticion.com/logo.png",
+    "logo": "https://foxone.asset.viewlift.com/images/brand/2025/12/01/fox-new-FOX-ONE-Logo-1764567761278.png",
     "url": "https://streamtp.sbs/global1.php?stream=foxone2"
   },
   {
     "nombre": "Fox One 3 mx",
-    "logo": "https://peticion.com/logo.png",
+    "logo": "https://foxone.asset.viewlift.com/images/brand/2025/12/01/fox-new-FOX-ONE-Logo-1764567761278.png",
     "url": "https://streamtp.sbs/global1.php?stream=foxone3"
   },
     {
     "nombre": "TyC Sports internacional",
-    "logo": "https://peticion.com/logo.png",
+    "logo": "http://latinapro.net:25461/images/853b73d3bf50b22aa64c9b99871f2d4c.jpg",
     "url": "https://streamtp.sbs/global1.php?stream=tycinternacional"
   },
   {
     "nombre": "Canal 5",
-    "logo": "https://peticion.com/logo.png",
+    "logo": "https://static.wikia.nocookie.net/logopedia/images/5/5d/Canal_5_M%C3%A9xico_2007.svg/revision/latest/scale-to-width-down/200?cb=20210515040932&path-prefix=es",
     "url": "https://streamtp.sbs/global1.php?stream=canal5mx"
   },
     {
-    "nombre": "TUDN Mc",
-    "logo": "https://peticion.com/logo.png",
+    "nombre": "TUDN Mx",
+    "logo": "https://play-lh.googleusercontent.com/fisQ9nQ_TEtyvdMNLKfjxfuJEJQHvH5Dm6WTDeD95KjzzVRl2Pdeq8nys7eFid6Wvw",
     "url": "https://streamtp.sbs/global1.php?stream=tudnmx"
   },
   {
     "nombre": "Futv",
-    "logo": "https://peticion.com/logo.png",
+    "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSZzSoBIawXM9NkPNDd2VCaWzLcAeisHqvifgSkWL901PvHbSXNjTdFwow&s=10",
     "url": "https://streamtp.sbs/global1.php?stream=futv"
   },
     {
     "nombre": "La liga hypermotion",
-    "logo": "https://peticion.com/logo.png",
+    "logo": "https://static.wikia.nocookie.net/logopedia/images/0/01/LaLiga_Hypermotion_V.svg/revision/latest/scale-to-width-down/250?cb=20230704145241",
     "url": "https://streamtp.sbs/global1.php?stream=laligahypermotion"
   },
   {
     "nombre": "ESPN",
-    "logo": "https://peticion.com/logo.png",
+    "logo": "http://latinapro.net:25461/images/ef0217f6c67ee4c1f840322a0fc4c610.png",
     "url": "https://streamtp.sbs//global1.php?stream=espn"
-  },
-    {
-    "nombre": "azteca 7",
-    "logo": "https://peticion.com/logo.png",
-    "url": "https://regionales.saohgdasregions.fun/tvporinternet3.php?stream=1_"
   },
   {
     "nombre": "ESPN",
-    "logo": "https://peticion.com/logo.png",
+    "logo": "http://latinapro.net:25461/images/e1bd9e9008c137da501e5e0dca12d8b9.png",
     "url": "https://streamtp.sbs//global1.php?stream=espn"
   },
     {
     "nombre": "DSports",
-    "logo": "https://peticion.com/logo.png",
+    "logo": "http://latinapro.net:25461/images/cc0014b2e16037b5dcb3befb062e3f3e.png",
     "url": "https://streamtp.sbs/global2.php?stream=dsports"
   },
   {
     "nombre": "Vix",
-    "logo": "https://peticion.com/logo.png",
+    "logo": "https://vix.com/assets/externals/logo-white.svg?tr=q-30",
     "url": "https://streamtp.sbs/global2.php?stream=vix1"
   },
     {
     "nombre": "Telemundo Usa",
-    "logo": "https://peticion.com/logo.png",
+    "logo": "http://latinapro.net:25461/images/29954f763db683bddfe240c844a28d13.jpg",
     "url": "https://streamtp.sbs/global2.php?stream=telemundousa"
   },
   {
     "nombre": "TcYSports",
-    "logo": "https://peticion.com/logo.png",
+    "logo": "http://latinapro.net:25461/images/77eee83ffdb378dee7f117f9a05bb865.png",
     "url": "https://streamtp.sbs/global2.php?stream=tycsports"
   }
 ]
