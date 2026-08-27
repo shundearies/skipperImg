@@ -482,4 +482,21 @@
   {
     "nombre": "Tv Azteca Deportes Network",
     "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTh7SgjT20XBllN8n5lpm-8ziXqPNXl_OSnsg&usqp=CAU",
-    "url": "https://www.tvenvivo2.com/azteca-deportes
+    "url": "https://www.tvenvivo2.com/azteca-deportes-en-vivo-por-internet.php"
+  },
+  {
+    "nombre": "TNT SPORTS Chile",
+    "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRNzRaEF7sInMKci-9xC-vXIBVl7h2h9v35ww&usqp=CAU",
+    "url": "https://www.tvenvivo2.com/tnt-sports-chile-en-vivo-por-internet.php"
+  },
+  {
+    "nombre": "Sky Sports La Liga",
+    "logo": "http://mundo2.pro:80/images/9b522a6209596c2b7b32657412962238.png",
+    "url": "https://www.tvenvivo2.com/sky-sports-la-liga-en-vivo-por-internet.php"
+  },
+  {
+    "nombre": "La Liga 1",
+    "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTzrfURPHcJblk8-4OwMaBBYfg1Gb7ZchC0yQ&s",
+    "url": "https://www.tvenvivo2.com/liga-1-en-vivo-por-internet.php"
+  }
+]
