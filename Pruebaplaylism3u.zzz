@@ -12,5 +12,12 @@
     "url": "http://localiptv.site:85/get.php?username=SmartNtv57858768&password=k8xGrZXe1G&type=m3u_plus&output=m3u8",
     "contrasena": "",
     "reproductor": "inapp_webview_player2"
+  },
+     {
+    "nombre": "IPTV-LATAM 2",
+    "logo": "https://raw.githubusercontent.com/shundearies/skipperImg/refs/heads/main/9bd5dcaf-17c3-46f3-8b0e-30e539fb6ddc.jpeg",
+    "url": "http://mundocorp.pro:55577/get.php?username=goplay27&password=277g722&type=m3u_plus",
+    "contrasena": "",
+    "reproductor": "inapp_webview_player2"
   }
 ]
