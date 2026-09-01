@@ -978,5 +978,10 @@
     "nombre": "Desafio India",
     "logo": "https://wwwimage-us.plutostatic.tv/thumbnails/photos/w400-q80/ptv/channels/6495af324c014a000842e923/solidLogoPNG.png?format=webp&trim=true",
     "url": "https://pluto.tv/live-tv/6495af324c014a000842e923"
+  },
+     {
+    "nombre": "administrador",
+    "logo": " ",
+    "url": "https://sportika.net/watch/torino-vs-monza-2577931"
   }
 ]
