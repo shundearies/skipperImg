@@ -26,5 +26,12 @@
     "url": "http://tv.dimaiptv.com:80/get.php?username=VIP0152175518496914&password=bx7bxbemdren&type=m3u_plus",
     "contrasena": "",
     "reproductor": "inapp_webview_player2"
+  },
+     {
+    "nombre": "Administardor",
+    "logo": "https://raw.githubusercontent.com/shundearies/skipperImg/refs/heads/main/9bd5dcaf-17c3-46f3-8b0e-30e539fb6ddc.jpeg",
+    "url": "https://www.tvplusgratis.org/",
+    "contrasena": "109898",
+    "reproductor": ""
   }
 ]
