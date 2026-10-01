@@ -1,0 +1,26 @@
+[
+     {
+    "nombre": "Astras",
+    "logo": "https://raw.githubusercontent.com/shundearies/Videos/refs/heads/main/CanalesAstras.png",
+    "url": "http://181.119.215.61:8000/playlist.m3u",
+    "contrasena": "",
+    "reproductor": "inapp_webview_player2",
+    "pantalla": "PantallaListaIPTV"
+  },
+     {
+    "nombre": "Atras",
+    "logo": "https://raw.githubusercontent.com/shundearies/Videos/refs/heads/main/CanalesAstras.png",
+    "url": "http://138.59.177.78:9999/playlist.m3u",
+    "contrasena": "",
+    "reproductor": "inapp_webview_player2",
+    "pantalla":"PantallaListaIPTV"
+  },
+     {
+    "nombre": "Ecuador",
+    "logo": "https://raw.githubusercontent.com/shundearies/Videos/refs/heads/main/CanalesAstras.png",
+    "url": "http://205.235.6.29:8000/playlist.m3u",
+    "contrasena": "",
+    "reproductor": "inapp_webview_player2",
+    "pantalla":"PantallaListaIPTV"
+  }
+]
