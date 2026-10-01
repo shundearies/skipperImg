@@ -161,12 +161,12 @@
   },
   {
     "nombre": "Animal Planet",
-    "logo": "http://latinapro.net:25461/images/0e57813f2ff522ad5847fdb98831f119.jpg",
+    "logo": "http://sunset-app.com/picons/cultura/animalplanet.jpg",
     "url": "https://www.tvporinternet2.com/animal-planet-en-vivo-por-internet.php"
   },
   {
     "nombre": "National Geography",
-    "logo": "http://latinapro.net:25461/images/79fdd01ac16bd028b7d0f5db231c6ae9.png",
+    "logo": "http://sunset-app.com/picons/cultura/nationalgeo.jpg",
     "url": "https://www.tvporinternet2.com/nat-geo-en-vivo-por-internet.php"
   },
   {
@@ -181,17 +181,17 @@
   },
   {
     "nombre": "Univerdal cinema",
-    "logo": "http://latinapro.net:25461/images/6802200a2151d29adee2cf4c8ecd94f5.jpg",
+    "logo": "http://sunset-app.com/picons/cine/universalcinema.jpg",
     "url": "https://www.cablevisionhd.com/universal-cinema-ver.php"
   },
   {
     "nombre": "TNT",
-    "logo": "http://latinapro.net:25461/images/8c902e6165c251f276398dc6eed1b219.png",
+    "logo": "http://sunset-app.com/picons/cine/tnt.jpg",
     "url": "https://www.cablevisionhd.com/tnt-ver.php"
   },
   {
     "nombre": "TNT Series",
-    "logo": "http://latinapro.net:25461/images/c253fdd238d631050b305960f202365f.png",
+    "logo": "http://sunset-app.com/picons/cine/tnt.jpg",
     "url": "https://www.cablevisionhd.com/tnt-series-ver.php"
   },
   {
@@ -206,7 +206,7 @@
   },
   {
     "nombre": "SPACE",
-    "logo": "http://latinapro.net:25461/images/21a94ef615203e3113e724e5075c5297.png",
+    "logo": "http://sunset-app.com/picons/cine/space.jpg",
     "url": "https://www.cablevisionhd.com/space-ver.php"
   },
   {
@@ -216,7 +216,7 @@
   },
   {
     "nombre": "WARNER Bross",
-    "logo": "http://latinapro.net:25461/images/9096a4e03b39380b9335ef899eb98aed.jpg",
+    "logo": "http://sunset-app.com/picons/cine/warner.jpg",
     "url": "https://embed.saohgdassregions.com/embed2/warnerchannel.php"
   },
   {
@@ -226,22 +226,17 @@
   },
   {
     "nombre": "FX",
-    "logo": "http://latinapro.net:25461/images/620eaf3a6b041dd4310223e339b2eed4.jpg",
+    "logo": "http://sunset-app.com/picons/entretenimiento/fx.jpg",
     "url": "https://www.cablevisionhd.com/fx-ver.php"
   },
   {
     "nombre": "AXN",
-    "logo": "http://latinapro.net:25461/images/cae30e8874e3ba50714afffbb88758f7.jpg",
+    "logo": "http://sunset-app.com/picons/entretenimiento/axn.jpg",
     "url": "https://www.cablevisionhd.com/axn-ver.php"
   },
   {
-    "nombre": "Ecuavisa Play",
-    "logo": "http://latinapro.net:25461/images/d3fd0342fa7797aad7f6549b49e2725c.png",
-    "url": "https://regionales.saohgdasregions.fun/stream.php?canal=ecuavisa&target=1"
-  },
-  {
     "nombre": "AMC",
-    "logo": "http://latinapro.net:25461/images/35d5b3b52197e6c65a4792e57ad01ab7.jpg",
+    "logo": "http://sunset-app.com/picons/entretenimiento/amc.jpg",
     "url": "https://www.cablevisionhd.com/amc-ver.php"
   },
   {
@@ -291,7 +286,7 @@
   },
   {
     "nombre": "Distrito Comedia",
-    "logo": "http://latinapro.net:25461/images/9d0d9e8076398c2f6166d8d9497ec457.png",
+    "logo": "http://sunset-app.com/picons/entretenimiento/distritocom.jpg",
     "url": "https://www.cablevisionhd.com/distrito-comedia-ver.php"
   },
   {
@@ -301,7 +296,7 @@
   },
   {
     "nombre": "Pasiones",
-    "logo": "http://latinapro.net:25461/images/6dc71135b5ef92a7fe8f0e8c1be31985.jpg",
+    "logo": "http://sunset-app.com/picons/entretenimiento/pasiones.jpg",
     "url": "https://www.cablevisionhd.com/pasiones-en-vivo.php"
   },
   {
@@ -326,7 +321,7 @@
   },
   {
     "nombre": "TNT Sports Premium",
-    "logo": "http://latinapro.net:25461/images/631461f8e5cf7fc21429e0649583c3ef.png",
+    "logo": "https://i.postimg.cc/4yMbnpcF/tntsports.jpg",
     "url": "https://www.cablevisionhd.com/tnt-sports-ver.php"
   },
   {
