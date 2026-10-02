@@ -5,7 +5,7 @@
     "url": "https://raw.githubusercontent.com/iptv-org/iptv/refs/heads/master/streams/es_rakuten.m3u",
     "contrasena": "",
     "reproductor": "inapp_webview_player2",
-    "pantalla": "MpdScreenFull"
+    "pantalla": "PantallaListaIPTV"
   },
      {
     "nombre": "RAKUTEN TV USA",
