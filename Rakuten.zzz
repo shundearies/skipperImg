@@ -1,0 +1,18 @@
+[
+     {
+    "nombre": "RAKUTEN TV ESPAÑOL",
+    "logo": "https://www.enterprise.rakuten.tv/wp-content/uploads/2025/08/Rakuten-TV-Enterprise_Logo-Color_2-line.png",
+    "url": "https://raw.githubusercontent.com/iptv-org/iptv/refs/heads/master/streams/es_rakuten.m3u",
+    "contrasena": "",
+    "reproductor": "inapp_webview_player2",
+    "pantalla": "MpdScreenFull"
+  },
+     {
+    "nombre": "RAKUTEN TV USA",
+    "logo": "https://www.enterprise.rakuten.tv/wp-content/uploads/2025/08/Rakuten-TV-Enterprise_Logo-Color_2-line.png",
+    "url": "https://raw.githubusercontent.com/shundearies/skipperImg/refs/heads/main/Rakuten.m3u",
+    "contrasena": "",
+    "reproductor": "inapp_webview_player2",
+    "pantalla":"PantallaListaIPTV"
+  }
+]
