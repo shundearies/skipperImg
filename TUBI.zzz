@@ -1,0 +1,18 @@
+[
+     {
+    "nombre": "TUBI ORIGINAL",
+    "logo": "https://static.wikia.nocookie.net/youtube/images/e/e4/Tubi.jpg/revision/latest?cb=20241013024846",
+    "url": "https://raw.githubusercontent.com/shundearies/skipperImg/refs/heads/main/tibitv.json.yyy",
+    "contrasena": "",
+    "reproductor": "inapp_webview_player2",
+    "pantalla": "MpdScreenFull"
+  },
+     {
+    "nombre": "TUBI LATAM",
+    "logo": "https://static.wikia.nocookie.net/youtube/images/e/e4/Tubi.jpg/revision/latest?cb=20241013024846",
+    "url": "https://raw.githubusercontent.com/shundearies/skipperImg/refs/heads/main/tubi_playlist.m3u",
+    "contrasena": "",
+    "reproductor": "inapp_webview_player2",
+    "pantalla":"PantallaListaIPTV"
+  }
+]
