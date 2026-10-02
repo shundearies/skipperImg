@@ -1,0 +1,18 @@
+[
+     {
+    "nombre": "LG-CHANNELS-US",
+    "logo": "https://raw.githubusercontent.com/shundearies/skipperImg/refs/heads/main/LG.png",
+    "url": "https://raw.githubusercontent.com/shundearies/skipperImg/refs/heads/main/lg_channels_us.m3u",
+    "contrasena": "",
+    "reproductor": "inapp_webview_player2",
+    "pantalla": "PantallaListaIPTV"
+  },
+     {
+    "nombre": "LG-CHANNELS-US",
+    "logo": "https://www.enterprise.rakuten.tv/wp-content/uploads/2025/09/LG-Channels-logo-300x214.png",
+    "url": "https://raw.githubusercontent.com/shundearies/skipperImg/refs/heads/main/LGChannels.m3u",
+    "contrasena": "",
+    "reproductor": "inapp_webview_player2",
+    "pantalla":"PantallaListaIPTV"
+  }
+]
