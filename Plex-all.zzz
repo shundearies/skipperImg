@@ -1,0 +1,34 @@
+[
+     {
+    "nombre": "PLEX TV ORIGINAL",
+    "logo": "https://dn721809.ca.archive.org/0/items/plex-logo_202103/plex-logo.jpg",
+    "url": "https://raw.githubusercontent.com/shundearies/skipperImg/refs/heads/main/plextv.json.yyy",
+    "contrasena": "",
+    "reproductor": "inapp_webview_player2",
+    "pantalla": "MpdScreenFull"
+  },
+     {
+    "nombre": "PLEX-MX",
+    "logo": "https://dn721809.ca.archive.org/0/items/plex-logo_202103/plex-logo.jpg",
+    "url": "https://raw.githubusercontent.com/shundearies/skipperImg/refs/heads/main/plex_mx.m3u",
+    "contrasena": "",
+    "reproductor": "inapp_webview_player2",
+    "pantalla":"PantallaListaIPTV"
+  },
+     {
+    "nombre": "PLEXTV-ESPAÑA",
+    "logo": "https://dn721809.ca.archive.org/0/items/plex-logo_202103/plex-logo.jpg",
+    "url": "https://raw.githubusercontent.com/shundearies/skipperImg/refs/heads/main/plex_es.m3u",
+    "contrasena": "",
+    "reproductor": "inapp_webview_player2",
+    "pantalla":"PantallaListaIPTV"
+  },
+     {
+    "nombre": "PLEXTV-USA",
+    "logo": "https://dn721809.ca.archive.org/0/items/plex-logo_202103/plex-logo.jpg",
+    "url": "https://raw.githubusercontent.com/shundearies/skipperImg/refs/heads/main/plex_us.m3u",
+    "contrasena": "",
+    "reproductor": "inapp_webview_player2",
+    "pantalla":"PantallaListaIPTV"
+  }
+]
