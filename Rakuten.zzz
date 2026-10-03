@@ -14,5 +14,13 @@
     "contrasena": "",
     "reproductor": "inapp_webview_player2",
     "pantalla":"PantallaListaIPTV"
+  },
+     {
+    "nombre": "RAKUTEN TV ESPAÑA",
+    "logo": "https://www.enterprise.rakuten.tv/wp-content/uploads/2025/08/Rakuten-TV-Enterprise_Logo-Color_2-line.png",
+    "url": "https://raw.githubusercontent.com/shundearies/skipperImg/refs/heads/main/rakuten_es.m3u",
+    "contrasena": "",
+    "reproductor": "inapp_webview_player2",
+    "pantalla":"PantallaListaIPTV"
   }
 ]
