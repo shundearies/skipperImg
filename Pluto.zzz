@@ -10,7 +10,7 @@
      {
     "nombre": "PLUTO-LATAM",
     "logo": "https://static.wikia.nocookie.net/logopedia/images/d/d8/PlutoTV.png/revision/latest?cb=20240126210022",
-    "url": "https://raw.githubusercontent.com/shundearies/skipperImg/refs/heads/main/pluto-live-AR.m3u",
+    "url": "https://raw.githubusercontent.com/OwnerPlugins/pluto-tv-m3u/refs/heads/main/pluto-live-MX.m3u",
     "contrasena": "",
     "reproductor": "inapp_webview_player",
     "pantalla":"PantallaListaIPTV"
@@ -18,7 +18,7 @@
      {
     "nombre": "PLUTO-ESPAÑA",
     "logo": "https://static.wikia.nocookie.net/logopedia/images/d/d8/PlutoTV.png/revision/latest?cb=20240126210022",
-    "url": "https://raw.githubusercontent.com/shundearies/skipperImg/refs/heads/main/pluto-live-ES.m3u",
+    "url": "https://raw.githubusercontent.com/OwnerPlugins/pluto-tv-m3u/refs/heads/main/pluto-live-ES.m3u",
     "contrasena": "",
     "reproductor": "Webview",
     "pantalla":"PantallaListaIPTV"
@@ -26,7 +26,7 @@
      {
     "nombre": "PLUTO-USA",
     "logo": "https://static.wikia.nocookie.net/logopedia/images/d/d8/PlutoTV.png/revision/latest?cb=20240126210022",
-    "url": "https://raw.githubusercontent.com/shundearies/skipperImg/refs/heads/main/pluto-live-US.m3u",
+    "url": "https://raw.githubusercontent.com/OwnerPlugins/pluto-tv-m3u/refs/heads/main/pluto-live-US.m3u",
     "contrasena": "",
     "reproductor": "inapp_webview_player2",
     "pantalla":"PantallaListaIPTV"
