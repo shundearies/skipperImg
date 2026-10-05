@@ -26,7 +26,7 @@
      {
     "nombre": "PLUTO-USA",
     "logo": "https://static.wikia.nocookie.net/logopedia/images/d/d8/PlutoTV.png/revision/latest?cb=20240126210022",
-    "url": "https://raw.githubusercontent.com/sulthanpamenan/IPTV_Master/refs/heads/main/playlist.m3u8",
+    "url": "https://raw.githubusercontent.com/shundearies/skipperImg/refs/heads/main/pluto-live-US.m3u",
     "contrasena": "",
     "reproductor": "inapp_webview_player2",
     "pantalla":"PantallaListaIPTV"
