@@ -10,7 +10,7 @@
      {
     "nombre": "PLUTO-LATAM",
     "logo": "https://static.wikia.nocookie.net/logopedia/images/d/d8/PlutoTV.png/revision/latest?cb=20240126210022",
-    "url": "https://raw.githubusercontent.com/shundearies/skipperImg/refs/heads/main/pluto_mx.m3u",
+    "url": "https://raw.githubusercontent.com/shundearies/skipperImg/refs/heads/main/pluto-live-AR.m3u",
     "contrasena": "",
     "reproductor": "inapp_webview_player",
     "pantalla":"PantallaListaIPTV"
@@ -18,7 +18,7 @@
      {
     "nombre": "PLUTO-ESPAÑA",
     "logo": "https://static.wikia.nocookie.net/logopedia/images/d/d8/PlutoTV.png/revision/latest?cb=20240126210022",
-    "url": "https://raw.githubusercontent.com/shundearies/skipperImg/refs/heads/main/pluto_es.m3u",
+    "url": "https://raw.githubusercontent.com/shundearies/skipperImg/refs/heads/main/pluto-live-ES.m3u",
     "contrasena": "",
     "reproductor": "Webview",
     "pantalla":"PantallaListaIPTV"
