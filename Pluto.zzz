@@ -12,7 +12,7 @@
     "logo": "https://static.wikia.nocookie.net/logopedia/images/d/d8/PlutoTV.png/revision/latest?cb=20240126210022",
     "url": "https://raw.githubusercontent.com/OwnerPlugins/pluto-tv-m3u/refs/heads/main/pluto-live-MX.m3u",
     "contrasena": "",
-    "reproductor": "inapp_webview_player",
+    "reproductor": "inapp_webview_player2",
     "pantalla":"PantallaListaIPTV"
   },
      {
@@ -20,7 +20,7 @@
     "logo": "https://static.wikia.nocookie.net/logopedia/images/d/d8/PlutoTV.png/revision/latest?cb=20240126210022",
     "url": "https://raw.githubusercontent.com/OwnerPlugins/pluto-tv-m3u/refs/heads/main/pluto-live-ES.m3u",
     "contrasena": "",
-    "reproductor": "Webview",
+    "reproductor": "inapp_webview_player2",
     "pantalla":"PantallaListaIPTV"
   },
      {
