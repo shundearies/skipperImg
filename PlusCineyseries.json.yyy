@@ -12,22 +12,22 @@
   {
     "nombre": "Telefe",
     "logo": "https://i.postimg.cc/Bbhz71MG/telefe.jpg",
-    "url": "https://www.tvporinternet2.com/telefe-en-vivo-por-internet.php"
+    "url": "https://embed.saohgdassregions.com/embed2/telefe.php"
   },
   {
     "nombre": "EL Trece",
     "logo": "https://media.cdn.eldestapeweb.com/eldestape/122021/1639068588354/El-Trece.jpg?&cw=600&ch=365",
-    "url": "https://www.tvporinternet2.com/el-trece-en-vivo-por-internet.php"
+    "url": "https://embed.saohgdassregions.com/embed2/eltrece.php"
   },
   {
     "nombre": "TNT NOVELAS",
     "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRde6obnRJHvx4WD88_66irMhPgAv_pzg-A3ayhepws-do3DHuQM1U64vURfeBBBtShaOo&usqp=CAU",
-    "url": "https://www.cablevisionhd.com/tnt-novelas-ver.php"
+    "url": "https://embed.saohgdassregions.com/embed2/tntnovelas.php"
   },
   {
     "nombre": "Telemundo 51",
     "logo": "http://sunset-app.com/picons/TELEMUNDOS/51MIAMI.jpg",
-    "url": "https://www.cablevisionhd.com/telemundo-51-ver.php"
+    "url": "https://embed.saohgdassregions.com/embed2/telemundo51.php"
   },
   {
     "nombre": "Telemundo Puerto Rico",
@@ -37,7 +37,7 @@
   {
     "nombre": "Telemundo Internacional",
     "logo": "http://sunset-app.com/picons/TELEMUNDOS/INTERNACIONAL.jpg",
-    "url": "https://www.cablevisionhd.com/telemundo-internacional-ver.php"
+    "url": "https://embed.saohgdassregions.com/embed2/telemundointernacional.php"
   },
   {
     "nombre": "Univision",
@@ -57,7 +57,7 @@
   {
     "nombre": "Antena 3",
     "logo": "http://sunset-app.com/picons/Espana/antena3.jpg",
-    "url": "https://www.cablevisionhd.com/antena-3-ver.php"
+    "url": "https://embed.saohgdassregions.com/embed2/antena3.php"
   },
   {
     "nombre": "Dw Noticias",
