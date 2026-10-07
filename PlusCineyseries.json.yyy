@@ -62,12 +62,12 @@
   {
     "nombre": "Dw Noticias",
     "logo": "http://sunset-app.com/picons/noticias/DW.jpg",
-    "url": "https://www.cablevisionhd.com/dw-espanol-ver.php"
+    "url": "https://embed.saohgdassregions.com/embed2/dwespanol.php"
   },
   {
     "nombre": "CARACOL",
     "logo": "http://sunset-app.com/picons/sudamerica/caracoltv.jpg",
-    "url": "https://www.cablevisionhd.com/caracol-ver.php"
+    "url": "https://embed.saohgdassregions.com/embed2/caracol.php"
   },
   {
     "nombre": "RCN",
@@ -92,12 +92,12 @@
   {
     "nombre": "ATV",
     "logo": "https://alba-pe-atv.cdn.mediatiquepress.com/wp-content/uploads/2025/01/ATVpe_Logo-1-150x58.png",
-    "url": "https://www.tvporinternet2.com/atv-en-vivo-por-internet.php"
+    "url": "https://embed.saohgdassregions.com/embed2/atv.php"
   },
   {
     "nombre": "UNICABLE",
     "logo": "http://sunset-app.com/picons/entretenimiento/unicable.jpg",
-    "url": "https://www.tvporinternet2.com/unicable-en-vivo-por-internet.php"
+    "url": "https://embed.saohgdassregions.com/embed2/unicable.php"
   },
   {
     "nombre": "Imagen Televisión",
