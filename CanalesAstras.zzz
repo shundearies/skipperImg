@@ -30,5 +30,13 @@
     "contrasena": "",
     "reproductor": "inapp_webview_player2",
     "pantalla":"PantallaListaIPTV"
+  },
+     {
+    "nombre": "Colombia",
+    "logo": "https://raw.githubusercontent.com/shundearies/Videos/refs/heads/main/CanalesAstras.png",
+    "url": "http://200.122.223.13:55000/playlist.m3u",
+    "contrasena": "",
+    "reproductor": "inapp_webview_player2",
+    "pantalla":"PantallaListaIPTV"
   }
 ]
