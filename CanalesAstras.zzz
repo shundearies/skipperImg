@@ -8,7 +8,7 @@
     "pantalla": "PantallaListaIPTV"
   },
      {
-    "nombre": "Atras",
+    "nombre": "Astras",
     "logo": "https://raw.githubusercontent.com/shundearies/Videos/refs/heads/main/CanalesAstras.png",
     "url": "http://138.59.177.78:9999/playlist.m3u",
     "contrasena": "",
