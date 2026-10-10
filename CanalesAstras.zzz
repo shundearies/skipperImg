@@ -38,5 +38,13 @@
     "contrasena": "",
     "reproductor": "inapp_webview_player2",
     "pantalla":"PantallaListaIPTV"
+  },
+     {
+    "nombre": "Mexico",
+    "logo": "https://raw.githubusercontent.com/shundearies/Videos/refs/heads/main/CanalesAstras.png",
+    "url": "http://187.245.231.227:8000/playlist.m3u",
+    "contrasena": "",
+    "reproductor": "inapp_webview_player2",
+    "pantalla":"PantallaListaIPTV"
   }
 ]
