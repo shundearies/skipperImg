@@ -1,0 +1,18 @@
+[
+     {
+    "nombre": "24/7 OPC-1",
+    "logo": "http://i.tvcluboficial.com/247.png",
+    "url": "https://raw.githubusercontent.com/shundearies/skipperImg/refs/heads/main/24-7.m3u",
+    "contrasena": "",
+    "reproductor": "inapp_webview_player2",
+    "pantalla": "PantallaListaIPTV"
+  },
+     {
+    "nombre": "24/7 OPC-2",
+    "logo": "http://i.tvcluboficial.com/247.png",
+    "url": "https://raw.githubusercontent.com/shundearies/skipperImg/refs/heads/main/27-7magm.m3u",
+    "contrasena": "",
+    "reproductor": "inapp_webview_player2",
+    "pantalla":"PantallaListaIPTV"
+  }
+]
