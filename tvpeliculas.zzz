@@ -1,0 +1,18 @@
+[
+     {
+    "nombre": "PREMIUM TV OP-1",
+    "logo": "https://raw.githubusercontent.com/shundearies/skipperImg/refs/heads/main/premium%7E2.jpeg",
+    "url": "https://raw.githubusercontent.com/shundearies/skipperImg/refs/heads/main/PlusCineyseries.json.yyy",
+    "contrasena": "",
+    "reproductor": "inapp_webview_player2",
+    "pantalla": "MpdScreenFull"
+  },
+     {
+    "nombre": "PREMIUM TV OP-2",
+    "logo": "https://raw.githubusercontent.com/shundearies/skipperImg/refs/heads/main/premium%7E2.jpeg",
+    "url": "https://raw.githubusercontent.com/shundearies/skipperImg/refs/heads/main/peliculastv.m3u",
+    "contrasena": "",
+    "reproductor": "inapp_webview_player2",
+    "pantalla":"PantallaListaIPTV"
+  }
+]
