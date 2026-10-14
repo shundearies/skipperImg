@@ -7,7 +7,7 @@
   {
     "nombre": "Canal 5",
     "logo": "https://static.wikia.nocookie.net/logopedia/images/5/5d/Canal_5_M%C3%A9xico_2007.svg/revision/latest/scale-to-width-down/200?cb=20210515040932&path-prefix=es",
-    "url": "https://www.cablevisionhd.com/canal-5-ver.php"
+    "url": "https://embed.saohgdassregions.com/embed2/canal5.php"
   },
   {
     "nombre": "Telefe",
@@ -42,17 +42,17 @@
   {
     "nombre": "Univision",
     "logo": "http://sunset-app.com/picons/entretenimiento/univision.jpg",
-    "url": "https://www.cablevisionhd.com/univision-ver.php"
+    "url": "https://embed.saohgdassregions.com/embed2/univision.php"
   },
   {
     "nombre": "TLN NOVELAS",
     "logo": "http://sunset-app.com/picons/entretenimiento/tlnovelas.jpg",
-    "url": "https://www.cablevisionhd.com/tlnovelas-ver.php"
+    "url": "https://embed.saohgdassregions.com/embed2/tlnovelas.php"
   },
   {
     "nombre": "Las estrellas",
     "logo": "http://sunset-app.com/picons/tv.Mexico/lasestrellas.jpg",
-    "url": "https://www.cablevisionhd.com/las-estrellas-ver.php"
+    "url": "https://embed.saohgdassregions.com/embed2/lasestrellas.php"
   },
   {
     "nombre": "Antena 3",
@@ -72,22 +72,22 @@
   {
     "nombre": "RCN",
     "logo": "https://imagenes.canalrcn.com/CanalRCN/imagen-compartir-canal.jpg",
-    "url": "https://www.cablevisionhd.com/rcn-ver.php"
+    "url": "https://embed.saohgdassregions.com/embed2/rcn.php"
   },
   {
     "nombre": "LATINA",
     "logo": "https://brandemia.org/sites/default/files/sites/default/files/logo-latina-despues.jpg",
-    "url": "https://www.cablevisionhd.com/latina-ver.php"
+    "url": "https://embed.saohgdassregions.com/embed2/latina.php"
   },
   {
     "nombre": "America Noticias",
     "logo": "https://i.postimg.cc/CxmPVrLw/americatv.jpg",
-    "url": "https://www.cablevisionhd.com/america-tv-ver.php"
+    "url": "https://embed.saohgdassregions.com/embed2/americatv.php"
   },
   {
     "nombre": "Golden Premier 2",
     "logo": "http://sunset-app.com/picons/cine/goldenpremier.jpg",
-    "url": "https://www.cablevisionhd.com/golden-premier-2-en-vivo.php"
+    "url": "https://embed.saohgdassregions.com/embed2/goldenpremier2.php"
   },
   {
     "nombre": "ATV",
@@ -112,17 +112,17 @@
   {
     "nombre": "Disney Channel",
     "logo": "http://sunset-app.com/picons/kids/disneychann.jpg",
-    "url": "https://www.cablevisionhd.com/disney-channel-ver.php"
+    "url": "https://embed.saohgdassregions.com/embed2/disneychannel.php"
   },
   {
     "nombre": "Cartoons Network",
     "logo": "http://sunset-app.com/picons/kids/cartoonnetwork.jpg",
-    "url": "https://www.cablevisionhd.com/cartoon-network-ver.php"
+    "url": "https://embed.saohgdassregions.com/embed2/cartoonnetwork.php"
   },
   {
     "nombre": "TOONSCATS",
     "logo": "http://sunset-app.com/picons/kids/tooncast.jpg",
-    "url": "https://www.cablevisionhd.com/tooncast-ver.php"
+    "url": "https://embed.saohgdassregions.com/embed2/tooncast.php"
   },
   {
     "nombre": "FMH MOVIES",
@@ -132,7 +132,7 @@
   {
     "nombre": "DISCOVERY CHANNEL",
     "logo": "http://sunset-app.com/picons/cultura/discoverychann.jpg",
-    "url": "https://www.tvporinternet2.com/discovery-channel-en-vivo-por-internet.php"
+    "url": "https://embed.saohgdassregions.com/embed2/discoverychannel.php"
   },
   {
     "nombre": "Discovery ID",
