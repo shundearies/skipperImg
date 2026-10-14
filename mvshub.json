@@ -1,0 +1,20 @@
+{
+  "name": "Lista Wiseplay - MSVHub",
+  "author": "Usuario",
+  "groups": [
+    {
+      "name": "Películas y Canales",
+      "image": "",
+      "stations": [
+        {
+          "name": "De Película",
+          "image": "",
+          "url": "https://msvhub.sbs/drm.php?id=depelicula",
+          "isM3u8": false,
+          "referer": "https://msvhub.sbs/",
+          "userAgent": "CodexTV-Android/2.0"
+        }
+      ]
+    }
+  ]
+}
