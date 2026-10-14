@@ -152,12 +152,12 @@
   {
     "nombre": "History",
     "logo": "http://sunset-app.com/picons/Culture/history.jpg",
-    "url": "https://www.tvporinternet2.com/history-en-vivo-por-internet.php"
+    "url": "https://embed.saohgdassregions.com/embed2/history.php"
   },
   {
     "nombre": "History 2",
     "logo": "http://sunset-app.com/picons/cultura/history2.jpg",
-    "url": "https://www.tvporinternet2.com/history-2-en-vivo-por-internet.php"
+    "url": "https://embed.saohgdassregions.com/embed2/history2.php"
   },
   {
     "nombre": "Animal Planet",
@@ -172,12 +172,12 @@
   {
     "nombre": "Universal Tv",
     "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRhcKojpjVUvGLxBDqXD3F2P4NuQ6dosHPNNg&s",
-    "url": "https://www.cablevisionhd.com/universal-channel-ver.php"
+    "url": "https://embed.saohgdassregions.com/embed2/universaltv.php"
   },
   {
     "nombre": "Universal Premiere",
     "logo": "https://upload.wikimedia.org/wikipedia/commons/8/8a/Universal_Premiere_2021.png",
-    "url": "https://www.cablevisionhd.com/universal-premiere-ver.php"
+    "url": "https://embed.saohgdassregions.com/studiouniversal.php"
   },
   {
     "nombre": "Univerdal cinema",
