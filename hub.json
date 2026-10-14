@@ -1,0 +1,62 @@
+[
+  {
+    "name": "Azteca Uno",
+    "image": "https://url-de-tu-logo.png",
+    "url": "https://msvhub.sbs/drm.php?id=aztecauno",
+    "referer": "https://msvhub.sbs/"
+  },
+  {
+    "name": "Imagen Television",
+    "image": "https://url-de-tu-logo.png",
+    "url": "https://msvhub.sbs/drm.php?id=Imagentv",
+    "referer": "https://msvhub.sbs/"
+  },
+  {
+    "name": "Canal6",
+    "image": "https://url-de-tu-logo.png",
+    "url": "https://msvhub.sbs/drm.php?id=canal6",
+    "referer": "https://msvhub.sbs/"
+  },
+  {
+    "name": "adn noticias",
+    "image": "https://url-de-tu-logo.png",
+    "url": "https://msvhub.sbs/drm.php?id=adn",
+    "referer": "https://msvhub.sbs/"
+  },
+  {
+    "name": "Star Channel",
+    "image": "https://url-de-tu-logo.png",
+    "url": "https://msvhub.sbs/drm.php?id=starchannel",
+    "referer": "https://msvhub.sbs/"
+  },
+  {
+    "name": "MVS Noticias",
+    "image": "https://url-de-tu-logo.png",
+    "url": "https://msvhub.sbs/drm.php?id=mvs",
+    "referer": "https://msvhub.sbs/"
+  },
+  {
+    "name": "Universal tv",
+    "image": "https://url-de-tu-logo.png",
+    "url": "https://msvhub.sbs/drm.php?id=universaltv",
+    "referer": "https://msvhub.sbs/"
+  },
+  {
+    "name": "SONY CHANNEL",
+    "image": "https://url-de-tu-logo.png",
+    "url": "https://msvhub.sbs/drm.php?id=sonychannel",
+    "referer": "https://msvhub.sbs/"
+  },
+  {
+    "name": "Warnner tv",
+    "image": "https://url-de-tu-logo.png",
+    "url": "https://msvhub.sbs/drm.php?id=Warnnertv",
+    "referer": "https://msvhub.sbs/"
+  },
+  {
+    "name": "AMC",
+    "image": "https://url-de-tu-logo.png",
+    "url": "https://msvhub.sbs/drm.php?id=amc",
+    "referer": "https://msvhub.sbs/"
+  }
+]
