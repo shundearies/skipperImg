@@ -10,7 +10,7 @@
     {
       "name": "Página Web / Iframe Protegido",
       "image": "https://url-de-tu-logo.png",
-      "url": "https://msvhub.sbs/cgi-bin/",
+      "url": "https://msvhub.sbs/drm.php?id=golden",
       "referer": "https://msvhub.sbs/",
       "userAgent": "CodexTV-Android/2.0"
     }
