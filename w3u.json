@@ -1,0 +1,35 @@
+{
+  "name": "Mi Lista Híbrida",
+  "author": "Desarrollador",
+  "groups": [
+    {
+      "name": "Canales y Transmisiones MPD",
+      "stations": [
+        {
+          "name": "Ejemplo Canal MPD con DRM",
+          "image": "https://url-de-tu-logo.png",
+          "url": "https://ejemplo.com/stream/manifest.mpd",
+          "drmKey": "tu_key_id:tu_key",
+          "referer": "https://ejemplo.com/",
+          "origin": "https://ejemplo.com/",
+          "userAgent": "Mozilla/5.0..."
+        }
+      ]
+    },
+    {
+      "name": "Sección Web e Iframes",
+      "stations": [
+        {
+          "name": "De Película (Iframe / Web)",
+          "image": "https://url-de-tu-logo.png",
+          "url": "https://msvhub.sbs/drm.php?id=depelicula",
+          "referer": "https://msvhub.sbs/",
+          "userAgent": "CodexTV-Android/2.0",
+          "headers": {
+            "Custom-Header": "ValorOpcional"
+          }
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,18 @@
+{
+  "name": "Lista Plana",
+  "items": [
+    {
+      "name": "Canal MPD",
+      "image": "https://url-de-tu-logo.png",
+      "url": "https://tu-servidor.com/video.mpd",
+      "drmKey": "a6243f46366445ebbf3117ec27365481:81667cdc3bcf19a6a66c0919fa00a20b"
+    },
+    {
+      "name": "Página Web / Iframe Protegido",
+      "image": "https://url-de-tu-logo.png",
+      "url": "https://msvhub.sbs/drm.php?id=depelicula",
+      "referer": "https://msvhub.sbs/",
+      "userAgent": "CodexTV-Android/2.0"
+    }
+  ]
+}
