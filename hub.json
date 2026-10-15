@@ -332,37 +332,37 @@
   {
     "name": "Fox",
     "image": "https://url-de-tu-logo.png",
-    "url": "https://msvhub.sbs/drm.php?id=fox",
+    "url": "https://msvhub.sbs/drm.php?id=foxnew",
     "referer": "https://msvhub.sbs/"
   },
   {
     "name": "TUDN MX",
     "image": "https://url-de-tu-logo.png",
-    "url": "https://msvhub.sbs/drm.php?id=tudn",
+    "url": "https://msvhub.sbs/drm.php?id=tudnmx",
     "referer": "https://msvhub.sbs/"
   },
   {
-    "name": "A3S Series",
+    "name": "Bitme",
     "image": "https://url-de-tu-logo.png",
-    "url": "https://msvhub.sbs/drm.php?id=a3s",
+    "url": "https://msvhub.sbs/drm.php?id=Bitme",
     "referer": "https://msvhub.sbs/"
   },
   {
-    "name": "A3S Series",
+    "name": "golden",
     "image": "https://url-de-tu-logo.png",
-    "url": "https://msvhub.sbs/drm.php?id=a3s",
+    "url": "https://msvhub.sbs/drm.php?id=golden",
     "referer": "https://msvhub.sbs/"
   },
   {
-    "name": "A3S Series",
+    "name": "golden premier",
     "image": "https://url-de-tu-logo.png",
-    "url": "https://msvhub.sbs/drm.php?id=a3s",
+    "url": "https://msvhub.sbs/drm.php?id=goldenpremier",
     "referer": "https://msvhub.sbs/"
   },
   {
-    "name": "A3S Series",
+    "name": "golden premier 2",
     "image": "https://url-de-tu-logo.png",
-    "url": "https://msvhub.sbs/drm.php?id=a3s",
+    "url": "https://msvhub.sbs/drm.php?id=golden premier 2",
     "referer": "https://msvhub.sbs/"
   },
   {
