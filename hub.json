@@ -290,7 +290,7 @@
   {
     "name": "Distrito Comedia",
     "image": "https://url-de-tu-logo.png",
-    "url": "https://msvhub.sbs/drm.php?id=distritocomedia",
+    "url": "https://msvhub.sbs/drm.php?id=distrito",
     "referer": "https://msvhub.sbs/"
   },
   {
@@ -336,9 +336,9 @@
     "referer": "https://msvhub.sbs/"
   },
   {
-    "name": "A3S Series",
+    "name": "TUDN MX",
     "image": "https://url-de-tu-logo.png",
-    "url": "https://msvhub.sbs/drm.php?id=a3s",
+    "url": "https://msvhub.sbs/drm.php?id=tudn",
     "referer": "https://msvhub.sbs/"
   },
   {
