@@ -362,22 +362,52 @@
   {
     "nombre": "Fox Sport PREMIUM ",
     "logo": "http://i.tvcluboficial.com/foxsportspremium.png",
-    "url": "https://www.cablevisionhd.com/fox-sports-premium-ver.php"
+    "url": "https://embed.saohgdassregions.com/embed2/foxsportspremium.php"
   },
   {
-    "nombre": "ESPN",
+    "nombre": "ESPN latam",
     "logo": "http://i.tvcluboficial.com/espn.png",
-    "url": "https://www.cablevisionhd.com/espn-ver.php"
+    "url": "https://embed.saohgdassregions.com/embed2/espnar.php"
+  },
+  {
+    "nombre": "ESPN Argentina",
+    "logo": "http://i.tvcluboficial.com/espn.png",
+    "url": "https://embed.saohgdassregions.com/embed2/espnar.php"
+  },
+  {
+    "nombre": "ESPN Colombia",
+    "logo": "http://i.tvcluboficial.com/espn.png",
+    "url": "https://embed.saohgdassregions.com/embed2/espn.php"
   },
   {
     "nombre": "ESPN 2",
     "logo": "http://i.tvcluboficial.com/espn2.png",
-    "url": "https://www.cablevisionhd.com/espn-2-ver.php"
+    "url": "https://embed.saohgdassregions.com/embed2/espn2.php"
   },
   {
     "nombre": "ESPN 3",
     "logo": "http://i.tvcluboficial.com/espn3.png",
-    "url": "https://www.cablevisionhd.com/espn-3-ver.php"
+    "url": "https://embed.saohgdassregions.com/embed2/espn3.php"
+  },
+  {
+    "nombre": "ESPN 4",
+    "logo": "http://i.tvcluboficial.com/espn3.png",
+    "url": "https://embed.saohgdassregions.com/embed2/espn4.php"
+  },
+  {
+    "nombre": "ESPN 5",
+    "logo": "http://i.tvcluboficial.com/espn3.png",
+    "url": "https://embed.saohgdassregions.com/embed2/espn5.php"
+  },
+  {
+    "nombre": "ESPN 6",
+    "logo": "http://i.tvcluboficial.com/espn3.png",
+    "url": "https://embed.saohgdassregions.com/embed2/espn6.php"
+  },
+  {
+    "nombre": "ESPN 7",
+    "logo": "http://i.tvcluboficial.com/espn3.png",
+    "url": "https://embed.saohgdassregions.com/embed2/espn7.php"
   },
   {
     "nombre": "FOX Sports Mexico",
