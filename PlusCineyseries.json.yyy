@@ -452,32 +452,12 @@
   {
     "nombre": "L1 Max",
     "logo": "http://i.tvcluboficial.com/pe_liga1max.png",
-    "url": "https://www.cablevisionhd.com/liga-1-max-ver.php"
-  },
-  {
-    "nombre": "ESPN 4",
-    "logo": "http://i.tvcluboficial.com/espn.png",
-    "url": "https://www.cablevisionhd.com/espn-4-ver.php"
-  },
-  {
-    "nombre": "ESPN 5",
-    "logo": "http://i.tvcluboficial.com/espn.png",
-    "url": "https://www.cablevisionhd.com/espn-5-ver.php"
-  },
-  {
-    "nombre": "ESPN 6",
-    "logo": "http://i.tvcluboficial.com/espn.png",
-    "url": "https://www.cablevisionhd.com/espn-6-ver.php"
-  },
-  {
-    "nombre": "ESPN 7",
-    "logo": "http://i.tvcluboficial.com/espn.png",
-    "url": "https://www.cablevisionhd.com/espn-7-ver.php"
+    "url": "https://embed.saohgdassregions.com/embed2/liga1max.php"
   },
   {
     "nombre": "DAZN F1",
     "logo": "http://i.tvcluboficial.com/f1.png",
-    "url": "https://www.cablevisionhd.com/dazn-f1-ver.php"
+    "url": "https://embed.saohgdassregions.com/embed2/daznf1.php"
   },
   {
     "nombre": "DAZN 4 La liga",
@@ -487,7 +467,7 @@
   {
     "nombre": "M+Liga de campeones",
     "logo": "http://i.tvcluboficial.com/ligadecampeones.png",
-    "url": "https://www.cablevisionhd.com/movistar-liga-de-campeones-ver.php"
+    "url": "https://embed.saohgdassregions.com/embed2/movistarligadecampeones.php"
   },
   {
     "nombre": "Win Sports",
@@ -497,22 +477,22 @@
   {
     "nombre": "bein Sports extra",
     "logo": "http://i.tvcluboficial.com/beinsports.png",
-    "url": "https://www.cablevisionhd.com/bein-sports-xtra-ver.php"
+    "url": "https://embed.saohgdassregions.com/embed2/beinsportsxtra.php"
   },
   {
     "nombre": "Movistar 4 la liga",
     "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSw8X3bt5qZfD8bRmJ2juSUS1XCyHBsy-AOXg&s",
-    "url": "https://www.cablevisionhd.com/movistar-la-liga-ver.php"
+    "url": "https://embed.saohgdassregions.com/embed2/movistarlaliga.php"
   },
   {
     "nombre": "Tv Azteca Deportes Network",
     "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTh7SgjT20XBllN8n5lpm-8ziXqPNXl_OSnsg&usqp=CAU",
-    "url": "https://www.cablevisionhd.com/azteca-deportes-ver.php"
+    "url": "https://embed.saohgdassregions.com/embed2/aztecadeportes.php"
   },
   {
     "nombre": "TNT SPORTS Chile",
     "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRNzRaEF7sInMKci-9xC-vXIBVl7h2h9v35ww&usqp=CAU",
-    "url": "https://www.cablevisionhd.com/tnt-sports-chile-ver.php"
+    "url": "https://embed.saohgdassregions.com/embed2/tntsportsar.php"
   },
   {
     "nombre": "Sky Sports La Liga",
