@@ -8,19 +8,19 @@
   {
     "name": "Imagen Television",
     "image": "https://url-de-tu-logo.png",
-    "url": "https://msvhub.sbs/drm.php?id=Imagentv",
+    "url": "https://msvhub.sbs/drm.php?id=Imagentelevision",
     "referer": "https://msvhub.sbs/"
   },
   {
     "name": "Canal6",
     "image": "https://url-de-tu-logo.png",
-    "url": "https://msvhub.sbs/drm.php?id=canal6",
+    "url": "https://msvhub.sbs/drm.php?id=canalseis",
     "referer": "https://msvhub.sbs/"
   },
   {
     "name": "adn noticias",
     "image": "https://url-de-tu-logo.png",
-    "url": "https://msvhub.sbs/drm.php?id=adn",
+    "url": "https://msvhub.sbs/drm.php?id=adnnoticias",
     "referer": "https://msvhub.sbs/"
   },
   {
@@ -32,43 +32,43 @@
   {
     "name": "MVS Noticias",
     "image": "https://url-de-tu-logo.png",
-    "url": "https://msvhub.sbs/drm.php?id=mvs",
+    "url": "https://msvhub.sbs/drm.php?id=mvsnoticias",
     "referer": "https://msvhub.sbs/"
   },
   {
     "name": "Universal tv",
     "image": "https://url-de-tu-logo.png",
-    "url": "https://msvhub.sbs/drm.php?id=universaltv",
+    "url": "https://msvhub.sbs/drm.php?id=universal",
     "referer": "https://msvhub.sbs/"
   },
   {
     "name": "SONY CHANNEL",
     "image": "https://url-de-tu-logo.png",
-    "url": "https://msvhub.sbs/drm.php?id=sonychannel",
+    "url": "https://msvhub.sbs/drm.php?id=sony",
     "referer": "https://msvhub.sbs/"
   },
   {
     "name": "Warnner tv",
     "image": "https://url-de-tu-logo.png",
-    "url": "https://msvhub.sbs/drm.php?id=Warnnertv",
+    "url": "https://msvhub.sbs/drm.php?id=Warnner",
     "referer": "https://msvhub.sbs/"
   },
   {
     "name": "AMC",
     "image": "https://url-de-tu-logo.png",
-    "url": "https://msvhub.sbs/drm.php?id=amc",
+    "url": "https://msvhub.sbs/drm.php?id=amchd",
     "referer": "https://msvhub.sbs/"
   },
   {
     "name": "AXN",
     "image": "https://url-de-tu-logo.png",
-    "url": "https://msvhub.sbs/drm.php?id=axn",
+    "url": "https://msvhub.sbs/drm.php?id=axnhd",
     "referer": "https://msvhub.sbs/"
   },
   {
     "name": "FX",
     "image": "https://url-de-tu-logo.png",
-    "url": "https://msvhub.sbs/drm.php?id=fx",
+    "url": "https://msvhub.sbs/drm.php?id=fxhd",
     "referer": "https://msvhub.sbs/"
   },
   {
@@ -80,7 +80,7 @@
   {
     "name": "USA",
     "image": "https://url-de-tu-logo.png",
-    "url": "https://msvhub.sbs/drm.php?id=usa",
+    "url": "https://msvhub.sbs/drm.php?id=usahd",
     "referer": "https://msvhub.sbs/"
   },
   {
@@ -92,31 +92,31 @@
   {
     "name": "Lifetime",
     "image": "https://url-de-tu-logo.png",
-    "url": "https://msvhub.sbs/drm.php?id=lifetime",
+    "url": "https://msvhub.sbs/drm.php?id=lifetimehd",
     "referer": "https://msvhub.sbs/"
   },
   {
     "name": "A&E",
     "image": "https://url-de-tu-logo.png",
-    "url": "https://msvhub.sbs/drm.php?id=A&E",
+    "url": "https://msvhub.sbs/drm.php?id=ae",
     "referer": "https://msvhub.sbs/"
   },
   {
     "name": "DHE",
     "image": "https://url-de-tu-logo.png",
-    "url": "https://msvhub.sbs/drm.php?id=dhe",
+    "url": "https://msvhub.sbs/drm.php?id=dhehd",
     "referer": "https://msvhub.sbs/"
   },
   {
     "name": "TNT Series",
     "image": "https://url-de-tu-logo.png",
-    "url": "https://msvhub.sbs/drm.php?id=tntseries",
+    "url": "https://msvhub.sbs/drm.php?id=tntserieshd",
     "referer": "https://msvhub.sbs/"
   },
   {
     "name": "A3S Series",
     "image": "https://url-de-tu-logo.png",
-    "url": "https://msvhub.sbs/drm.php?id=a3s",
+    "url": "https://msvhub.sbs/drm.php?id=a3sseries",
     "referer": "https://msvhub.sbs/"
   }
 ]
