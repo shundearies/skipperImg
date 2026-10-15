@@ -222,47 +222,47 @@
   {
     "nombre": "Cine canal",
     "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSW7wg_BBflwtePhLOlmztWa4wVfEb9_X5aag&s",
-    "url": "https://www.cablevisionhd.com/cinecanal-ver.php"
+    "url": "https://embed.saohgdassregions.com/embed2/cinecanal.php"
   },
   {
     "nombre": "FX",
     "logo": "http://sunset-app.com/picons/entretenimiento/fx.jpg",
-    "url": "https://www.cablevisionhd.com/fx-ver.php"
+    "url": "https://embed.saohgdassregions.com/embed2/fx.php"
   },
   {
     "nombre": "AXN",
     "logo": "http://sunset-app.com/picons/entretenimiento/axn.jpg",
-    "url": "https://www.cablevisionhd.com/axn-ver.php"
+    "url": "https://embed.saohgdassregions.com/embed2/axn.php"
   },
   {
     "nombre": "AMC",
     "logo": "http://sunset-app.com/picons/entretenimiento/amc.jpg",
-    "url": "https://www.cablevisionhd.com/amc-ver.php"
+    "url": "https://embed.saohgdassregions.com/embed2/amc.php"
   },
   {
     "nombre": "STUDIO UNIVERSAL",
     "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRhcKojpjVUvGLxBDqXD3F2P4NuQ6dosHPNNg&s",
-    "url": "https://www.cablevisionhd.com/studio-universal-ver.php"
+    "url": "https://embed.saohgdassregions.com/embed2/studiouniversal.php"
   },
   {
     "nombre": "Panico hd",
     "logo": "https://imagenes.gatotv.com/logos/canales/claros/panico-mediano.png",
-    "url": "https://www.cablevisionhd.com/panico-hd-ver.php"
+    "url": "https://embed.saohgdassregions.com/embed2/panico.php"
   },
   {
     "nombre": "MULTIPREMIER",
     "logo": "https://imagenes.gatotv.com/logos/canales/claros/multipremier-mediano.png",
-    "url": "https://www.cablevisionhd.com/multipremier-ver.php"
+    "url": "https://embed.saohgdassregions.com/embed2/multipremier.php"
   },
   {
     "nombre": "Golden",
     "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTxytfwU0t7hq8tWkwnq1tr0_J-NnCk_nV1Ow&usqp=CAU",
-    "url": "https://www.cablevisionhd.com/golden-ver.php"
+    "url": "https://embed.saohgdassregions.com/embed2/golden.php"
   },
   {
     "nombre": "Golden Plus",
     "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQEUkFenrLxGFpEKOzzTEl2crLHBNePJehWFQ&usqp=CAU",
-    "url": "https://www.cablevisionhd.com/golden-plus-ver.php"
+    "url": "https://embed.saohgdassregions.com/embed2/goldenplus.php"
   },
   {
     "nombre": "Golden EDGE",
