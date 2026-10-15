@@ -8,7 +8,7 @@
   {
     "name": "Imagen Television",
     "image": "https://url-de-tu-logo.png",
-    "url": "https://msvhub.sbs/drm.php?id=Imagentv",
+    "url": "https://msvhub.sbs/drm.php?id=Imagen",
     "referer": "https://msvhub.sbs/"
   },
   {
@@ -26,7 +26,7 @@
   {
     "name": "Star Channel",
     "image": "https://url-de-tu-logo.png",
-    "url": "https://msvhub.sbs/drm.php?id=starchannel",
+    "url": "https://msvhub.sbs/drm.php?id=starchannelhd",
     "referer": "https://msvhub.sbs/"
   },
   {
@@ -86,7 +86,7 @@
   {
     "name": "Adult Swim",
     "image": "https://url-de-tu-logo.png",
-    "url": "https://msvhub.sbs/drm.php?id=adultswim",
+    "url": "https://msvhub.sbs/drm.php?id=adultswimhd",
     "referer": "https://msvhub.sbs/"
   },
   {
@@ -128,7 +128,7 @@
   {
     "name": "Telemundo Internacional",
     "image": "https://url-de-tu-logo.png",
-    "url": "https://msvhub.sbs/drm.php?id=Telemundointernacional",
+    "url": "https://msvhub.sbs/drm.php?id=Telemundointer",
     "referer": "https://msvhub.sbs/"
   },
   {
@@ -146,7 +146,7 @@
   {
     "name": "Kanal D Drama",
     "image": "https://url-de-tu-logo.png",
-    "url": "https://msvhub.sbs/drm.php?id=kdrama",
+    "url": "https://msvhub.sbs/drm.php?id=canald",
     "referer": "https://msvhub.sbs/"
   },
   {
@@ -200,7 +200,7 @@
   {
     "name": "a mas +",
     "image": "https://url-de-tu-logo.png",
-    "url": "https://msvhub.sbs/drm.php?id=amas",
+    "url": "https://msvhub.sbs/drm.php?id=amas+",
     "referer": "https://msvhub.sbs/"
   },
   {
@@ -234,9 +234,9 @@
     "referer": "https://msvhub.sbs/"
   },
   {
-    "name": "aztecainternacional",
+    "name": "azteca internacional",
     "image": "https://url-de-tu-logo.png",
-    "url": "https://msvhub.sbs/drm.php?id=aztecainternacional",
+    "url": "https://msvhub.sbs/drm.php?id=aztecainter",
     "referer": "https://msvhub.sbs/"
   },
   {
@@ -272,19 +272,19 @@
   {
     "name": "hbo pop",
     "image": "https://url-de-tu-logo.png",
-    "url": "https://msvhub.sbs/drm.php?id=hbopop",
+    "url": "https://msvhub.sbs/drm.php?id=hbopophd",
     "referer": "https://msvhub.sbs/"
   },
   {
     "name": "hbo asignature",
     "image": "https://url-de-tu-logo.png",
-    "url": "https://msvhub.sbs/drm.php?id=hboasignature",
+    "url": "https://msvhub.sbs/drm.php?id=hbosignature",
     "referer": "https://msvhub.sbs/"
   },
   {
     "name": "Cinemax",
     "image": "https://url-de-tu-logo.png",
-    "url": "https://msvhub.sbs/drm.php?id=cinemax",
+    "url": "https://msvhub.sbs/drm.php?id=cinemaxhd",
     "referer": "https://msvhub.sbs/"
   },
   {
@@ -302,13 +302,13 @@
   {
     "name": "venus",
     "image": "https://url-de-tu-logo.png",
-    "url": "https://msvhub.sbs/drm.php?id=venus",
+    "url": "https://msvhub.sbs/drm.php?id=venushd",
     "referer": "https://msvhub.sbs/"
   },
   {
     "name": "sexmex",
     "image": "https://url-de-tu-logo.png",
-    "url": "https://msvhub.sbs/drm.php?id=sexmex",
+    "url": "https://msvhub.sbs/drm.php?id=sexmexhd",
     "referer": "https://msvhub.sbs/"
   },
   {
@@ -362,7 +362,7 @@
   {
     "name": "golden premier 2",
     "image": "https://url-de-tu-logo.png",
-    "url": "https://msvhub.sbs/drm.php?id=golden premier 2",
+    "url": "https://msvhub.sbs/drm.php?id=goldenpremier2",
     "referer": "https://msvhub.sbs/"
   },
   {
