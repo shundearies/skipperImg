@@ -8,7 +8,7 @@
   {
     "name": "Imagen Television",
     "image": "https://url-de-tu-logo.png",
-    "url": "https://msvhub.sbs/drm.php?id=Imagen",
+    "url": "https://msvhub.sbs/drm.php?id=Imagentv",
     "referer": "https://msvhub.sbs/"
   },
   {
@@ -26,7 +26,7 @@
   {
     "name": "Star Channel",
     "image": "https://url-de-tu-logo.png",
-    "url": "https://msvhub.sbs/drm.php?id=starchannelhd",
+    "url": "https://msvhub.sbs/drm.php?id=starchannel",
     "referer": "https://msvhub.sbs/"
   },
   {
@@ -86,7 +86,7 @@
   {
     "name": "Adult Swim",
     "image": "https://url-de-tu-logo.png",
-    "url": "https://msvhub.sbs/drm.php?id=adultswimhd",
+    "url": "https://msvhub.sbs/drm.php?id=adultswim",
     "referer": "https://msvhub.sbs/"
   },
   {
@@ -128,7 +128,7 @@
   {
     "name": "Telemundo Internacional",
     "image": "https://url-de-tu-logo.png",
-    "url": "https://msvhub.sbs/drm.php?id=Telemundointer",
+    "url": "https://msvhub.sbs/drm.php?id=Telemundointernacional",
     "referer": "https://msvhub.sbs/"
   },
   {
@@ -146,7 +146,7 @@
   {
     "name": "Kanal D Drama",
     "image": "https://url-de-tu-logo.png",
-    "url": "https://msvhub.sbs/drm.php?id=canald",
+    "url": "https://msvhub.sbs/drm.php?id=kdrama",
     "referer": "https://msvhub.sbs/"
   },
   {
@@ -200,7 +200,7 @@
   {
     "name": "a mas +",
     "image": "https://url-de-tu-logo.png",
-    "url": "https://msvhub.sbs/drm.php?id=amas+",
+    "url": "https://msvhub.sbs/drm.php?id=amas",
     "referer": "https://msvhub.sbs/"
   },
   {
@@ -234,154 +234,154 @@
     "referer": "https://msvhub.sbs/"
   },
   {
-    "name": "azteca internacional",
+    "name": "aztecainternacional",
     "image": "https://url-de-tu-logo.png",
-    "url": "https://msvhub.sbs/drm.php?id=aztecainter",
+    "url": "https://msvhub.sbs/drm.php?id=aztecainternacional",
     "referer": "https://msvhub.sbs/"
   },
   {
-    "name": "hbo",
+    "name": "Antena 3",
     "image": "https://url-de-tu-logo.png",
-    "url": "https://msvhub.sbs/drm.php?id=hbo",
+    "url": "https://msvhub.sbs/drm.php?id=antena3",
     "referer": "https://msvhub.sbs/"
   },
   {
-    "name": "hbo 2",
+    "name": "TVE",
     "image": "https://url-de-tu-logo.png",
-    "url": "https://msvhub.sbs/drm.php?id=hbo2",
+    "url": "https://msvhub.sbs/drm.php?id=tve",
     "referer": "https://msvhub.sbs/"
   },
   {
-    "name": "hbo family",
+    "name": "Ee",
     "image": "https://url-de-tu-logo.png",
-    "url": "https://msvhub.sbs/drm.php?id=hbofamily",
+    "url": "https://msvhub.sbs/drm.php?id=ee",
     "referer": "https://msvhub.sbs/"
   },
   {
-    "name": "hboplus",
+    "name": "TV 5 Monde",
     "image": "https://url-de-tu-logo.png",
-    "url": "https://msvhub.sbs/drm.php?id=hboplus",
+    "url": "https://msvhub.sbs/drm.php?id=tv5",
     "referer": "https://msvhub.sbs/"
   },
   {
-    "name": "hbo Xtreme",
+    "name": "Caracol Internacional",
     "image": "https://url-de-tu-logo.png",
-    "url": "https://msvhub.sbs/drm.php?id=hboxtreme",
+    "url": "https://msvhub.sbs/drm.php?id=caracolinternacional",
     "referer": "https://msvhub.sbs/"
   },
   {
-    "name": "hbo pop",
+    "name": "arirang",
     "image": "https://url-de-tu-logo.png",
-    "url": "https://msvhub.sbs/drm.php?id=hbopophd",
+    "url": "https://msvhub.sbs/drm.php?id=arirang",
     "referer": "https://msvhub.sbs/"
   },
   {
-    "name": "hbo asignature",
+    "name": "A3S Series",
     "image": "https://url-de-tu-logo.png",
-    "url": "https://msvhub.sbs/drm.php?id=hbosignature",
+    "url": "https://msvhub.sbs/drm.php?id=a3s",
     "referer": "https://msvhub.sbs/"
   },
   {
-    "name": "Cinemax",
+    "name": "Comedy Central",
     "image": "https://url-de-tu-logo.png",
-    "url": "https://msvhub.sbs/drm.php?id=cinemaxhd",
+    "url": "https://msvhub.sbs/drm.php?id=comedycentral",
     "referer": "https://msvhub.sbs/"
   },
   {
-    "name": "Distrito Comedia",
+    "name": "MTV",
     "image": "https://url-de-tu-logo.png",
-    "url": "https://msvhub.sbs/drm.php?id=distrito",
+    "url": "https://msvhub.sbs/drm.php?id=mtv",
     "referer": "https://msvhub.sbs/"
   },
   {
-    "name": "playboy",
+    "name": "Exa tv",
     "image": "https://url-de-tu-logo.png",
-    "url": "https://msvhub.sbs/drm.php?id=playboyhd",
+    "url": "https://msvhub.sbs/drm.php?id=exa",
     "referer": "https://msvhub.sbs/"
   },
   {
-    "name": "venus",
+    "name": "La mejor tv",
     "image": "https://url-de-tu-logo.png",
-    "url": "https://msvhub.sbs/drm.php?id=venushd",
+    "url": "https://msvhub.sbs/drm.php?id=lamejortv",
     "referer": "https://msvhub.sbs/"
   },
   {
-    "name": "sexmex",
+    "name": "Vr Video Rola",
     "image": "https://url-de-tu-logo.png",
-    "url": "https://msvhub.sbs/drm.php?id=sexmexhd",
+    "url": "https://msvhub.sbs/drm.php?id=vr",
     "referer": "https://msvhub.sbs/"
   },
   {
-    "name": "dsports",
+    "name": "H tv",
     "image": "https://url-de-tu-logo.png",
-    "url": "https://msvhub.sbs/drm.php?id=dsports",
+    "url": "https://msvhub.sbs/drm.php?id=htv",
     "referer": "https://msvhub.sbs/"
   },
   {
-    "name": "Dsports 2",
+    "name": "Tele ritmo",
     "image": "https://url-de-tu-logo.png",
-    "url": "https://msvhub.sbs/drm.php?id=dsports2",
+    "url": "https://msvhub.sbs/drm.php?id=teleritmo",
     "referer": "https://msvhub.sbs/"
   },
   {
-    "name": "dsports plus",
+    "name": "Tracelatina",
     "image": "https://url-de-tu-logo.png",
-    "url": "https://msvhub.sbs/drm.php?id=dsportsplus",
+    "url": "https://msvhub.sbs/drm.php?id=tracelatina",
     "referer": "https://msvhub.sbs/"
   },
   {
-    "name": "Fox",
+    "name": "traceurban",
     "image": "https://url-de-tu-logo.png",
-    "url": "https://msvhub.sbs/drm.php?id=foxnew",
+    "url": "https://msvhub.sbs/drm.php?id=traceurban",
     "referer": "https://msvhub.sbs/"
   },
   {
-    "name": "TUDN MX",
+    "name": "Discovery Kids",
     "image": "https://url-de-tu-logo.png",
-    "url": "https://msvhub.sbs/drm.php?id=tudnmx",
+    "url": "https://msvhub.sbs/drm.php?id=discoverykids",
     "referer": "https://msvhub.sbs/"
   },
   {
-    "name": "Bitme",
+    "name": "Disneychannel",
     "image": "https://url-de-tu-logo.png",
-    "url": "https://msvhub.sbs/drm.php?id=Bitme",
+    "url": "https://msvhub.sbs/drm.php?id=disneychannel",
     "referer": "https://msvhub.sbs/"
   },
   {
-    "name": "golden",
+    "name": "Disney jr.",
     "image": "https://url-de-tu-logo.png",
-    "url": "https://msvhub.sbs/drm.php?id=golden",
+    "url": "https://msvhub.sbs/drm.php?id=disneyjr",
     "referer": "https://msvhub.sbs/"
   },
   {
-    "name": "golden premier",
+    "name": "Dreamworks",
     "image": "https://url-de-tu-logo.png",
-    "url": "https://msvhub.sbs/drm.php?id=goldenpremier",
+    "url": "https://msvhub.sbs/drm.php?id=dreamworks",
     "referer": "https://msvhub.sbs/"
   },
   {
-    "name": "golden premier 2",
+    "name": "Nikelodeon",
     "image": "https://url-de-tu-logo.png",
-    "url": "https://msvhub.sbs/drm.php?id=goldenpremier2",
+    "url": "https://msvhub.sbs/drm.php?id=nikelodeon",
     "referer": "https://msvhub.sbs/"
   },
   {
-    "name": "telegratuita space",
+    "name": "Cartoon Network",
     "image": "https://url-de-tu-logo.png",
-    "url": "https://telegratuita.st/iz/space.php?jwsource=cl",
-    "referer": "https://telegratuita.st/"
+    "url": "https://msvhub.sbs/drm.php?id=cartoonnetwork",
+    "referer": "https://msvhub.sbs/"
   },
   {
-    "name": "telegratuita space",
+    "name": "Fix foxi",
     "image": "https://url-de-tu-logo.png",
-    "url": "https://telegratuita.st/bn.php?id=space",
-    "referer": "https://telegratuita.st/"
+    "url": "https://msvhub.sbs/drm.php?id=fixfoxi",
+    "referer": "https://msvhub.sbs/"
   },
   {
-    "name": "xuper",
+    "name": "A3S Series",
     "image": "https://url-de-tu-logo.png",
-    "url": "http://niguof.vynbszicd.com/live/cyx-60188239466A8c67307534F5DFFA.m3u8",
-    "referer": "http://niguof.vynbszicd.com/"
+    "url": "https://msvhub.sbs/drm.php?id=a3s",
+    "referer": "https://msvhub.sbs/"
   },
   {
     "name": "A3S Series",
