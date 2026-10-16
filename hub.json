@@ -8,67 +8,67 @@
   {
     "name": "Imagen Television",
     "image": "https://url-de-tu-logo.png",
-    "url": "https://msvhub.sbs/drm.php?id=Imagentv",
+    "url": "https://msvhub.sbs/drm.php?id=Imagentvhd",
     "referer": "https://msvhub.sbs/"
   },
   {
     "name": "Canal6",
     "image": "https://url-de-tu-logo.png",
-    "url": "https://msvhub.sbs/drm.php?id=canal6",
+    "url": "https://msvhub.sbs/drm.php?id=canal6hd",
     "referer": "https://msvhub.sbs/"
   },
   {
     "name": "adn noticias",
     "image": "https://url-de-tu-logo.png",
-    "url": "https://msvhub.sbs/drm.php?id=adn",
+    "url": "https://msvhub.sbs/drm.php?id=adnhd",
     "referer": "https://msvhub.sbs/"
   },
   {
     "name": "Star Channel",
     "image": "https://url-de-tu-logo.png",
-    "url": "https://msvhub.sbs/drm.php?id=starchannel",
+    "url": "https://msvhub.sbs/drm.php?id=starchannelhd",
     "referer": "https://msvhub.sbs/"
   },
   {
     "name": "MVS Noticias",
     "image": "https://url-de-tu-logo.png",
-    "url": "https://msvhub.sbs/drm.php?id=mvs",
+    "url": "https://msvhub.sbs/drm.php?id=mvshd",
     "referer": "https://msvhub.sbs/"
   },
   {
     "name": "Universal tv",
     "image": "https://url-de-tu-logo.png",
-    "url": "https://msvhub.sbs/drm.php?id=universaltv",
+    "url": "https://msvhub.sbs/drm.php?id=universal",
     "referer": "https://msvhub.sbs/"
   },
   {
     "name": "SONY CHANNEL",
     "image": "https://url-de-tu-logo.png",
-    "url": "https://msvhub.sbs/drm.php?id=sonychannel",
+    "url": "https://msvhub.sbs/drm.php?id=sonychannelhd",
     "referer": "https://msvhub.sbs/"
   },
   {
     "name": "Warnner tv",
     "image": "https://url-de-tu-logo.png",
-    "url": "https://msvhub.sbs/drm.php?id=Warnnertv",
+    "url": "https://msvhub.sbs/drm.php?id=Warner",
     "referer": "https://msvhub.sbs/"
   },
   {
     "name": "AMC",
     "image": "https://url-de-tu-logo.png",
-    "url": "https://msvhub.sbs/drm.php?id=amc",
+    "url": "https://msvhub.sbs/drm.php?id=amchd",
     "referer": "https://msvhub.sbs/"
   },
   {
     "name": "AXN",
     "image": "https://url-de-tu-logo.png",
-    "url": "https://msvhub.sbs/drm.php?id=axn",
+    "url": "https://msvhub.sbs/drm.php?id=axnhd",
     "referer": "https://msvhub.sbs/"
   },
   {
     "name": "FX",
     "image": "https://url-de-tu-logo.png",
-    "url": "https://msvhub.sbs/drm.php?id=fx",
+    "url": "https://msvhub.sbs/drm.php?id=fxhd",
     "referer": "https://msvhub.sbs/"
   },
   {
@@ -80,37 +80,37 @@
   {
     "name": "USA",
     "image": "https://url-de-tu-logo.png",
-    "url": "https://msvhub.sbs/drm.php?id=usa",
+    "url": "https://msvhub.sbs/drm.php?id=usahd",
     "referer": "https://msvhub.sbs/"
   },
   {
     "name": "Adult Swim",
     "image": "https://url-de-tu-logo.png",
-    "url": "https://msvhub.sbs/drm.php?id=adultswim",
+    "url": "https://msvhub.sbs/drm.php?id=adultswimhd",
     "referer": "https://msvhub.sbs/"
   },
   {
     "name": "Lifetime",
     "image": "https://url-de-tu-logo.png",
-    "url": "https://msvhub.sbs/drm.php?id=lifetime",
+    "url": "https://msvhub.sbs/drm.php?id=lifetimehd",
     "referer": "https://msvhub.sbs/"
   },
   {
     "name": "A&E",
     "image": "https://url-de-tu-logo.png",
-    "url": "https://msvhub.sbs/drm.php?id=A&E",
+    "url": "https://msvhub.sbs/drm.php?id=a&ehd",
     "referer": "https://msvhub.sbs/"
   },
   {
     "name": "DHE",
     "image": "https://url-de-tu-logo.png",
-    "url": "https://msvhub.sbs/drm.php?id=dhe",
+    "url": "https://msvhub.sbs/drm.php?id=dhehd",
     "referer": "https://msvhub.sbs/"
   },
   {
     "name": "TNT Series",
     "image": "https://url-de-tu-logo.png",
-    "url": "https://msvhub.sbs/drm.php?id=tntseries",
+    "url": "https://msvhub.sbs/drm.php?id=tntserieshd",
     "referer": "https://msvhub.sbs/"
   },
   {
@@ -120,57 +120,57 @@
     "referer": "https://msvhub.sbs/"
   },
   {
-    "name": "CORAZON",
+    "name": "Azteca CORAZON",
     "image": "https://url-de-tu-logo.png",
-    "url": "https://msvhub.sbs/drm.php?id=corazon",
+    "url": "https://msvhub.sbs/drm.php?id=corazonhd",
     "referer": "https://msvhub.sbs/"
   },
   {
     "name": "Telemundo Internacional",
     "image": "https://url-de-tu-logo.png",
-    "url": "https://msvhub.sbs/drm.php?id=Telemundointernacional",
+    "url": "https://msvhub.sbs/drm.php?id=Telemundointernacionalhd",
     "referer": "https://msvhub.sbs/"
   },
   {
     "name": "TNT Novelas",
     "image": "https://url-de-tu-logo.png",
-    "url": "https://msvhub.sbs/drm.php?id=tntnovelas",
+    "url": "https://msvhub.sbs/drm.php?id=tntnovelashd",
     "referer": "https://msvhub.sbs/"
   },
   {
     "name": "Pasiones",
     "image": "https://url-de-tu-logo.png",
-    "url": "https://msvhub.sbs/drm.php?id=Pasiones",
+    "url": "https://msvhub.sbs/drm.php?id=pasioneshd",
     "referer": "https://msvhub.sbs/"
   },
   {
     "name": "Kanal D Drama",
     "image": "https://url-de-tu-logo.png",
-    "url": "https://msvhub.sbs/drm.php?id=kdrama",
+    "url": "https://msvhub.sbs/drm.php?id=kdramahd",
     "referer": "https://msvhub.sbs/"
   },
   {
     "name": "Ve plus",
     "image": "https://url-de-tu-logo.png",
-    "url": "https://msvhub.sbs/drm.php?id=veplus",
+    "url": "https://msvhub.sbs/drm.php?id=veplushd",
     "referer": "https://msvhub.sbs/"
   },
   {
     "name": "Novelisima",
     "image": "https://url-de-tu-logo.png",
-    "url": "https://msvhub.sbs/drm.php?id=novelisima",
+    "url": "https://msvhub.sbs/drm.php?id=novelisimahs",
     "referer": "https://msvhub.sbs/"
   },
   {
     "name": "Food Netword",
     "image": "https://url-de-tu-logo.png",
-    "url": "https://msvhub.sbs/drm.php?id=food",
+    "url": "https://msvhub.sbs/drm.php?id=foodhd",
     "referer": "https://msvhub.sbs/"
   },
   {
     "name": "Discovery world",
     "image": "https://url-de-tu-logo.png",
-    "url": "https://msvhub.sbs/drm.php?id=discocery",
+    "url": "https://msvhub.sbs/drm.php?id=discoceryhd",
     "referer": "https://msvhub.sbs/"
   },
   {
@@ -182,61 +182,61 @@
   {
     "name": "TLC",
     "image": "https://url-de-tu-logo.png",
-    "url": "https://msvhub.sbs/drm.php?id=tlc",
+    "url": "https://msvhub.sbs/drm.php?id=tlchd",
     "referer": "https://msvhub.sbs/"
   },
   {
     "name": "Discovery ID",
     "image": "https://url-de-tu-logo.png",
-    "url": "https://msvhub.sbs/drm.php?id=discoceryid",
+    "url": "https://msvhub.sbs/drm.php?id=discoceryidhd",
     "referer": "https://msvhub.sbs/"
   },
   {
     "name": "Clio",
     "image": "https://url-de-tu-logo.png",
-    "url": "https://msvhub.sbs/drm.php?id=clio",
+    "url": "https://msvhub.sbs/drm.php?id=cliohd",
     "referer": "https://msvhub.sbs/"
   },
   {
     "name": "a mas +",
     "image": "https://url-de-tu-logo.png",
-    "url": "https://msvhub.sbs/drm.php?id=amas",
+    "url": "https://msvhub.sbs/drm.php?id=amashd",
     "referer": "https://msvhub.sbs/"
   },
   {
     "name": "El.Gourmet",
     "image": "https://url-de-tu-logo.png",
-    "url": "https://msvhub.sbs/drm.php?id=elgourmet",
+    "url": "https://msvhub.sbs/drm.php?id=elgourmethd",
     "referer": "https://msvhub.sbs/"
   },
   {
     "name": "Fashion Box",
     "image": "https://url-de-tu-logo.png",
-    "url": "https://msvhub.sbs/drm.php?id=fashionbox",
+    "url": "https://msvhub.sbs/drm.php?id=fashionboxhd",
     "referer": "https://msvhub.sbs/"
   },
   {
     "name": "Hola tv",
     "image": "https://url-de-tu-logo.png",
-    "url": "https://msvhub.sbs/drm.php?id=holatv",
+    "url": "https://msvhub.sbs/drm.php?id=holatvhd",
     "referer": "https://msvhub.sbs/"
   },
   {
     "name": "E!",
     "image": "https://url-de-tu-logo.png",
-    "url": "https://msvhub.sbs/drm.php?id=e",
+    "url": "https://msvhub.sbs/drm.php?id=e!",
     "referer": "https://msvhub.sbs/"
   },
   {
     "name": "Latinangel",
     "image": "https://url-de-tu-logo.png",
-    "url": "https://msvhub.sbs/drm.php?id=latinangel",
+    "url": "https://msvhub.sbs/drm.php?id=latinangelhd",
     "referer": "https://msvhub.sbs/"
   },
   {
     "name": "aztecainternacional",
     "image": "https://url-de-tu-logo.png",
-    "url": "https://msvhub.sbs/drm.php?id=aztecainternacional",
+    "url": "https://msvhub.sbs/drm.php?id=aztecainternacionalhd",
     "referer": "https://msvhub.sbs/"
   },
   {
@@ -248,31 +248,31 @@
   {
     "name": "TVE",
     "image": "https://url-de-tu-logo.png",
-    "url": "https://msvhub.sbs/drm.php?id=tve",
+    "url": "https://msvhub.sbs/drm.php?id=tvehd",
     "referer": "https://msvhub.sbs/"
   },
   {
     "name": "Ee",
     "image": "https://url-de-tu-logo.png",
-    "url": "https://msvhub.sbs/drm.php?id=ee",
+    "url": "https://msvhub.sbs/drm.php?id=eehd",
     "referer": "https://msvhub.sbs/"
   },
   {
     "name": "TV 5 Monde",
     "image": "https://url-de-tu-logo.png",
-    "url": "https://msvhub.sbs/drm.php?id=tv5",
+    "url": "https://msvhub.sbs/drm.php?id=tv5hd",
     "referer": "https://msvhub.sbs/"
   },
   {
     "name": "Caracol Internacional",
     "image": "https://url-de-tu-logo.png",
-    "url": "https://msvhub.sbs/drm.php?id=caracolinternacional",
+    "url": "https://msvhub.sbs/drm.php?id=caracolinternacionalhd",
     "referer": "https://msvhub.sbs/"
   },
   {
     "name": "arirang",
     "image": "https://url-de-tu-logo.png",
-    "url": "https://msvhub.sbs/drm.php?id=arirang",
+    "url": "https://msvhub.sbs/drm.php?id=ariranghd",
     "referer": "https://msvhub.sbs/"
   },
   {
@@ -284,157 +284,157 @@
   {
     "name": "Comedy Central",
     "image": "https://url-de-tu-logo.png",
-    "url": "https://msvhub.sbs/drm.php?id=comedycentral",
+    "url": "https://msvhub.sbs/drm.php?id=comedycentralhd",
     "referer": "https://msvhub.sbs/"
   },
   {
     "name": "MTV",
     "image": "https://url-de-tu-logo.png",
-    "url": "https://msvhub.sbs/drm.php?id=mtv",
+    "url": "https://msvhub.sbs/drm.php?id=mtvhd",
     "referer": "https://msvhub.sbs/"
   },
   {
     "name": "Exa tv",
     "image": "https://url-de-tu-logo.png",
-    "url": "https://msvhub.sbs/drm.php?id=exa",
+    "url": "https://msvhub.sbs/drm.php?id=exatv",
     "referer": "https://msvhub.sbs/"
   },
   {
     "name": "La mejor tv",
     "image": "https://url-de-tu-logo.png",
-    "url": "https://msvhub.sbs/drm.php?id=lamejortv",
+    "url": "https://msvhub.sbs/drm.php?id=lamejortvhd",
     "referer": "https://msvhub.sbs/"
   },
   {
     "name": "Vr Video Rola",
     "image": "https://url-de-tu-logo.png",
-    "url": "https://msvhub.sbs/drm.php?id=vr",
+    "url": "https://msvhub.sbs/drm.php?id=vrhd",
     "referer": "https://msvhub.sbs/"
   },
   {
     "name": "H tv",
     "image": "https://url-de-tu-logo.png",
-    "url": "https://msvhub.sbs/drm.php?id=htv",
+    "url": "https://msvhub.sbs/drm.php?id=h",
     "referer": "https://msvhub.sbs/"
   },
   {
     "name": "Tele ritmo",
     "image": "https://url-de-tu-logo.png",
-    "url": "https://msvhub.sbs/drm.php?id=teleritmo",
+    "url": "https://msvhub.sbs/drm.php?id=teleritmohd",
     "referer": "https://msvhub.sbs/"
   },
   {
     "name": "Tracelatina",
     "image": "https://url-de-tu-logo.png",
-    "url": "https://msvhub.sbs/drm.php?id=tracelatina",
+    "url": "https://msvhub.sbs/drm.php?id=tracelatinahd",
     "referer": "https://msvhub.sbs/"
   },
   {
     "name": "traceurban",
     "image": "https://url-de-tu-logo.png",
-    "url": "https://msvhub.sbs/drm.php?id=traceurban",
+    "url": "https://msvhub.sbs/drm.php?id=traceurbanhd",
     "referer": "https://msvhub.sbs/"
   },
   {
     "name": "Discovery Kids",
     "image": "https://url-de-tu-logo.png",
-    "url": "https://msvhub.sbs/drm.php?id=discoverykids",
+    "url": "https://msvhub.sbs/drm.php?id=discoverykidshd",
     "referer": "https://msvhub.sbs/"
   },
   {
     "name": "Disneychannel",
     "image": "https://url-de-tu-logo.png",
-    "url": "https://msvhub.sbs/drm.php?id=disneychannel",
+    "url": "https://msvhub.sbs/drm.php?id=disneychannelhd",
     "referer": "https://msvhub.sbs/"
   },
   {
     "name": "Disney jr.",
     "image": "https://url-de-tu-logo.png",
-    "url": "https://msvhub.sbs/drm.php?id=disneyjr",
+    "url": "https://msvhub.sbs/drm.php?id=disneyjrhd",
     "referer": "https://msvhub.sbs/"
   },
   {
     "name": "Dreamworks",
     "image": "https://url-de-tu-logo.png",
-    "url": "https://msvhub.sbs/drm.php?id=dreamworks",
+    "url": "https://msvhub.sbs/drm.php?id=dreamworkshd",
     "referer": "https://msvhub.sbs/"
   },
   {
-    "name": "Nikelodeon",
+    "name": "Nickelodeon",
     "image": "https://url-de-tu-logo.png",
-    "url": "https://msvhub.sbs/drm.php?id=nikelodeon",
+    "url": "https://msvhub.sbs/drm.php?id=nickelodeon",
     "referer": "https://msvhub.sbs/"
   },
   {
     "name": "Cartoon Network",
     "image": "https://url-de-tu-logo.png",
-    "url": "https://msvhub.sbs/drm.php?id=cartoonnetwork",
+    "url": "https://msvhub.sbs/drm.php?id=cartoonnetworkhd",
     "referer": "https://msvhub.sbs/"
   },
   {
     "name": "Fix foxi",
     "image": "https://url-de-tu-logo.png",
-    "url": "https://msvhub.sbs/drm.php?id=fixfoxi",
+    "url": "https://msvhub.sbs/drm.php?id=fixfoxihd",
     "referer": "https://msvhub.sbs/"
   },
   {
     "name": "Clan",
     "image": "https://url-de-tu-logo.png",
-    "url": "https://msvhub.sbs/drm.php?id=clan",
+    "url": "https://msvhub.sbs/drm.php?id=clanhd",
     "referer": "https://msvhub.sbs/"
   },
   {
     "name": "Nick jr",
     "image": "https://url-de-tu-logo.png",
-    "url": "https://msvhub.sbs/drm.php?id=nickjr",
+    "url": "https://msvhub.sbs/drm.php?id=nickjrhd",
     "referer": "https://msvhub.sbs/"
   },
   {
     "name": "Cartoonito",
     "image": "https://url-de-tu-logo.png",
-    "url": "https://msvhub.sbs/drm.php?id=cartoonito",
+    "url": "https://msvhub.sbs/drm.php?id=cartoonitohd",
     "referer": "https://msvhub.sbs/"
   },
   {
     "name": "Baby first",
     "image": "https://url-de-tu-logo.png",
-    "url": "https://msvhub.sbs/drm.php?id=babyfirst",
+    "url": "https://msvhub.sbs/drm.php?id=babyfirsthd",
     "referer": "https://msvhub.sbs/"
   },
   {
     "name": "Baby",
     "image": "https://url-de-tu-logo.png",
-    "url": "https://msvhub.sbs/drm.php?id=tv",
+    "url": "https://msvhub.sbs/drm.php?id=babytv",
     "referer": "https://msvhub.sbs/"
   },
   {
     "name": "Discovery",
     "image": "https://url-de-tu-logo.png",
-    "url": "https://msvhub.sbs/drm.php?id=discovery",
+    "url": "https://msvhub.sbs/drm.php?id=discoveryhd",
     "referer": "https://msvhub.sbs/"
   },
   {
     "name": "SCI",
     "image": "https://url-de-tu-logo.png",
-    "url": "https://msvhub.sbs/drm.php?id=sci",
+    "url": "https://msvhub.sbs/drm.php?id=scihd",
     "referer": "https://msvhub.sbs/"
   },
   {
     "name": "THEATER Discovery",
     "image": "https://url-de-tu-logo.png",
-    "url": "https://msvhub.sbs/drm.php?id=theater",
+    "url": "https://msvhub.sbs/drm.php?id=theaterhd",
     "referer": "https://msvhub.sbs/"
   },
   {
     "name": "Animal planet",
     "image": "https://url-de-tu-logo.png",
-    "url": "https://msvhub.sbs/drm.php?id=animalplanet",
+    "url": "https://msvhub.sbs/drm.php?id=animalplanethd",
     "referer": "https://msvhub.sbs/"
   },
   {
     "name": "National Geographic",
     "image": "https://url-de-tu-logo.png",
-    "url": "https://msvhub.sbs/drm.php?id=natgeo",
+    "url": "https://msvhub.sbs/drm.php?id=natgeohs",
     "referer": "https://msvhub.sbs/"
   },
   {
@@ -446,55 +446,55 @@
   {
     "name": "History",
     "image": "https://url-de-tu-logo.png",
-    "url": "https://msvhub.sbs/drm.php?id=history",
+    "url": "https://msvhub.sbs/drm.php?id=historyhd",
     "referer": "https://msvhub.sbs/"
   },
   {
     "name": "History 2",
     "image": "https://url-de-tu-logo.png",
-    "url": "https://msvhub.sbs/drm.php?id=History",
+    "url": "https://msvhub.sbs/drm.php?id=history2",
     "referer": "https://msvhub.sbs/"
   },
   {
     "name": "Turbo",
     "image": "https://url-de-tu-logo.png",
-    "url": "https://msvhub.sbs/drm.php?id=Turbo",
+    "url": "https://msvhub.sbs/drm.php?id=turbohd",
     "referer": "https://msvhub.sbs/"
   },
   {
     "name": "Azteca Deportes",
     "image": "https://url-de-tu-logo.png",
-    "url": "https://msvhub.sbs/drm.php?id=aztecadeportes",
+    "url": "https://msvhub.sbs/drm.php?id=aztecadeporteshd",
     "referer": "https://msvhub.sbs/"
   },
   {
     "name": "Fox Sports",
     "image": "https://url-de-tu-logo.png",
-    "url": "https://msvhub.sbs/drm.php?id=Foxsports",
+    "url": "https://msvhub.sbs/drm.php?id=Foxsportshd",
     "referer": "https://msvhub.sbs/"
   },
   {
     "name": "Fox sports 2",
     "image": "https://url-de-tu-logo.png",
-    "url": "https://msvhub.sbs/drm.php?id=Foxsports2",
+    "url": "https://msvhub.sbs/drm.php?id=Foxsports2hd",
     "referer": "https://msvhub.sbs/"
   },
   {
     "name": "Fox sports 3",
     "image": "https://url-de-tu-logo.png",
-    "url": "https://msvhub.sbs/drm.php?id=Foxsports3",
+    "url": "https://msvhub.sbs/drm.php?id=Foxsports3hd",
     "referer": "https://msvhub.sbs/"
   },
   {
     "name": "Fox Premium",
     "image": "https://url-de-tu-logo.png",
-    "url": "https://msvhub.sbs/drm.php?id=foxpremium",
+    "url": "https://msvhub.sbs/drm.php?id=foxpremiumhd",
     "referer": "https://msvhub.sbs/"
   },
   {
     "name": "Fox",
     "image": "https://url-de-tu-logo.png",
-    "url": "https://msvhub.sbs/drm.php?id=Fox",
+    "url": "https://msvhub.sbs/drm.php?id=Foxhd",
     "referer": "https://msvhub.sbs/"
   },
   {
@@ -506,25 +506,25 @@
   {
     "name": "ESPN",
     "image": "https://url-de-tu-logo.png",
-    "url": "https://msvhub.sbs/drm.php?id=espn",
+    "url": "https://msvhub.sbs/drm.php?id=espnhd",
     "referer": "https://msvhub.sbs/"
   },
   {
     "name": "ESPN 2",
     "image": "https://url-de-tu-logo.png",
-    "url": "https://msvhub.sbs/drm.php?id=espn2",
+    "url": "https://msvhub.sbs/drm.php?id=espn2hd",
     "referer": "https://msvhub.sbs/"
   },
   {
     "name": "ESPN 3",
     "image": "https://url-de-tu-logo.png",
-    "url": "https://msvhub.sbs/drm.php?id=espn3",
+    "url": "https://msvhub.sbs/drm.php?id=espn3hd",
     "referer": "https://msvhub.sbs/"
   },
   {
     "name": "ESPN 4",
     "image": "https://url-de-tu-logo.png",
-    "url": "https://msvhub.sbs/drm.php?id=espn5",
+    "url": "https://msvhub.sbs/drm.php?id=espn4hd",
     "referer": "https://msvhub.sbs/"
   },
   {
@@ -536,115 +536,115 @@
   {
     "name": "TyC Sports",
     "image": "https://url-de-tu-logo.png",
-    "url": "https://msvhub.sbs/drm.php?id=tycsports",
+    "url": "https://msvhub.sbs/drm.php?id=tycsportshd",
     "referer": "https://msvhub.sbs/"
   },
   {
     "name": "NFL Network",
     "image": "https://url-de-tu-logo.png",
-    "url": "https://msvhub.sbs/drm.php?id=nfl",
+    "url": "https://msvhub.sbs/drm.php?id=nflhd",
     "referer": "https://msvhub.sbs/"
   },
   {
     "name": "DazN Combat",
     "image": "https://url-de-tu-logo.png",
-    "url": "https://msvhub.sbs/drm.php?id=cpmvat",
+    "url": "https://msvhub.sbs/drm.php?id=combat",
     "referer": "https://msvhub.sbs/"
   },
   {
     "name": "GINX Tv",
     "image": "https://url-de-tu-logo.png",
-    "url": "https://msvhub.sbs/drm.php?id=ginxtv",
+    "url": "https://msvhub.sbs/drm.php?id=ginxtvhd",
     "referer": "https://msvhub.sbs/"
   },
   {
     "name": "CNN",
     "image": "https://url-de-tu-logo.png",
-    "url": "https://msvhub.sbs/drm.php?id=cnn",
+    "url": "https://msvhub.sbs/drm.php?id=cnnhd",
     "referer": "https://msvhub.sbs/"
   },
   {
     "name": "24h",
     "image": "https://url-de-tu-logo.png",
-    "url": "https://msvhub.sbs/drm.php?id=24h",
+    "url": "https://msvhub.sbs/drm.php?id=24hhd",
     "referer": "https://msvhub.sbs/"
   },
   {
     "name": "TNT",
     "image": "https://url-de-tu-logo.png",
-    "url": "https://msvhub.sbs/drm.php?id=TNT",
+    "url": "https://msvhub.sbs/drm.php?id=tnthd",
     "referer": "https://msvhub.sbs/"
   },
   {
     "name": "MC",
     "image": "https://url-de-tu-logo.png",
-    "url": "https://msvhub.sbs/drm.php?id=mc",
+    "url": "https://msvhub.sbs/drm.php?id=mchd",
     "referer": "https://msvhub.sbs/"
   },
   {
     "name": "Cinemax",
     "image": "https://url-de-tu-logo.png",
-    "url": "https://msvhub.sbs/drm.php?id=cinemax",
+    "url": "https://msvhub.sbs/drm.php?id=cinemaxhd",
     "referer": "https://msvhub.sbs/"
   },
   {
     "name": "Multipremier",
     "image": "https://url-de-tu-logo.png",
-    "url": "https://msvhub.sbs/drm.php?id=Multipremier",
+    "url": "https://msvhub.sbs/drm.php?id=Multipremierhd",
     "referer": "https://msvhub.sbs/"
   },
   {
     "name": "Cinecanal",
     "image": "https://url-de-tu-logo.png",
-    "url": "https://msvhub.sbs/drm.php?id=cinecanal",
+    "url": "https://msvhub.sbs/drm.php?id=cinecanalhd",
     "referer": "https://msvhub.sbs/"
   },
   {
     "name": "Sony movies",
     "image": "https://url-de-tu-logo.png",
-    "url": "https://msvhub.sbs/drm.php?id=sonymovies",
+    "url": "https://msvhub.sbs/drm.php?id=sonymovieshd",
     "referer": "https://msvhub.sbs/"
   },
   {
     "name": "Universal Studios",
     "image": "https://url-de-tu-logo.png",
-    "url": "https://msvhub.sbs/drm.php?id=universalstudios",
+    "url": "https://msvhub.sbs/drm.php?id=studioshd",
     "referer": "https://msvhub.sbs/"
   },
   {
     "name": "Claro cinema",
     "image": "https://url-de-tu-logo.png",
-    "url": "https://msvhub.sbs/drm.php?id=clarocinema",
+    "url": "https://msvhub.sbs/drm.php?id=clarocinemahd",
     "referer": "https://msvhub.sbs/"
   },
   {
     "name": "A3 Cine",
     "image": "https://url-de-tu-logo.png",
-    "url": "https://msvhub.sbs/drm.php?id=a3cine",
+    "url": "https://msvhub.sbs/drm.php?id=a3cinehd",
     "referer": "https://msvhub.sbs/"
   },
   {
     "name": "Cine latino",
     "image": "https://url-de-tu-logo.png",
-    "url": "https://msvhub.sbs/drm.php?id=cinelatino",
+    "url": "https://msvhub.sbs/drm.php?id=cinelatinohd",
     "referer": "https://msvhub.sbs/"
   },
   {
     "name": "Cinema",
     "image": "https://url-de-tu-logo.png",
-    "url": "https://msvhub.sbs/drm.php?id=cinema",
+    "url": "https://msvhub.sbs/drm.php?id=cinemahd",
     "referer": "https://msvhub.sbs/"
   },
   {
     "name": "film & arts",
     "image": "https://url-de-tu-logo.png",
-    "url": "https://msvhub.sbs/drm.php?id=film&arts",
+    "url": "https://msvhub.sbs/drm.php?id=film&artshd",
     "referer": "https://msvhub.sbs/"
   },
   {
     "name": "Cindie Tv",
     "image": "https://url-de-tu-logo.png",
-    "url": "https://msvhub.sbs/drm.php?id=cindie",
+    "url": "https://msvhub.sbs/drm.php?id=cindiehd",
     "referer": "https://msvhub.sbs/"
   },
   {
@@ -686,7 +686,7 @@
   {
     "name": "Hbo pop",
     "image": "https://url-de-tu-logo.png",
-    "url": "https://msvhub.sbs/drm.php?id=hbopop",
+    "url": "https://msvhub.sbs/drm.php?id=hbopophd",
     "referer": "https://msvhub.sbs/"
   },
   {
@@ -698,31 +698,31 @@
   {
     "name": "Universal Premiere ",
     "image": "https://url-de-tu-logo.png",
-    "url": "https://msvhub.sbs/drm.php?id=universalpremiere",
+    "url": "https://msvhub.sbs/drm.php?id=premiere",
     "referer": "https://msvhub.sbs/"
   },
   {
     "name": "Universal cinema",
     "image": "https://url-de-tu-logo.png",
-    "url": "https://msvhub.sbs/drm.php?id=cinema",
+    "url": "https://msvhub.sbs/drm.php?id=cinemahd",
     "referer": "https://msvhub.sbs/"
   },
   {
     "name": "Universal comedy",
     "image": "https://url-de-tu-logo.png",
-    "url": "https://msvhub.sbs/drm.php?id=universalcomedy",
+    "url": "https://msvhub.sbs/drm.php?id=comedyhd",
     "referer": "https://msvhub.sbs/"
   },
   {
     "name": "Universal crime",
     "image": "https://url-de-tu-logo.png",
-    "url": "https://msvhub.sbs/drm.php?id=universalcrime",
+    "url": "https://msvhub.sbs/drm.php?id=crime",
     "referer": "https://msvhub.sbs/"
   },
   {
     "name": "Universal reality",
     "image": "https://url-de-tu-logo.png",
-    "url": "https://msvhub.sbs/drm.php?id=universalreality",
+    "url": "https://msvhub.sbs/drm.php?id=reality",
     "referer": "https://msvhub.sbs/"
   },
   {
@@ -782,19 +782,25 @@
   {
     "name": "D pelicula",
     "image": "https://url-de-tu-logo.png",
-    "url": "https://msvhub.sbs/drm.php?id=dpelicula",
+    "url": "https://msvhub.sbs/drm.php?id=depelicula",
+    "referer": "https://msvhub.sbs/"
+  },
+  {
+    "name": "D pelicula plus",
+    "image": "https://url-de-tu-logo.png",
+    "url": "https://msvhub.sbs/drm.php?id=depeliculaplus",
     "referer": "https://msvhub.sbs/"
   },
   {
     "name": "Unicable",
     "image": "https://url-de-tu-logo.png",
-    "url": "https://msvhub.sbs/drm.php?id=a3s",
+    "url": "https://msvhub.sbs/drm.php?id=unicable",
     "referer": "https://msvhub.sbs/"
   },
   {
     "name": "TLnovelas",
     "image": "https://url-de-tu-logo.png",
-    "url": "https://msvhub.sbs/drm.php?id=telenovelas",
+    "url": "https://msvhub.sbs/drm.php?id=tlnovelas",
     "referer": "https://msvhub.sbs/"
   },
   {
@@ -842,7 +848,7 @@
   {
     "name": "Todo novela pasiones",
     "image": "https://url-de-tu-logo.png",
-    "url": "https://msvhub.sbs/drm.php?id=pasiones",
+    "url": "https://msvhub.sbs/drm.php?id=passiones",
     "referer": "https://msvhub.sbs/"
   },
   {
@@ -852,21 +858,21 @@
     "referer": "https://msvhub.sbs/"
   },
   {
-    "name": "A3S Series",
+    "name": "AMC Westers",
     "image": "https://url-de-tu-logo.png",
-    "url": "https://msvhub.sbs/drm.php?id=a3s",
+    "url": "https://msvhub.sbs/drm.php?id=western",
     "referer": "https://msvhub.sbs/"
   },
   {
-    "name": "A3S Series",
+    "name": "Boing",
     "image": "https://url-de-tu-logo.png",
-    "url": "https://msvhub.sbs/drm.php?id=a3s",
+    "url": "https://msvhub.sbs/drm.php?id=boing",
     "referer": "https://msvhub.sbs/"
   },
   {
-    "name": "A3S Series",
+    "name": "Univision",
     "image": "https://url-de-tu-logo.png",
-    "url": "https://msvhub.sbs/drm.php?id=a3s",
+    "url": "https://msvhub.sbs/drm.php?id=univision",
     "referer": "https://msvhub.sbs/"
   },
   {
