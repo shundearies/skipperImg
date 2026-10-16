@@ -470,19 +470,19 @@
   {
     "name": "Fox Sports",
     "image": "https://url-de-tu-logo.png",
-    "url": "https://msvhub.sbs/drm.php?id=Foxsportshd",
+    "url": "https://msvhub.sbs/drm.php?id=Foxsportsar",
     "referer": "https://msvhub.sbs/"
   },
   {
     "name": "Fox sports 2",
     "image": "https://url-de-tu-logo.png",
-    "url": "https://msvhub.sbs/drm.php?id=Foxsports2hd",
+    "url": "https://msvhub.sbs/drm.php?id=Foxsports2ar",
     "referer": "https://msvhub.sbs/"
   },
   {
     "name": "Fox sports 3",
     "image": "https://url-de-tu-logo.png",
-    "url": "https://msvhub.sbs/drm.php?id=Foxsports3hd",
+    "url": "https://msvhub.sbs/drm.php?id=Foxsports3ar",
     "referer": "https://msvhub.sbs/"
   },
   {
@@ -728,19 +728,19 @@
   {
     "name": "Playboy tv",
     "image": "https://url-de-tu-logo.png",
-    "url": "https://msvhub.sbs/drm.php?id=playboytvhd",
+    "url": "https://msvhub.sbs/drm.php?id=playboytv",
     "referer": "https://msvhub.sbs/"
   },
   {
-    "name": "Venus",
+    "name": "Sexyhot",
     "image": "https://url-de-tu-logo.png",
-    "url": "https://msvhub.sbs/drm.php?id=venushd",
+    "url": "https://msvhub.sbs/drm.php?id=sexyhot",
     "referer": "https://msvhub.sbs/"
   },
   {
     "name": "Las Estrellas",
     "image": "https://url-de-tu-logo.png",
-    "url": "https://msvhub.sbs/drm.php?id=lasestrellashd",
+    "url": "https://msvhub.sbs/drm.php?id=lasestrellas",
     "referer": "https://msvhub.sbs/"
   },
   {
@@ -764,7 +764,7 @@
   {
     "name": "Golden Multiplex",
     "image": "https://url-de-tu-logo.png",
-    "url": "https://msvhub.sbs/drm.php?id=goldenmultiplex",
+    "url": "https://msvhub.sbs/drm.php?id=GoldenMultiplex",
     "referer": "https://msvhub.sbs/"
   },
   {
@@ -876,9 +876,21 @@
     "referer": "https://msvhub.sbs/"
   },
   {
-    "name": "Azteca 7",
+    "name": "Dsports",
     "image": "https://url-de-tu-logo.png",
-    "url": "https://msvhub.sbs/drm.php?id=azteca7hd",
+    "url": "https://msvhub.sbs/drm.php?id=dsportsco",
+    "referer": "https://msvhub.sbs/"
+  },
+  {
+    "name": "Dsports2",
+    "image": "https://url-de-tu-logo.png",
+    "url": "https://msvhub.sbs/drm.php?id=dsports2",
+    "referer": "https://msvhub.sbs/"
+  },
+  {
+    "name": "Daports plus",
+    "image": "https://url-de-tu-logo.png",
+    "url": "https://msvhub.sbs/drm.php?id=dsportsplus",
     "referer": "https://msvhub.sbs/"
   },
   {
