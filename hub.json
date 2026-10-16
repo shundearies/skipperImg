@@ -728,19 +728,19 @@
   {
     "name": "Playboy tv",
     "image": "https://url-de-tu-logo.png",
-    "url": "https://msvhub.sbs/drm.php?id=playboytv",
+    "url": "https://msvhub.sbs/drm.php?id=playboytvhd",
     "referer": "https://msvhub.sbs/"
   },
   {
-    "name": "Sexyhot",
+    "name": "Venus",
     "image": "https://url-de-tu-logo.png",
-    "url": "https://msvhub.sbs/drm.php?id=sexyhot",
+    "url": "https://msvhub.sbs/drm.php?id=venushd",
     "referer": "https://msvhub.sbs/"
   },
   {
     "name": "Las Estrellas",
     "image": "https://url-de-tu-logo.png",
-    "url": "https://msvhub.sbs/drm.php?id=estrellas",
+    "url": "https://msvhub.sbs/drm.php?id=lasestrellashd",
     "referer": "https://msvhub.sbs/"
   },
   {
