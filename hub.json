@@ -888,12 +888,36 @@
     "referer": "https://msvhub.sbs/"
   },
   {
-    "name": "Daports plus",
+    "name": "DSports plus",
     "image": "https://url-de-tu-logo.png",
     "url": "https://msvhub.sbs/drm.php?id=dsportsplus",
     "referer": "https://msvhub.sbs/"
   },
   {
+    "name": "DSports 2",
+    "image": "https://url-de-tu-logo.png",
+    "url": "https://latamplay1.click/channel/dsports2.html",
+    "referer": "https://msvhub.sbs/"
+  },
+  {
+    "name": "DSport Plus",
+    "image": "https://url-de-tu-logo.png",
+    "url": "https://latamplay1.click/channel/dsportsplus.html",
+    "referer": "https://msvhub.sbs/"
+  },
+  {
+    "name": "Las Estrellas",
+    "image": "https://url-de-tu-logo.png",
+    "url": "https://latamplay1.click/channel/lasestrellas.html",
+    "referer": "https://msvhub.sbs/"
+  },
+  {
+    "name": "Canal 5",
+    "image": "https://url-de-tu-logo.png",
+    "url": "https://latamplay1.click/channel/canal5.html"",
+    "referer": "https://msvhub.sbs/"
+  },
+  {
     "name": "A3S Series",
     "image": "https://url-de-tu-logo.png",
     "url": "https://msvhub.sbs/drm.php?id=a3s",
@@ -904,5 +928,5 @@
     "image": "https://url-de-tu-logo.png",
     "url": "https://msvhub.sbs/drm.php?id=a3s",
     "referer": "https://msvhub.sbs/"
-  }
+  },
 ]
