@@ -546,6 +546,198 @@
     "referer": "https://msvhub.sbs/"
   },
   {
+    "name": "DazN Combat",
+    "image": "https://url-de-tu-logo.png",
+    "url": "https://msvhub.sbs/drm.php?id=cpmvat",
+    "referer": "https://msvhub.sbs/"
+  },
+  {
+    "name": "GINX Tv",
+    "image": "https://url-de-tu-logo.png",
+    "url": "https://msvhub.sbs/drm.php?id=ginxtv",
+    "referer": "https://msvhub.sbs/"
+  },
+  {
+    "name": "CNN",
+    "image": "https://url-de-tu-logo.png",
+    "url": "https://msvhub.sbs/drm.php?id=cnn",
+    "referer": "https://msvhub.sbs/"
+  },
+  {
+    "name": "24h",
+    "image": "https://url-de-tu-logo.png",
+    "url": "https://msvhub.sbs/drm.php?id=24h",
+    "referer": "https://msvhub.sbs/"
+  },
+  {
+    "name": "TNT",
+    "image": "https://url-de-tu-logo.png",
+    "url": "https://msvhub.sbs/drm.php?id=TNT",
+    "referer": "https://msvhub.sbs/"
+  },
+  {
+    "name": "MC",
+    "image": "https://url-de-tu-logo.png",
+    "url": "https://msvhub.sbs/drm.php?id=mc",
+    "referer": "https://msvhub.sbs/"
+  },
+  {
+    "name": "Cinemax",
+    "image": "https://url-de-tu-logo.png",
+    "url": "https://msvhub.sbs/drm.php?id=cinemax",
+    "referer": "https://msvhub.sbs/"
+  },
+  {
+    "name": "Multipremier",
+    "image": "https://url-de-tu-logo.png",
+    "url": "https://msvhub.sbs/drm.php?id=Multipremier",
+    "referer": "https://msvhub.sbs/"
+  },
+  {
+    "name": "Cinecanal",
+    "image": "https://url-de-tu-logo.png",
+    "url": "https://msvhub.sbs/drm.php?id=cinecanal",
+    "referer": "https://msvhub.sbs/"
+  },
+  {
+    "name": "Sony movies",
+    "image": "https://url-de-tu-logo.png",
+    "url": "https://msvhub.sbs/drm.php?id=sonymovies",
+    "referer": "https://msvhub.sbs/"
+  },
+  {
+    "name": "Universal Studios",
+    "image": "https://url-de-tu-logo.png",
+    "url": "https://msvhub.sbs/drm.php?id=universalstudios",
+    "referer": "https://msvhub.sbs/"
+  },
+  {
+    "name": "Claro cinema",
+    "image": "https://url-de-tu-logo.png",
+    "url": "https://msvhub.sbs/drm.php?id=clarocinema",
+    "referer": "https://msvhub.sbs/"
+  },
+  {
+    "name": "A3 Cine",
+    "image": "https://url-de-tu-logo.png",
+    "url": "https://msvhub.sbs/drm.php?id=a3cine",
+    "referer": "https://msvhub.sbs/"
+  },
+  {
+    "name": "Cine latino",
+    "image": "https://url-de-tu-logo.png",
+    "url": "https://msvhub.sbs/drm.php?id=cinelatino",
+    "referer": "https://msvhub.sbs/"
+  },
+  {
+    "name": "Cinema",
+    "image": "https://url-de-tu-logo.png",
+    "url": "https://msvhub.sbs/drm.php?id=cinema",
+    "referer": "https://msvhub.sbs/"
+  },
+  {
+    "name": "film & arts",
+    "image": "https://url-de-tu-logo.png",
+    "url": "https://msvhub.sbs/drm.php?id=film&arts",
+    "referer": "https://msvhub.sbs/"
+  },
+  {
+    "name": "Cindie Tv",
+    "image": "https://url-de-tu-logo.png",
+    "url": "https://msvhub.sbs/drm.php?id=cindie",
+    "referer": "https://msvhub.sbs/"
+  },
+  {
+    "name": "Hbo",
+    "image": "https://url-de-tu-logo.png",
+    "url": "https://msvhub.sbs/drm.php?id=hbo",
+    "referer": "https://msvhub.sbs/"
+  },
+  {
+    "name": "Hbo 2",
+    "image": "https://url-de-tu-logo.png",
+    "url": "https://msvhub.sbs/drm.php?id=hbo2",
+    "referer": "https://msvhub.sbs/"
+  },
+  {
+    "name": "Hbo plus",
+    "image": "https://url-de-tu-logo.png",
+    "url": "https://msvhub.sbs/drm.php?id=hboplus",
+    "referer": "https://msvhub.sbs/"
+  },
+  {
+    "name": "Hbo family",
+    "image": "https://url-de-tu-logo.png",
+    "url": "https://msvhub.sbs/drm.php?id=hbofamily",
+    "referer": "https://msvhub.sbs/"
+  },
+  {
+    "name": "Hbo signature",
+    "image": "https://url-de-tu-logo.png",
+    "url": "https://msvhub.sbs/drm.php?id=hbosignature",
+    "referer": "https://msvhub.sbs/"
+  },
+  {
+    "name": "Hbo mundi",
+    "image": "https://url-de-tu-logo.png",
+    "url": "https://msvhub.sbs/drm.php?id=hbomundi",
+    "referer": "https://msvhub.sbs/"
+  },
+  {
+    "name": "Hbo pop",
+    "image": "https://url-de-tu-logo.png",
+    "url": "https://msvhub.sbs/drm.php?id=hbopop",
+    "referer": "https://msvhub.sbs/"
+  },
+  {
+    "name": "Hbo xtreame",
+    "image": "https://url-de-tu-logo.png",
+    "url": "https://msvhub.sbs/drm.php?id=hboxtreme",
+    "referer": "https://msvhub.sbs/"
+  },
+  {
+    "name": "Universal Premiere ",
+    "image": "https://url-de-tu-logo.png",
+    "url": "https://msvhub.sbs/drm.php?id=universalpremiere",
+    "referer": "https://msvhub.sbs/"
+  },
+  {
+    "name": "Universal cinema",
+    "image": "https://url-de-tu-logo.png",
+    "url": "https://msvhub.sbs/drm.php?id=cinema",
+    "referer": "https://msvhub.sbs/"
+  },
+  {
+    "name": "Universal comedy",
+    "image": "https://url-de-tu-logo.png",
+    "url": "https://msvhub.sbs/drm.php?id=universalcomedy",
+    "referer": "https://msvhub.sbs/"
+  },
+  {
+    "name": "Universal crime",
+    "image": "https://url-de-tu-logo.png",
+    "url": "https://msvhub.sbs/drm.php?id=universalcrime",
+    "referer": "https://msvhub.sbs/"
+  },
+  {
+    "name": "Universal reality",
+    "image": "https://url-de-tu-logo.png",
+    "url": "https://msvhub.sbs/drm.php?id=universalreality",
+    "referer": "https://msvhub.sbs/"
+  },
+  {
+    "name": "Playboy tv",
+    "image": "https://url-de-tu-logo.png",
+    "url": "https://msvhub.sbs/drm.php?id=playboytv",
+    "referer": "https://msvhub.sbs/"
+  },
+  {
+    "name": "Sexyhot",
+    "image": "https://url-de-tu-logo.png",
+    "url": "https://msvhub.sbs/drm.php?id=sexyhot",
+    "referer": "https://msvhub.sbs/"
+  },
+  {
     "name": "A3S Series",
     "image": "https://url-de-tu-logo.png",
     "url": "https://msvhub.sbs/drm.php?id=a3s",
