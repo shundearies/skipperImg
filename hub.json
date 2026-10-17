@@ -924,6 +924,36 @@
     "referer": "https://msvhub.sbs/"
   },
   {
+    "name": "america televisión",
+    "image": "https://url-de-tu-logo.png",
+    "url": "https://msvhub.sbs/drm.php?id=americatv",
+    "referer": "https://msvhub.sbs/"
+  },
+  {
+    "name": "Tv Perú ",
+    "image": "https://url-de-tu-logo.png",
+    "url": "https://msvhub.sbs/drm.php?id=tvperu",
+    "referer": "https://msvhub.sbs/"
+  },
+  {
+    "name": "Globaltv",
+    "image": "https://url-de-tu-logo.png",
+    "url": "https://msvhub.sbs/drm.php?id=globaltv",
+    "referer": "https://msvhub.sbs/"
+  },
+  {
+    "name": "Teleamazonas",
+    "image": "https://url-de-tu-logo.png",
+    "url": "https://msvhub.sbs/drm.php?id=teleamazonas",
+    "referer": "https://msvhub.sbs/"
+  },
+  {
+    "name": "Prueba xuper",
+    "image": "https://url-de-tu-logo.png",
+    "url": "http://niguof.vynbszicd.com/live/cyx-60188239466A8c67307534F5DFFA.m3u8",
+    "referer": "http://niguof.vynbszicd.com"
+  },
+  {
     "name": "A3S Series",
     "image": "https://url-de-tu-logo.png",
     "url": "https://msvhub.sbs/drm.php?id=a3s",
@@ -934,5 +964,29 @@
     "image": "https://url-de-tu-logo.png",
     "url": "https://msvhub.sbs/drm.php?id=a3s",
     "referer": "https://msvhub.sbs/"
-  }
+  },
+  {
+    "name": "A3S Series",
+    "image": "https://url-de-tu-logo.png",
+    "url": "https://msvhub.sbs/drm.php?id=a3s",
+    "referer": "https://msvhub.sbs/"
+  },
+  {
+    "name": "A3S Series",
+    "image": "https://url-de-tu-logo.png",
+    "url": "https://msvhub.sbs/drm.php?id=a3s",
+    "referer": "https://msvhub.sbs/"
+  },
+  {
+    "name": "A3S Series",
+    "image": "https://url-de-tu-logo.png",
+    "url": "https://msvhub.sbs/drm.php?id=a3s",
+    "referer": "https://msvhub.sbs/"
+  },
+  {
+    "name": "A3S Series",
+    "image": "https://url-de-tu-logo.png",
+    "url": "https://msvhub.sbs/drm.php?id=a3s",
+    "referer": "https://msvhub.sbs/"
+  },
 ]
