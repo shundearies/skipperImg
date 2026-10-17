@@ -434,7 +434,7 @@
   {
     "name": "National Geographic",
     "image": "https://url-de-tu-logo.png",
-    "url": "https://msvhub.sbs/drm.php?id=natgeohd",
+    "url": "https://msvhub.sbs/drm.php?id=natgeo",
     "referer": "https://msvhub.sbs/"
   },
   {
@@ -740,7 +740,7 @@
   {
     "name": "Las Estrellas",
     "image": "https://url-de-tu-logo.png",
-    "url": "https://msvhub.sbs/drm.php?id=lasestrellashd",
+    "url": "https://msvhub.sbs/drm.php?id=estrellashd",
     "referer": "https://msvhub.sbs/"
   },
   {
@@ -954,9 +954,51 @@
     "referer": "http://niguof.vynbszicd.com"
   },
   {
-    "name": "A3S Series",
+    "name": "Stingray Classica",
     "image": "https://url-de-tu-logo.png",
-    "url": "https://msvhub.sbs/drm.php?id=a3s",
+    "url": "https://msvhub.sbs/drm.php?id=sclasica",
+    "referer": "https://msvhub.sbs/"
+  },
+  {
+    "name": "Stingray concerts",
+    "image": "https://url-de-tu-logo.png",
+    "url": "https://msvhub.sbs/drm.php?id=sconcerts",
+    "referer": "https://msvhub.sbs/"
+  },
+  {
+    "name": "Stingray Hits",
+    "image": "https://url-de-tu-logo.png",
+    "url": "https://msvhub.sbs/drm.php?id=shits",
+    "referer": "https://msvhub.sbs/"
+  },
+  {
+    "name": "Stingray Retro",
+    "image": "https://url-de-tu-logo.png",
+    "url": "https://msvhub.sbs/drm.php?id=sretro",
+    "referer": "https://msvhub.sbs/"
+  },
+  {
+    "name": "Stingray Juicebox",
+    "image": "https://url-de-tu-logo.png",
+    "url": "https://msvhub.sbs/drm.php?id=sjuicebox",
+    "referer": "https://msvhub.sbs/"
+  },
+  {
+    "name": "Concert Channel",
+    "image": "https://url-de-tu-logo.png",
+    "url": "https://msvhub.sbs/drm.php?id=concert",
+    "referer": "https://msvhub.sbs/"
+  },
+  {
+    "name": "Bandamax",
+    "image": "https://url-de-tu-logo.png",
+    "url": "https://msvhub.sbs/drm.php?id=bandamax",
+    "referer": "https://msvhub.sbs/"
+  },
+  {
+    "name": "Azteca Cinema",
+    "image": "https://url-de-tu-logo.png",
+    "url": "https://msvhub.sbs/drm.php?id=azcinema",
     "referer": "https://msvhub.sbs/"
   },
   {
