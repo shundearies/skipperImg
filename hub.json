@@ -120,12 +120,6 @@
     "referer": "https://msvhub.sbs/"
   },
   {
-    "name": "Playboy tv",
-    "image": "https://url-de-tu-logo.png",
-    "url": "https://msvhub.sbs/drm.php?id=playboyhd",
-    "referer": "https://msvhub.sbs/"
-  },
-  {
     "name": "Nu9ve",
     "image": "https://url-de-tu-logo.png",
     "url": "https://msvhub.sbs/drm.php?id=nueve",
@@ -141,12 +135,6 @@
     "name": "Golden EDGE",
     "image": "https://url-de-tu-logo.png",
     "url": "https://msvhub.sbs/drm.php?id=goldenedge",
-    "referer": "https://msvhub.sbs/"
-  },
-  {
-    "name": "Golden Multiplex",
-    "image": "https://url-de-tu-logo.png",
-    "url": "https://msvhub.sbs/drm.php?id=multiplex",
     "referer": "https://msvhub.sbs/"
   },
   {
@@ -286,12 +274,6 @@
     "image": "https://url-de-tu-logo.png",
     "url": "https://msvhub.sbs/drm.php?id=teleamazonas",
     "referer": "https://msvhub.sbs/"
-  },
-  {
-    "name": "Prueba xuper",
-    "image": "https://url-de-tu-logo.png",
-    "url": "http://niguof.vynbszicd.com/live/cyx-60188239466A8c67307534F5DFFA.m3u8",
-    "referer": "http://niguof.vynbszicd.com"
   },
   {
     "name": "Stingray Classica",
