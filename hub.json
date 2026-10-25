@@ -138,8 +138,8 @@
     "referer": "https://msvhub.sbs/"
   },
   {
-    "name": "https://images.vix.com/prd/channel/62bb77fc30eae0cea539a974/1e8ab32c68282ada5106e234bb18cfea?tr=w-1280,q-30&w=1280",
-    "image": "https://url-de-tu-logo.png",
+    "name": "Golden Plus",
+    "image": "https://images.vix.com/prd/channel/62bb77fc30eae0cea539a974/1e8ab32c68282ada5106e234bb18cfea?tr=w-1280,q-30&w=1280",
     "url": "https://msvhub.sbs/drm.php?id=goldenplus",
     "referer": "https://msvhub.sbs/"
   },
@@ -223,13 +223,13 @@
   },
   {
     "name": "Dsports2",
-    "image": "https://url-de-tu-logo.png",
+    "image": "https://dsports-widgets.tbxnet.com/assets/images/channels/1612.png",
     "url": "https://msvhub.sbs/drm.php?id=dsports2",
     "referer": "https://msvhub.sbs/"
   },
   {
     "name": "DSports plus",
-    "image": "https://url-de-tu-logo.png",
+    "image": "https://dsports-widgets.tbxnet.com/assets/images/channels/1613.png",
     "url": "https://msvhub.sbs/drm.php?id=dsportsplus",
     "referer": "https://msvhub.sbs/"
   },
