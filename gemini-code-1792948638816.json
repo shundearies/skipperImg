@@ -1,0 +1,29 @@
+{
+  "name": "Mi Lista Híbrida",
+  "author": "Desarrollador",
+  "groups": [
+    {
+      "name": "CANALES FULL HD",
+      "stations": [
+        {
+          "name": "TELEFE",
+          "image": "https://url-de-tu-logo.png",
+          "url": "https://dish.akamaized.net/Content/DASH/Live/channel(telefe_arg)/variant.mpd",
+          "drmKey": "Z1y1rc14i97kr1BRiwQWJg:sov01O7IHLlubKmgwCLc1Q",
+          "referer": "https://ejemplo.com/",
+          "origin": "https://ejemplo.com/",
+          "userAgent": "Mozilla/5.0..."
+        },
+        {
+          "name": "Ejemplo Canal MPD con DRM",
+          "image": "https://url-de-tu-logo.png",
+          "url": "https://ejemplo.com/stream/manifest.mpd",
+          "drmKey": "tu_key_id:tu_key",
+          "referer": "https://ejemplo.com/",
+          "origin": "https://ejemplo.com/",
+          "userAgent": "Mozilla/5.0..."
+        }
+      ]
+    }
+  ]
+}
