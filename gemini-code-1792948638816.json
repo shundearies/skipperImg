@@ -10,9 +10,9 @@
           "image": "https://url-de-tu-logo.png",
           "url": "https://dish.akamaized.net/Content/DASH/Live/channel(telefe_arg)/variant.mpd",
           "drmKey": "Z1y1rc14i97kr1BRiwQWJg:sov01O7IHLlubKmgwCLc1Q",
-          "referer": "https://ejemplo.com/",
-          "origin": "https://ejemplo.com/",
-          "userAgent": "Mozilla/5.0..."
+          "referer": "",
+          "origin": "",
+          "userAgent": ""
         },
         {
           "name": "Ejemplo Canal MPD con DRM",
