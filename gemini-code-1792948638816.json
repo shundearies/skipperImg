@@ -9,7 +9,7 @@
           "name": "TELEFE",
           "image": "https://url-de-tu-logo.png",
           "url": "https://dish.akamaized.net/Content/DASH/Live/channel(telefe_arg)/variant.mpd",
-          "KID:KEY": "Z1y1rc14i97kr1BRiwQWJg:sov01O7IHLlubKmgwCLc1Q",
+          "clearkey": "Z1y1rc14i97kr1BRiwQWJg:sov01O7IHLlubKmgwCLc1Q",
           "referer": "",
           "origin": "",
           "userAgent": ""
