@@ -4,7 +4,7 @@
     "logo": "https://raw.githubusercontent.com/shundearies/skipperImg/refs/heads/main/premium%7E2.jpeg",
     "url": "https://raw.githubusercontent.com/shundearies/skipperImg/refs/heads/main/PlusCineyseries.json.yyy",
     "contrasena": "",
-    "reproductor": "inapp_webview_player",
+    "reproductor": "video_player_native",
     "pantalla": "MpdScreenFull"
   },
      {
