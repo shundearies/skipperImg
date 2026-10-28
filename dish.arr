@@ -232,7 +232,7 @@
         },
         {
           "name": "TNT Series",
-          "image": "https://imgmvshub.akamaized.net/images/vod/vod/1 20/120/0/0/2871562.png",
+          "image": "https://imgmvshub.akamaized.net/images/vod/vod/120/120/0/0/2871562.png",
           "url": "https://dish.akamaized.net/Content/DASH/Live/channel(tntseries)/variant.mpd",
           "clearkey": "r2l6_pXRozOoRa7lumdpRg:xXvezzFpt45RhlQDxucjvQ",
           "referer": "",
