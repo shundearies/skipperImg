@@ -15,8 +15,8 @@
           "userAgent": ""
         },
         {
-          "name": "Disney Channel",
-          "image": "https://d58ohtx80p2sd.cloudfront.net/dish/grilla_gracenote/logos_canales/hd/782.png",
+          "name": "Discovery Channel",
+          "image": "https://d58ohtx80p2sd.cloudfront.net/dish/grilla_gracenote/logos_canales/hd/808.png",
           "url": "https://dish.akamaized.net/Content/DASH/Live/channel(discoverychannelhd)/variant.mpd",
           "clearkey": "irpPrx9qy1HL3kLejHrdPQ:x42hv2SIUXFGEuw2oYereg",
           "referer": "",
@@ -259,7 +259,7 @@
         },
         {
           "name": "TNT Novelas",
-          "image": "https://imgmvshub.akamaized.net/images/vod/vod/1 20/120/0/0/2871561.png",
+          "image": "https://imgmvshub.akamaized.net/images/vod/vod/120/120/0/0/2871561.png",
           "url": "https://dish.akamaized.net/Content/DASH/Live/channel(tntnovelashd)/variant.mpd",
           "clearkey": "_e4PhnNkh-TQE31G633A-w:F1FgOmrKn_sESktg79aP0Q",
           "referer": "",
