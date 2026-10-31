@@ -12,7 +12,7 @@
     "logo": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/09/Dish_Mexico.PNG/250px-Dish_Mexico.PNG?utm_source=es.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
     "url": "https://raw.githubusercontent.com/shundearies/skipperImg/refs/heads/main/dish.arr",
     "contrasena": "",
-    "reproductor": "ReproductorFullScreen2",
+    "reproductor": "ReproductorFullBitmovin",
     "pantalla":"SmartListScreen"
   }
 ]
