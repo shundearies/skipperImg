@@ -5,7 +5,7 @@
     "url": "https://teledeportes.st/?p=tv",
     "contrasena": "",
     "reproductor": "",
-    "pantalla": "webview_screen"
+    "pantalla": "PantallaWebView"
   },
      {
     "nombre": "Mundial tv",
@@ -13,6 +13,6 @@
     "url": "https://mundialtvweb.blogspot.com/p/televisionmundialtv.html?m=1",
     "contrasena": "",
     "reproductor": "ReproductorFullBitmovin",
-    "pantalla":"webview_screen"
+    "pantalla":"PantallaWebView"
   }
 ]
