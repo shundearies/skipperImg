@@ -16,7 +16,7 @@
         },
         {
           "name": "Discovery Channel",
-          "image": "https://d58ohtx80p2sd.cloudfront.net/dish/grilla_gracenote/logos_canales/hd/808.png",
+          "image": "https://d58ohtx80p2sd.cloudfront.net/dish/grilla_gracenote/logos_canales/hd/782.png",
           "url": "https://dish.akamaized.net/Content/DASH/Live/channel(discoverychannelhd)/variant.mpd",
           "clearkey": "irpPrx9qy1HL3kLejHrdPQ:x42hv2SIUXFGEuw2oYereg",
           "referer": "",
@@ -232,7 +232,7 @@
         },
         {
           "name": "TNT Series",
-          "image": "https://imgmvshub.akamaized.net/images/vod/vod/120/120/0/0/2871562.png",
+          "image": "https://imgmvshub.akamaized.net/images/vod/vod/1 20/120/0/0/2871562.png",
           "url": "https://dish.akamaized.net/Content/DASH/Live/channel(tntseries)/variant.mpd",
           "clearkey": "r2l6_pXRozOoRa7lumdpRg:xXvezzFpt45RhlQDxucjvQ",
           "referer": "",
@@ -259,7 +259,7 @@
         },
         {
           "name": "TNT Novelas",
-          "image": "https://imgmvshub.akamaized.net/images/vod/vod/120/120/0/0/2871561.png",
+          "image": "https://imgmvshub.akamaized.net/images/vod/vod/1 20/120/0/0/2871561.png",
           "url": "https://dish.akamaized.net/Content/DASH/Live/channel(tntnovelashd)/variant.mpd",
           "clearkey": "_e4PhnNkh-TQE31G633A-w:F1FgOmrKn_sESktg79aP0Q",
           "referer": "",
@@ -283,7 +283,124 @@
           "referer": "",
           "origin": "",
           "userAgent": ""
-        }
+        },
+        {
+    "name": "ESPN 4 MX",
+    "image": "",
+    "url": "https://dish.akamaized.net/Content/DASH/Live/channel(espn_extra)/manifest.mpd",
+    "clearkey": "7wd52tYuegIayLgqWo3TKQ:4Yx4koWOsEv40tz08Ffddw",
+    "referer": "",
+    "origin": "",
+    "userAgent": ""
+  },
+  {
+    "name": "ESPN 3 MX",
+    "image": "",
+    "url": "https://dish.akamaized.net/Content/DASH/Live/channel(espn_3)/manifest.mpd",
+    "clearkey": "Qw84EQFi8ZoEK03NwgBRQA:UFQRefvVdQrqh2fLbms6ew",
+    "referer": "",
+    "origin": "",
+    "userAgent": ""
+  },
+  {
+    "name": "ESPN 2 MX",
+    "image": "",
+    "url": "https://dish.akamaized.net/Content/DASH/Live/channel(espn_2)/manifest.mpd",
+    "clearkey": "rpnao1IgM2_pRguQYPplqQ:rChOjiQpbzBJbR85pxOCBQ",
+    "referer": "",
+    "origin": "",
+    "userAgent": ""
+  },
+  {
+    "name": "ESPN MX",
+    "image": "",
+    "url": "https://dish.akamaized.net/Content/DASH/Live/channel(espn)/manifest.mpd",
+    "clearkey": "jRvlncdYzLqztWc0PV0pFQ:R0T9Di-1qq6WH0aJJawrcw",
+    "referer": "",
+    "origin": "",
+    "userAgent": ""
+  },
+  {
+    "name": "Lifetime",
+    "image": "",
+    "url": "https://live1-ott.izzigo.tv/13/out/u/dash/LIFETIME-HD/default.mpd",
+    "clearkey": "ZWGA-3WrJYGfx-3jZTdd9w:NVWzRMMCBNXwKnU9NU0vjA",
+    "referer": "",
+    "origin": "",
+    "userAgent": ""
+  },
+  {
+    "name": "Lifetime",
+    "image": "",
+    "url": "https://dish.akamaized.net/Content/DASH/Live/channel(lifetime_arg)/variant.mpd",
+    "clearkey": "Db-a7Yl_5dh5a0Va5oaUrA:e4xL1v2C2Hc9lJAnZ4P1Gw",
+    "referer": "",
+    "origin": "",
+    "userAgent": ""
+  },
+  {
+    "name": "CLARO SPORTS",
+    "image": "",
+    "url": "https://a194live-pv-ta-amazon.akamaized.net/iad-nitro/live/clients/dash/enc/aehuo6ztvk/out/v1/e709a523dbb747019c23fb69e056e20a/cenc.mpd",
+    "clearkey": ":",
+    "referer": "",
+    "origin": "",
+    "userAgent": ""
+  },
+  {
+    "name": "A&E",
+    "image": "",
+    "url": "https://dish.akamaized.net/Content/DASH/Live/channel(aehd)/variant.mpd",
+    "clearkey": "UAmt2eWCzWJ6puIKptubIw:NEiDSxtJbtJmlyeYPAgIRA",
+    "referer": "",
+    "origin": "",
+    "userAgent": ""
+  },
+  {
+    "name": "AXN",
+    "image": "",
+    "url": "https://dish.akamaized.net/Content/DASH/Live/channel(axnhd)/variant.mpd",
+    "clearkey": "ehAOBFXuwWJ-po6sJEQgVw:UY1Y0ZieNfB66Kp6dxZhOg",
+    "referer": "",
+    "origin": "",
+    "userAgent": ""
+  },
+  {
+    "name": "History 2",
+    "image": "",
+    "url": "https://dish.akamaized.net/Content/DASH/Live/channel(history2_arg)/variant.mpd",
+    "clearkey": "u6iqscdz3W-yPn2vac3-Kw:4sQmsLec3hRr-dZP0Tc4HA",
+    "referer": "",
+    "origin": "",
+    "userAgent": ""
+  },
+  {
+    "name": "History",
+    "image": "",
+    "url": "https://dish.akamaized.net/Content/DASH/Live/channel(history_arg)/variant.mpd",
+    "clearkey": "E9UdV_pejaKW7XS8qQnbdg:7qgH4E9IpVBVfEmzFeEmIg",
+    "referer": "",
+    "origin": "",
+    "userAgent": ""
+  },
+  {
+    "name": "Food Netword",
+    "image": "",
+    "url": "https://cdn.sensa.com.ar/live/eds/FoodNetwork/live_dash_cld/FoodNetwork.mpd",
+    "clearkey": "U7NZd-78Ajr-8Bc3-0MaBw:VAJHO7Rwlu3AG7IzaIWbYA",
+    "referer": "",
+    "origin": "https://player.sensa.com.ar",
+    "userAgent": ""
+  },
+  {
+    "name": "Ouermet",
+    "image": "",
+    "url": "https://live1-ott.izzigo.tv/11/out/u/dash/GOURMET-HD/default.mpd",
+    "clearkey": "Auu78M_cBjVC-Zgduy7mbQ:U9IM1gSidN1vNf0XueougA",
+    "referer": "",
+    "origin": "",
+    "userAgent": ""
+  }
       ]
     }
   ]
