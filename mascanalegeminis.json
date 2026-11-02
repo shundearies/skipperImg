@@ -1,47 +1,110 @@
 [
   {
-    "name": "Afizzionados",
-    "image": "",
-    "url": "https://channel-afizzionados-cdn.blim.com/manifest.mpd",
-    "clearkey": "a9a3b6e82f5c49d6820a1bc3ef4d1234:5b4e3f2a1d0c9b8a7f6e5d4c3b2a1f0e",
+    "name": "ESPN MX HD",
+    "image": "https://i.ibb.co/VtcbFMy/espn.png",
+    "url": "https://dish.akamaized.net/Content/DASH/Live/channel(espn)/manifest.mpd",
+    "clearkey": "jRvlncdYzLqztWc0PV0pFQ:R0T9Di-1qq6WH0aJJawrcw",
     "referer": "",
     "origin": "",
-    "userAgent": ""
+    "userAgent": "Mozilla/5.0"
   },
   {
-    "name": "TUDN MX",
-    "image": "",
-    "url": "https://channel-tdn-cdn.blim.com/manifest.mpd",
-    "clearkey": "c1d2e3f4a5b6c7d8e9f0a1b2c3d4e5f6:1a2b3c4d5e6f7a8b9c0d1e2f3a4b5c6d",
+    "name": "ESPN 2 MX HD",
+    "image": "https://i.ibb.co/qjvbmhD/espn2.png",
+    "url": "https://dish.akamaized.net/Content/DASH/Live/channel(espn_2)/manifest.mpd",
+    "clearkey": "rpnao1IgM2_pRguQYPplqQ:rChOjiQpbzBJbR85pxOCBQ",
     "referer": "",
     "origin": "",
-    "userAgent": ""
+    "userAgent": "Mozilla/5.0"
   },
   {
-    "name": "De Película",
+    "name": "ESPN 3 MX HD",
     "image": "",
-    "url": "https://channel-depelicula-cdn.blim.com/manifest.mpd",
-    "clearkey": "8f7e6d5c4b3a2f1e0d9c8b7a6f5e4d3c:4d3c2b1a0e9f8e7d6c5b4a3f2e1d0c9b",
+    "url": "https://dish.akamaized.net/Content/DASH/Live/channel(espn_3)/manifest.mpd",
+    "clearkey": "Qw84EQFi8ZoEK03NwgBRQA:UFQRefvVdQrqh2fLbms6ew",
     "referer": "",
     "origin": "",
-    "userAgent": ""
+    "userAgent": "Mozilla/5.0"
   },
   {
-    "name": "Golden",
+    "name": "ESPN 4 MX HD",
     "image": "",
-    "url": "https://channel-goldenedge-cdn.blim.com/manifest.mpd",
-    "clearkey": "2b3c4d5e6f7a8b9c0d1e2f3a4b5c6d7e:e9f8d7c6b5a4f3e2d1c0b9a8f7e6d5c4",
+    "url": "https://dish.akamaized.net/Content/DASH/Live/channel(espn_extra)/manifest.mpd",
+    "clearkey": "7wd52tYuegIayLgqWo3TKQ:4Yx4koWOsEv40tz08Ffddw",
     "referer": "",
     "origin": "",
-    "userAgent": ""
+    "userAgent": "Mozilla/5.0"
   },
   {
-    "name": "Golden Plus",
-    "image": "",
-    "url": "https://channel-goldenplus-cdn.blim.com/manifest.mpd",
-    "clearkey": "7a8b9c0d1e2f3a4b5c6d7e8f9a0b1c2d:3f2e1d0c9b8a7f6e5d4c3b2a1f0e9d8c",
+    "name": "Fox Sports 1 MX",
+    "image": "https://i.ibb.co/qyNp5Yr/foxsports.png",
+    "url": "https://cdn.cvattv.com.ar/live/c3eds/FoxSports/SA_Live_dash_enc_2A/FoxSports.mpd",
+    "clearkey": "35368a57321e12a433e50669d80d2850:09f3e46c7b9415494d45fa97f909187e",
     "referer": "",
     "origin": "",
-    "userAgent": ""
+    "userAgent": "Mozilla/5.0"
+  },
+  {
+    "name": "A&E HD",
+    "image": "",
+    "url": "https://dish.akamaized.net/Content/DASH/Live/channel(aehd)/variant.mpd",
+    "clearkey": "UAmt2eWCzWJ6puIKptubIw:NEiDSxtJbtJmlyeYPAgIRA",
+    "referer": "",
+    "origin": "",
+    "userAgent": "Mozilla/5.0"
+  },
+  {
+    "name": "AXN HD",
+    "image": "",
+    "url": "https://dish.akamaized.net/Content/DASH/Live/channel(axnhd)/variant.mpd",
+    "clearkey": "ehAOBFXuwWJ-po6sJEQgVw:UY1Y0ZieNfB66Kp6dxZhOg",
+    "referer": "",
+    "origin": "",
+    "userAgent": "Mozilla/5.0"
+  },
+  {
+    "name": "History HD",
+    "image": "",
+    "url": "https://dish.akamaized.net/Content/DASH/Live/channel(history_arg)/variant.mpd",
+    "clearkey": "E9UdV_pejaKW7XS8qQnbdg:7qgH4E9IpVBVfEmzFeEmIg",
+    "referer": "",
+    "origin": "",
+    "userAgent": "Mozilla/5.0"
+  },
+  {
+    "name": "History 2 HD",
+    "image": "",
+    "url": "https://dish.akamaized.net/Content/DASH/Live/channel(history2_arg)/variant.mpd",
+    "clearkey": "u6iqscdz3W-yPn2vac3-Kw:4sQmsLec3hRr-dZP0Tc4HA",
+    "referer": "",
+    "origin": "",
+    "userAgent": "Mozilla/5.0"
+  },
+  {
+    "name": "Lifetime HD",
+    "image": "",
+    "url": "https://dish.akamaized.net/Content/DASH/Live/channel(lifetime_arg)/variant.mpd",
+    "clearkey": "Db-a7Yl_5dh5a0Va5oaUrA:e4xL1v2C2Hc9lJAnZ4P1Gw",
+    "referer": "",
+    "origin": "",
+    "userAgent": "Mozilla/5.0"
+  },
+  {
+    "name": "Gourmet HD",
+    "image": "",
+    "url": "https://live1-ott.izzigo.tv/11/out/u/dash/GOURMET-HD/default.mpd",
+    "clearkey": "Auu78M_cBjVC-Zgduy7mbQ:U9IM1gSidN1vNf0XueougA",
+    "referer": "",
+    "origin": "",
+    "userAgent": "Mozilla/5.0"
+  },
+  {
+    "name": "Food Network",
+    "image": "",
+    "url": "https://cdn.sensa.com.ar/live/eds/FoodNetwork/live_dash_cld/FoodNetwork.mpd",
+    "clearkey": "U7NZd-78Ajr-8Bc3-0MaBw:VAJHO7Rwlu3AG7IzaIWbYA",
+    "referer": "",
+    "origin": "https://player.sensa.com.ar",
+    "userAgent": "Mozilla/5.0"
   }
 ]
