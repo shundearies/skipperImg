@@ -1,0 +1,18 @@
+[
+     {
+    "nombre": "Teledeportes",
+    "logo": "https://vix.com/assets/externals/logo-white.svg?tr=q-30",
+    "url": "https://teledeportes.st/?p=tv",
+    "contrasena": "",
+    "reproductor": "",
+    "pantalla": "webview_screen"
+  },
+     {
+    "nombre": "Mundial tv",
+    "logo": "https://blogger.googleusercontent.com/img/a/AVvXsEitbuQ8hHKzjyRjB2ZcxC5cPwV6-zb4BlOhIQ8zXog8uvwEzEYpu2PIaqwQ4ty8ifRkTOK4o7Pdt2yEiISrsDKIm0CxC-5UTMTEV2TEcqMUQ08zjm7ZT9CAnjDdf3JAq_DqAk2sXdUABthDwAvJCoxNG0BRz3hnf-M6jTLXlGAyQsdtuqHR87KK6kptr3o=w800",
+    "url": "https://mundialtvweb.blogspot.com/p/televisionmundialtv.html?m=1",
+    "contrasena": "",
+    "reproductor": "ReproductorFullBitmovin",
+    "pantalla":"webview_screen"
+  }
+]
