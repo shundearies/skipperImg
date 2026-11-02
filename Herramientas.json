@@ -1,0 +1,20 @@
+{
+  "menu": [
+    {
+      "id": "premium_gratis",
+      "titulo": "Web-Videos",
+      "url": "https://raw.githubusercontent.com/shundearies/skipperImg/refs/heads/main/hub.json",
+      "icono": "https://raw.githubusercontent.com/shundearies/skipperImg/refs/heads/main/herramientalite.jpeg",
+      "acceso": "gratis",
+      "pantalla":"WebViewIframe"
+    },
+    {
+      "id": "premium_gratis",
+      "titulo": "Web-Videos-2",
+      "url": "https://raw.githubusercontent.com/shundearies/skipperImg/refs/heads/main/hub.json",
+      "icono": "https://raw.githubusercontent.com/shundearies/skipperImg/refs/heads/main/herramientalite.jpeg",
+      "acceso": "gratis",
+      "pantalla":"VideoCastWeb"
+    }
+  ]
+}
