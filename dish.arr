@@ -324,7 +324,7 @@
     "name": "Lifetime",
     "image": "",
     "url": "https://live1-ott.izzigo.tv/13/out/u/dash/LIFETIME-HD/default.mpd",
-    "clearkey": "ZWGA-3WrJYGfx-3jZTdd9w:NVWzRMMCBNXwKnU9NU0vjA",
+    "clearkey": "6561801b75ab25819fc7ede365375df7:3555b344c54204d5f02a753d354d2f8c",
     "referer": "",
     "origin": "",
     "userAgent": ""
@@ -339,19 +339,10 @@
     "userAgent": ""
   },
   {
-    "name": "CLARO SPORTS",
-    "image": "",
-    "url": "https://a194live-pv-ta-amazon.akamaized.net/iad-nitro/live/clients/dash/enc/aehuo6ztvk/out/v1/e709a523dbb747019c23fb69e056e20a/cenc.mpd",
-    "clearkey": ":",
-    "referer": "",
-    "origin": "",
-    "userAgent": ""
-  },
-  {
     "name": "A&E",
     "image": "",
     "url": "https://dish.akamaized.net/Content/DASH/Live/channel(aehd)/variant.mpd",
-    "clearkey": "UAmt2eWCzWJ6puIKptubIw:NEiDSxtJbtJmlyeYPAgIRA",
+    "clearkey": "5009add9e5b2cd627ac6ef8aa6db9123:3448834b1b496ed26e9727983c080844",
     "referer": "",
     "origin": "",
     "userAgent": ""
@@ -360,7 +351,7 @@
     "name": "AXN",
     "image": "",
     "url": "https://dish.akamaized.net/Content/DASH/Live/channel(axnhd)/variant.mpd",
-    "clearkey": "ehAOBFXuwWJ-po6sJEQgVw:UY1Y0ZieNfB66Kp6dxZhOg",
+    "clearkey": "7a100e0455dec1d27ea68eac2444a057:518d58d1989e35f07ae8aa7a7716613a",
     "referer": "",
     "origin": "",
     "userAgent": ""
@@ -384,10 +375,10 @@
     "userAgent": ""
   },
   {
-    "name": "Food Netword",
+    "name": "Food Network",
     "image": "",
     "url": "https://cdn.sensa.com.ar/live/eds/FoodNetwork/live_dash_cld/FoodNetwork.mpd",
-    "clearkey": "U7NZd-78Ajr-8Bc3-0MaBw:VAJHO7Rwlu3AG7IzaIWbYA",
+    "clearkey": "53b35977eefc0237bef0173f9b431a07:5402473ba47096edc01bb2334685d860",
     "referer": "",
     "origin": "https://player.sensa.com.ar",
     "userAgent": ""
@@ -396,7 +387,7 @@
     "name": "Ouermet",
     "image": "",
     "url": "https://live1-ott.izzigo.tv/11/out/u/dash/GOURMET-HD/default.mpd",
-    "clearkey": "Auu78M_cBjVC-Zgduy7mbQ:U9IM1gSidN1vNf0XueougA",
+    "clearkey": "02eabbf0cfdc063542f9983dbb2ee66d4:53d20cd604a274dd6f35fd17b9ea2e80",
     "referer": "",
     "origin": "",
     "userAgent": ""
