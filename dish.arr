@@ -232,7 +232,7 @@
         },
         {
           "name": "TNT Series",
-          "image": "https://imgmvshub.akamaized.net/images/vod/vod/1 20/120/0/0/2871562.png",
+          "image": "https://imgmvshub.akamaized.net/images/vod/vod/120/120/0/0/2871562.png",
           "url": "https://dish.akamaized.net/Content/DASH/Live/channel(tntseries)/variant.mpd",
           "clearkey": "r2l6_pXRozOoRa7lumdpRg:xXvezzFpt45RhlQDxucjvQ",
           "referer": "",
@@ -259,7 +259,7 @@
         },
         {
           "name": "TNT Novelas",
-          "image": "https://imgmvshub.akamaized.net/images/vod/vod/1 20/120/0/0/2871561.png",
+          "image": "https://imgmvshub.akamaized.net/images/vod/vod/120/120/0/0/2871561.png",
           "url": "https://dish.akamaized.net/Content/DASH/Live/channel(tntnovelashd)/variant.mpd",
           "clearkey": "_e4PhnNkh-TQE31G633A-w:F1FgOmrKn_sESktg79aP0Q",
           "referer": "",
@@ -351,7 +351,7 @@
     "name": "AXN",
     "image": "",
     "url": "https://dish.akamaized.net/Content/DASH/Live/channel(axnhd)/variant.mpd",
-    "clearkey": "7a100e0455dec1d27ea68eac2444a057:518d58d1989e35f07ae8aa7a7716613a",
+    "clearkey": "7a100e0455dec1d27ea68eac2444a057:518d58d1998e35f07ae8aa7a7716613a",
     "referer": "",
     "origin": "",
     "userAgent": ""
@@ -384,10 +384,11 @@
     "userAgent": ""
   },
   {
-    "name": "Ouermet",
+    "name": "Gourmet",
     "image": "",
     "url": "https://live1-ott.izzigo.tv/11/out/u/dash/GOURMET-HD/default.mpd",
-    "clearkey": "02eabbf0cfdc063542f9983dbb2ee66d4:53d20cd604a274dd6f35fd17b9ea2e80",
+    "clearkey": "02eabf0cfdc063542f9983dbb2ee66d4:
+53d20cd604a274dd6f35fd17b9ea2e80",
     "referer": "",
     "origin": "",
     "userAgent": ""
