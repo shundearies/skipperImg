@@ -1,0 +1,146 @@
+[
+  {
+    "name": "NBA TV 🇺🇸 🇲🇽 HEVC",
+    "image": "https://i.ibb.co.com/s9NDZSK/nbatv.png",
+    "url": "https://live1-ott.izzigo.tv/7/out/u/dash/NBA-HD-H265/default.mpd",
+    "clearkey": "08f8fb6d69482c151f73dd8461dca352:8aea016cd974cb95e8bf030b196f4818",
+    "referer": "https://www.izzigo.tv/",
+    "origin": "",
+    "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36"
+  },
+  {
+    "name": "NFL 🇲🇽 HEVC",
+    "image": "https://i.ibb.co.com/GRZ1Myy/nfl.png",
+    "url": "https://live1-ott.izzigo.tv/6/out/u/dash/NFL-HD-H265/default.mpd",
+    "clearkey": "b12b76d776853a4f015786aeb7686d38:d695178f4b2be4c2cef535cb4ca557ff",
+    "referer": "https://www.izzigo.tv/",
+    "origin": "",
+    "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36"
+  },
+  {
+    "name": "USA 🇺🇸 🇲🇽",
+    "image": "https://i.ibb.co.com/t841hhr/usa.png",
+    "url": "https://live1-ott.izzigo.tv/15/out/u/dash/USA-HD/default.mpd",
+    "clearkey": "c760bcb13f83a8d66f4c676f04c23d81:e024f5099f059ce93607812e5b406360",
+    "referer": "https://www.izzigo.tv/",
+    "origin": "",
+    "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36"
+  },
+  {
+    "name": "NATGEO 🇲🇽 🇺🇸",
+    "image": "https://i.ibb.co.com/DYsDT6K/natgeo.png",
+    "url": "https://live1-ott.izzigo.tv/14/out/u/dash/NAT-GEO-HD/default.mpd",
+    "clearkey": "157c0fb2bfdc323521d52ab43b7fa131:6c4af37b6abc72cbcd91aa7716968336",
+    "referer": "https://www.izzigo.tv/",
+    "origin": "",
+    "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36"
+  },
+  {
+    "name": "[AS] 🇲🇽",
+    "image": "https://i.ibb.co.com/bvLSH6c/aswm.png",
+    "url": "https://live1-ott.izzigo.tv/15/out/u/dash/ADULT-SWIM-HD/default.mpd",
+    "clearkey": "694fa2e355b31ac2c52d0a56d3d8da59:0d7eff2e4dc61d48489555068b0db46a",
+    "referer": "https://www.izzigo.tv/",
+    "origin": "",
+    "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36"
+  },
+  {
+    "name": "CINEMAX 🇲🇽 🇺🇸",
+    "image": "https://i.ibb.co.com/XjvpyvP/cinemax.png",
+    "url": "https://live1-ott.izzigo.tv/15/out/u/dash/CINEMAX-HD/default.mpd",
+    "clearkey": "fa6d1b52dd986d8faab9cca6adb8874b:6022259ba9edb1fe66b4507b51e1c12f",
+    "referer": "https://www.izzigo.tv/",
+    "origin": "",
+    "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36"
+  },
+  {
+    "name": "HBO 🇲🇽 🇺🇸",
+    "image": "https://i.ibb.co.com/wzNw0zL/hbo.png",
+    "url": "https://live1-ott.izzigo.tv/15/out/u/dash/HBO-HD/default.mpd",
+    "clearkey": "df18f6a05bab28d89e5dc01d88f4deb8:baceb525467c0db22ba83090616c1ad0",
+    "referer": "https://www.izzigo.tv/",
+    "origin": "",
+    "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36"
+  },
+  {
+    "name": "HBO FAMILY 🇲🇽 🇺🇸",
+    "image": "https://i.ibb.co.com/r0rYwjC/hbofami.png",
+    "url": "https://live1-ott.izzigo.tv/15/out/u/dash/HBO-FAMILY-HD/default.mpd",
+    "clearkey": "3b1b15c86e64344e8802b06b806957c5:114983add26911b589595d931b505ca5",
+    "referer": "https://www.izzigo.tv/",
+    "origin": "",
+    "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36"
+  },
+  {
+    "name": "HBO MUNDI 🇲🇽 🇺🇸",
+    "image": "https://i.ibb.co.com/CwTbZSz/hbomundi.png",
+    "url": "https://live1-ott.izzigo.tv/15/out/u/dash/HBO-MUNDI-HD/default.mpd",
+    "clearkey": "ba4052ca5eb6f8ff6b98d47d098b2dec:bb3e4bfa1821d2bdc25c9a0970e4e3b8",
+    "referer": "https://www.izzigo.tv/",
+    "origin": "",
+    "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36"
+  },
+  {
+    "name": "HBO PLUS 🇲🇽 🇺🇸",
+    "image": "https://i.ibb.co.com/bWhbzZY/hboplus.png",
+    "url": "https://live1-ott.izzigo.tv/15/out/u/dash/HBO-PLUS-HD/default.mpd",
+    "clearkey": "861ab989089891d84ad0da296954437c:3bdf94f9fc1888529f8d27d070d38566",
+    "referer": "https://www.izzigo.tv/",
+    "origin": "",
+    "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36"
+  },
+  {
+    "name": "HBO SIGNATURE 🇲🇽 🇺🇸",
+    "image": "https://i.ibb.co.com/9GWKVRz/hbosignat.png",
+    "url": "https://live1-ott.izzigo.tv/15/out/u/dash/HBO-SIGNATURE-HD/default.mpd",
+    "clearkey": "5782156290f035ef28ae66cca252eedd:10d8bb6d9f9852747298487ab3c4afa3",
+    "referer": "https://www.izzigo.tv/",
+    "origin": "",
+    "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36"
+  },
+  {
+    "name": "HBO XTREME 🇲🇽 🇺🇸",
+    "image": "https://i.ibb.co.com/HttfMwP/hboxtrm.png",
+    "url": "https://live1-ott.izzigo.tv/15/out/u/dash/HBO-XTREME-HD/default.mpd",
+    "clearkey": "bc8d4369fcff86db765db82356b4797c:8a7e801dbc275e3f4e1f43cba648906a",
+    "referer": "https://www.izzigo.tv/",
+    "origin": "",
+    "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36"
+  },
+  {
+    "name": "SONY CHANNEL 🇲🇽 🇺🇸",
+    "image": "https://i.ibb.co.com/B4PqfW2/sonych.png",
+    "url": "https://live1-ott.izzigo.tv/13/out/u/dash/SONY-HD/default.mpd",
+    "clearkey": "47b8d1118047c47ff9d794fca6c9997a:97af829b2dd037fb85550b85b0757685",
+    "referer": "https://www.izzigo.tv/",
+    "origin": "",
+    "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36"
+  },
+  {
+    "name": "SONY MOVIES 🇲🇽 🇺🇸",
+    "image": "https://i.ibb.co.com/Z2hPxjQ/sonymvs.png",
+    "url": "https://live1-ott.izzigo.tv/14/out/u/dash/SONY-MOVIES-HD/default.mpd",
+    "clearkey": "d6c0b2a5a6d7aa72f6f76f3607364cea:29772b450393146e8d1b56107f5163a2",
+    "referer": "https://www.izzigo.tv/",
+    "origin": "",
+    "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36"
+  },
+  {
+    "name": "SPACE 🇲🇽",
+    "image": "https://i.ibb.co.com/hxZVR20z/space.png",
+    "url": "https://live1-ott.izzigo.tv/11/out/u/dash/SPACE-HD/default.mpd",
+    "clearkey": "02849e7ba3c2e527a9a8152ff111fc22:87af284b8fc6be1cbf693f20175671a9",
+    "referer": "https://www.izzigo.tv/",
+    "origin": "",
+    "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36"
+  },
+  {
+    "name": "Studio Universal",
+    "image": "https://i.ibb.co.com/wfNGKXy/studiouniv.png",
+    "url": "https://live1-ott.izzigo.tv/1/out/u/dash/STUDIO-UNIVERSAL-HD/default.mpd",
+    "clearkey": "77b7711693a9f32c0bd81ef8782f716b:0802df5ea0615ca2638b3b38f9ab3926",
+    "referer": "https://www.izzigo.tv/",
+    "origin": "",
+    "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36"
+  }
+]
