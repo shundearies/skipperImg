@@ -38,5 +38,13 @@
     "contrasena": "",
     "reproductor": "ReproductorFullScreen2",
     "pantalla":"SmartListScreen"
+  },
+    {
+    "nombre": "Universal PLUS",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/Universal_Plus_logo.png?utm_source=es.wikipedia.org&utm_campaign=index&utm_content=thumbnail_unscaled",
+    "url": "https://raw.githubusercontent.com/shundearies/skipperImg/refs/heads/main/primevideo.json",
+    "contrasena": "",
+    "reproductor": "ReproductorFullScreen2",
+    "pantalla":"SmartListScreen"
   }
 ]
