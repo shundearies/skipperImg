@@ -46,5 +46,13 @@
     "contrasena": "",
     "reproductor": "ReproductorFullScreen2",
     "pantalla":"SmartListScreen"
+  },
+    {
+    "nombre": "pruebas",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/Universal_Plus_logo.png?utm_source=es.wikipedia.org&utm_campaign=index&utm_content=thumbnail_unscaled",
+    "url": "https://azzplay.pages.dev/lsts/es.w3u",
+    "contrasena": "",
+    "reproductor": "ReproductorFullScreen2",
+    "pantalla":"SmartListScreen"
   }
 ]
