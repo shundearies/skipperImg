@@ -696,4 +696,81 @@
     "name": "TUDN HD",
     "image": "",
     "url": "https://live1-ott.izzigo.tv/15/out/u/dash/TUDN-HD/default.mpd",
-    "clearkey": "640141acf2d730426e0b01
+    "clearkey": "640141acf2d730426e0b01275bc9e412:7e1ecf704c682802f74ddda3e68c4c38",
+    "referer": "https://www.izzigo.tv/",
+    "origin": "HTTPS://www.izzigo.tv/",
+    "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36"
+  },
+  {
+    "name": "Tv Unam",
+    "image": "",
+    "url": "https://live5-ott.izzigo.tv/15/out/u/dash/RDF_MTY_TV-UNAM-SD/default.mpd",
+    "clearkey": "820c42d8d47edb71f13a7381ec71b8c2:7369682d7b6d6a280e00bdbbf4e04b8c",
+    "referer": "https://www.izzigo.tv/",
+    "origin": "HTTPS://www.izzigo.tv/",
+    "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36"
+  },
+  {
+    "name": "TV5 Monde",
+    "image": "",
+    "url": "http://live3-ott.izzigo.tv/15/out/u/dash/TV5-SD/default.mpd",
+    "clearkey": "fb80d09d70628c20bb91cf65a195e1f9:6115b75f155d1a7a686a525fbd6ca2f6",
+    "referer": "https://www.izzigo.tv/",
+    "origin": "HTTPS://www.izzigo.tv/",
+    "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36"
+  },
+  {
+    "name": "TVE",
+    "image": "",
+    "url": "http://live5-ott.izzigo.tv/15/out/u/dash/TVE-SD/default.mpd",
+    "clearkey": "e9c6bff9b7141a1e289061a8334c34cb:c644f57b253c9a81d723fe252c53079a",
+    "referer": "https://www.izzigo.tv/",
+    "origin": "HTTPS://www.izzigo.tv/",
+    "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36"
+  },
+  {
+    "name": "Universal Cinema HD",
+    "image": "",
+    "url": "https://live2-ott.izzigo.tv/15/out/u/dash/UNIVERSAL-CINEMA-HD/manifest.mpd",
+    "clearkey": "9ccd5dd0c86a40ed719b83e1801bcd88:6d5e62525837ba9b7e09cfb8716116ba",
+    "referer": "https://www.izzigo.tv/",
+    "origin": "HTTPS://www.izzigo.tv/",
+    "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36"
+  },
+  {
+    "name": "Universal Comedy HD",
+    "image": "",
+    "url": "https://live2-ott.izzigo.tv/15/out/u/dash/UNIVERSAL-COMEDY-HD/manifest.mpd",
+    "clearkey": "92b162b0b1d0dbb1e401f5845b4ce109:83b7ae276784a7f78f4a0c1190974d5c",
+    "referer": "https://www.izzigo.tv/",
+    "origin": "HTTPS://www.izzigo.tv/",
+    "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36"
+  },
+  {
+    "name": "Universal Crime HD",
+    "image": "",
+    "url": "https://live2-ott.izzigo.tv/15/out/u/dash/UNIVERSAL-CRIME-HD/manifest.mpd",
+    "clearkey": "3a908a5d38a9c496ced27faa6bf5ff8e:85a5835a92bd7f87faf5ffbcb8814d33",
+    "referer": "https://www.izzigo.tv/",
+    "origin": "HTTPS://www.izzigo.tv/",
+    "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36"
+  },
+  {
+    "name": "Universal Premiere HD",
+    "image": "",
+    "url": "https://live2-ott.izzigo.tv/15/out/u/dash/UNIVERSAL-PREMIERE-HD/manifest.mpd",
+    "clearkey": "9ccd5dd0c86a40ed719b83e1801bcd88:6d5e62525837ba9b7e09cfb8716116ba",
+    "referer": "https://www.izzigo.tv/",
+    "origin": "HTTPS://www.izzigo.tv/",
+    "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36"
+  },
+  {
+    "name": "Universal Reality HD",
+    "image": "",
+    "url": "https://live2-ott.izzigo.tv/15/out/u/dash/UNIVERSAL-REALITY-HD/manifest.mpd",
+    "clearkey": "02a02bce7a3c518386e0da4e5ec0188d:071c7cc4c2f33e1e2d3fa3807d1bbbcc",
+    "referer": "https://www.izzigo.tv/",
+    "origin": "HTTPS://www.izzigo.tv/",
+    "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36"
+  }
+]
