@@ -389,7 +389,7 @@
   {
     "name": "HBO Family HBO",
     "image": "",
-    "url": "https://live5-ott.izzigo.tv/15/out/u/dash/HBO-FAMILY-HD/manifest.mpd",
+    "url": "https://live5-ott.izzigo.tv/15/out/u/dash/HBO-FAMILY-HD/default.mpd",
     "clearkey": "3b1b15c86e64344e8802b06b806957c5:114983add26911b589595d931b505ca5",
     "referer": "https://www.izzigo.tv/",
     "origin": "HTTPS://www.izzigo.tv/",
@@ -398,7 +398,7 @@
   {
     "name": "HBO HD",
     "image": "",
-    "url": "https://live5-ott.izzigo.tv/15/out/u/dash/HBO-HD/manifest.mpd",
+    "url": "https://live5-ott.izzigo.tv/15/out/u/dash/HBO-HD/default.mpd",
     "clearkey": "df18f6a05bab28d89e5dc01d88f4deb8:baceb525467c0db22ba83090616c1ad0",
     "referer": "https://www.izzigo.tv/",
     "origin": "HTTPS://www.izzigo.tv/",
@@ -407,7 +407,7 @@
   {
     "name": "HBO Mundi HD",
     "image": "",
-    "url": "https://live5-ott.izzigo.tv/15/out/u/dash/HBO-MUNDI-HD/manifest.mpd",
+    "url": "https://live5-ott.izzigo.tv/15/out/u/dash/HBO-MUNDI-HD/default.mpd",
     "clearkey": "ba4052ca5eb6f8ff6b98d47d098b2dec:bb3e4bfa1821d2bdc25c9a0970e4e3b8",
     "referer": "https://www.izzigo.tv/",
     "origin": "HTTPS://www.izzigo.tv/",
@@ -416,7 +416,7 @@
   {
     "name": "HBO Plus HD",
     "image": "",
-    "url": "https://live5-ott.izzigo.tv/15/out/u/dash/HBO-PLUS-HD/manifest.mpd",
+    "url": "https://live5-ott.izzigo.tv/15/out/u/dash/HBO-PLUS-HD/default.mpd",
     "clearkey": "861ab989089891d84ad0da296954437c:3bdf94f9fc1888529f8d27d070d38566",
     "referer": "https://www.izzigo.tv/",
     "origin": "HTTPS://www.izzigo.tv/",
@@ -425,7 +425,7 @@
   {
     "name": "HBO Pop HD",
     "image": "",
-    "url": "https://live5-ott.izzigo.tv/15/out/u/dash/HBO-POP-HD/manifest.mpd",
+    "url": "https://live5-ott.izzigo.tv/15/out/u/dash/HBO-POP-HD/default.mpd",
     "clearkey": "bcf36f412fa3d735cea04f7443fbf77c:6ff29fb2d6b7d825eb06004650a0a4ea",
     "referer": "https://www.izzigo.tv/",
     "origin": "HTTPS://www.izzigo.tv/",
@@ -434,7 +434,7 @@
   {
     "name": "HBO Signature HD",
     "image": "",
-    "url": "https://live5-ott.izzigo.tv/15/out/u/dash/HBO-SIGNATURE-HD/manifest.mpd",
+    "url": "https://live5-ott.izzigo.tv/15/out/u/dash/HBO-SIGNATURE-HD/default.mpd",
     "clearkey": "5782156290f035ef28ae66cca252eedd:10d8bb6d9f9852747298487ab3c4afa3",
     "referer": "https://www.izzigo.tv/",
     "origin": "HTTPS://www.izzigo.tv/",
@@ -443,7 +443,7 @@
   {
     "name": "HBO XTreme HD",
     "image": "",
-    "url": "https://live5-ott.izzigo.tv/15/out/u/dash/HBO-XTREME-HD/manifest.mpd",
+    "url": "https://live5-ott.izzigo.tv/15/out/u/dash/HBO-XTREME-HD/default.mpd",
     "clearkey": "bc8d4369fcff86db765db82356b4797c:8a7e801dbc275e3f4e1f43cba648906a",
     "referer": "https://www.izzigo.tv/",
     "origin": "HTTPS://www.izzigo.tv/",
@@ -452,7 +452,7 @@
   {
     "name": "HBO2 HD",
     "image": "",
-    "url": "https://live5-ott.izzigo.tv/15/out/u/dash/HBO2-HD/manifest.mpd",
+    "url": "https://live5-ott.izzigo.tv/15/out/u/dash/HBO2-HD/default.mpd",
     "clearkey": "09e84fc7ecb71def143cd7e2771f3b35:1a91f2d315fb0593321ba60aa783ec2c",
     "referer": "https://www.izzigo.tv/",
     "origin": "HTTPS://www.izzigo.tv/",
@@ -731,7 +731,7 @@
   {
     "name": "Universal Cinema HD",
     "image": "",
-    "url": "https://live2-ott.izzigo.tv/15/out/u/dash/UNIVERSAL-CINEMA-HD/manifest.mpd",
+    "url": "https://live2-ott.izzigo.tv/15/out/u/dash/UNIVERSAL-CINEMA-HD/default.mpd",
     "clearkey": "9ccd5dd0c86a40ed719b83e1801bcd88:6d5e62525837ba9b7e09cfb8716116ba",
     "referer": "https://www.izzigo.tv/",
     "origin": "HTTPS://www.izzigo.tv/",
@@ -740,7 +740,7 @@
   {
     "name": "Universal Comedy HD",
     "image": "",
-    "url": "https://live2-ott.izzigo.tv/15/out/u/dash/UNIVERSAL-COMEDY-HD/manifest.mpd",
+    "url": "https://live2-ott.izzigo.tv/15/out/u/dash/UNIVERSAL-COMEDY-HD/default.mpd",
     "clearkey": "92b162b0b1d0dbb1e401f5845b4ce109:83b7ae276784a7f78f4a0c1190974d5c",
     "referer": "https://www.izzigo.tv/",
     "origin": "HTTPS://www.izzigo.tv/",
@@ -749,7 +749,7 @@
   {
     "name": "Universal Crime HD",
     "image": "",
-    "url": "https://live2-ott.izzigo.tv/15/out/u/dash/UNIVERSAL-CRIME-HD/manifest.mpd",
+    "url": "https://live2-ott.izzigo.tv/15/out/u/dash/UNIVERSAL-CRIME-HD/default.mpd",
     "clearkey": "3a908a5d38a9c496ced27faa6bf5ff8e:85a5835a92bd7f87faf5ffbcb8814d33",
     "referer": "https://www.izzigo.tv/",
     "origin": "HTTPS://www.izzigo.tv/",
@@ -758,7 +758,7 @@
   {
     "name": "Universal Premiere HD",
     "image": "",
-    "url": "https://live2-ott.izzigo.tv/15/out/u/dash/UNIVERSAL-PREMIERE-HD/manifest.mpd",
+    "url": "https://live2-ott.izzigo.tv/15/out/u/dash/UNIVERSAL-PREMIERE-HD/default.mpd",
     "clearkey": "9ccd5dd0c86a40ed719b83e1801bcd88:6d5e62525837ba9b7e09cfb8716116ba",
     "referer": "https://www.izzigo.tv/",
     "origin": "HTTPS://www.izzigo.tv/",
@@ -767,7 +767,7 @@
   {
     "name": "Universal Reality HD",
     "image": "",
-    "url": "https://live2-ott.izzigo.tv/15/out/u/dash/UNIVERSAL-REALITY-HD/manifest.mpd",
+    "url": "https://live2-ott.izzigo.tv/15/out/u/dash/UNIVERSAL-REALITY-HD/default.mpd",
     "clearkey": "02a02bce7a3c518386e0da4e5ec0188d:071c7cc4c2f33e1e2d3fa3807d1bbbcc",
     "referer": "https://www.izzigo.tv/",
     "origin": "HTTPS://www.izzigo.tv/",
