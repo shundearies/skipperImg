@@ -1,0 +1,11 @@
+{
+  "menu": [
+       {
+      "id": "panel",
+      "titulo": "videomenu",
+      "video": "https://github.com/shundearies/Videos/raw/refs/heads/main/MONSTER%20GAROU%20VS%20BOMB.mp4",
+      "icono": "https://cdn-icons-png.flaticon.com/512/6041/6041130.png",
+      "acceso": "gratis"
+    }
+]
+}
