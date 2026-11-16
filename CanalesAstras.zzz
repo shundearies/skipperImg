@@ -46,5 +46,13 @@
     "contrasena": "",
     "reproductor": "inapp_webview_player2",
     "pantalla":"PantallaListaIPTV"
+  },
+      {
+    "nombre": "Mexico",
+    "logo": "https://raw.githubusercontent.com/shundearies/Videos/refs/heads/main/CanalesAstras.png",
+    "url": "https://astrapage.pages.dev/astrapage/",
+    "contrasena": "",
+    "reproductor": "",
+    "pantalla":"PantallaWebView"
   }
 ]
