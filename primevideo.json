@@ -1,7 +1,7 @@
 [
   {
     "name": "DSPORTS",
-    "image": "https://i.ibb.co/VtcbFMy/espn.png",
+    "image": "https://dclkcq4v0w4d8.cloudfront.net/POSTER/s109752_ld_h8_ab.png",
     "url": "https://otte.live.fly.ww.aiv-cdn.net/gru-nitro/live/clients/dash/enc/x0srg3jjpz/out/v1/f779c49314394d61886d63f58d9d52e4/cenc.mpd",
     "clearkey": "T0w6mRLqdS6I9El4ZKG8iw:J4EoAE_oxv-yzSoMFUokGg",
     "referer": "",
@@ -10,7 +10,7 @@
   },
   {
     "name": "DSPORTS 2",
-    "image": "https://i.ibb.co/qjvbmhD/espn2.png",
+    "image": "https://dclkcq4v0w4d8.cloudfront.net/POSTER/s107396_ld_h8_ad.png",
     "url": "https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/dash/enc/rgilyeubta/out/v1/09a67027b18f4fd78aaa3794a2aacfe8/cenc.mpd",
     "clearkey": "03f12d6a3dbfd3a6fa7dd7f6417e0c11:ea07b87acdf2e45be824cde4a1cf3504",
     "referer": "",
@@ -19,7 +19,7 @@
   },
   {
     "name": "DSPORTS+",
-    "image": "",
+    "image": "https://dclkcq4v0w4d8.cloudfront.net/POSTER/s109752_ld_h8_ab.png",
     "url": "https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/dash/enc/ud6bnhthpj/out/v1/2639a2f4480f4269953de466d5f46463/cenc.mpd",
     "clearkey": "83f81c4cc1443991543de4e22eea7586:ddfd7ca653d6f35543d8edb3c688e20f",
     "referer": "",
@@ -27,8 +27,8 @@
     "userAgent": "Mozilla/5.0"
   },
   {
-    "name": "Nacion Deportes",
-    "image": "",
+    "name": "NACION DEPORTES",
+    "image": "https://i0.wp.com/naciondeportes.com/wp-content/uploads/2017/11/cropped-nacion-deportes-escudo-mid-2.png?w=512&ssl=1",
     "url": "https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/oboxe53wyo/out/v1/f7892a9d706d419a846d738fa22ea33e/cenc.mpd",
     "clearkey": "2fbdaa3bea0d0323ae011b318d1db716:8726ef7eaf5b9dce15fb6aa9f80bd53f",
     "referer": "",
@@ -36,8 +36,8 @@
     "userAgent": "Mozilla/5.0"
   },
   {
-    "name": "Nacion Deportes 2",
-    "image": "",
+    "name": "NACION DEPORTES 2",
+    "image": "https://i0.wp.com/naciondeportes.com/wp-content/uploads/2017/11/cropped-nacion-deportes-escudo-mid-2.png?w=512&ssl=1",
     "url": "https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/tepjqej1ys/out/v1/c9c9159baee749a19612b1598495859a/cenc.mpd",
     "clearkey": "8836fb04d62dc64c9f8a39ef8640d5eb:d4f05ce56c5231b7cdf53455bea58621",
     "referer": "",
@@ -45,8 +45,8 @@
     "userAgent": "Mozilla/5.0"
   },
   {
-    "name": "Nacion Deportes 3",
-    "image": "",
+    "name": "NACION DEPORTES 3",
+    "image": "https://i0.wp.com/naciondeportes.com/wp-content/uploads/2017/11/cropped-nacion-deportes-escudo-mid-2.png?w=512&ssl=1",
     "url": "https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/wybgz0orr8/out/v1/2f6d1612abd44f5883917f8a585b955f/cenc.mpd",
     "clearkey": "11c8c1c2ef0385cf1e64d44bb9c3a395:5769730ffbdc4b2fd8945929d9ace063",
     "referer": "",
@@ -55,7 +55,7 @@
   },
   {
     "name": "FOX DEPORTES",
-    "image": "",
+    "image": "https://dclkcq4v0w4d8.cloudfront.net/POSTER/6z8kiac80tw_LANDSCAPE_HD.jpg",
     "url": "https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/vkpoljjpkj/out/v1/502bcf68b3514cd28a220e6f0a43816f/cenc.mpd",
     "clearkey": "d1a163914db8ffad2c3e94f979896a0d:9728800a3959aafdd5b0bcfbf3768811",
     "referer": "",
@@ -64,7 +64,7 @@
   },
   {
     "name": "FOX TUBI",
-    "image": "https://i.ibb.co/qyNp5Yr/foxsports.png",
+    "image": "https://dclkcq4v0w4d8.cloudfront.net/POSTER/6z8kiac80tw_LANDSCAPE_HD.jpg",
     "url": "https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/worucjnctz/out/v1/20ac5ecdc9b848dc92e7f1188bdf6ff6/cenc.mpd",
     "clearkey": "8ec2e6248abe2e10e16e439c9b85ffd8:f121b015c2a5197828355fb6a874c297",
     "referer": "",
@@ -73,7 +73,7 @@
   },
   {
     "name": "EUROSPORTS",
-    "image": "",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/d/d0/Eurosport_1_Logo_2015.svg?utm_source=es.wikipedia.org&utm_campaign=index&utm_content=original",
     "url": "https://cache2.zapitv.com/live/eds_c2/eurosport_1_hd/dash_live_ez/eurosport_1_hd.mpd",
     "clearkey": "D0dRq8mXRz2RONF7WUS-BA:oK7-3SN2pUuLUPm3wtUKxw",
     "referer": "",
@@ -82,7 +82,7 @@
   },
   {
     "name": "EUROSPORTS 2",
-    "image": "",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/d/d0/Eurosport_2_Logo_2015.png?utm_source=es.wikipedia.org&utm_campaign=index&utm_content=thumbnail_unscaled",
     "url": "https://cache2.zapitv.com/live/eds_c2/eurosport_2_hd/dash_live_ez/eurosport_2_hd.mpd",
     "clearkey": "42nZqxAdS2C6E8A4T1A1KA:BB414xOBUhszmK9cbdmUFA",
     "referer": "",
@@ -90,8 +90,8 @@
     "userAgent": "Mozilla/5.0"
   },
   {
-    "name": "SPORTSTV",
-    "image": "",
+    "name": "SPORTSTV Brazil",
+    "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b3/Logotipo_do_SporTV_%282021%29.svg/500px-Logotipo_do_SporTV_%282021%29.svg.png?utm_source=es.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
     "url": "https://otte.live.fly.ww.aiv-cdn.net/lhr-nitro/live/dash/enc/w8kwdfmlgs/out/v1/3aa321e477504937a439b602e078eb18/cenc.mpd?amznDtid=AOAGZA014O5RE&amznPN=xp&amznPV=ATVWebPlayerSDK-1.0.238964.0",
     "clearkey": "51c0ef23b17297e5c01cd7f36dd0a6ce:8823f713ba6fdb9bbe0a2ad82d309a4b",
     "referer": "",
@@ -99,8 +99,8 @@
     "userAgent": "Mozilla/5.0"
   },
   {
-    "name": "SPORTSTV 2",
-    "image": "",
+    "name": "SPORTSTV 2 brazil",
+    "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b3/Logotipo_do_SporTV_%282021%29.svg/500px-Logotipo_do_SporTV_%282021%29.svg.png?utm_source=es.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
     "url": "https://a12aivottepl-a.akamaihd.net/gru-nitro/live/dash/enc/dsa3hwuhd1/out/v1/631b48c8d9ea437e8309d1a4b55acef5/cenc.mpd",
     "clearkey": "3de028eafb3b2caffec03be1c1c818b3:8fbdd8a9ae6748696bb13e547bb093fc",
     "referer": "",
@@ -108,8 +108,8 @@
     "userAgent": "Mozilla/5.0"
   },
   {
-    "name": "SPORTSTV 3",
-    "image": "",
+    "name": "SPORTSTV 3 brazil",
+    "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b3/Logotipo_do_SporTV_%282021%29.svg/500px-Logotipo_do_SporTV_%282021%29.svg.png?utm_source=es.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
     "url": "https://a12aivottepl-a.akamaihd.net/gru-nitro/live/dash/enc/6otiglnptp/out/v1/add7499679b0422cb6791f7701f95ecc/cenc.mpd",
     "clearkey": "902e5ec0e3d05e665daa32fc23f4f59e:7b2322a273843921a43e2c61dac7cae3",
     "referer": "",
@@ -117,35 +117,8 @@
     "userAgent": "Mozilla/5.0"
   },
   {
-    "name": "GOLDEN EDGE",
-    "image": "",
-    "url": "https://live-pv-ta.amazon.fastly-edge.com/iad-nitro/live/clients/dash/enc/xv3tnoayi8/out/v1/46aaaeb778de4cd39893d88a7f93b05a/cenc.mpd",
-    "clearkey": "rky8NNSxZF9seyZBDd57WA:ZHR4zTvQ37PoICSSlsIwlg",
-    "referer": "",
-    "origin": "",
-    "userAgent": "Mozilla/5.0"
-  },
-  {
-    "name": "Golden",
-    "image": "",
-    "url": "https://live-pv-ta.amazon.fastly-edge.com/iad-nitro/live/clients/dash/enc/o09knwldwh/out/v1/15f9f74c888e4fdd9815ea94635ae4db/cenc.mpd",
-    "clearkey": "https://jdrjjuarzngptvngxpvp.supabase.co/functions/v1/GOLDEN-",
-    "referer": "",
-    "origin": "https://www.primevideo.com",
-    "userAgent": "Mozilla/5.0"
-  },
-  {
-    "name": "Golden Premier",
-    "image": "",
-    "url": "https://live-pv-ta.amazon.fastly-edge.com/gru-nitro/live/clients/dash/enc/1pyrprmguo/out/v1/e63748f718754f6ca76df9ce757b10f5/cenc.mpd",
-    "clearkey": "s5_bHvyJ-it5G9zoQow-CQ:GUEIHbJXspZDyVeD06LFzQ",
-    "referer": "",
-    "origin": "https://www.primevideo.com",
-    "userAgent": "Mozilla/5.0"
-  },
-  {
     "name": "BITME",
-    "image": "",
+    "image": "https://m.media-amazon.com/images/G/01/digital/video/Linear_Clean_Slate/Bitme._SL500_FMpng_.png",
     "url": "https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/qej0n9zmvv/out/v1/93a227dbeef84293b95683c10fd88da2/cenc.mpd",
     "clearkey": "ORrRKET9t8En4se6I1grOw:bJsxA81Rn8rVVuhPkYmYzQ",
     "referer": "",
@@ -154,7 +127,7 @@
   },
   {
     "name": "Concert channel",
-    "image": "",
+    "image": "https://m.media-amazon.com/images/G/01/LCXO_Station_Logos/Station_Logo_Art_used_for_Live_TV_Tab-Program_fallback_image_Concert_Channel._SL500_FMpng_.png",
     "url": "https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/labtefjwbn/out/v1/1b1ca0a8ecbb4e03ba9327fd099911d2/cenc.mpd",
     "clearkey": "8D5pn7RgPIsVGJNvxcnBOg:9McaVs1d8H1aEU-WaLEU3g",
     "referer": "",
@@ -163,7 +136,7 @@
   },
   {
     "name": "Telehit",
-    "image": "",
+    "image": "https://images.vix.com/prd/channel/62bb8244603b2d579e311193/19dccef175686e991df488c1cc378737?tr=w-1280,q-30&w=1280",
     "url": "https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/69onjpmgph/out/v1/bffe5e192607426d850350fcb751674b/cenc.mpd",
     "clearkey": "jbKdZdjbJCLPre_skpzcRg:uWWHpOgje8IqGGEUslF52g",
     "referer": "",
@@ -172,7 +145,7 @@
   },
   {
     "name": "Telehit Musica",
-    "image": "",
+    "image": "https://m.media-amazon.com/images/G/01/digital/video/Linear_Clean_Slate/TELEHIT._SL500_FMpng_.png",
     "url": "https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/lv91k1unfv/out/v1/ab233dee5c6a40279e173e3497e36d21/cenc.mpd",
     "clearkey": "cgcsxFBxnxIMkAKxuuMUAQ:V3cZitvRTAQWqnYCSbkTgA",
     "referer": "",
@@ -181,7 +154,7 @@
   },
   {
     "name": "Telehit Plus",
-    "image": "",
+    "image": "https://m.media-amazon.com/images/G/01/digital/video/Linear_Clean_Slate/Telehit_Musica_Plus._SL500_FMpng_.png",
     "url": "https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/f7jpwtuowu/out/v1/49b2bba643474563ac665c307e5e5306/cenc.mpd",
     "clearkey": "CrJuLRrcTgueJbMx2Vvx0Q:qcZ2PM23FNrdANYJA6SqFw",
     "referer": "",
