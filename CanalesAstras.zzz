@@ -32,9 +32,9 @@
     "pantalla":"PantallaListaIPTV"
   },
      {
-    "nombre": "Colombia",
+    "nombre": "Multi-paises",
     "logo": "https://raw.githubusercontent.com/shundearies/Videos/refs/heads/main/CanalesAstras.png",
-    "url": "http://200.122.223.13:55000/playlist.m3u",
+    "url": "https://raw.githubusercontent.com/JMigue85/IPTV-SV/refs/heads/main/IPTVSV.m3u",
     "contrasena": "",
     "reproductor": "inapp_webview_player2",
     "pantalla":"PantallaListaIPTV"
