@@ -1,0 +1,26 @@
+[
+     {
+    "nombre": "MOVIES",
+    "logo": "https://raw.githubusercontent.com/shundearies/skipperImg/refs/heads/main/Entretenimiento%7E2.jpeg",
+    "url": "https://github.com/shundearies/skipperImg/raw/refs/heads/main/pelissinimportancia.m3u",
+    "contrasena": "",
+    "reproductor": "ReproductorFullScreen2",
+    "pantalla": "NetflixDashboardScreen"
+  },
+     {
+    "nombre": "Streamix-movies",
+    "logo": "https://raw.githubusercontent.com/shundearies/skipperImg/refs/heads/main/Entretenimiento%7E2.jpeg",
+    "url": "https://streamixapp.netlify.app",
+    "contrasena": "",
+    "reproductor": "",
+    "pantalla": "PantallaWebView"
+  },
+     {
+    "nombre": "BLASFEMIA",
+    "logo": "https://raw.githubusercontent.com/shundearies/skipperImg/refs/heads/main/Entretenimiento%7E2.jpeg",
+    "url": "https://blasfemiaswitch.com/",
+    "contrasena": "",
+    "reproductor": "ReproductorFullBitmovin",
+    "pantalla":"PantallaWebView"
+  }
+]
