@@ -23,4 +23,12 @@
     "reproductor": "",
     "pantalla":"PantallaWebView"
   },
+     {
+    "nombre": "MAPACHETV",
+    "logo": "https://mapache.tv/assets/mapache-mark.svg",
+    "url": "https://mapache.tv",
+    "contrasena": "",
+    "reproductor": "",
+    "pantalla":"PantallaWebView"
+  }
 ]
