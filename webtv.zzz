@@ -12,7 +12,15 @@
     "logo": "https://blogger.googleusercontent.com/img/a/AVvXsEitbuQ8hHKzjyRjB2ZcxC5cPwV6-zb4BlOhIQ8zXog8uvwEzEYpu2PIaqwQ4ty8ifRkTOK4o7Pdt2yEiISrsDKIm0CxC-5UTMTEV2TEcqMUQ08zjm7ZT9CAnjDdf3JAq_DqAk2sXdUABthDwAvJCoxNG0BRz3hnf-M6jTLXlGAyQsdtuqHR87KK6kptr3o=w800",
     "url": "https://mundialtvweb.blogspot.com/p/televisionmundialtv.html?m=1",
     "contrasena": "",
-    "reproductor": "ReproductorFullBitmovin",
+    "reproductor": "",
     "pantalla":"PantallaWebView"
-  }
+  },
+     {
+    "nombre": "MX+",
+    "logo": "https://mxplus.tv/images/mini-78.png",
+    "url": "https://mxplus.tv",
+    "contrasena": "",
+    "reproductor": "",
+    "pantalla":"PantallaWebView"
+  },
 ]
