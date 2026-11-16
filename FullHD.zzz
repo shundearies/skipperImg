@@ -29,7 +29,7 @@
     "url": "https://latv.x10.mx/en.php",
     "contrasena": "",
     "reproductor": "",
-    "pantalla":""
+    "pantalla":"PantallaWebView"
   },
      {
     "nombre": "IZZI GO",
