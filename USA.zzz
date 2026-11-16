@@ -22,5 +22,13 @@
     "contrasena": "",
     "reproductor": "better_player",
     "pantalla":"MpdScreenFull2"
+  },
+     {
+    "nombre": "USA-4",
+    "logo": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/3e/USA_Flag_Map.svg/1920px-USA_Flag_Map.svg.png?utm_source=es.wikipedia.org&utm_campaign=index&utm_content=thumbnail",
+    "url": "https://raw.githubusercontent.com/BuddyChewChew/localnow-playlist-generator/refs/heads/main/localnow.m3u",
+    "contrasena": "",
+    "reproductor": "better_player",
+    "pantalla":"MpdScreenFull2"
   }
 ]
