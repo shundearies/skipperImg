@@ -24,6 +24,14 @@
     "pantalla":"SmartListScreen"
   },
      {
+    "nombre": "Definir Nombre",
+    "logo": "https://www.evosmart.it/wp-content/uploads/2020/12/902906.jpeg",
+    "url": "https://latv.x10.mx/en.php",
+    "contrasena": "",
+    "reproductor": "",
+    "pantalla":""
+  },
+     {
     "nombre": "IZZI GO",
     "logo": "https://images.seeklogo.com/logo-png/63/1/izzi-go-logo-png_seeklogo-630916.png",
     "url": "https://raw.githubusercontent.com/shundearies/skipperImg/refs/heads/main/izzigo-usa.json",
