@@ -14,5 +14,13 @@
     "contrasena": "",
     "reproductor": "ReproductorFullBitmovin",
     "pantalla":"PantallaWebView"
+  },
+     {
+    "nombre": "MICINE",
+    "logo": "https://raw.githubusercontent.com/shundearies/skipperImg/refs/heads/main/Entretenimiento%7E2.jpeg",
+    "url": "https://micine-5t5.pages.dev/",
+    "contrasena": "",
+    "reproductor": "ReproductorFullBitmovin",
+    "pantalla":"PantallaWebView"
   }
 ]
