@@ -39,14 +39,6 @@
     "reproductor": "ReproductorFullScreen2",
     "pantalla":"SmartListScreen"
   },
-     {
-    "nombre": "IZZI GO completo",
-    "logo": "https://images.seeklogo.com/logo-png/63/1/izzi-go-logo-png_seeklogo-630916.png",
-    "url": "https://raw.githubusercontent.com/shundearies/skipperImg/refs/heads/main/izzigocompleto.json",
-    "contrasena": "",
-    "reproductor": "ReproductorFullScreen2",
-    "pantalla":"SmartListScreen"
-  },
     {
     "nombre": "AMAZON VIDEO-BRAZIL",
     "logo": "https://www.evosmart.it/wp-content/uploads/2020/12/902906.jpeg",
