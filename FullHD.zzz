@@ -26,7 +26,7 @@
      {
     "nombre": "AMAZON VIDEO USA",
     "logo": "https://www.evosmart.it/wp-content/uploads/2020/12/902906.jpeg",
-    "url": "https://latv.x10.mx/en.php",
+    "url": "https://raw.githubusercontent.com/shundearies/skipperImg/refs/heads/main/PrimeVideoUsa.json",
     "contrasena": "",
     "reproductor": "",
     "pantalla":"PantallaWebView"
