@@ -62,13 +62,5 @@
     "contrasena": "",
     "reproductor": "ReproductorFullScreen2",
     "pantalla":"SmartListScreen"
-  },
-    {
-    "nombre": "Tivyfy",
-    "logo": "https://tivify.tv/static/img/tivify/tivify-logo.png",
-    "url": "https://raw.githubusercontent.com/shundearies/skipperImg/refs/heads/main/Espa%C3%B1a.json",
-    "contrasena": "",
-    "reproductor": "ReproductorFullScreen",
-    "pantalla":"SmartListScreen"
   }
 ]
