@@ -22,5 +22,13 @@
     "contrasena": "",
     "reproductor": "ReproductorFullBitmovin",
     "pantalla":"PantallaWebView"
+  },
+     {
+    "nombre": "1tube",
+    "logo": "https://raw.githubusercontent.com/shundearies/skipperImg/refs/heads/main/Entretenimiento%7E2.jpeg",
+    "url": "https://www.1tube.org/",
+    "contrasena": "",
+    "reproductor": "ReproductorFullBitmovin",
+    "pantalla":"PantallaWebView"
   }
 ]
