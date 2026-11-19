@@ -30,5 +30,13 @@
     "contrasena": "",
     "reproductor": "",
     "pantalla":"PantallaWebView"
+  },
+      {
+    "nombre": "TVPLAY",
+    "logo": "https://mapache.tv/assets/mapache-mark.svg",
+    "url": "https://teveplay.com/es/tv/",
+    "contrasena": "",
+    "reproductor": "",
+    "pantalla":"PantallaWebView"
   }
 ]
