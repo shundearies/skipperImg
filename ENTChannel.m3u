@@ -1,0 +1,23 @@
+#EXTM3U
+#EXTINF:-1 tvg-name="ENT Channel" tvg-logo="https://www.40mediagroup.com/channels/ent-channel.webp" group-title="ENT & Music",ENT Channel
+https://cdn.40mediagroup.com/live/c7eds/ENT_Channel/SA_LIVE_hls_enc/master.m3u8
+#EXTINF:-1 tvg-name="ENT Movies" tvg-logo="https://www.40mediagroup.com/channels/ent-movies.webp" group-title="ENT & Music",ENT Movies
+https://cdn.40mediagroup.com/live/c7eds/ENT_Movies/SA_LIVE_hls_enc/master.m3u8
+#EXTINF:-1 tvg-name="ENT Family" tvg-logo="https://static.elektamedia.com/ch/entf.png" group-title="ENT & Music",ENT Family
+https://cdn.40mediagroup.com/live/c7eds/ENT_Family/SA_LIVE_hls_enc/master.m3u8
+#EXTINF:-1 tvg-name="ENT Extreme" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQO46J7bR9TAvtFJXK31b4NKKXm3_Jy-R54-5utdfzan4D-lqBEyaHtVLY&s=10" group-title="ENT & Music",ENT Extreme
+https://cdn.40mediagroup.com/live/c7eds/Totalmusic_Concerts/SA_LIVE_hls_enc/master.m3u8
+#EXTINF:-1 tvg-name="ENT comedy" tvg-logo="https://www.chiletvapp.com/panel/uploads/tv_6af63c0f27234.png" group-title="ENT & Music",ENT comedy
+https://cdn.40mediagroup.com/live/c7eds/Totalmusic_Dance/SA_LIVE_hls_enc/master.m3u8
+#EXTINF:-1 tvg-name="ENT Drama" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRwNUgM1FCLiCFEz1JL8iD1Rhp_bzkj9-2goxjsqlWjxzLFhSWHGJI_D2L3&s=10" group-title="ENT & Music",ENT Drama
+https://cdn.40mediagroup.com/live/c7eds/ENT_Drama/SA_LIVE_hls_enc/tracks-v1a1/mono.ts.m3u8
+#EXTINF:-1 tvg-name="ENT Classic" tvg-logo="https://www.40mediagroup.com/channels/ent-classic.webp" group-title="ENT & Music",ENT Classic
+https://cdn.40mediagroup.com/live/c7eds/ENT_Classics/SA_LIVE_hls_enc/tracks-v1a1/mono.ts.m3u8
+#EXTINF:-1 tvg-name="ENT LIFE" tvg-logo="https://www.40mediagroup.com/channels/ent-life.webp" group-title="ENT & Music",ENT LIFE
+https://cdn.40mediagroup.com/live/c7eds/ENT_Life/SA_LIVE_hls_enc/tracks-v1a1/mono.ts.m3u8
+#EXTINF:-1 tvg-name="Total Music" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRTCblcUVGia34-ZozvhtLuazlWX0L5NmkhCpgp7GuMsl_VCM_CvgyRNRo&s=10" group-title="ENT & Music",Total Music
+https://cdn.40mediagroup.com/live/c7eds/Totalmusic/SA_LIVE_hls_enc/tracks-v1a1/mono.ts.m3u8
+#EXTINF:-1 tvg-name="Total Music 80s" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRTCblcUVGia34-ZozvhtLuazlWX0L5NmkhCpgp7GuMsl_VCM_CvgyRNRo&s=10" group-title="ENT & Music",Total Music 80s
+https://cdn.40mediagroup.com/live/c7eds/Totalmusic_80s/SA_LIVE_hls_enc/tracks-v1a1/mono.ts.m3u8
+#EXTINF:-1 tvg-name="Total music 2000s" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRTCblcUVGia34-ZozvhtLuazlWX0L5NmkhCpgp7GuMsl_VCM_CvgyRNRo&s=10" group-title="ENT & Music",Total music 2000s
+https://cdn.40mediagroup.com/live/c7eds/Totalmusic_00s/SA_LIVE_hls_enc/master.m3u8
