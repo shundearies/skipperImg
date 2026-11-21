@@ -30,5 +30,13 @@
     "contrasena": "",
     "reproductor": "ReproductorFullBitmovin",
     "pantalla":"PantallaWebView"
+  },
+     {
+    "nombre": "OverNet",
+    "logo": "https://thumbs.dreamstime.com/b/c%C3%A1mara-pasada-de-moda-la-pel%C3%ADcula-cine-plantilla-del-dise%C3%B1o-logotipo-ejemplo-blanco-y-negro-vector-136115408.jpg?w=1200",
+    "url": "https://overnet-zs5u.onrender.com",
+    "contrasena": "",
+    "reproductor": "ReproductorFullBitmovin",
+    "pantalla":"PantallaWebView"
   }
 ]
