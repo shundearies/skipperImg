@@ -1,0 +1,87 @@
+[
+  {
+    "nombre": "Capo deportes",
+    "logo": "https://static8.depositphotos.com/1386392/926/v/450/depositphotos_9268841-stock-illustration-soccer-player-kicks-the-ball.jpg",
+    "url": "https://cdplay.live/capodeportes.php"
+  },
+  {
+    "nombre": "Eventos",
+    "logo": "https://static8.depositphotos.com/1386392/926/v/450/depositphotos_9268841-stock-illustration-soccer-player-kicks-the-ball.jpg",
+    "url": "https://cdplay.live/capodeportes2.php"
+  },
+  {
+    "nombre": "DSports",
+    "logo": "https://static.wikia.nocookie.net/logopedia/images/1/15/DirecTVSports2018.png/revision/latest?cb=20180301233804",
+    "url": "https://cdplay.live/dsports.php"
+  },
+  {
+    "nombre": "ESPN",
+    "logo": "https://static.wikia.nocookie.net/logopedia/images/f/f5/ESPN_%281979_Wordmark%29.svg/revision/latest?cb=20220210125402&path-prefix=es",
+    "url": "https://cdplay.live/espn.php"
+  },
+  {
+    "nombre": "ESPN 2",
+    "logo": "https://libero.cronosmedia.glr.pe/taxonomy/tag/image/2022/04/04/45ec6268gh-espn-2-en-vivo.jpg",
+    "url": "https://cdplay.live/espn2.php"
+  },
+  {
+    "nombre": "ESPN 3",
+    "logo": "https://i.pinimg.com/736x/a5/48/11/a548112f81098fed9763acde4510e071.jpg",
+    "url": "https://cdplay.live/espn3.php"
+  },
+  {
+    "nombre": "ESPN 4",
+    "logo": "https://static.wikia.nocookie.net/tvpediabrasil/images/f/f8/Espn4logo.jpg/revision/latest/scale-to-width-down/1200?cb=20220119222338&path-prefix=pt-br",
+    "url": "https://cdplay.live/espn4.php"
+  },
+  {
+    "nombre": "ESPN 5",
+    "logo": "https://static.wikia.nocookie.net/tvpediabrasil/images/b/bb/Espn5.jpg/revision/latest/scale-to-width-down/1200?cb=20240217221020&path-prefix=pt-br",
+    "url": "https://cdplay.live/espn5.php"
+  },
+  {
+    "nombre": "ESPN Deportes",
+    "logo": "https://a1.espncdn.com/combiner/i?img=%2Fi%2Fespn%2Fespn_logos%2Fespndeportes_white.png",
+    "url": "https://cdplay.live/espndeportes.php"
+  },
+  {
+    "nombre": "ESPN Premium Argentina",
+    "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQXDOX18Bwz2iNAPgm5YFlBtQ5zsq-21dkOXxS4_Mex8DEDhyM5CKjom0o&s=10",
+    "url": "https://cdplay.live/espnpremium.php"
+  },
+  {
+    "nombre": "Liga 1 Max",
+    "logo": "https://next-liga1.fanatiz.com/liga1/strapi/production/image_LIGA_1_MAX_fabe3155b8.png",
+    "url": "https://cdplay.live/liga1max.php"
+  },
+  {
+    "nombre": "Telemundo USA",
+    "logo": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/68/Telemundo_logo_2018.svg/330px-Telemundo_logo_2018.svg.png?utm_source=es.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+    "url": "https://cdplay.live/telemundo.php"
+  },
+  {
+    "nombre": "TNT Sports Premium AR",
+    "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT2F_OEN0U1rxB7-1p2bjlxMRYk-rNj5K3WqK_XOPM3BJ7PixchjMBKiI8&s=10",
+    "url": "https://cdplay.live/tntargentina.php"
+  },
+  {
+    "nombre": "TNT Sports Premium Chile",
+    "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT2F_OEN0U1rxB7-1p2bjlxMRYk-rNj5K3WqK_XOPM3BJ7PixchjMBKiI8&s=10",
+    "url": "https://cdplay.live/tntchile.php"
+  },
+  {
+    "nombre": "Universo",
+    "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTnr5dwIxFsTiYrbKW80AAvAbI5JP6Cd4MFpkJ3zVS_WnO6-OwnumaQExa8&s=10",
+    "url": "https://cdplay.live/universo.php"
+  },
+  {
+    "nombre": "Win Sports",
+    "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTllhJHa1cOGjMoFz6hlgNx_FgJUML3TD7x1PtXI_xXPg&s=10",
+    "url": "https://cdplay.live/winsports.php"
+  },
+  {
+    "nombre": "Win Sports Plus",
+    "logo": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b0/Win_Sports%2B_logo.svg/250px-Win_Sports%2B_logo.svg.png?utm_source=es.wikipedia.org&utm_campaign=index&utm_content=thumbnail",
+    "url": "https://cdplay.live/winsportsplus.php"
+  }
+]
