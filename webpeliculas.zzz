@@ -38,5 +38,13 @@
     "contrasena": "",
     "reproductor": "ReproductorFullBitmovin",
     "pantalla":"PantallaWebView"
+  },
+     {
+    "nombre": "Anime",
+    "logo": "https://www.powanime.com/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Flogo.20s1cpohe8ozi.png&w=384&q=75",
+    "url": "https://www.powanime.com/",
+    "contrasena": "",
+    "reproductor": "ReproductorFullBitmovin",
+    "pantalla":"PantallaWebView"
   }
 ]
