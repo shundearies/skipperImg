@@ -46,5 +46,13 @@
     "contrasena": "",
     "reproductor": "ReproductorFullScreen2",
     "pantalla":"SmartListScreen"
-  }
+  },
+    {
+    "nombre": "AMAZON VIDEO-ESPAÑA",
+    "logo": "https://www.evosmart.it/wp-content/uploads/2020/12/902906.jpeg",
+    "url": "https://raw.githubusercontent.com/shundearies/skipperImg/refs/heads/main/espana-latv.json",
+    "contrasena": "",
+    "reproductor": "ReproductorFullScreen2",
+    "pantalla":"SmartListScreen"
+    }
 ]
