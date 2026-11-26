@@ -1,0 +1,50 @@
+{
+  "name": "VIX",
+  "items": [
+    {
+      "name": "ViX Cine Club",
+      "image": "https://images.sr.roku.com/idType/roku-trc/context/trc/id/017397f76bae510a8a9800c4b94eaa40/https%3A%2F%2Fimage.roku.com%2Fbh-uploads%2Fproduction%2FinfoHUDLogo%2F1704751574192_CineClub_RokuHub_260x147_White.png",
+      "url": "https://jmp2.uk/rok-017397f76bae510a8a9800c4b94eaa40.m3u8"
+    },
+    {
+      "name": "ViX Novelas de romance",
+      "image": "https://images.sr.roku.com/idType/roku-trc/context/trc/id/396f57d10b5d5ec98648f810dcbe1f11/https%3A%2F%2Fimage.roku.com%2Fbh-uploads%2Fproduction%2FinfoHUDLogo%2F1704751803812_NovelasDeRomance_RokuHub_260x147_White.png",
+      "url": "https://jmp2.uk/rok-396f57d10b5d5ec98648f810dcbe1f11.m3u8"
+    },
+    {
+      "name": "ViX Lo Mejor de Liga MX",
+      "image": "https://images.sr.roku.com/idType/roku-trc/context/trc/id/35633f08c98857cb9e85c91eae17c0d5/https%3A%2F%2Fimage.roku.com%2Fbh-uploads%2Fproduction%2FinfoHUDLogo%2F1749856192932_LoMejorDeLigaMX_HUD_ChannelLogo_260x147px.png",
+      "url": "https://jmp2.uk/rok-35633f08c98857cb9e85c91eae17c0d5.m3u8"
+    },
+    {
+      "name": "Canal ViX",
+      "image": "https://images.sr.roku.com/idType/roku-trc/context/trc/id/e3823bb513585861904499a21a736c4f/https%3A%2F%2Fimage.roku.com%2Fbh-uploads%2Fproduction%2FinfoHUDLogo%2F1743194357309_CanalViX_HUD_ChannelLogo_260x147px.png",
+      "url": "https://jmp2.uk/rok-e3823bb513585861904499a21a736c4f.m3u8"
+    },
+    {
+      "name": "ViX Grandes Parejas",
+      "image": "https://images.sr.roku.com/idType/roku-trc/context/trc/id/09430bcd30bf5b30a96ca22ecb87e3e1/https%3A%2F%2Fimage.roku.com%2Fbh-uploads%2Fproduction%2FinfoHUDLogo%2F1678481080081_GrandesParejas_HUD_Logo_260x147.png",
+      "url": "https://jmp2.uk/rok-09430bcd30bf5b30a96ca22ecb87e3e1.m3u8"
+    },
+    {
+      "name": "ViX Jajaja",
+      "image": "https://images.sr.roku.com/idType/roku-trc/context/trc/id/c51c18ade0bd5b68b5e9bfa83410e372/https%3A%2F%2Fimage.roku.com%2Fbh-uploads%2Fproduction%2FinfoHUDLogo%2F1678481111596_JAJAJA_HUD_Logo_260x147.png",
+      "url": "https://jmp2.uk/rok-c51c18ade0bd5b68b5e9bfa83410e372.m3u8"
+    },
+    {
+      "name": "ViX Novelas de oro",
+      "image": "https://images.sr.roku.com/idType/roku-trc/context/trc/id/ab6cd6569bf6557a8c5d9798cfce202b/https%3A%2F%2Fimage.roku.com%2Fbh-uploads%2Fproduction%2FinfoHUDLogo%2F1704751782970_NovelasdeOro_RokuHub_260x147_White.png",
+      "url": "https://jmp2.uk/rok-ab6cd6569bf6557a8c5d9798cfce202b.m3u8"
+    },
+    {
+      "name": "ViX Novelas en familia",
+      "image": "https://images.sr.roku.com/idType/roku-trc/context/trc/id/1d889b474b205fe385a2c552aa909b94/https%3A%2F%2Fimage.roku.com%2Fbh-uploads%2Fproduction%2FinfoHUDLogo%2F1704751831441_NovelasEnFamilia_RokuHub_260x147_White.png",
+      "url": "https://jmp2.uk/rok-1d889b474b205fe385a2c552aa909b94.m3u8"
+    },
+    {
+      "name": "ViX Villanos de Novela",
+      "image": "https://images.sr.roku.com/idType/roku-trc/context/trc/id/7b5699f58b2b54be9da4d23fe354fb59/https%3A%2F%2Fimage.roku.com%2Fbh-uploads%2Fproduction%2FinfoHUDLogo%2F1678481229409_VillanosDeNovela_HUD_Logo_260x147.png",
+      "url": "https://jmp2.uk/rok-7b5699f58b2b54be9da4d23fe354fb59.m3u8"
+    }
+  ]
+}
